@@ -9,3 +9,5 @@ url: "https://vallilanlennokkikerho.fi/" # the base hostname & protocol for your
 # Build settings
 markdown: kramdown
 permalink: /:year/:title:output_ext
+plugins:
+  - jekyll-sitemap
