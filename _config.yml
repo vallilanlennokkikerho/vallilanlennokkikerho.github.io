@@ -3,6 +3,7 @@ title: Vallilan lennokkikerho ry
 email: vallilanlennokkikerho@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Vallilan lennokkikerho ry eli Valkka on vuonna 1937 perustettu lennokkikerho, jonka laajassa jäsenistössä on lähes kaikki lennokkiluokat edustettuina.
+keywords: Vallilan lennokkikerho, vallilan lennokkikerho, Valkka, valkka, Vallilan, vallilan, Lennokkikerho, lennokkikerho, lennokki, lennätys
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://vallilanlennokkikerho.fi/" # the base hostname & protocol for your site
 
