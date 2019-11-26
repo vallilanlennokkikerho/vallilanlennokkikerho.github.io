@@ -3,7 +3,7 @@
   <div class="header-wrapper">
 
     <div class="header-logo-wrapper">
-      <img class="header-logo" src="../images/logo.png" >
+      <img class="header-logo" src="{{ site.baseurl }}/images/logo.png" >
     </div>
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
@@ -18,7 +18,7 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title %}
+          {% if page.title and page.autogen == nil %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}

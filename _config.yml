@@ -6,6 +6,17 @@ url: "https://vallilanlennokkikerho.fi/" # the base hostname & protocol for your
 
 # Build settings
 markdown: kramdown
-permalink: /:year/:title:output_ext
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate-v2
+
+permalink: /ajankohtaista/:year/:month/:title.html
+pagination:
+  enabled: true
+  per_page: 5
+  sort_reverse: true
+  sort_field: 'date'
+  title: ':title'
+  trail:
+    before: 2
+    after: 2
