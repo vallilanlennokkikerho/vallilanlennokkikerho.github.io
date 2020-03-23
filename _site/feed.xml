@@ -5,12 +5,38 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 08 Feb 2020 00:03:31 +0200</pubDate>
-    <lastBuildDate>Sat, 08 Feb 2020 00:03:31 +0200</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2020 11:50:18 +0200</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2020 11:50:18 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Jäsenkirje 1/20</title>
+        <title>Tiedote 22.3.2020</title>
+        <description>&lt;p&gt;&lt;strong&gt;Hyvä valkkalainen!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Olemme kaikki tietoisia toimenpiteistä koronavirustilanteen hoitamiseksi Suomessa julkisista kokoontumisista. Tämän vuoksi vuosikokous siirrettiin myöhäisempään ajankohtaan. Annetut kokoontumisohjeet ovat voimassa 13.04.20 asti, toistaiseksi.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Talosaaren kenttäalueella tulee välttää lähikontaktia muiden kanssa. Suojaetäisyys toiseen ihmiseen on minimissään 1 metri. Kenttäalueella saa olla korkeintaan 10 henkilöä samanaikaisesti.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Kentälle ei tule mennä, jos on flunssan kaltaisia oireita tai on palannut ulkomailta viimeisen 14 vuorokauden aikana. Tavoitteena on välttää koronaviruksen leviämistä toiminnassamme, ne eivät kuitenkaan estä askartelua kotona tai lennätystä kentällä.&lt;/p&gt;
+
+&lt;p&gt;Toivomme, että ymmärrätte poikkeuksellisen tilanteen johdosta annetut toimintaohjeet ja noudatatte niitä.  VLK:n johtokunta seuraa aktiivisesti viranomaisten ohjeita ja tiedottaa lisää tarvittaessa. Toivottavasti tilanne normalisoituu kevään aikana.&lt;/p&gt;
+
+&lt;p&gt;Lennokkiterveisin&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Vallilan lennokkikerho ry,
+johtokunta&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Sun, 22 Mar 2020 23:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2020/03/22/post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/03/22/post.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Jäsenkirje 1/2020</title>
         <description>&lt;p&gt;&lt;strong&gt;Hyvä valkkalainen!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Hyvää alkanutta vuotta 2020!&lt;/p&gt;
