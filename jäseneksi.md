@@ -18,8 +18,8 @@ Laitathan viestikettään niiden henkilöiden nimet joiden jäsenmaksua olet mak
  
 
 **Jäsenmaksut:**
-* Normaali jäsen 20€
-* Juniorijäsen* 10€
-* Perhejäsen 3€ 
+* Normaali jäsen 30€
+* Juniorijäsen* 12€
+* Perhejäsen 5€ 
 
 Juniorijäseniksi lasketaan kaikki alle 18-vuotiaat jäsenet. Henkilö on juniorijäsen vielä sen vuoden loppuun jolloin täyttää 18 vuotta.
