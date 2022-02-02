@@ -2,7 +2,7 @@
 title: Vallilan lennokkikerho ry
 email: vallilanlennokkikerho@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://vallilanlennokkikerho.fi/" # the base hostname & protocol for your site
+url: "https://vallilanlennokkikerho.fi" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
