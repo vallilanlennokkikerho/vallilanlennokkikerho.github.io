@@ -10,16 +10,15 @@ Haluatko Valkan jäseneksi? Lähetä vapaamuotoinen hakemus puheenjohtajalle ja 
 
 Saatuamme hakemuksesi, käsittelemme sen heti seuraavassa kokouksessa ja ilmoitamme sinulle hyväksynnästä sähköpostitse. Tietojasi käytetään ainoastaan jäsenmaksun määrittämiseen ja kerhon toimintaan liittyvän informaation jakeluun.
 
- 
+
 Pankkiyhteys jäsenmaksua varten on: **Nordea FI28 1239 5000 0827 68**
 
-Laitathan viestikettään niiden henkilöiden nimet joiden jäsenmaksua olet maksamassa.
-
+**Kirjoita maksun viitekenttään oma maksuviitenumerosi.**
  
 
 **Jäsenmaksut:**
 * Normaali jäsen 30€
 * Juniorijäsen* 12€
-* Perhejäsen 5€ 
+* Perhejäsen 5€
 
 Juniorijäseniksi lasketaan kaikki alle 18-vuotiaat jäsenet. Henkilö on juniorijäsen vielä sen vuoden loppuun jolloin täyttää 18 vuotta.
