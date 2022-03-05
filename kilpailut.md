@@ -7,6 +7,21 @@ keywords: Vallilan lennokkikerho, vallilan lennokkikerho, Valkka, valkka, Vallil
 ---
 
 <br/>
+# Toka-tulokset 2/2022
+----------------
+<br/>
+
+<img src="/images/TOKA_2-2022.png" width="100%" />
+
+<br/>
+
+# F1Ax-tulokset 2/2022
+----------------
+<br/>
+
+<img src="/images/F1AX_2-2022.png" width="100%" />
+
+<br/>
 
 # Toka-tulokset 1/2022
 ----------------
