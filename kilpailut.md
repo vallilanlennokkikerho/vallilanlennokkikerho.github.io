@@ -16,18 +16,18 @@ Alla ohjeet ilmoittautumiseen ja ilmoittautumismaksun maksamiseen.
 
 ### 18.6. lauantai Rinnekilpailut
 
-klo 9.00 	 Lipunnosto ja briefing
-klo 9.30 	 alkaen jälki-ilmoittautumiset
-klo 13-15 	 Rinnekilpailu
-klo 16		 Palkintojenjakotilaisuus
-klo 18-21    Pikkuluokkien kilpailu
+`klo 9:00 	         Lipunnosto ja briefing
+klo 9:30 	         Alkaen jälki-ilmoittautumiset
+klo 13:00-15:00 	 Rinnekilpailu
+klo 16:00		       Palkintojenjakotilaisuus
+klo 18:00-21:00    Pikkuluokkien kilpailu`
 
 ### 19.6. sunnuntai Toka- ja F1AX -loppukilpailut sekä Sinisiipikilpailu
 
-klo 9.00 	Lipunnosto ja briefing
-klo 10-13 	Toka-ja F1Ax-loppukilpailu
-klo 14 		Palkintojenjakotilaisuus
-klo 15-17 	Sinisiipikilpailu
+`klo 9.00 	        Lipunnosto ja briefing
+klo 10:00-13:00 	Toka-ja F1Ax-loppukilpailu
+klo 14:00 		    Palkintojenjakotilaisuus
+klo 15:00-17:00 	Sinisiipikilpailu`
 
 Kilpailuissa noudatetaan edelleen ns. vanhoja sääntöjä (SuLe:n kotisivut, vanhat Juniorsiipien vihkot, lennokit.net)
 
@@ -66,11 +66,11 @@ Kilpailuissa noudatetaan edelleen ns. vanhoja sääntöjä (SuLe:n kotisivut, va
 
 ### Kilpailumaksut:
 
-Junioreilta ei peritä maksua
-Yli 16-vuotiailta **15€/luokka**
-Jälki-ilmoittautuminen **20€**
-Pikkuluokat **10€** /sisältää kaikki luokat
-Sinisiipikilpailu **10€** /sisältää kaikki luokat
+- Junioreilta ei peritä maksua
+- Yli 16-vuotiailta **15€/luokka**
+- Jälki-ilmoittautuminen **20€**
+- Pikkuluokat **10€** /sisältää kaikki luokat
+- Sinisiipikilpailu **10€** /sisältää kaikki luokat
 
 Ilmoittautumismaksut **Vallilan Lennokkikerhon** tilille:
 
@@ -102,13 +102,14 @@ Lähettämäsi ilmoittautumisviestin avulla pystymme kirjoittamaan viralliset ki
 
 ----------------
 
-Kilpailun    johto:
-Arto Arola (tuloslaskenta, palkintotilaisuudet ym.)
-Tapio Linkosalo (kenttäpäällikkö molempina päivinä, Sinisiipikilpailu)
-Juha Helle (tuloslaskenta)
-Jukka Rantanen (tuloslaskenta, palkintotilaisuudet ym.)
+### Kilpailun johto:
 
-Kilpailujen jury Arto Arola/Jukka Rantanen
+- Arto Arola (tuloslaskenta, palkintotilaisuudet ym.)
+- Tapio Linkosalo (kenttäpäällikkö molempina päivinä, Sinisiipikilpailu)
+- Juha Helle (tuloslaskenta)
+- Jukka Rantanen (tuloslaskenta, palkintotilaisuudet ym.)
+
+- Kilpailujen jury Arto Arola/Jukka Rantanen
 
 ----------------
 Lisätietoja: **toka.tulokset@gmail.com**
