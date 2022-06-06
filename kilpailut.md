@@ -16,18 +16,18 @@ Alla ohjeet ilmoittautumiseen ja ilmoittautumismaksun maksamiseen.
 
 ### 18.6. lauantai Rinnekilpailut
 
-`klo 9:00 	         Lipunnosto ja briefing
-klo 9:30 	         Alkaen jälki-ilmoittautumiset
-klo 13:00-15:00 	 Rinnekilpailu
-klo 16:00		       Palkintojenjakotilaisuus
-klo 18:00-21:00    Pikkuluokkien kilpailu`
+klo 9:00 	         Lipunnosto ja briefing<br>
+klo 9:30 	         Alkaen jälki-ilmoittautumiset<br>
+klo 13:00-15:00 	 Rinnekilpailu<br>
+klo 16:00		       Palkintojenjakotilaisuus<br>
+klo 18:00-21:00    Pikkuluokkien kilpailu<br>
 
 ### 19.6. sunnuntai Toka- ja F1AX -loppukilpailut sekä Sinisiipikilpailu
 
-`klo 9.00 	        Lipunnosto ja briefing
-klo 10:00-13:00 	Toka-ja F1Ax-loppukilpailu
-klo 14:00 		    Palkintojenjakotilaisuus
-klo 15:00-17:00 	Sinisiipikilpailu`
+klo 9.00 	        Lipunnosto ja briefing<br>
+klo 10:00-13:00 	Toka-ja F1Ax-loppukilpailu<br>
+klo 14:00 		    Palkintojenjakotilaisuus<br>
+klo 15:00-17:00 	Sinisiipikilpailu<br>
 
 Kilpailuissa noudatetaan edelleen ns. vanhoja sääntöjä (SuLe:n kotisivut, vanhat Juniorsiipien vihkot, lennokit.net)
 
