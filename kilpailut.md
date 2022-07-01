@@ -6,116 +6,30 @@ description: Vallilan lennokkikerho ry eli Valkka on vuonna 1937 perustettu lenn
 keywords: Vallilan lennokkikerho, vallilan lennokkikerho, Valkka, valkka, Vallilan, vallilan, Lennokkikerho, lennokkikerho, lennokki, lennätys, toka
 ---
 
-Onko vihdoinkin niin, että saamme pitää Toka- ja F1Ax-loppukilpailut perinteisesti Jämin lentokeskuksessa. Ainakin tällä hetkellä näyttää vahvasti siltä.
-
-Alla ohjeet ilmoittautumiseen ja ilmoittautumismaksun maksamiseen.
-
-----------------
-
-### Toka-ja F1Ax-loppukilpailu Jämillä 18.-19.6.2022
-
-### 18.6. lauantai Rinnekilpailut
-
-klo 9:00 	         Lipunnosto ja briefing<br>
-klo 9:30 	         Alkaen jälki-ilmoittautumiset<br>
-klo 13:00-15:00 	 Rinnekilpailu<br>
-klo 16:00		       Palkintojenjakotilaisuus<br>
-klo 18:00-21:00    Pikkuluokkien kilpailu<br>
-
-### 19.6. sunnuntai Toka- ja F1AX -loppukilpailut sekä Sinisiipikilpailu
-
-klo 9.00 	        Lipunnosto ja briefing<br>
-klo 10:00-13:00 	Toka-ja F1Ax-loppukilpailu<br>
-klo 14:00 		    Palkintojenjakotilaisuus<br>
-klo 15:00-17:00 	Sinisiipikilpailu<br>
-
-Kilpailuissa noudatetaan edelleen ns. vanhoja sääntöjä (SuLe:n kotisivut, vanhat Juniorsiipien vihkot, lennokit.net)
-
-----------------
-
-### Rinnekilpailu
-
-- Rinnekilpailussa alle ja yli 16-vuotiaiden sarjat (**jos alle 16-vuotias osallistuu - Jämin-kotkakilpailuun on hänen lennätettävä rinnekilpailunsa Tokalla**).
-- Alle 16-vuotiaiden luokassa kilpailija voi kilpailla sen vuoden loppuun, jonka aikana hän täyttää 16.
-- Old-timer + Baby (Rinnekilpailu vanhoille liidokeille)
-
-----------------
-
-### Pikkuluokat
-
-- Luokille F1H, P-30, ritsaliidokit, E-20, E-36.
-- Jos sääolosuhteet vaativat lentoajan lyhentämisen minuuttiin, niin lennätetään P-30 puolimoottorilla (5g kumia sekä 5g ballastia), ja F1H 25 metrin siimalla.
-
-----------------
-
-### Toka+F1Ax-loppukilpailu
-
-- Osallistunut sääntöjen mukaisesti kevättalvella kotikenttäkisoihin
-- Toka-luokka alle 16-vuotiaille (kilpailuliidokkina vain Toka)
-- Toka-kilpailun yhteydessä Jämin-kotkakilpailu, jossa rinnekilpailun ja Toka-kilpailun tulokset lasketaan yhteen
-- Kilpalija voi kilpailla alle 16-vuotiaiden luokassa sen vuoden loppuun, jonka aikana täyttää 16
-- F1Ax-luokka kaikille avoin (saa kilpailla luokan tekniset säännöt täyttävällä liidokilla).
-
-----------------
-
-### Sinisiipi-kilpailu
-
-- Luokat Sinisiipi, Peruslennokit, sisäliidokit
-
-----------------
-
-### Kilpailumaksut:
-
-- Junioreilta ei peritä maksua
-- Yli 16-vuotiailta **15€/luokka**
-- Jälki-ilmoittautuminen **20€**
-- Pikkuluokat **10€** /sisältää kaikki luokat
-- Sinisiipikilpailu **10€** /sisältää kaikki luokat
-
-Ilmoittautumismaksut **Vallilan Lennokkikerhon** tilille:
-
-**Nordea FI28 1239 5000 0827 68**
-
-!!!!!!Maksaessasi kirjoita kohtaan VIESTI:
-**kerhosi / laskun maksaja / montako osallistujaa.**
-Ilman tätä viestiä maksua ei voida kohdistaa ja pahimmassa tapauksessa se on tunnistamattomana pakko hylätä!!!!!!!
-
-**Valkkalaiset:** voitte maksaessanne käyttää kerhon henkilökohtaista viitenumeroanne. Muistakaa lisäksi ilmoittautua osoitteessa: **toka.tulokset@gmail.com**
-alla olevien ohjeiden mukaan.
-
-
-**Osallistumismaksujen viimeinen maksupäivä on tiistaina 7.6.**
-Tämän jälkeen osallistumismaksuja voi maksaa jälki-ilmoittautumisina Jämillä 18.6. klo 9.30 alkaen.
-
-### ILMOITTAUTUMINEN:
-
-Laskun maksettuasi lähetä s-postiosoitteeseen
-**toka.tulokset@gmail.com** seuraavat tiedot:
-
-1. Kerho
-
-2. Jokaisen kilpailijan nimi + luokka/luokat, joihin kilpailija osallistuu.
-
-Huom. Muistakaa mainita, mikäli kilpailija osallistuu Jämin-Kotkakilpailuun.
-
-Lähettämäsi ilmoittautumisviestin avulla pystymme kirjoittamaan viralliset kilpailukortit.
-
-----------------
-
-### Kilpailun johto:
-
-- Arto Arola (tuloslaskenta, palkintotilaisuudet ym.)
-- Tapio Linkosalo (kenttäpäällikkö molempina päivinä, Sinisiipikilpailu)
-- Juha Helle (tuloslaskenta)
-- Jukka Rantanen (tuloslaskenta, palkintotilaisuudet ym.)
-
-- Kilpailujen jury Arto Arola/Jukka Rantanen
-
-----------------
 Lisätietoja: **toka.tulokset@gmail.com**
-
+----------------
 <br>
 <br/>
+# Jämi-tulokset 6/2022
+----------------
+<br/>
+<img src="/images/Jämi_pikkuluokat_2022.png" width="100%" />
+<br>
+<img src="/images/Jämi_Toka_finaali_2022_Toka.png" width="100%" />
+<br>
+<img src="/images/Jämi_Toka_finaali_2022_F1AX.png" width="100%" />
+<br>
+<img src="/images/Jämi_Toka_finaali_2022_kotka.png" width="100%" />
+<br>
+<img src="/images/Jämi_Toka_finaali_2022_rinne_alle16.png" width="100%" />
+<br>
+<img src="/images/Jämi_Toka_finaali_2022_rinne_yli16.png" width="100%" />
+<br>
+<img src="/images/Jämi_Toka_finaali_2022_rinne_oldtimer.png" width="100%" />
+<br>
+<img src="/images/Jämi_Toka_finaali_2022_rinne_baby.png" width="100%" />
+<br>
+
 # Toka-tulokset 4/2022
 ----------------
 <br/>
