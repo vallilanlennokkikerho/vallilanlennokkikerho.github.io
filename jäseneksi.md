@@ -17,8 +17,8 @@ Pankkiyhteys jäsenmaksua varten on: **Nordea FI28 1239 5000 0827 68**
  
 
 **Jäsenmaksut:**
-* Normaali jäsen 30€
-* Juniorijäsen* 12€
+* Normaalijäsen 35€
+* Juniorijäsen* 10€
 * Perhejäsen 5€
 
 Juniorijäseniksi lasketaan kaikki alle 18-vuotiaat jäsenet. Henkilö on juniorijäsen vielä sen vuoden loppuun jolloin täyttää 18 vuotta.
