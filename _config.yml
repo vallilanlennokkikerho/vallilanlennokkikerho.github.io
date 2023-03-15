@@ -8,7 +8,4 @@ url: "https://vallilanlennokkikerho.fi" # the base hostname & protocol for your 
 markdown: kramdown
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate
 
-paginate: 5
-paginate_path: "/ajankohtaista/page:num/"
