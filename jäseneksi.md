@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Jäseneksi
+title: Tervetuloa Valkan lennokkiyhdistykseen!
 permalink: /jäseneksi/
-description: Vallilan lennokkikerho ry eli Valkka on vuonna 1937 perustettu lennokkikerho, jonka laajassa jäsenistössä on lähes kaikki lennokkiluokat edustettuina.
-keywords: Vallilan lennokkikerho, vallilan lennokkikerho, Valkka, valkka, Vallilan, vallilan, Lennokkikerho, lennokkikerho, lennokki, lennätys
+description: Tervetuloa lennokkiharrastajien yhteisöön! Lähetä jäsenhakemus meille ja aloita lennättäminen kentällä! Jäsenmaksun suorittaneet ovat oikeutettuja lennokkikentän käyttöön ja muihin jäsenetuihin. Tule mukaan jakamaan intohimoa lennokkien parissa ja nauttimaan yhteisestä harrastuksestamme Valkan lennokkiyhdistyksessä!
+keywords: lennokkiharrastus, lennokkiyhdistys, jäsenyys, lennokkikenttä, lennättäminen, yhteisö, harrastus, Valkan lennokkiyhdistys
 ---
 
-Haluatko Valkan jäseneksi? Lähetä vapaamuotoinen hakemus puheenjohtajalle ja sisällytä siihen seuraavat tiedot: koko nimi, osoite, sähköposti, puhelinnumero ja syntymäaika.
+Jäseneksi lennokkikerhoon? Lähetä vapaamuotoinen hakemus meille ja sisällytä siihen seuraavat tiedot: koko nimesi, osoitteesi, sähköpostiosoitteesi, puhelinnumerosi, syntymäaikasi ja mahdollinen SIL-numerosi, jos sellainen on olemassa.
 
-Saatuamme hakemuksesi, käsittelemme sen heti seuraavassa kokouksessa ja ilmoitamme sinulle hyväksynnästä sähköpostitse. Tietojasi käytetään ainoastaan jäsenmaksun määrittämiseen ja kerhon toimintaan liittyvän informaation jakeluun.
+Kun olemme vastaanottaneet hakemuksesi, käsittelemme sen seuraavassa kokouksessamme ja ilmoitamme sinulle päätöksestä sähköpostitse. Jäsenmaksun suorittaneet jäsenet ovat oikeutettuja käyttämään lennokkikenttää ja kaikkia muita kerhon jäsenille tarkoitettuja etuuksia sekä osallistumaan kerhon asioiden päättämiseen sääntöjen puitteissa. Jäseniltä toivotaan ilolla osallistumista talkootyöhön, sillä se on upea tapa tehdä asioita yhdessä yhteisen hyvän edistämiseksi. Talkoot tarjoavat mahdollisuuden luoda yhteenkuuluvuuden tunnetta ja vahvistaa yhteisön henkeä. Yhdessä tekeminen tuo iloa ja antaa jokaiselle tilaisuuden vaikuttaa ja osallistua yhteisön toimintaan positiivisella tavalla.
+
+Uudet jäsenet voivat aloittaa lennättämisen kentällä saatuaan vastauksen jäsenhakemukseensa. Tule mukaan jakamaan intohimoa lennokkien parissa ja nauttimaan yhteisestä harrastuksestamme!
 
 
 Pankkiyhteys jäsenmaksua varten on: **Nordea FI28 1239 5000 0827 68**
