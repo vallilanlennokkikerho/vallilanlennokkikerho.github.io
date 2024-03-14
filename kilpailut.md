@@ -11,12 +11,12 @@ Lennokkikilpailut 2024 päivittyvät sivuille pian. Seuraa ilmoittelua!
 <br/><br/>
 
 
-# Toka-kilpailut
+## Toka-kilpailut
 ----------------
 ----------------
 <br>
 <br/>
-# Jämi-tulokset 6/2022
+## Jämi-tulokset 6/2022
 ----------------
 <br/>
 <img src="/images/Jämi_pikkuluokat_2022.png" width="100%" />
@@ -36,49 +36,49 @@ Lennokkikilpailut 2024 päivittyvät sivuille pian. Seuraa ilmoittelua!
 <img src="/images/Jämi_Toka_finaali_2022_rinne_baby.png" width="100%" />
 <br>
 
-# Toka-tulokset 4/2022
+## Toka-tulokset 4/2022
 ----------------
 <br/>
 <img src="/images/TOKA_4-2022.png" width="100%" />
 <br/>
 
-# F1Ax-tulokset 4/2022
+## F1Ax-tulokset 4/2022
 ----------------
 <br/>
 <img src="/images/F1AX_4-2022.png" width="100%" />
 <br/>
 
-# Toka-tulokset 3/2022
+## Toka-tulokset 3/2022
 ----------------
 <br/>
 <img src="/images/TOKA_3-2022.png" width="100%" />
 <br/>
 
-# F1Ax-tulokset 3/2022
+## F1Ax-tulokset 3/2022
 ----------------
 <br/>
 <img src="/images/F1AX_3-2022.png" width="100%" />
 <br/>
 
-# Toka-tulokset 2/2022
+## Toka-tulokset 2/2022
 ----------------
 <br/>
 <img src="/images/TOKA_2-2022.png" width="100%" />
 <br/>
 
-# F1Ax-tulokset 2/2022
+## F1Ax-tulokset 2/2022
 ----------------
 <br/>
 <img src="/images/F1AX_2-2022.png" width="100%" />
 <br/>
 
-# Toka-tulokset 1/2022
+## Toka-tulokset 1/2022
 ----------------
 <br/>
 <img src="/images/TOKA_1-2022.png" width="100%" />
 <br/>
 
-# F1Ax-tulokset 1/2022
+## F1Ax-tulokset 1/2022
 ----------------
 <br/>
 <img src="/images/F1AX_1-2022.png" width="100%" />
@@ -109,7 +109,7 @@ Nyt sitten jännityksellä odottelemme loppukilpailua. Pidämme peukkuja että k
 
 
 
-# Siimaohjattujen taitolennokkien F2B-luokan I ja III SM-osakilpailut
+## Siimaohjattujen taitolennokkien F2B-luokan I ja III SM-osakilpailut
 ---------------------------------------------------------------------
 
 Vallilan Lennokkikerho r.y. on ollut Suomen johtava stunttikerho 1970- ja 1980-luvuilla. Kerhomme on järjestänyt siimaohjattujen lennokkien kilpailuja ja jäsenemme ovat kilpailleet sekä kotimaisissa kilpailuissa että ulkomailla MM-tasoa myöten.
