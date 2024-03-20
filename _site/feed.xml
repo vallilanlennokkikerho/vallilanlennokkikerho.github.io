@@ -3,31 +3,11 @@
   <channel>
     <title>Vallilan lennokkikerho ry</title>
     <description></description>
-    <link>https://vallilanlennokkikerho.fi/</link>
-    <atom:link href="https://vallilanlennokkikerho.fi/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 14 Feb 2022 11:39:33 +0200</pubDate>
-    <lastBuildDate>Mon, 14 Feb 2022 11:39:33 +0200</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Tiedote 23.5.2021</title>
-        <description>&lt;p&gt;&lt;strong&gt;Hyvä valkkalainen!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Vallilan Lennokkikerhon kevättalkoot pidettiin 15.5.2021. Talkoissa kunnostettiin useita varikkopöytiä, raivattiin pajukkoa sekä kerättiin roskia ja muutenkin parannettiin kentän yleisilmettä. Parina edellisenä vuonna kentälle on rakennettu ns. käyntisiltoja sekä ilmoitustaulu. Lennokkikentän määrätietonen kehittäminen jatkuu myös tulevina vuosina.&lt;/p&gt;
-
-&lt;p&gt;Lennokkiterveisin&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Vallilan lennokkikerho ry,
-johtokunta&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
-        <pubDate>Mon, 24 May 2021 00:00:00 +0300</pubDate>
-        <link>https://vallilanlennokkikerho.fi/2021/05/24/post.html</link>
-        <guid isPermaLink="true">https://vallilanlennokkikerho.fi/2021/05/24/post.html</guid>
-        
-        
-      </item>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 20 Mar 2024 21:31:02 +0200</pubDate>
+    <lastBuildDate>Wed, 20 Mar 2024 21:31:02 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
     
   </channel>
 </rss>
