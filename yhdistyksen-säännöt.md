@@ -7,10 +7,11 @@ description: Vallilan lennokkikerhon ylläpitämä lennokkikenttä tarjoaa harra
 keywords: lennokkikenttä, lennokkikerho, Valkka, valkka, Lennokkikerho, lennokkikerho, Lennokkikenttä, lennokkikenttä, Kenttä, kenttä
 carousels:
   - images: 
+    - image: /images/lennokkikuvia/katossa.jpg
+    - image: /images/lennokkikuvia/traineri.jpg
     - image: /images/lennokkikuvia/fokker-dr-1.jpg
     - image: /images/lennokkikuvia/kantti.jpg
     - image: /images/lennokkikuvia/lennokkikerho.png
-    - image: /images/lennokkikuvia/traineri.jpg
 
 ---
 
