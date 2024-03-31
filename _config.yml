@@ -9,3 +9,5 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
 
+sass:
+  style: compressed
