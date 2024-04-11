@@ -13,7 +13,7 @@ Vallilan Lennokkikerho ry toimii järjestäjänä F2B-luokan osakilpailuissa num
 - [F2B Osakilpailu 3](f2b-2024-3.html)
 
 Kilpailujen seuranta on avoin kaikelle yleisölle. Tervetuloa seuraamaan tätä ainutlaatuista lajia! Tapahtumapaikalla on mahdollisuus tutustua F2B-koneisiin ja harrastukseen lähempää.
-[F2B-lajiesittely](/f2b-lajiesittely/)
+[F2B-lajiesittely](/F2B-lajiesittely/)
 
 
 ## Toka-kilpailut
