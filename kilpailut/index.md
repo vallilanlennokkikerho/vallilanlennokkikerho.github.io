@@ -7,9 +7,12 @@ keywords: Vallilan lennokkikerho, vallilan lennokkikerho, Valkka, valkka, Vallil
 ---
 # Lennokkikilpailut 2024
 ----------------
-Lennokkikilpailut 2024 päivittyvät sivuille pian. Seuraa ilmoittelua!
-<br/><br/>
+Vallilan Lennokkikerho ry toimii järjestäjänä F2B-luokan osakilpailuissa numero 1 ja 3. Alla ovat linkit näiden kilpailujen kutsuihin:
 
+- [F2B Osakilpailu 1](f2b-2024-1.html)
+- [F2B Osakilpailu 3](f2b-2024-3.html)
+
+Kilpailujen seuranta on avoin kaikelle yleisölle. Tervetuloa seuraamaan tätä ainutlaatuista lajia! Tapahtumapaikalla on mahdollisuus tutustua F2B-koneisiin ja harrastukseen lähempää.
 
 ## Toka-kilpailut
 ----------------
