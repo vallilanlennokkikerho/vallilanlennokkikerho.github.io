@@ -2,7 +2,7 @@
 layout: page
 title: Yhdistyksen säännöt
 permalink: /yhdistyksen-säännöt/
-description: Vallilan lennokkikerhon ylläpitämä lennokkikenttä tarjoaa harrastajille mahdollisuuden lennättää Helsingissä. Tutustu sääntöihin ja toimintaohjeisiin tässä.
+description: Vallilan lennokkikerhon ylläpitämä lennokkikenttä tarjoaa harrastajille mahdollisuuden lennättää Helsingissä. Tutustu yhdistyksen sääntöihin tässä.
 
 keywords: lennokkikenttä, lennokkikerho, Valkka, valkka, Lennokkikerho, lennokkikerho, Lennokkikenttä, lennokkikenttä, Kenttä, kenttä
 carousels:
