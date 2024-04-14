@@ -7,6 +7,7 @@ keywords: Vallilan lennokkikerho, vallilan lennokkikerho, Valkka, valkka, Vallil
 ---
 # Lennokkikilpailut 2024
 ----------------
+----------------
 Vallilan Lennokkikerho ry toimii järjestäjänä F2B-luokan osakilpailuissa numero 1 ja 3. Alla ovat linkit näiden kilpailujen kutsuihin:
 
 - [F2B Osakilpailu 1](f2b-2024-1.html)
@@ -15,11 +16,18 @@ Vallilan Lennokkikerho ry toimii järjestäjänä F2B-luokan osakilpailuissa num
 Kilpailujen seuranta on avoin kaikelle yleisölle. Tervetuloa seuraamaan tätä ainutlaatuista lajia! Tapahtumapaikalla on mahdollisuus tutustua F2B-koneisiin ja harrastukseen lähempää.
 [F2B-lajiesittely](/F2B-lajiesittely/)
 
+## F3K SM3 osakilpailu 2022
+----------------
 
+<br/>
+<img src="/images/F3K_3-2022.png" width="100%" />
+[F3K lajiesittely](/F3K-lajiesittely/)
+<br>
 ## Toka-kilpailut
 ----------------
 ----------------
 <br>
+- [Tokan ja F1Ax:n lajiesittely](/TOKA-lajiesittely/)
 <br/>
 ## Jämi-tulokset 6/2022
 ----------------
@@ -40,6 +48,7 @@ Kilpailujen seuranta on avoin kaikelle yleisölle. Tervetuloa seuraamaan tätä 
 <br>
 <img src="/images/Jämi_Toka_finaali_2022_rinne_baby.png" width="100%" />
 <br>
+
 
 ## Toka-tulokset 4/2022
 ----------------
