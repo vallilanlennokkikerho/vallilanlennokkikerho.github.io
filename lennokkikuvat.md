@@ -39,3 +39,5 @@ Suomen Ilmailuliitto ja RC-lennokkien kerhot tarjoavat lisätietoa ja tukea harr
 Lentämisen perusteiden ymmärtäminen on tärkeää aloitteleville lennokkien harrastajille. Traineri on vakaa konetyyppi, joka sopii erinomaisesti aloittelijoille. Sen ominaisuudet pyrkivät automaattisesti tasoittamaan lentoasennon ja helpottamaan lentämistä ja laskua. Aloittelijoiden on tärkeää aloittaa trainerilla ja edetä vaativampiin koneisiin taitojen kehittyessä. Harjoittelu ja oppiminen ovat avainasemassa ennen vaativien koneiden käsittelyä.
 
 Lisätietoa lentämisen perusteista löydät useista kirjoista ja paikalliselta lennokkikentältäsi.
+
+{% include esittely.html %}

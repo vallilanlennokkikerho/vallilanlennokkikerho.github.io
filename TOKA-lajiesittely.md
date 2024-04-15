@@ -14,6 +14,9 @@ Toka-lennokki on yksinkertainen ja kevyt lennokkityyppi, joka on suunniteltu eri
 
 Toka-lennokin ominaisuuksiin kuuluu kevyt rakenne, mikä tekee siitä sopivan nuoremmille lennokkiharrastajille. Lennokin rakentaminen on osa harrastuksen viehätystä, ja usein Toka-luokassa lennättäjät itse rakentavat lennokkinsa.
 
+<div class="image-container">
+<img src="/images/lennokkikuvia/toka.jpg" alt="TOKA lennokki" />
+</div>
 Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi Lumeksen, suunnittelemaan perussiipeen.
 
 ## Tokan ja F1Ax:n säännöt
@@ -46,7 +49,6 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 - F1Ax-luokan liidokki on rakennettava 1-3 perussiivestä.
 - Liidokin siiven on kokonaisuudessaan oltava muokkaamatonta solumuovista perussiipeä seuraavin poikkeuksin:
 
-(Seuraavat kohdat olisi hyvä listata erikseen.)
 - Siivessä voi käyttää enintään 10 mm leveää keskisalkoa (rakenne vapaa).
 - Keskisalko saa levittää perussiipiaihiota enintään 10 mm, tai sen voi upottaa perussiipeen poistamalla salon verran materiaalia.
 - Siivenkärjet saa kaventaa maksimissaan siipipuoliskon viimeisen kolmasosan pituudelta.
@@ -207,3 +209,5 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 Tässä Tokan ja F1Ax:n sääntöjen yksityiskohtia sekä niiden soveltamista eri kilpailuissa. Sääntöjen noudattaminen varmistaa kilpailun oikeudenmukaisuuden ja turvallisuuden kaikille osallistujille. Lisäksi kilpailujen järjestäjän on tärkeää huolehtia siitä, että kaikki kilpailijat ovat selvillä säännöistä ja että kilpailu toteutetaan sääntöjen mukaisesti.
 
 Sääntöjen avulla luodaan puitteet, joiden sisällä kilpailijat voivat näyttää taitonsa ja kilpailla reilulla tavalla. Hyvä urheiluhenki ja kilpailusääntöjen noudattaminen ovat keskeisiä tekijöitä menestyksekkään kilpailun järjestämisessä ja osallistumisessa.
+
+{% include esittely.html %}

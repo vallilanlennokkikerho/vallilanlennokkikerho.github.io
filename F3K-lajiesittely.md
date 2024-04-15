@@ -18,3 +18,5 @@ Nykyään F3K-liidokit painavat vain 200–230 grammaa ja hyödyntävät edistyk
 
 
 [lue lisää](https://www.ilmailuliitto.fi/ilmailu-lehti/kiinnostus-radio-ohjattavien-heittoliidokkien-f3k-luokkaa-kohtaan-kasvussa/)
+
+{% include esittely.html %}

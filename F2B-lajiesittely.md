@@ -67,3 +67,5 @@ X-luokan ohjelman lennättämiseen sopivia harjoituslennokkeja on paljon, mm. Su
 		<img src="/images/lennokkikuvia/F2B-La5.jpg" alt="La-5 Ukrainasta" />
 		Valmislennokki La-5 Ukrainasta. Ehditty saada ennen "erikoisoperaation" alkua. Tätä lennokkia saa myös sähkömoottorilla varustettuna, jolloin tyyppimerkintä on La-5e. Niitä on valmistunut ja toimitettu tilaajille jopa nykyisen sodan aikana. 		
 </div>
+
+{% include esittely.html %}

@@ -3,8 +3,6 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
@@ -21,10 +19,11 @@ $grey-color:       #575757;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$button-background-color: $brand-color; // Defining button background color using brand color
+$button-text-color: #fff; // Defining button text color
+
 $on-palm:          900px;
 $on-laptop:        800px;
-
-
 
 // Using media queries with like this:
 // @include media-query($palm) {
@@ -38,8 +37,6 @@ $on-laptop:        800px;
         @content;
     }
 }
-
-
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
