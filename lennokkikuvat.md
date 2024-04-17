@@ -12,7 +12,6 @@ lennokkikuvia
 
 {% include image-gallery.html folder="/images/lennokkikuvia" %}
 
-
 ## Radio-ohjattavien lennokkien rakentaminen
 
 Radio-ohjattavien lennokkien rakentaminen on kiehtova harrastus, joka sisältää monia osa-alueita ja taitoja. Näitä ovat:

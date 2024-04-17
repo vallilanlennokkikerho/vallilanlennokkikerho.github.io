@@ -53,19 +53,18 @@ X-luokan ohjelman lennättämiseen sopivia harjoituslennokkeja on paljon, mm. Su
 
 [lue lisää](https://www.ilmailuliitto.fi/ilmailu-lehti/puolisilmukasta-selalleen-ja-taitolennatys-alkakoon/)
 
-
 <div class="image-container">
-		<img src="/images/lennokkikuvia/F2B-Skaide.jpg" alt="SM 2023"  /> 
-		Kai Karman lennokki. Skaide käyttää ennakkoluulottomasti erilaisia rakennusmateriaaleja, kuten styrofoamia. Tällä lennokilla voitettiin vuoden 2023 Suomen mestaruus.
-				
-		<img src="/images/lennokkikuvia/x-trainer.jpg" alt="X-Trainer" />
-		X-trainer
-		
-		<img src="/images/lennokkikuvia/satellite.jpg" alt="Satellite siimalennokki" />
-		Näinkin voi käydä. Tyylipuhdas pystyynajo, mutta pehmeä nurmialusta ja lennokin lujat rakenteet pelastivat tilanteen. Ei edes potkuri katkennut. Kun moottori oli puhdistettu mullasta, lennokki lensi vielä samana päivänä. Satellite ei ole varsinainen taito- vaan pikemminkin taistelulennokki eli combat, mutta ilmeisen oivallinen harjoituslennokki.
-		
-		<img src="/images/lennokkikuvia/F2B-La5.jpg" alt="La-5 Ukrainasta" />
-		Valmislennokki La-5 Ukrainasta. Ehditty saada ennen "erikoisoperaation" alkua. Tätä lennokkia saa myös sähkömoottorilla varustettuna, jolloin tyyppimerkintä on La-5e. Niitä on valmistunut ja toimitettu tilaajille jopa nykyisen sodan aikana. 		
+<img src="/images/lennokkikuvia/F2B-Skaide.jpg" alt="SM 2023"  />
+Kai Karman lennokki. Skaide käyttää ennakkoluulottomasti erilaisia rakennusmateriaaleja, kuten styrofoamia. Tällä lennokilla voitettiin vuoden 2023 Suomen mestaruus.
+
+<img src="/images/lennokkikuvia/x-trainer.jpg" alt="X-Trainer" />
+X-trainer
+
+<img src="/images/lennokkikuvia/satellite.jpg" alt="Satellite siimalennokki" />
+Näinkin voi käydä. Tyylipuhdas pystyynajo, mutta pehmeä nurmialusta ja lennokin lujat rakenteet pelastivat tilanteen. Ei edes potkuri katkennut. Kun moottori oli puhdistettu mullasta, lennokki lensi vielä samana päivänä. Satellite ei ole varsinainen taito- vaan pikemminkin taistelulennokki eli combat, mutta ilmeisen oivallinen harjoituslennokki.
+
+<img src="/images/lennokkikuvia/F2B-La5.jpg" alt="La-5 Ukrainasta" />
+Valmislennokki La-5 Ukrainasta. Ehditty saada ennen "erikoisoperaation" alkua. Tätä lennokkia saa myös sähkömoottorilla varustettuna, jolloin tyyppimerkintä on La-5e. Niitä on valmistunut ja toimitettu tilaajille jopa nykyisen sodan aikana.
 </div>
 
 {% include esittely.html %}
