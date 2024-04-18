@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kenttä
+title: Lennokkikenttä
 permalink: /kenttä/
 description: Vallilan lennokkikerhon ylläpitämä lennokkikenttä tarjoaa harrastajille mahdollisuuden lennättää Helsingissä. Tutustu kenttäsääntöihin ja toimintaohjeisiin tässä.
 keywords: lennokkikenttä, lennokkikerho, Valkka, valkka, Lennokkikerho, lennokkikerho, Lennokkikenttä, lennokkikenttä, Kenttä, kenttä
@@ -14,7 +14,7 @@ Lennätysoikeus muodostuu suoritetusta kerhon jäsenmaksusta ja droneoperaattori
 
 Toiminta kentällä tapahtuu omalla vastuulla. Ihmisten turvalllisuudesta on pidettävä erityistä huolta. Suosittelemme lennättäjille Suomen ilmailuliiton (SIL) jäsenyyttä, joka sisältää jäsenetuna kolmannen osapuolen vastuuvakuutuksen.
 
-1.2.2021 alkaen jokaisen, joka lennättää yli 250 g painavia lennokkeja (droneja), pitää rekisteröityä viranomaiselle. Tämä koskee myös alle 250 g laitteita, joissa on kamera. Rekisteröinti maksaa verkossa 30€/1v tai 100€/5v ja se tapahtuu Traficomin Droneinfo [verkkopalvelussa](https://droneinfo.fi/fi/rekisteroityminen-ja-teoriakoe). Yhdistyksen puitteissa tapahtuva harrastetoiminta rajoittuu ainoastaan Talosaarentien ja Malmilla sijaitseville lennokkikentille, missä yhdistykseen kuuluvat harrastajat voivat toimia kuten aikaisemminkin noudattaen voimassa olevia lennokkitoiminnan sääntöjä ja turvaohjeita. [Talosaarentien_lennokkikentän_kenttäsäännöt_v1.1.pdf](/images/Talosaarentien_lennokkikentän_kenttäsäännöt_v1.1.pdf)
+1.2.2021 alkaen jokaisen, joka lennättää yli 250 g painavia lennokkeja (droneja), pitää rekisteröityä viranomaiselle. Tämä koskee myös alle 250 g laitteita, joissa on kamera. Rekisteröinti maksaa verkossa 30€/1v tai 100€/5v ja se tapahtuu Traficomin Droneinfo [verkkopalvelussa](https://droneinfo.fi/fi/rekisteroityminen-ja-teoriakoe). Yhdistyksen puitteissa tapahtuva harrastetoiminta rajoittuu ainoastaan Talosaarentien ja Malmilla sijaitseville lennokkikentille, missä yhdistykseen kuuluvat harrastajat voivat toimia kuten aikaisemminkin noudattaen voimassa olevia lennokkitoiminnan sääntöjä ja turvaohjeita. [Talosaarentien_lennokkikentän_kenttäsäännöt_v1.1](Talosaari_lennokkikentän_kenttäsäännöt/)
 
 Mikäli harrastat kerhon määrittelemän toiminnan ulkopuolella yksityishenkilönä, niin silloin toimitaan avoimen luokan määräysten mukaisesti, josta muutamia keskeisiä vaatimuksia:
 
@@ -27,7 +27,7 @@ Mikäli harrastat kerhon määrittelemän toiminnan ulkopuolella yksityishenkil�
 
 **HUOMIO!** Kentän vastapäisen metsän takana sijaitsee hevostalli, jossa voi aiheutua vaaratilanne hevosten pillastuessa. Lennättämistä on tämän johdosta ehdottomasti vältettävä vastapäisen metsän sekä sen taikaisten alueiden päällä. Erityistä varovaisuutta vaativat etenkin isot polttomoottorilennokit, joista aiheutuu kovaa melua. Joen takaisella pellolla ja metsän rajassa myös ratsatetaan ajoittain ja hevosten läsnäoloon tulee tällöin kiinnittää erityistä huomiota muillakin alueilla. Jos hevosia on näköpiirissä, näiden pällä ei missään tilanteessa saa lennättää ja isoilla lennokeilla lennättämistä on vältettävä kokonaan.
 
-Päälennätyskenttä on Talosaaressa sijaitseva lennätyskenttä, mutta kerholla on myös toinen lennokkikenttä Malmilla. Malmilla lennätyksen säännöt koskevat vain ilmatilaa Malmin lentokentän yläpuolella, ja maa-alueella on otettava huomioon, että se on Helsingin kaupungin omistamaa ulkoilualuetta, jossa toimiessamme muut alueella liikkujat on otettava huomioon ja heidän turvallisuutensa ei saa vaarantua. Katso lisätietoja [kenttäsäännöt_EFHF_lennokkikenttä_v1.0.pdf](/images/kenttäsäännöt_EFHF_lennokkikenttä_v1.0.pdf).
+Päälennätyskenttä on Talosaaressa sijaitseva lennätyskenttä, mutta kerholla on myös toinen lennokkikenttä Malmilla. Malmilla lennätyksen säännöt koskevat vain ilmatilaa Malmin lentokentän yläpuolella, ja maa-alueella on otettava huomioon, että se on Helsingin kaupungin omistamaa ulkoilualuetta, jossa toimiessamme muut alueella liikkujat on otettava huomioon ja heidän turvallisuutensa ei saa vaarantua. Katso lisätietoja [kenttäsäännöt_EFHF_lennokkikenttä_v1.0](/kenttä/Malmi_lennokkikentän_kenttäsäännöt/).
 
 Tutustu alla oleviin rajoituksiin ja pysäköintiohjeisiin:
 
