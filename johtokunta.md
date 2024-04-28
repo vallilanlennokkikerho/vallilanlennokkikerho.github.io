@@ -45,4 +45,7 @@ Juha-Pekka Kinnunen
 <div class="image-container">
 <img src="/images/lennokkikuvia/fokker-dr-1.jpg" alt="Crack Fokker Dr.1" />
 Fokker Dr.1 kevään kynnyksellä maaliskuun aamussa
+<img src="/images/lennokkikuvia/lennokkikenttä-2.jpg" alt="dronekuvaa kesällä kentältä" />
+Elokuun 15. päivä, aurinko kullannut pellon
 </div>
+{% include esittely.html %}

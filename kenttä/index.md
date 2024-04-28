@@ -32,6 +32,7 @@ Päälennätyskenttä on Talosaaressa sijaitseva lennätyskenttä, mutta kerholl
 Tutustu alla oleviin rajoituksiin ja pysäköintiohjeisiin:
 
 <div class="image-container">
-<img src="/images/parkki.jpg" alt="pysäköinti"/>
-<img src="/images/kieltoalue.jpg" alt="lentokieltoalue"/>
+<img src="/images/parkki.jpg" alt="pysäköinti Talosaari lennokkikenttä"/>
+<img src="/images/kieltoalue.jpg" alt="lentokieltoalue Talosaari"/>
+<img src="/images/lennokkikuvia/lennokkikenttä-1.jpg" alt="ilmakuva lennokkikentältä" />
 </div>

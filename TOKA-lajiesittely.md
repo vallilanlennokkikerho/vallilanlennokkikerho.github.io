@@ -22,6 +22,7 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 ## Tokan ja F1Ax:n säännöt
 
 ### Tokan tekniset säännöt
+
 - Lennättäjä voi kilpailla Toka-luokassa sen vuoden loppuun, jonka aikana täyttää 16 vuotta.
 - Lennättäjän on itse rakennettava Tokansa.
 - Rakentamisen apuna saa olla kokeneemman rakentajan opastusta.
@@ -29,6 +30,7 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 - Tokan vanhimmatkin piirustukset voivat olla rakentamisen pohjana.
 
 #### Sallitut poikkeamat piirustuksesta
+
 - Hinauskoukun paikkaa voi muuttaa.
 - Siiven etuosan pahvipäällysteet voi korvata 1 mm balsalevyllä.
 - Sivuperäsimen voi siirtää enintään leveytensä verran edemmäs piirustuksen osoittamasta paikasta.
@@ -40,12 +42,14 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 - Tokan siipiin voi liimata tarroja somisteeksi.
 
 ### F1Ax:n tekniset säännöt
+
 - Kärkiväli max 180 cm
 - Siiven leveys max 16 cm
 - Korkeusperäsimen/peräsinten max kärkiväli 60 cm
 - Luokassa ei ikärajoitusta
 
 #### Rakenteelliset rajoitukset
+
 - F1Ax-luokan liidokki on rakennettava 1-3 perussiivestä.
 - Liidokin siiven on kokonaisuudessaan oltava muokkaamatonta solumuovista perussiipeä seuraavin poikkeuksin:
 
@@ -64,13 +68,14 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 - Siipien kärkiin saa lisätä wingletit, jotka eivät toimi kantavana pintana. Suurin sallittu kärkiväli ei saa kuitenkaan ylittyä.
 
 #### Lennokin mekaniikka
+
 - Lennokin asetuskulmat, siiven profiili ja siiven haritukset eivät saa muuttua hinauksen ja lennon aikana.
 - Sivuperäsimen kaartolaipan asennon muutoksille ei ole rajoituksia.
 - Palavaa (kytevää) fuselankaa ei saa käyttää lentoajan rajoittamiseen.
 - Muunlainen lentoajanrajoitin on sallittu, myös RC-fuse.
 
-
 #### Hinausvälineet
+
 - Hinaussiima on monofiili- tai punottua siimaa tai lankaa.
 - Hinaussiiman päässä tulee olla hinausrengas.
 - Hinausrenkaan alapuolella on oltava siimaan kiinnitettynä 2.5 dm2 lippu, jotta ajanottaja näkee hyvin milloin hinausrengas irtoaa hinauksessa olevan liidokin hinauskoukusta.
@@ -84,6 +89,7 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 - Hinaussiiman yhteyteen liitettyjen lennokkia ohjaavien lisälaitteiden käyttö on kielletty.
 
 #### Liidokin hinaus
+
 - Kilpailijan on aina suoritettava liidokkinsa hinaus itse.
 - Liidokin hinauskoukun tulee olla kiinteä ja avoin, niin että hinausrengas siimaa löysättäessä helposti irtoaa siitä.
 - Vain suorahinaus on sallittu.
@@ -95,8 +101,8 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 - Siimakelan heittäminen on turvallisuusriski ja johtaa automaattisesti lennon hylkäämiseen.
 - Lähtöalueella saa olla vain sen välttämättömän ajan, minkä kilpailusuoritus vaatii.
 
-
 #### Kilpailulento ja kilpailulennon uusinta
+
 - Kunkin kierroksen aikana kilpailija saa lennättää yhden virallisen kilpailulennon ja mahdollisen uusintalennon.
 - Lento on virallinen, kun se hinauksesta irrottuaan on lentänyt yli 20 s.
 - Tasan 20 s lento lasketaan yli 20 s lennoksi.
@@ -110,6 +116,7 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 - Uusintalennon lentoaika merkitään kilpailukorttiin, vaikka lento olisi ollut alle 20 s.
 
 #### Ohjeita ajanottajalle
+
 - Maksimilentoaika on Kotikenttäkilpailuissa 2 minuuttia (120 s).
 - Muista aina nollata kellosi ennen seuraavaa kilpailijaa.
 - Käynnistä sekuntikello sillä hetkellä, kun liidokki irtoaa hinaussiimasta.
@@ -118,8 +125,8 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 - Kilpailijan aika lisätään kännykän avulla tulostaulukkoon.
 - Kilpailukortti säilytetään ja toimitetaan kilpailun toimitsijoille.
 
+#### Pysäytä kello
 
-#### Pysäytä kello:
 - lennokin laskeutuessa maahan
 - 2 min maksimilentoajan tultua täyteen
 - liidokin törmättyä esteeseen, joka katkaisee sen lennon
@@ -132,6 +139,7 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 - Uusintalennon tulos merkitään kilpailukorttiin, vaikka edellinen lento olisi ollut pidempi.
 
 #### Loppukilpailu
+
 - Loppukilpailu on yhteiskilpailu kaikille Toka- ja F1Ax- kilpailijoille.
 - Loppukilpailuun voi ottaa osaa vain kunkin luokan tekniset säännöt täyttävällä liidokilla.
 - Loppukilpailu järjestetään vuosittain kilpailukutsussa ilmoitettuna ajankohtana Jämin Lentokeskuksessa.
@@ -139,7 +147,6 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 - Yhden kierroksen kesto on 1 tunti.
 - Kilpailulennon maksimipituus on 2 minuuttia (120 s).
 - Kilpailijoille jaetaan ilmoittautumisen yhteydessä kolme kilpailukierrosten mukaan numeroitua kilpailukorttia.
-
 
 - Kilpailijan kullakin kierroksella saavuttama lentoaika kirjataan kyseisen kierroksen kilpailukorttiin.
 - Tämän jälkeen ajanottaja merkitsee lentoajan sähköiseen tulostaulukkoon.
@@ -155,12 +162,12 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 - Katso myös ohjeet kohdasta: Kilpailulento ja kilpailulennon uusinta.
 
 #### Rinnekilpailu
+
 - Rinnekilpailu on rinteessä käytävä lennokkikilpailu, joka käydään loppukilpailuviikonlopun lauantaina.
 - Rinnekilpailussa on kolme luokkaa: alle 16-vuotiaat, yli16-vuotiaat, old timer (ei ikärajoitusta).
 - alle 16-vuotiaiden ja yli 16-vuotiaiden luokissa voi kilpailla millä tahansa vapaastilentävällä liidokilla.
 - old timer -luokan liidokin tulee olla suunniteltu yli 25 v sitten.
 - Jos alle 16-vuotias osallistuu Jämin Kotka-kilpailuun, hänen on kilpailtava Rinnekilpailussa tekniset säännöt täyttävällä Toka-liidokilla.
-
 
 - Rinnekilpailun kesto on 2 tuntia.
 - Kilpailussa ei ole erillisiä kierroksia.
@@ -182,8 +189,8 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 - Jälki-ilmoittauduttaessa maksu on korkeampi.
 - Alle 16-vuotiailta maksua ei peritä.
 
-
 #### Jämin Kotka-kilpailu
+
 - Lennättäjä saa osallistua Jämin Kotka-kilpailuun sen vuoden loppuun asti, jona täyttää 16 vuotta.
 - Kilpailu käydään loppukilpailuviikonlopun lauantaina (Rinnekilpailu) ja sunnuntaina (Tokaloppukilpailu).
 - Kilpailijan on osallistuttava molempiin kilpailuihin.
@@ -196,7 +203,9 @@ Toka-liidokki pohjautuu Vallilan lennokkikerhon yhden perustajajäsenen, Olavi L
 - Voittaja saa vuodeksi haltuunsa Jämin Kotka-kiertopalkinnon.
 
 #### Suuri Jämi-mitali
+
 - Suuren Jämi-mitali kiertopalkinnon saa vuodeksi haltuunsa kaikkein pisimmän lennon Rinnekilpailussa lennättänyt kilpailija.
+
 #### Sääntöjen Huomiot
 
 - Kaikkien osallistujien on tärkeää olla perillä säännöistä ja noudattaa niitä tarkasti.

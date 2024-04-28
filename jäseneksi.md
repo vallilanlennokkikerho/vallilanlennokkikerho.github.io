@@ -26,4 +26,5 @@ Juniorijäseniksi lasketaan kaikki alle 18-vuotiaat jäsenet. Henkilö on junior
 
 <div class="image-container">
 <img src="/images/lennokkikuvia/talvilennätys.jpg" alt="kenttä käytössä ympäri vuoden" />
+<img src="/images/lennokkikuvia/lennokkikenttä-3.jpg" alt="ilmakuva kentältä" />
 </div>

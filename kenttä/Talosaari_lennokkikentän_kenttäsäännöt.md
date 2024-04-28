@@ -95,6 +95,7 @@ Helsinki 10.02.2022 Vallilan Lennokkikerho r.y:n johtokunta
 <div class="image-container">
 <img src="/images/parkki.jpg" alt="pysäköinti"/>
 <img src="/images/kieltoalue.jpg" alt="lentokieltoalue"/>
+<img src="/images/lennokkikuvia/lennokkikenttä-3.jpg" alt="dronekuvaa kentältä" />
 </div>
 
 [Talosaarentien_lennokkikentän_kenttäsäännöt_v1.1.pdf](/images/Talosaarentien_lennokkikentän_kenttäsäännöt_v1.1.pdf)
