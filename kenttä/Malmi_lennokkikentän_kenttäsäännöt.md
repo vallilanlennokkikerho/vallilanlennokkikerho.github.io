@@ -82,6 +82,9 @@ Helsinki 24.1.2024 Vallilan Lennokkikerho r.y. / johtokunta
 <div class="image-container">
 <img src="/images/EFHF_lennokkialue.jpg" alt="EFHF lennokki lennätysalue"/>
 Malmin lennätysalue
+<img src="/images/Malmi-avajaiset-1938.jpg" alt="EFHF lennokki lennätysalue"/>
+Malmin avajaiset 1938, kuvaaja Aarne Pietinen, Ilmailumuseon arkistot
+
 </div>
 
 [kenttäsäännöt_EFHF_lennokkikenttä_v1.0.pdf](/images/kenttäsäännöt_EFHF_lennokkikenttä_v1.0.pdf)
