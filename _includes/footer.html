@@ -1,8 +1,5 @@
 <footer class="site-footer">
-
   <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
@@ -10,35 +7,45 @@
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
-		
-			      <h2 class="footer-heading">Lennokkikentät Helsinki</h2>
-<ul class="contact-list">
-  <li class="text">Talosaari</li>
-  <li><a target="_blank" rel="noopener noreferrer" href="https://flyk.com/map?drone#14/60.243574/25.178451&p=12.94/60.24385/25.17682">Talosaaren lennokkikenttä UAS</a></li>
-  
-  <li>
-    <ul class="contact-list">
-      <li class="text">Malmi</li>
-      <li><a target="_blank" rel="noopener noreferrer" href="https://flyk.com/map?drone#14/60.243574/25.178451&p=13.66/60.24969/25.04456">EFHF lennokkikenttä UAS</a></li>
-    </ul>
-  </li>
-</ul>
-
-		
+        <h2 class="footer-heading">Lennokkikentät Helsinki</h2>
+        <ul class="contact-list">
+          <li class="text">Talosaari</li>
+          <li><a target="_blank" rel="noopener noreferrer" href="https://flyk.com/map?drone#14/60.243574/25.178451&p=12.94/60.24385/25.17682">Talosaaren lennokkikenttä UAS</a></li>
+          <li>
+            <ul class="contact-list">
+              <li class="text">Malmi</li>
+              <li><a target="_blank" rel="noopener noreferrer" href="https://flyk.com/map?drone#14/60.243574/25.178451&p=13.66/60.24969/25.04456">EFHF lennokkikenttä UAS</a></li>
+            </ul>
+          </li>
+        </ul>
       </div>
-
-
-
-      <div class="footer-col  footer-col-2">
-
+      <div class="footer-col  footer-col-2"></div>
+      <div class="footer-col  footer-col-3">
+        <img src="https://upload.wikimedia.org/wikipedia/fi/2/23/SIL_logo.svg" alt="Suomen Ilmailuliiton jäsenyhdistys">
       </div>
-	  
-	        <div class="footer-col  footer-col-3">
-	  <img src="https://upload.wikimedia.org/wikipedia/fi/2/23/SIL_logo.svg" alt="Suomen Ilmailuliiton jäsenyhdistys">
-      </div>
-	  
     </div>
-
   </div>
-
 </footer>
+
+<div style="text-align: right;">
+<button id="scrollToTop" aria-label="Scroll to Top">
+  <img id="darken-on-hover" src="/images/type9.svg" width="131" height="131" alt="Takaisin ylös">
+</button>
+</div>
+
+<style>
+  #scrollToTop {
+    border: none;
+    background-color: transparent;
+  }
+  #darken-on-hover:hover {
+    filter: brightness(0.7);
+  }
+</style>
+
+<script>
+document.getElementById('scrollToTop').addEventListener('click', function(event) {
+    event.preventDefault();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+</script>
