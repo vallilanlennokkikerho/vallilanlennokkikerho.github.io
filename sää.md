@@ -14,7 +14,7 @@ Talosaarentien kentän tuuliolosuhteet vaihtelevat Suomen yleisten tuulensuuntie
 
 Tämä kuva esittää ajantasaisen sääennusteen Talosaarentien kentälle. Se kattaa tuulen suunnan ja nopeuden, lämpötilan sekä sademäärän. Tämä tieto auttaa lentotoiminnan suunnittelussa ja antaa käsityksen siitä, millaisia olosuhteita lennokkitoimintaan on odotettavissa. Muista aina tarkistaa ajantasaiset sääolosuhteet ennen lennättämistä, koska säätila voi vaihdella nopeasti.
 
-<iframe frameborder="0" src="https://imweather.com/widget/map?lat=60.1758&lng=24.9433&z=7.47&model=nowcast&element=radar_obs&values=true" style="height:400px;width:100%;max-width:100%;"></iframe>
+<iframe frameborder="0" src="https://widgets.meteox.com/en-GB/widgets/radar/location/10610/rain?z=6" style="height:400px;width:100%;max-width:100%;"></iframe>
 Sadetutka
 
   <div class="image-container">
