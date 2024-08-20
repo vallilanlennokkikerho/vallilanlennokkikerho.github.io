@@ -34,4 +34,24 @@ Tule mukaan lennokkiharrastuksen pariin ja löydä uusi intohimosi ilmailun maai
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLN-ZCyv7vugDfvDZ-mEdemAzpmCzlJEvm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-[![Discord Invite](/images/discord.svg)](https://discord.com/invite/NjzMW6qKzC){: style="display: inline-block; width: 30%; margin-top: 100px;"}
+<div class="wrapper">
+    <div class="footer-col-wrapper">
+        <div class="footer-col footer-col-1">
+
+               <a href="https://x.com/lennokkikerho" style="display: inline-block; width: 30%; margin-top: 100px;margin-right: 50px;">
+                <img src="/images/xlogo.png" alt="X logo" style="width: 100%;">
+            </a>
+   
+               <a href="https://discord.com/invite/NjzMW6qKzC" style="display: inline-block; width: 30%; margin-top: 100px;">
+                <img src="/images/discord.svg" alt="Discord Invite" style="width: 100%;">
+            </a>
+   
+   
+   
+        </div>
+        <div class="footer-col footer-col-2"></div>
+        <div class="footer-col footer-col-3">
+
+        </div>
+    </div>
+</div>
