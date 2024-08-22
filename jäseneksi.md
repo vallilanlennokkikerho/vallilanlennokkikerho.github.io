@@ -12,10 +12,6 @@ Kun olemme vastaanottaneet hakemuksesi, käsittelemme sen seuraavassa kokouksess
 
 Uudet jäsenet voivat aloittaa lennättämisen kentällä saatuaan vastauksen jäsenhakemukseensa. Tule mukaan jakamaan intohimoa lennokkien parissa ja nauttimaan yhteisestä harrastuksestamme!
 
-Pankkiyhteys jäsenmaksua varten on: **Nordea FI28 1239 5000 0827 68**
-
-**Kirjoita maksun viitekenttään oma maksuviitenumerosi.**
-
 **Jäsenmaksut:**
 
 - Normaalijäsen 35€
