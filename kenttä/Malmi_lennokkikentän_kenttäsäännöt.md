@@ -88,3 +88,5 @@ Malmin avajaiset 1938, kuvaaja Aarne Pietinen, Ilmailumuseon arkistot
 </div>
 
 [kenttäsäännöt_EFHF_lennokkikenttä_v1.0.pdf](/images/kenttäsäännöt_EFHF_lennokkikenttä_v1.0.pdf)
+
+{% include ohjeet.html %}

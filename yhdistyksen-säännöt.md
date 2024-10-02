@@ -116,3 +116,4 @@ Hallitus voi kokouksessaan määrätä rakentelutilaa ja lennokkikenttää koske
 Muissa kohdin noudatetaan yhdistyslakia.
 
       {% include carousel.html height="50" unit="%" duration="10" number="1" %}
+{% include ohjeet.html %}
