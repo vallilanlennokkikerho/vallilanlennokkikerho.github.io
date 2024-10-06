@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem 'rexml'
   gem 'webrick'
+  gem 'jekyll-redirect-from'
 
 end
 

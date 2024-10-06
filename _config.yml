@@ -8,6 +8,7 @@ url: "https://vallilanlennokkikerho.fi" # the base hostname & protocol for your 
 markdown: kramdown
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 sass:
   style: compressed
