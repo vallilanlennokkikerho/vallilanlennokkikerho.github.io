@@ -74,3 +74,5 @@ Wind conditions at Talosaari can vary; southwest and west winds may cause turbul
 <a href="https://www.yr.no/en/details/graph/2-11978530/Finland/Uusimaa/Helsinki/Vuosaari" target="_blank">
     <img src="https://www.yr.no/en/content/2-11978530/meteogram.svg" style="width: 100%; height: auto;" alt="sää Vuosaari" />
 </a>
+
+{% include lang.html %}
