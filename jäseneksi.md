@@ -6,13 +6,15 @@ description: Tervetuloa lennokkiharrastajien yhteisöön! Lähetä jäsenhakemus
 keywords: lennokkiharrastus, lennokkiyhdistys, jäsenyys, lennokkikenttä, lennättäminen, yhteisö, harrastus, Valkan lennokkiyhdistys
 ---
 
-Jäseneksi lennokkikerhoon? Tutustu [yhdistyksen sääntöihin](/yhdistyksen-säännöt/) ja lähetä vapaamuotoinen hakemus meille, sisällyttäen siihen seuraavat tiedot: koko nimesi, osoitteesi, sähköpostiosoitteesi, puhelinnumerosi, syntymäaikasi ja mahdollinen SIL-numerosi, jos sellainen on olemassa.
+## Jäseneksi lennokkikerhoon?
+
+Tutustu [yhdistyksen sääntöihin](/yhdistyksen-säännöt/) ja lähetä vapaamuotoinen hakemus, jossa kerrot hieman itsestäsi ja ilmailuharrastuksestasi. Sisällytä hakemukseesi myös seuraavat tiedot: koko nimesi, osoitteesi, sähköpostiosoitteesi, puhelinnumerosi, syntymäaikasi sekä mahdollinen SIL-numerosi, jos sellainen on olemassa.
 
 Kun olemme vastaanottaneet hakemuksesi, käsittelemme sen seuraavassa kokouksessamme ja ilmoitamme sinulle päätöksestä sähköpostitse. Jäsenmaksun suorittaneet jäsenet ovat oikeutettuja käyttämään lennokkikenttää ja kaikkia muita kerhon jäsenille tarkoitettuja etuuksia sekä osallistumaan kerhon asioiden päättämiseen sääntöjen puitteissa. Jäseniltä toivotaan ilolla osallistumista talkootyöhön, sillä se on upea tapa tehdä asioita yhdessä yhteisen hyvän edistämiseksi. Talkoot tarjoavat mahdollisuuden luoda yhteenkuuluvuuden tunnetta ja vahvistaa yhteisön henkeä. Yhdessä tekeminen tuo iloa ja antaa jokaiselle tilaisuuden vaikuttaa ja osallistua yhteisön toimintaan positiivisella tavalla.
 
 Uudet jäsenet voivat aloittaa lennättämisen kentällä saatuaan vastauksen jäsenhakemukseensa. Tule mukaan jakamaan intohimoa lennokkien parissa ja nauttimaan yhteisestä harrastuksestamme!
 
-**Jäsenmaksut:**
+***Jäsenmaksut:***
 
 - Normaalijäsen 35€
 - Juniorijäsen* 10€
