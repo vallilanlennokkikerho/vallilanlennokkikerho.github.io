@@ -42,7 +42,6 @@ Pasi Ruokoaho
 **Muut toimihenkilöt:**
 Rahastonhoitaja Rae Marja Lumes
 
-
 <div class="image-container">
 <img src="/images/lennokkikuvia/fokker-dr-1.jpg" alt="Crack Fokker Dr.1" />
 Fokker Dr.1 kevään kynnyksellä maaliskuun aamussa
