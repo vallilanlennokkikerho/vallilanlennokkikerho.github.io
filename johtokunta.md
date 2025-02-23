@@ -44,7 +44,10 @@ Rahastonhoitaja Rae Marja Lumes
 
 <div class="image-container">
 <img src="/images/lennokkikuvia/fokker-dr-1.jpg" alt="Crack Fokker Dr.1" />
+</div>
 Fokker Dr.1 kevään kynnyksellä maaliskuun aamussa
+
+<div class="image-container">
 <img src="/images/lennokkikuvia/lennokkikenttä-2.jpg" alt="dronekuvaa kesällä kentältä" />
 Elokuun 15. päivä, aurinko kullannut pellon
 </div>
