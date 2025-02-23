@@ -26,5 +26,7 @@ Uudet jäsenet voivat aloittaa lennättämisen kentällä saatuaan vastauksen j�
 
 <div class="image-container">
 <img src="/images/lennokkikuvia/talvilennätys.jpg" alt="kenttä käytössä ympäri vuoden" />
+</div>
+<div class="image-container">
 <img src="/images/lennokkikuvia/lennokkikenttä-3.jpg" alt="ilmakuva kentältä" />
 </div>
