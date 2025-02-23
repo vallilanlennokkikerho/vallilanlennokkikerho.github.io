@@ -49,6 +49,7 @@ Fokker Dr.1 kevään kynnyksellä maaliskuun aamussa
 
 <div class="image-container">
 <img src="/images/lennokkikuvia/lennokkikenttä-2.jpg" alt="dronekuvaa kesällä kentältä" />
-Elokuun 15. päivä, aurinko kullannut pellon
 </div>
+Elokuun 15. päivä, aurinko kullannut pellon
+
 {% include esittely.html %}
