@@ -7,7 +7,7 @@ keywords: Tietoa säästä, lentotoiminta, sääolosuhteet, Tuuli, lämpötila, 
 ---
 
 ## Tuuliolosuhteet
-<div class="image-container">
+<div class="windimage-container">
     <div class="content-left">
         <p>Talosaarentien kentän tuuliolosuhteet vaihtelevat Suomen yleisten tuulensuuntien mukaisesti. Lounas- ja länsituulet ovat yleisiä Suomessa, mutta parhaat tuulet lennokkikentän toimintaan ovat usein kaakosta ja luoteesta. Länsi-lounaistuuli voi olla haastava, sillä se voi aiheuttaa pyörteisyyttä metsän reunasta, joka sijaitsee lähellä kenttää.</p>
 

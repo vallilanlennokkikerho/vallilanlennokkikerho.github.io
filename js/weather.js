@@ -71,7 +71,7 @@ function displayWindData(windSpeed, windDirection, source = 'live', timestamp = 
         const timeRemainingText = formatTimeRemaining(remainingTime);
         timeInfo = `<small style="color: #888">
             välimuistista (${formattedTime}), seuraava päivitys ${timeRemainingText} 
-        </small>`;
+        <br>tuulitiedon tarjoaa Ilmatieteenlaitos</small>`;
     }
     
     document.getElementById('wind-data').innerHTML = `
