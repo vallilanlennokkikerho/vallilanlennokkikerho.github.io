@@ -92,3 +92,37 @@ transform-origin: 50% 50%;
     -ms-user-select: none;      
     user-select: none;
 }
+
+/* Add responsive grid support */
+@media screen and (max-width: 1200px) {
+    .image-gallery li {
+        width: 24%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .image-gallery li {
+        width: 32.333%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .image-gallery li {
+        width: 49%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .image-gallery li {
+        width: 99%;
+    }
+}
+
+/* Add hover effects */
+.image-gallery li a img {
+    transition: transform 0.3s ease;
+}
+
+.image-gallery li a:hover img {
+    transform: scale(1.05);
+}
