@@ -4,17 +4,26 @@
 @charset "utf-8";
 
 // Our variables
+// Simplified font stack for testing
 $base-font-family: Helvetica, Arial, sans-serif;
+$heading-font-family: Helvetica, Arial, sans-serif; // Using same stack for consistency
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
+$large-font-size:  $base-font-size * 1.25;
 $base-line-height: 1.5;
+$heading-line-height: 1.2;
+
+// Font weights
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
 
 $spacing-unit:     30px;
 
+// Light mode colors (default)
 $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #2929FF;
-
 $grey-color:       #575757;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
@@ -39,8 +48,14 @@ $on-laptop:        800px;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
+// Order: Base -> Layout -> Components -> Specific Layouts/Pages -> Utilities -> Themes
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+        "base",                 // Resets, basic element styles
+        "layout",               // Header, footer, content area, wrappers
+        "components",           // Buttons, icons, video container, etc.
+        "gallery",              // Image gallery styles
+        "page-weather",         // Weather page specific styles
+        "utilities",            // Helper classes (columns, margins)
+        "syntax-highlighting",  // Code block styling
+        "nightmode"             // Dark mode theme overrides
 ;

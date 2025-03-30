@@ -45,6 +45,7 @@
 .site-nav {
   float: right;
   line-height: 56px;
+  margin-right: 20px; // Add space to the right for night mode toggle
 
   .menu-icon {
     display: none;
@@ -126,7 +127,7 @@
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: $grey-color;
+  color: $grey-color-light; // Changed from $grey-color for better visibility
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }

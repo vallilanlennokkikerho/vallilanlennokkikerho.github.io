@@ -3,6 +3,12 @@ title: Vallilan lennokkikerho ry
 email: vallilanlennokkikerho@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://vallilanlennokkikerho.fi" # the base hostname & protocol for your site
+wind_data_update_interval: 5 # Wind data update interval in minutes
+
+# Tracking IDs
+tracking:
+  google_analytics: UA-139642555-1
+  clarity: liz494sbqn
 
 # Build settings
 markdown: kramdown

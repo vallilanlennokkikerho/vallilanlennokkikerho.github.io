@@ -32,21 +32,11 @@ ul, ol, dl, figure,
 }
 
 /**
- * Images
+ * Images (Basic)
  */
 img {
     max-width: 100%;
     vertical-align: middle;
-}
-
-.homepage-logo {
-    width: 300px;
-}
-
-.image-container img, iframe{
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
-    margin-bottom: 25px;
-    margin-top: 60px;
 }
 
 /**
@@ -86,7 +76,8 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
     color: $brand-color;
-    text-decoration: none;
+    text-decoration: none; // Keep text-decoration none by default
+    
 
     &:visited {
         color: darken($brand-color, 15%);
@@ -96,31 +87,6 @@ a {
         color: $text-color;
         text-decoration: underline;
     }
-}
-
-/**
- * Links styled as buttons
- */
-.button-container {
-    text-align: center; /* Center align the buttons */
-}
-
-.button-link {
-    display: inline-block;
-    padding: 10px 20px;
-    margin: 10px;
-/*    background-color: $button-background-color; /* Use predefined background color variable */
-    color: $button-background-color; /* Use predefined text color variable */
-    text-decoration: none;
-    border: 1px solid $button-background-color; /* Use predefined background color for border */
-    border-radius: 5px;
-    transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-.button-link:hover {
-    background-color: darken($button-background-color, 10%); /* Darken background color on hover */
-    border-color: darken($button-background-color, 10%); /* Darken border color on hover */
-    color: $button-text-color; /* Maintain text color on hover */
 }
 
 /**
@@ -147,7 +113,7 @@ code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: #eef; // Consider a variable
 }
 
 code {
@@ -166,7 +132,7 @@ pre {
 }
 
 /**
- * Wrapper
+ * Wrapper (Layout related, keep here for now or move to _layout.scss)
  */
 .header-wrapper {
     max-width: -webkit-calc(1200px - (#{$spacing-unit} * 2));
@@ -203,7 +169,7 @@ pre {
 }
 
 /**
- * Clearfix
+ * Clearfix (Utility, but often used with layout wrappers)
  */
 %clearfix {
 
@@ -212,147 +178,4 @@ pre {
         display: table;
         clear: both;
     }
-}
-
-/**
- * Youtube Playlist
- */
-.vid-container {
-    position: relative;
-    padding-bottom: 52%;
-    padding-top: 30px; 
-    height: 0; 
-}
-
-.vid-container iframe,
-.vid-container object,
-.vid-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
-/**
- * Icons
- */
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
-    }
-}
-
-.column-small {
-    float: left;
-    width: 40%;
-}
-
-.column {
-    float: left;
-    width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-.no-margin {
-    margin: 0;
-}
-
-
-// Weather page styles
-
-.windimage-container {
-    display: flex;
-    align-items: top;
-    justify-content: space-between;
-    background-color: white;
-}
-
-.content-left {
-    flex: 1;
-    padding-left: 20px;
-    padding-top: 20px;
-}
-
-.content-right {
-    flex: 1;
-}
-
-.wind-data {
-    font-size: 24px;
-    text-align: center;
-    color: #555;
-}
-
-.loading {
-    text-align: center;
-    font-style: italic;
-    color: #888;
-}
-
-.error {
-    text-align: center;
-    color: red;
-}
-
-.wind-visualization {
-    position: relative;
-    width: 100%;
-    max-width: 400px;
-    margin: 20px auto 0;
-}
-
-.wind-arrow-container {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%) rotate(var(--wind-direction));
-    z-index: 10;
-    margin: 0;
-    height: auto;
-    transition: transform 0.3s ease;
-}
-
-.wind-arrow {
-    width: 60px;
-    height: 60px;
-    animation: pulse 2s infinite;
-}
-
-@keyframes pulse {
-    0% {
-        transform: scale(1);
-        opacity: 0.9;
-    }
-    50% {
-        transform: scale(1.2);
-        opacity: 0.7;
-    }
-    100% {
-        transform: scale(1);
-        opacity: 0.9;
-    }
-}
-
-.valkka-image {
-    width: 100%;
-    max-width: 400px;
-    display: block;
-    border-radius: 8px;
-    margin-right: 20px;
-    margin-bottom: 20px;
 }

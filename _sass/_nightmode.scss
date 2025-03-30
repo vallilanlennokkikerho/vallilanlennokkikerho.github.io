@@ -1,0 +1,267 @@
+/**
+ * Night mode / Dark mode styles
+ */
+
+// -----------------------------------------------------------------------------
+// CSS Variable Definitions (Light Mode Defaults & Dark Mode Overrides)
+// -----------------------------------------------------------------------------
+
+:root {
+  // Light mode defaults (from main.scss variables)
+  --text-color: #{$text-color};
+  --background-color: #{$background-color};
+  --brand-color: #{$brand-color};
+  --brand-color-dark: #{darken($brand-color, 15%)};
+  --grey-color: #{$grey-color};
+  --grey-color-light: #{$grey-color-light};
+  --grey-color-dark: #{$grey-color-dark};
+  --button-background-color: #{$button-background-color};
+  --button-text-color: #{$button-text-color};
+  --border-color: #{$grey-color-light};
+  --code-background: #eef;
+
+  // Wind indicator colors (Light)
+  --wind-low-color: #28a745;
+  --wind-medium-color: #ffc107;
+  --wind-high-color: #dc3545;
+}
+
+// Dark mode overrides
+body.night-mode,
+html.night-mode,
+html.night-mode-preload {
+  // Inspired by provided image
+  --text-color: #E1E3E6;           // Off-white text
+  --background-color: #21252B;     // Dark blue-grey background
+  --brand-color: #6A5ACD;          // Vibrant purple-blue links/accent (SlateBlue)
+  --brand-color-dark: #8A7BE0;     // Lighter purple-blue for visited links
+  --grey-color: #a0a0a0;           // Keeping mid-grey for now
+  --grey-color-light: #353A42;     // Darker blue-grey for subtle elements
+  --grey-color-dark: #d0d0d0;      // Keeping light grey for contrast (e.g., hamburger)
+  --button-background-color: #6A5ACD; // Match brand color for button hover bg
+  --button-text-color: #E1E3E6;    // Match text color for button hover text
+  --border-color: #353A42;         // Match light grey for borders
+  --code-background: #2B3038;      // Slightly lighter dark blue-grey for code blocks
+
+  // Wind indicator colors (Dark - Adjusted slightly for new background)
+  --wind-low-color: #4CAF50; // Slightly adjusted green
+  --wind-medium-color: #FFC107; // Keeping yellow
+  --wind-high-color: #F44336; // Slightly adjusted red
+}
+
+// -----------------------------------------------------------------------------
+// General Element Styling using CSS Variables
+// -----------------------------------------------------------------------------
+
+body {
+  color: var(--text-color);
+  background-color: var(--background-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border-color);
+}
+
+.site-footer {
+  border-top: 1px solid var(--border-color);
+}
+
+a {
+  color: var(--brand-color);
+
+  &:visited {
+    color: var(--brand-color-dark);
+  }
+
+  &:hover {
+    color: var(--text-color);
+  }
+}
+
+pre, code {
+  border: 1px solid var(--border-color);
+  background-color: var(--code-background);
+}
+
+blockquote {
+  color: var(--grey-color);
+  border-left: 4px solid var(--border-color);
+}
+
+.button-link {
+  color: var(--button-background-color);
+  border: 1px solid var(--button-background-color);
+
+  &:hover {
+    background-color: var(--button-background-color);
+    color: var(--button-text-color);
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Specific Dark Mode Adjustments
+// -----------------------------------------------------------------------------
+
+body.night-mode,
+html.night-mode {
+  // Site Title
+  .site-header .site-title,
+  .site-header .site-title:visited {
+    color: #f0f0f0; // Light color for dark background
+  }
+
+  // Site Navigation (Mobile)
+  .site-nav {
+    @include media-query($on-palm) {
+      background-color: var(--background-color);
+      border: 1px solid var(--border-color);
+
+      .menu-icon > svg path {
+        fill: var(--grey-color-dark); // Use variable
+      }
+    }
+  }
+  
+  // Site Navigation Links
+  .site-nav .page-link {
+     color: var(--text-color); // Ensure nav links use text color
+  }
+
+  // CSV Table Data
+  table.csv-data {
+    color: #ffffff; // Explicit white for contrast
+
+    th, td {
+      border-color: var(--border-color);
+    }
+  }
+
+  // SIL Logo adjustment
+  .sil-logo {
+    opacity: 0.7;
+    filter: brightness(0.9) contrast(0.9); // Consider filter: invert(1) brightness(2); if needed
+    transition: opacity 0.3s ease, filter 0.3s ease;
+
+
+  }
+
+  // Gallery adjustments
+  .image-gallery li a {
+    img {
+      background: var(--grey-color-light); // Darker background for image placeholder
+    }
+    span {
+      background: rgba(0, 0, 0, 0.7); // Darker caption background
+      color: var(--text-color); // Ensure caption text is readable
+    }
+    &:hover {
+      opacity: 1; // Ensure full opacity
+      transform: none; // Remove any scaling or movement
+      filter: none; // Remove any filter effects
+    }
+  }
+}
+
+
+// -----------------------------------------------------------------------------
+// Flash of Light Mode Prevention (Preload styles)
+// -----------------------------------------------------------------------------
+
+html.night-mode-preload,
+html.night-mode-preload body {
+  background-color: var(--background-color) !important;
+  color: var(--text-color) !important;
+  transition: none !important;
+
+  .site-header {
+    border-bottom: 1px solid var(--border-color) !important;
+  }
+
+  .site-footer {
+    border-top: 1px solid var(--border-color) !important;
+  }
+  
+  .site-nav .page-link {
+     color: var(--text-color) !important;
+  }
+  
+  // Add other critical elements that might flash
+}
+
+// -----------------------------------------------------------------------------
+// Night Mode Toggle/Icon Styles
+// -----------------------------------------------------------------------------
+
+.night-mode-container {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  z-index: 10;
+
+  @include media-query($on-palm) {
+    right: 85px; /* Increase space from hamburger menu (was 70px) */
+    top: 12px;
+  }
+}
+
+.night-mode-icon {
+  margin-right: 5px;
+  font-size: 20px;
+  transition: transform 0.3s ease;
+  cursor: pointer; // Make it obvious it's clickable
+
+  &:hover {
+    transform: scale(1.2);
+  }
+}
+
+/* Styles for a potential toggle switch (if used instead of just icon) */
+/*
+.night-mode-toggle {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+  margin-left: 15px;
+  vertical-align: middle;
+}
+
+.night-mode-toggle input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.night-mode-slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: .4s;
+  border-radius: 34px;
+}
+
+.night-mode-slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: .4s;
+  border-radius: 50%;
+}
+
+input:checked + .night-mode-slider {
+  background-color: #2196F3;
+}
+
+input:checked + .night-mode-slider:before {
+  transform: translateX(26px);
+}
+*/

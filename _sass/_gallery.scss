@@ -1,0 +1,43 @@
+// Image gallery styles
+.image-gallery {
+    overflow: auto;
+    margin-left: -1% !important;
+    
+    li {
+        float: left;
+        display: block;
+        margin: 0 0 1% 1%;
+        width: 19%;
+        aspect-ratio: 1;
+        
+        a {
+            text-align: center;
+            text-decoration: none !important;
+            color: #777;
+            display: block;
+            height: 100%;
+            position: relative;
+            
+            span {
+                display: block;
+                text-overflow: ellipsis;
+                overflow: hidden;
+                white-space: nowrap;
+                padding: 3px 0;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                background: rgba(255,255,255,0.9);
+            }
+            
+            img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                display: block;
+                background: #f0f0f0;
+            }
+        }
+    }
+}

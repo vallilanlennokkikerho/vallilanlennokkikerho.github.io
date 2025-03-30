@@ -1,0 +1,107 @@
+/**
+ * Styles specific to the Weather page
+ */
+
+.windimage-container {
+    display: flex;
+    align-items: top;
+    justify-content: space-between;
+    background-color: var(--background-color); // Use variable for theme compatibility
+}
+
+.content-left {
+    flex: 1;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.content-right {
+    flex: 1;
+}
+
+.wind-data {
+    font-size: 24px;
+    text-align: center;
+    color: #555; // Consider using $grey-color
+    padding: 20px;
+    border: 1px solid #ddd; // Consider using $grey-color-light
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9; // Consider a variable
+}
+
+.loading {
+    text-align: center;
+    font-style: italic;
+    color: #888; // Consider using $grey-color
+}
+
+.error {
+    text-align: center;
+    color: red;
+}
+
+.error-message {
+    text-align: center;
+    color: darkred;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.wind-visualization {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto 0;
+}
+
+.weather-forecast {
+    text-align: center;
+    color: #555; // Consider using $grey-color
+    padding: 20px;
+    border: 1px solid #ddd; // Consider using $grey-color-light
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9; // Consider a variable
+}
+
+.wind-arrow-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(var(--wind-direction));
+    z-index: 10;
+    margin: 0;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.wind-arrow {
+    width: 60px;
+    height: 60px;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+        opacity: 0.9;
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 0.7;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 0.9;
+    }
+}
+
+.valkka-image {
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    border-radius: 8px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}

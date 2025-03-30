@@ -18,7 +18,7 @@ Toiminta kentällä tapahtuu omalla vastuulla. Ihmisten turvalllisuudesta on pid
 
 ### Rekisteröityminen
 
-1.2.2021 alkaen jokaisen, joka lennättää yli 250 g painavia lennokkeja (droneja), pitää rekisteröityä viranomaiselle. Tämä koskee myös alle 250 g laitteita, joissa on kamera. Rekisteröinti maksaa verkossa 30€/1v tai 100€/5v ja se tapahtuu Traficomin Droneinfo [verkkopalvelussa](https://droneinfo.fi/fi/rekisteroityminen-ja-teoriakoe). Yhdistyksen puitteissa tapahtuva harrastetoiminta rajoittuu ainoastaan Talosaarentien ja Malmilla sijaitseville lennokkikentille, missä yhdistykseen kuuluvat harrastajat voivat toimia kuten aikaisemminkin noudattaen voimassa olevia lennokkitoiminnan sääntöjä ja turvaohjeita. [Talosaarentien_lennokkikentän_kenttäsäännöt_v1.1](Talosaari_lennokkikentän_kenttäsäännöt/)
+1.2.2021 alkaen jokaisen, joka lennättää yli 250 g painavia lennokkeja (droneja), pitää rekisteröityä viranomaiselle. Tämä koskee myös alle 250 g laitteita, joissa on kamera. Rekisteröinti maksaa verkossa 30€/1v tai 100€/5v ja se tapahtuu Traficomin Droneinfo [verkkopalvelussa](https://droneinfo.fi/fi/rekisteroityminen-ja-teoriakoe). Yhdistyksen puitteissa tapahtuva harrastetoiminta rajoittuu ainoastaan Talosaarentien ja Malmilla sijaitseville lennokkikentille, missä yhdistykseen kuuluvat harrastajat voivat toimia kuten aikaisemminkin noudattaen voimassa olevia lennokkitoiminnan sääntöjä ja turvaohjeita. [Talosaarentien_lennokkikentän_kenttäsäännöt_v1.2](Talosaari_lennokkikentän_kenttäsäännöt/)
 
 ### Toiminta yksityishenkilönä
 

@@ -62,29 +62,20 @@
 #lightbox #prev {left: 0;}
 #lightbox #next {right: 0;}
 #lightbox #close {height: 50px; width: 50px; position: fixed; cursor: pointer; text-decoration: none; z-index: 99; right: 0; top: 0;}
-#lightbox #close:after, #lightbox #close:before {position: absolute; margin-top: 22px; margin-left: 14px; content: ""; height: 3px; background: white; width: 23px;
--webkit-transform-origin: 50% 50%;
--moz-transform-origin: 50% 50%;
--o-transform-origin: 50% 50%;
-transform-origin: 50% 50%;
-/* Safari */
--webkit-transform: rotate(-45deg);
-/* Firefox */
--moz-transform: rotate(-45deg);
-/* IE */
--ms-transform: rotate(-45deg);
-/* Opera */
--o-transform: rotate(-45deg);
+#lightbox #close:after, #lightbox #close:before {
+  position: absolute;
+  margin-top: 22px;
+  margin-left: 14px;
+  content: "";
+  height: 3px;
+  background: white;
+  width: 23px;
+  transform-origin: 50% 50%;
+  transform: rotate(-45deg);
 }
+
 #lightbox #close:after {
-/* Safari */
--webkit-transform: rotate(45deg);
-/* Firefox */
--moz-transform: rotate(45deg);
-/* IE */
--ms-transform: rotate(45deg);
-/* Opera */
--o-transform: rotate(45deg);
+  transform: rotate(45deg);
 }
 #lightbox, #lightbox * {
     -webkit-user-select: none;  

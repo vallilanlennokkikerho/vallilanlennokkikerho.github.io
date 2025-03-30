@@ -1,0 +1,26 @@
+/**
+ * Utility Classes
+ */
+
+// Column helpers
+.column-small {
+    float: left;
+    width: 40%;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+// Margin helper
+.no-margin {
+    margin: 0;
+}

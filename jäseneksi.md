@@ -18,9 +18,13 @@ Uudet jäsenet voivat aloittaa lennättämisen kentällä saatuaan vastauksen j�
 
 ## Jäsenmaksut
 
-- Normaalijäsen 35€
-- Juniorijäsen* 10€
-- Perhejäsen 5€
+- **Varsinaiset jäsenet**: 35€
+- **Juniorijäsenet**: 10€
+- **Perhejäsenet**: 5€
+
+**1.9. jälkeen liittyville:**
+- Uudet jäsenet maksavat vain puolet jäsenmaksusta (17,50€) loppukauden ajaksi.
+- Uuden jäsenen harrastavat juniorit ja perheenjäsenet eivät maksa mitään liittymisvuonna.
 
 *Juniorijäseniksi lasketaan kaikki alle 18-vuotiaat jäsenet. Henkilö on juniorijäsen vielä sen vuoden loppuun jolloin täyttää 18 vuotta.
 
