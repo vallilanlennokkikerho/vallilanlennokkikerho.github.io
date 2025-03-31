@@ -1,0 +1,43 @@
+// Our variables
+// Simplified font stack for testing
+$base-font-family: Helvetica, Arial, sans-serif;
+$heading-font-family: Helvetica, Arial, sans-serif; // Using same stack for consistency
+$base-font-size:   1rem; // Use rem for scalability with html font-size changes
+$small-font-size:  $base-font-size * 0.875;
+$large-font-size:  $base-font-size * 1.25;
+$base-line-height: 1.5;
+$heading-line-height: 1.2;
+
+// Font weights
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
+
+$spacing-unit:     30px;
+
+// Light mode colors (default)
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2929FF;
+$grey-color:       #575757;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+$button-background-color: $brand-color; // Defining button background color using brand color
+$button-text-color: #fff; // Defining button text color
+
+$on-palm:          900px;
+$on-laptop:        800px;
+
+// Using media queries with like this:
+// @include media-query($palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}

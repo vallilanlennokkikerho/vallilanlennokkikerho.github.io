@@ -265,3 +265,22 @@ input:checked + .night-mode-slider:before {
   transform: translateX(26px);
 }
 */
+.font-size-controls {
+  display: inline-flex;
+  margin-left: 10px;
+  align-items: center;
+}
+
+.font-size-btn {
+  background: none;
+  border: none;
+  color: var(--text-color);
+  cursor: pointer;
+  font-size: 16px;
+  padding: 0 5px;
+  transition: transform 0.2s ease;
+
+  &:hover {
+    transform: scale(1.1);
+  }
+}
