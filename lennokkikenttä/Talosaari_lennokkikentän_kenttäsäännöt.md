@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Vallilan Lennokkikerho r.y:n (VLK) lennokkitoiminnan säännöt ja turvaohjeet
-permalink: /kenttä/Talosaari_lennokkikentän_kenttäsäännöt/
+permalink: /lennokkikenttä/Talosaari_lennokkikentän_kenttäsäännöt/
+redirect_from:
+  - /kenttä/Talosaari_lennokkikentän_kenttäsäännöt/
 description: Tutustu Vallilan Lennokkikerhon lennokkitoiminnan sääntöihin ja turvaohjeisiin Talosaarentien lennokkikentällä. Ohjeet koskevat lennätyspaikan käyttöoikeutta, ilmatilan hallintaa, lennätysaikoja ja -korkeuksia sekä lennättämisen vastuullisuutta
 keywords: Lennokkitoiminta, Säännöt, Turvaohjeet, Talosaarentien Lennokkikenttä, Helsinki, Ilmatilan Hallinta, Lennätysajat, Lennätyskorkeus, Vastuu, Turvallisuus, Rekisteröityminen, UAV, UAS, FPV, Suomen Ilmailuliitto, SIL
 ---

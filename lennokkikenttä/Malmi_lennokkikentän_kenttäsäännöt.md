@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Helsinki EFHF lennokkikenttä Malmi - Kenttäsäännöt ja turvaohjeet UAS, v. 1.0
-permalink: /kenttä/Malmi_lennokkikentän_kenttäsäännöt/
+permalink: /lennokkikenttä/Malmi_lennokkikentän_kenttäsäännöt/
+redirect_from:
+  - /kenttä/Malmi_lennokkikentän_kenttäsäännöt/
 description: Tutustu Vallilan Lennokkikerhon lennokkitoiminnan sääntöihin ja turvaohjeisiin Talosaarentien lennokkikentällä. Ohjeet koskevat lennätyspaikan ilmatilan käyttöoikeutta, ilmatilan hallintaa, lennätysaikoja ja -korkeuksia sekä lennättämisen vastuullisuutta
 keywords: Lennokkitoiminta, Säännöt, Turvaohjeet, Helsinki, Ilmatilan Hallinta, Lennätysajat, Lennätyskorkeus, Vastuu, Turvallisuus, Rekisteröityminen, UAV, UAS, FPV, Suomen Ilmailuliitto, SIL
 ---
