@@ -45,6 +45,8 @@
 .site-nav {
   float: right;
   line-height: 56px;
+  position: relative;
+  z-index: 1000; // Add a high z-index to ensure menu appears above all content
   margin-right: 20px; // Add space to the right for night mode toggle
 
   .menu-icon {
@@ -64,6 +66,12 @@
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
+    right: $spacing-unit / 2;
+    background-color: var(--background-color);
+    border: 1px solid var(--border-color);
+    border-radius: 5px;
+    text-align: right;
+    z-index: 1000; // Ensure z-index is applied in mobile view too
     right: 30px;
     background-color: $background-color;
     border: 1px solid $grey-color-light;
