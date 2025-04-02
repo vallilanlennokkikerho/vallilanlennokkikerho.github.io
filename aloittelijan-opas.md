@@ -10,26 +10,30 @@ Tervetuloa lennokkiharrastuksen pariin! Tämä opas on suunnattu sinulle, joka o
 
 ## Miksi Aloittaa Lennokkiharrastus?
 
-*   **Tekniikka ja Kädentaidot:** Lennokkien rakentaminen ja huoltaminen kehittää teknistä osaamista ja kädentaitoja.
-*   **Ilmailun Perusteet:** Opit aerodynamiikan, sääolosuhteiden ja lentämisen perusperiaatteita.
-*   **Yhteisöllisyys:** Kerhossa tapaat samanhenkisiä ihmisiä, jaat kokemuksia ja saat apua.
-*   **Ulkona Liikkuminen:** Lennättäminen tapahtuu ulkona raittiissa ilmassa.
+* **Tekniikka ja Kädentaidot:** Lennokkien rakentaminen ja huoltaminen kehittää teknistä osaamista ja kädentaitoja.
+* **Ilmailun Perusteet:** Opit aerodynamiikan, sääolosuhteiden ja lentämisen perusperiaatteita.
+* **Yhteisöllisyys:** Kerhossa tapaat samanhenkisiä ihmisiä, jaat kokemuksia ja saat apua.
+* **Ulkona Liikkuminen:** Lennättäminen tapahtuu ulkona raittiissa ilmassa.
 
 ## Miten Pääsen Alkuun?
 
 ### 1. Ota Yhteyttä Kerhoon
+
 Paras tapa aloittaa on ottaa yhteyttä meihin! Voit tulla käymään lennokkikentällä tai laittaa viestiä. [Linkki Jäseneksi-sivulle](/jäseneksi/)
 
 ### 2. Ensimmäiset Askeleet Kentällä
+
 Kokeneemmat harrastajat opastavat mielellään alkuun. Usein on mahdollista kokeilla lennättämistä opettajan kanssa ns. "kaapelilennätyksellä", jossa opettajalla ja oppilaalla on omat radiolähettimet yhdistettynä.
 
 ### 3. Mitä Tarvitsen?
-*   **Lennokki:** Aloittelijalle sopii usein helposti lennettävä ja kestävä malli, esimerkiksi sähkökäyttöinen liidokki tai koulutuskone. Kerholaisilta saa hyviä vinkkejä sopivan mallin valintaan.
-*   **Radiolähetin ja Vastaanotin:** Nykyaikaiset 2.4 GHz radiolaitteet ovat luotettavia ja helppokäyttöisiä.
-*   **Akut ja Laturi:** Sähkölennokeissa tarvitaan akut ja niille sopiva laturi. Polttomoottorikoneissa tarvitaan polttoainetta ja käynnistystarvikkeita.
-*   **Muut Tarvikkeet:** Pieniä työkaluja, liimaa, teippiä yms. rakenteluun ja korjauksiin.
+
+* **Lennokki:** Aloittelijalle sopii usein helposti lennettävä ja kestävä malli, esimerkiksi sähkökäyttöinen liidokki tai koulutuskone. Kerholaisilta saa hyviä vinkkejä sopivan mallin valintaan.
+* **Radiolähetin ja Vastaanotin:** Nykyaikaiset 2.4 GHz radiolaitteet ovat luotettavia ja helppokäyttöisiä.
+* **Akut ja Laturi:** Sähkölennokeissa tarvitaan akut ja niille sopiva laturi. Polttomoottorikoneissa tarvitaan polttoainetta ja käynnistystarvikkeita.
+* **Muut Tarvikkeet:** Pieniä työkaluja, liimaa, teippiä yms. rakenteluun ja korjauksiin.
 
 ### 4. Turvallisuus ja Ensimmäinen Lennokki
+
 Lennokki ei ole lelu, vaan se lentää samojen periaatteiden mukaisesti kuin täysikokoinen lentokone. Siksi on tärkeää oppia hallitsemaan lennokki turvallisesti.
 
 **Trainerikone – Paras Valinta Aloittelijalle:**
@@ -40,16 +44,18 @@ Kokeneet harrastajat kerhossa auttavat sopivan ensimmäisen lennokin ja varustei
 ## Mitä Seuraavaksi?
 
 Kun perusteet ovat hallussa, voit syventyä harrastukseen monin tavoin:
-*   Eri lennokkityypit (liidokit, moottorikoneet, helikopterit, multikopterit)
-*   Kilpailutoiminta (esim. F3K, F3A, F2B, TOKA)
-*   Lennokkien suunnittelu ja rakentaminen alusta alkaen
+
+* Eri lennokkityypit (liidokit, moottorikoneet, helikopterit, multikopterit)
+* Kilpailutoiminta (esim. F3K, F3A, F2B, TOKA)
+* Lennokkien suunnittelu ja rakentaminen alusta alkaen
 
 Kysy rohkeasti lisää kerhon jäseniltä! Autamme mielellämme sinut alkuun tässä kiehtovassa harrastuksessa. Apua ja lisätietoa saat myös [Suomen Ilmailuliitosta](https://www.ilmailuliitto.fi/).
 
 ## Hyödyllisiä Vinkkejä Aloittelijalle
 
-*   **Liity lennokkikerhoon:** Saat tukea, opastusta ja pääset osaksi yhteisöä.
-*   **Tutustu turvallisuusmääräyksiin:** Lue kerhon ja lennokkikentän säännöt huolella.
-*   **Hanki vakuutus:** Varmista, että sinulla on voimassa oleva lennokkitoiminnan kattava vastuuvakuutus (esim. Ilmailuliiton jäsenyyden kautta).
-*   **Harjoittele simulaattorilla:** Simulaattori on erinomainen tapa opetella radiolaitteiden käyttöä ja lentämisen perusteita turvallisesti.
-*   **Pidä hauskaa ja opi muilta:** Ole utelias, kysy neuvoa ja nauti harrastuksesta!
+* **Liity lennokkikerhoon:** Saat tukea, opastusta ja pääset osaksi yhteisöä.
+* **Tutustu turvallisuusmääräyksiin:** Lue kerhon ja lennokkikentän säännöt huolella.
+* **Hanki vakuutus:** Varmista, että sinulla on voimassa oleva lennokkitoiminnan kattava vastuuvakuutus (esim. Ilmailuliiton jäsenyyden kautta).
+* **Harjoittele simulaattorilla:** Simulaattori on erinomainen tapa opetella radiolaitteiden käyttöä ja lentämisen perusteita turvallisesti.
+* **Pidä hauskaa ja opi muilta:** Ole utelias, kysy neuvoa ja nauti harrastuksesta!
+* [Linkkejä ja resursseja](/resurssit/)
