@@ -3,6 +3,7 @@ layout: page
 title: Aloittelijan Opas Lennokkiharrastukseen
 permalink: /aloittelijan-opas/
 lang: fi
+description: Kiinnostaako lennokkiharrastus? Tämä opas auttaa sinut alkuun. Vinkkejä ensimmäisen lennokin valintaan, turvallisuusohjeita ja miten liittyä kerhoon.
 ---
 
 
@@ -19,7 +20,7 @@ Tervetuloa lennokkiharrastuksen pariin! Tämä opas on suunnattu sinulle, joka o
 
 ### 1. Ota Yhteyttä Kerhoon
 
-Paras tapa aloittaa on ottaa yhteyttä meihin! Voit tulla käymään lennokkikentällä tai laittaa viestiä. [Linkki Jäseneksi-sivulle](/jäseneksi/)
+Paras tapa aloittaa on ottaa meihin yhteyttä! Voit tulla käymään lennokkikentällä tai laittaa viestiä. Lennättäjiä on yleensä paikalla tyyninä iltoina ja viikonloppuisin. [Linkki Jäseneksi-sivulle](/jäseneksi/)
 
 ### 2. Ensimmäiset Askeleet Kentällä
 
@@ -27,7 +28,7 @@ Kokeneemmat harrastajat opastavat mielellään alkuun. Usein on mahdollista koke
 
 ### 3. Mitä Tarvitsen?
 
-* **Lennokki:** Aloittelijalle sopii usein helposti lennettävä ja kestävä malli, esimerkiksi sähkökäyttöinen liidokki tai koulutuskone. Kerholaisilta saa hyviä vinkkejä sopivan mallin valintaan.
+* **Lennokki:** Aloittelijalle sopii usein helposti lennettävä ja kestävä malli, esimerkiksi sähkökäyttöinen liidokki tai koulutuskone. Kerholaisilta saa hyviä vinkkejä sopivan mallin valintaan. Voit tutustua tarkemmin erilaisiin [lennokkityyppeihin](/lennokkityypit/) omalla sivullaan.
 * **Radiolähetin ja Vastaanotin:** Nykyaikaiset 2.4 GHz radiolaitteet ovat luotettavia ja helppokäyttöisiä.
 * **Akut ja Laturi:** Sähkölennokeissa tarvitaan akut ja niille sopiva laturi. Polttomoottorikoneissa tarvitaan polttoainetta ja käynnistystarvikkeita.
 * **Muut Tarvikkeet:** Pieniä työkaluja, liimaa, teippiä yms. rakenteluun ja korjauksiin.
