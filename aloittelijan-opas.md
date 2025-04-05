@@ -38,18 +38,37 @@ Seuraa näitä helppoja askeleita päästäksesi alkuun lennokkiharrastuksessa:
 
 4. **Turvallisuus, materiaalit ja ensimmäinen lennokki**:
    Lennokki ei ole lelu, vaan se lentää samojen periaatteiden mukaisesti kuin täysikokoinen lentokone. Siksi on tärkeää oppia hallitsemaan lennokki turvallisesti.
-   **Trainer-kone – paras valinta aloittelijalle**: Lentämisen perusteiden ymmärtäminen on oleellista. Trainer-kone on vakaa konetyyppi, joka sopii erinomaisesti aloittelijoille, sillä sen ominaisuudet tasoittavat lentoasentoa ja helpottavat lentämistä sekä laskeutumista. Monet aloittelijaystävälliset lennokit on valmistettu kestävistä vaahtomuoveista (kuten EPP tai EPO), jotka sietävät pieniä kolhuja ja ovat helposti korjattavissa. Voit lukea lisää yleisimmistä [rakennusmateriaaleista täältä](/rakennusmateriaalit/). Aloittelijan kannattaa aloittaa trainerilla ja edetä vaativampiin malleihin taitojen kehittyessä. Ennen ensimmäistä ostosta pohti, onko kyseessä kokeilu vai pitkäaikainen harrastus – kalliimpien laitteiden hankintaa voi harkita myöhemmin.
+   **Trainer-kone – paras valinta aloittelijalle**: Lentämisen perusteiden ymmärtäminen on oleellista. Trainer-kone on vakaa konetyyppi, joka sopii erinomaisesti aloittelijoille, sillä sen ominaisuudet tasoittavat lentoasentoa ja helpottavat lentämistä sekä laskeutumista. Monet aloittelijaystävälliset lennokit on valmistettu kestävistä vaahtomuoveista (kuten EPP tai EPO), jotka sietävät pieniä kolhuja ja ovat helposti korjattavissa. Voit lukea lisää yleisimmistä [rakennusmateriaaleista täältä](/rakennusmateriaalit/). Aloittelijan kannattaa aloittaa trainerilla ja edetä vaativampiin malleihin taitojen kehittyessä. Ennen ensimmäistä ostosta pohdi, onko kyseessä kokeilu vai pitkäaikainen harrastus – kalliimpien laitteiden hankintaa voi harkita myöhemmin.
    Kokeneet kerholaiset auttavat sopivan lennokin ja varusteiden valinnassa.
 
-## Mitä Seuraavaksi?
+## Mitä seuraavaksi harrastuksessa?
 
-Kun perusteet ovat hallussa, voit syventyä harrastukseen monin tavoin:
+Kun olet löytänyt itsellesi sopivan lennokkityypin ja saanut perusteet haltuun, lennokkiharrastus avaa oven moniin kiehtoviin suuntiin. Tässä muutamia tapoja syventää harrastustasi:
 
-- **Eri lennokkityypit**: Liidokit, moottorikoneet, helikopterit, multikopterit.
-- **Kilpailutoiminta**: Esim. F3K (käsilaukaisuliidokit), F3A (taitolento), F2B (ohjailulennokit), TOKA (taitolento polttomoottorikoneilla).
-- **Lennokkien suunnittelu ja rakentaminen**: Rakenna omia malleja alusta alkaen.
+### Kokeile uusia lennokkityyppejä
+Harrastuksen edetessä voit laajentaa kokemustasi kokeilemalla erilaisia lennokkeja. Jos aloitit trainerilla, seuraava askel voisi olla sport-lennokki perusakrobatiaan tai sähköliidokki rauhalliseen liitämiseen. Kokeneempana voit haastaa itsesi 3D-lennokkien äärimmäisillä tempuilla tai scale-mallien tarkalla realismilla. Vallilan Lennokkikerhon jäsenet lennättävät monenlaisia lennokkeja – tule Talosaarentien kentälle katsomaan ja inspiroitumaan!
 
-### Lukemista aloittavalle
+### Tutustu kilpailutoimintaan
+Lennokkiharrastus tarjoaa myös kilpailullisia haasteita. Voit kokeilla esimerkiksi:
+- **F3K (käsilaukaisuliidokit):** Kevyiden DLG-liidokkien lennätys käsiheitolla – täydellinen laji tarkkuutta ja strategiaa arvostaville. Lue lisää [F3K-lajiesittelystämme](/F3K-lajiesittely/).
+- **F3A (taitolento):** Akrobaattisia liikesarjoja radio-ohjattavilla lennokeilla – vaatii harjoittelua ja taitoa.
+- **F2B (siimalennokit):** Perinteinen laji, jossa lennokkia ohjataan siimoilla ympyräradalla – yhdistää tarkkuuden ja perinteet.
+- **TOKA (vapaastilentävät liidokit):** Klassinen kilpailumuoto, jossa moottorittomat liidokit vedetään siimalla ilmaan ja ne lentävät itsenäisesti.
+
+Kilpailut ovat loistava tapa testata taitojasi ja tavata muita harrastajia. Vallilan Lennokkikerhon jäsenistöstä löytyy kokemusta monista lajeista – kysy vinkkejä kentällä!
+
+### Syvenny lennokkien suunnitteluun ja rakentamiseen
+Jos pidät käsillä tekemisestä, voit siirtyä valmiiden lennokkien lennättämisestä omien mallien suunnitteluun ja rakentamiseen. Aloita yksinkertaisesta rakennussarjasta ja etene kohti täysin itse suunniteltuja projekteja. Rakentaminen kehittää ymmärrystäsi aerodynamiikasta ja antaa ainutlaatuisen tunteen, kun oma luomuksesi nousee ilmaan. Lue lisää [Lennokkien rakentaminen – Aloittelijan opas](/aloittaminen/lennokkien-rakentaminen/) -osiostamme.
+
+### Liity yhteisöön ja opi lisää
+Harrastuksen paras puoli on sen sosiaalinen ulottuvuus. Vallilan Lennokkikerhon Talosaarentien kentällä tapaat muita harrastajia, joilta voit oppia uutta ja jakaa kokemuksia. Kentällä järjestetään myös yhteisiä lennätyshetkiä ja tapahtumia, joissa voit nähdä erilaisia lennokkeja toiminnassa. Tutustu kenttään tarkemmin [Lennokkikentät ja lennättäminen – Aloittelijan opas](/aloittaminen/lennokkikentat-aloittelijalle/) -sivulla ja tule mukaan!
+
+### Kehitä taitojasi simulaattorilla
+Ennen kuin siirryt vaativampiin lennokkeihin tai kilpailuihin, harkitse lennokkisimulaattorin käyttöä. Simulaattorit, kuten Phoenix RC tai RealFlight, auttavat harjoittelemaan turvallisesti ja edullisesti – ilman riskiä lennokin rikkoutumisesta.
+
+Harrastuksen kehittäminen on matka, jossa voit itse päättää suunnan. Olitpa kiinnostunut rauhallisesta liitämisestä, temppulentämisestä tai omien mallien luomisesta, Vallilan Lennokkikerho tukee sinua jokaisessa vaiheessa!
+
+### Lukemista aloittavalle harrastajalle
 
 Olemme luoneet sarjan sivuja tarkempaa tietoa varten:
 
