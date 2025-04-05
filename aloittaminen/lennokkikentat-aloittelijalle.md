@@ -141,22 +141,18 @@ Sääolosuhteet vaikuttavat merkittävästi lennättämiseen:
 Turvallisuus on lennokkiharrastuksen tärkein periaate:
 
 ### Henkilökohtainen turvallisuus
-
 1. **Pyörivät osat**: Varo potkureita ja roottoreita – ne voivat aiheuttaa vakavia vammoja.
 2. **Akut**: Käsittele LiPo-akkuja varovasti, sillä ne voivat syttyä palamaan väärinkäytettynä.
 3. **Aurinkosuoja ja nesteytys**: Suojaudu auringolta ja juo riittävästi vettä ulkona ollessa.
 
 ### Lennokin turvallisuus
-
 1. **Failsafe-asetukset**: Varmista, että lennokki on ohjelmoitu laskeutumaan turvallisesti signaalin kadotessa.
 2. **Etäisyys**: Pidä lennokki näköetäisyydellä ja turvallisen matkan päässä ihmisistä.
 3. **Lentokorkeus**: Noudata sallittuja lentokorkeuksia (yleensä enintään 120 metriä).
 
 ### Hätätilanteet
-
 1. **Ohjauksen menetys**: Jos menetät lennokin hallinnan, huuda varoitus muille kentällä olijoille.
 2. **Törmäys**: Jos lennokki törmää, varmista ensin, ettei kukaan loukkaantunut, ja tarkista vasta sitten lennokin vauriot.
-3. **Tulipalo**: Pidä palosammutin saatavilla, erityisesti polttomoottori- tai LiPo-akuilla varustettujen lennokkien kanssa.
 
 ## Lennätysluvat ja määräykset
 
