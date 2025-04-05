@@ -5,10 +5,10 @@ permalink: /kilpailut/
 description: Liity mukaan jännittävään lennokkikilpailujen maailmaan Vallilan lennokkikerhon kanssa!
 keywords: Vallilan lennokkikerho, vallilan lennokkikerho, Valkka, valkka, Vallilan, vallilan, Lennokkikerho, lennokkikisa, lennokki, lennätys, toka
 ---
-# Lennokkikilpailut 2025
 
 ----------------
 ----------------
+
 ## F2B-luokan SM-osakilpailut 2025
 
 Vallilan Lennokkikerho ry toimii järjestäjänä F2B-luokan SM-osakilpailuissa vuonna 2025:
@@ -25,8 +25,8 @@ Kilpailujen seuranta on avoin kaikelle yleisölle. Tervetuloa seuraamaan tätä 
 ----------------
 Vallilan Lennokkikerho ry toimi järjestäjänä F2B-luokan osakilpailuissa numero 1 ja 3. Alla ovat linkit näiden kilpailujen kutsuihin:
 
-- [F2B Osakilpailu 1](f2b-2024-1.html)
-- [F2B Osakilpailu 3](f2b-2024-3.html)
+- [F2B Osakilpailu 1](/kilpailut/f2b-2024-1/)
+- [F2B Osakilpailu 3](/kilpailut/f2b-2024-3/)
 
 ## F3K SM3 osakilpailu 2022
 

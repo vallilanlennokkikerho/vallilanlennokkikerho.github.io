@@ -1,0 +1,230 @@
+---
+layout: page
+title: Lennokkien rakentaminen – Aloittelijan opas
+permalink: /aloittaminen/lennokkien-rakentaminen/
+lang: fi
+description: Opi lennokkien rakentamisen perusteet! Kattava opas aloittelijalle materiaalien valinnasta, työkaluista ja tekniikoista onnistuneeseen rakennusprojektiin.
+keywords: lennokkien rakentaminen, rc lennokki rakentaminen, lennokki rakennussarja, balsa lennokki, lennokki materiaalit
+---
+
+Lennokkien rakentaminen on palkitseva osa lennokkiharrastusta. Se tarjoaa mahdollisuuden oppia uusia taitoja, ymmärtää lennokin toimintaa syvällisemmin ja kokea ainutlaatuista ylpeyttä, kun itse rakennettu lennokki nousee ilmaan. Tämä opas johdattaa sinut lennokkien rakentamisen perusteisiin.
+
+## Sisällysluettelo
+
+1. [Miksi rakentaa itse?](#miksi-rakentaa-itse)
+2. [Aloittelijan rakennusprojektit](#aloittelijan-rakennusprojektit)
+3. [Tarvittavat työkalut ja materiaalit](#tarvittavat-työkalut-ja-materiaalit)
+4. [Rakennustekniikat](#rakennustekniikat)
+5. [Yleisimmät rakennusmateriaalit](#yleisimmät-rakennusmateriaalit)
+6. [Vaiheittainen rakennusprosessi](#vaiheittainen-rakennusprosessi)
+7. [Viimeistely ja pintakäsittely](#viimeistely-ja-pintakäsittely)
+8. [Elektroniikan asennus](#elektroniikan-asennus)
+9. [Yleisimmät virheet ja niiden välttäminen](#yleisimmät-virheet-ja-niiden-välttäminen)
+10. [Mistä hankkia rakennussarjoja ja materiaaleja?](#mistä-hankkia-rakennussarjoja-ja-materiaaleja)
+
+## Miksi rakentaa itse?
+
+Itse tehdyn lennokin rakentamisella on monia etuja:
+
+- **Syvällisempi ymmärrys**: Opit tuntemaan lennokin rakenteen ja aerodynamiikan perusteellisesti.
+- **Korjaustaidot**: Kun osaat rakentaa lennokin, osaat myös korjata sen onnettomuuden sattuessa.
+- **Kustannustehokkuus**: Pitkällä tähtäimellä rakentaminen voi olla edullisempaa kuin valmiiden mallien ostaminen.
+- **Yksilöllisyys**: Voit muokata lennokkia omien mieltymystesi mukaan.
+- **Ylpeys saavutuksesta**: Itse rakennetun lennokin lentäminen tuo ainutlaatuista tyydytystä.
+
+## Aloittelijan rakennusprojektit
+
+Aloittelijalle sopivia rakennusprojekteja ovat:
+
+### 1. Heittoliidokki
+
+Yksinkertainen balsaliidokki on erinomainen ensimmäinen projekti. Se opettaa aerodynamiikan perusasioita ilman monimutkaista elektroniikkaa.
+
+### 2. Rakennussarjat
+
+Valmiit rakennussarjat sisältävät kaikki tarvittavat osat ja yksityiskohtaiset ohjeet. Hyviä aloittelijasarjoja ovat:
+
+- **Balsa USA Trainer**: Perinteinen balsarakennussarja.
+- **Flite Test -sarjat**: Edullisia vaahtolevystä (foam board) rakennettavia malleja.
+- **SIG Kadet**: Klassinen aloittelijalennokki.
+
+### 3. Valmiiksi leikatut rakennussarjat
+
+Laserleikatut sarjat, joissa osat ovat valmiiksi muotoon leikattuja, helpottavat rakentamista huomattavasti.
+
+## Tarvittavat työkalut ja materiaalit
+
+### Perustyökalut
+
+1. **Terävä askarteluveitsi tai skalpelli**
+2. **Metallinen suorakulma ja viivain**
+3. **Hiekkapaperi** (eri karkeusasteita)
+4. **Nuppineulat** osien kiinnittämiseen rakennusvaiheessa
+5. **Pieni saha** (esim. X-Acto tai japanilainen käsisaha)
+6. **Hiomapalikat**
+7. **Pihdit** (tavalliset ja sivuleikkurit)
+8. **Ruuvimeisselisarja**
+
+### Liimat
+
+1. **Puuliima** (esim. Eri Keeper) balsaosien liimaamiseen
+2. **Pikaliima** (syanoakrylaatti) nopeisiin liimauksiin
+3. **Epoksiliima** vahvempiin liitoksiin
+4. **Kontaktiliima** (esim. UHU-POR) vaahtomuoviosien liimaamiseen
+
+### Rakennusalusta
+
+Tasainen, pehmeä alusta, johon voit kiinnittää osia nuppineuloilla. Esimerkiksi vaahtolevy tai erityinen rakennusalusta sopii hyvin.
+
+## Rakennustekniikat
+
+### Balsarakentaminen
+
+1. **Kaavapiirustuksen käyttö**: Kiinnitä rakennuspiirustus alustalle ja suojaa se muovikalvolla.
+2. **Osien leikkaaminen**: Leikkaa osat tarkasti piirustusten mukaan.
+3. **Kokoaminen**: Kokoa runko ja siivet piirustuksen päällä nuppineulojen avulla.
+4. **Liimaaminen**: Käytä puuliimaa balsaosien liimaamiseen ja anna kuivua kunnolla.
+
+### Vaahtomuovirakentaminen
+
+1. **Mallineiden käyttö**: Piirrä osat paperi- tai pahvimallineilla.
+2. **Leikkaaminen**: Leikkaa osat terävällä veitsellä tai kuumalankaleikkurilla.
+3. **Liimaaminen**: Käytä kontaktiliimaa, uretaaniliimaa tai kuumaliimaa.
+4. **Vahvistaminen**: Vahvista kriittiset kohdat hiilikuidulla tai balsalla.
+
+## Yleisimmät rakennusmateriaalit
+
+### Balsa
+
+- **Edut**: Kevyt, helppo työstää, vahva painoonsa nähden.
+- **Haitat**: Hauras, vaatii huolellista käsittelyä.
+- **Käyttökohteet**: Runko, siivet, peräsimet, kaaret.
+
+### Vaahtomuovi
+
+- **Edut**: Edullinen, kestävä, helppo korjata.
+- **Haitat**: Ei yhtä vahva kuin balsa, voi vaatia vahvistuksia.
+- **Käyttökohteet**: Runko, siivet, nopeat prototyypit.
+
+### Liimattu vaneri (plywood)
+
+- **Edut**: Erittäin vahva, jäykkä.
+- **Haitat**: Painavampi kuin balsa.
+- **Käyttökohteet**: Moottoripukki, vahvistukset, keskisiipi.
+
+### Hiilikuitu
+
+- **Edut**: Erittäin vahva ja kevyt.
+- **Haitat**: Kallis, vaatii erityisiä työstötekniikoita.
+- **Käyttökohteet**: Vahvistukset, putkirungot, siiven salot.
+
+## Vaiheittainen rakennusprosessi
+
+Tyypillinen rakennusprosessi etenee näin:
+
+### 1. Valmistelu
+
+- Tutustu rakennusohjeisiin huolellisesti.
+- Järjestä työkalut ja materiaalit.
+- Valmistele rakennusalusta.
+
+### 2. Rungon rakentaminen
+
+- Aloita rungon sivuista.
+- Kokoa runko piirustuksen päällä.
+- Anna liimojen kuivua kunnolla ennen rungon irrottamista alustasta.
+
+### 3. Siipien rakentaminen
+
+- Rakenna siivet tasaisella alustalla.
+- Varmista, että siipi on suora ja kiertymätön.
+- Lisää vahvistukset (salot, kaaret) ohjeiden mukaan.
+
+### 4. Peräsimet
+
+- Rakenna korkeus- ja sivuperäsin.
+- Varmista, että saranat toimivat sulavasti.
+
+### 5. Kokoonpano
+
+- Yhdistä siivet runkoon.
+- Kiinnitä peräsimet.
+- Tarkista, että kaikki osat ovat suorassa ja linjassa.
+
+## Viimeistely ja pintakäsittely
+
+Hyvä viimeistely parantaa lennokin ulkonäköä ja suorituskykyä:
+
+### 1. Hionta
+
+- Hio pinnat sileiksi aloittaen karkeammasta hiekkapaperista ja siirtyen hienompaan.
+- Kiinnitä erityistä huomiota johtoreunoihin ja muihin aerodynaamisesti tärkeisiin kohtiin.
+
+### 2. Pinnoitus
+
+Vaihtoehtoja pinnoitukseen:
+
+- **Kalvopinnoite** (esim. Oracover, Monokote): Lämmöllä kiinnitettävä, kestävä pinnoite.
+- **Maali**: Kevyt ruiskumaali tai siveltävä maali.
+- **Paperi**: Perinteinen japaninpaperi ja liisterikerros.
+- **Teippi**: Vaahtomuovilennokeissa värillinen teippi on helppo ratkaisu.
+
+### 3. Yksityiskohdat
+
+- Lisää ohjaamon yksityiskohdat, pilotti, merkinnät tms.
+- Varmista, että kaikki tarvittavat merkinnät (esim. rekisteröintitunnus) ovat näkyvillä.
+
+## Elektroniikan asennus
+
+Elektroniikan asennus on kriittinen vaihe:
+
+### 1. Servot
+
+- Asenna servot tukevasti runkoon tai siipiin.
+- Varmista, että työntötangot liikkuvat vapaasti ilman takertelua.
+
+### 2. Vastaanotin
+
+- Sijoita vastaanotin suojattuun paikkaan, etäälle moottorista ja nopeudensäätimestä.
+- Kiinnitä se vaahtomuovilla tärinän vähentämiseksi.
+
+### 3. Moottori
+
+- Kiinnitä moottori tukevasti moottoripukkiin.
+- Varmista, että moottori on linjassa rungon kanssa.
+
+### 4. Akku
+
+- Sijoita akku niin, että painopiste asettuu oikeaan kohtaan.
+- Varmista, että akku on helposti vaihdettavissa ja tukevasti kiinni.
+
+### 5. Johdotus
+
+- Pidä johdot siisteinä ja kiinnitä ne runkoon.
+- Vältä johtoja, jotka voivat tarttua liikkuviin osiin.
+
+## Yleisimmät virheet ja niiden välttäminen
+
+1. **Kiirehtiminen**: Varaa riittävästi aikaa ja anna liimojen kuivua kunnolla.
+2. **Epätarkkuus**: Mittaa kahdesti, leikkaa kerran – pienetkin virheet voivat kertautua.
+3. **Ylipainoisuus**: Vältä liiallista liiman käyttöä ja turhia vahvistuksia.
+4. **Vääristyneet rakenteet**: Tarkista säännöllisesti, että siivet ja runko pysyvät suorina.
+5. **Painopisteen laiminlyönti**: Suunnittele elektroniikan sijoittelu niin, että painopiste on oikeassa kohdassa.
+
+## Mistä hankkia rakennussarjoja ja materiaaleja?
+
+Suomessa lennokkien rakennusmateriaaleja ja -sarjoja myyvät:
+
+- **Verkkokaupat**: RC-Kauppa, Hobby Point, Hobbylinna
+- **Fyysiset liikkeet**: Kysy suosituksia paikalliselta lennokkikerholta
+- **Kansainväliset verkkokaupat**: HobbyKing, Banggood (huomioi toimitusajat ja tullimaksut)
+
+## Yhteenveto
+
+Lennokkien rakentaminen on palkitseva harrastus, joka kehittää kädentaitoja ja syventää ymmärrystä lennokkien toiminnasta. Aloita yksinkertaisista projekteista ja etene vähitellen haastavampiin. Muista, että virheet ovat osa oppimisprosessia – niistä oppiminen vie sinut eteenpäin.
+
+Rakentaminen on myös sosiaalista. Liity [Vallilan Lennokkikerhoon](/jäseneksi/) ja tapaa muita rakentajia, jotka jakavat vinkkejä ja auttavat ongelmatilanteissa. Järjestämme säännöllisesti rakennusiltoja ja -kursseja, joissa voit oppia uusia tekniikoita.
+
+**Haluatko lisätietoja rakentamisesta tai apua projektin aloittamisessa?** Tule käymään [lennokkikentällämme](/lennokkikenttä/) tai ota yhteyttä [jäseniimme](/yhteystiedot/). Jaamme mielellämme tietoa ja kokemuksia lennokkien rakentamisesta!
+
+[Takaisin aloittelijan oppaaseen](/aloittaminen/)
