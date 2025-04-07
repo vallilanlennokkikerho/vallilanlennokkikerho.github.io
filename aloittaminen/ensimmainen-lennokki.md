@@ -22,12 +22,12 @@ Ensimmäisen radio-ohjattavan lennokin valinta on tärkeä askel lennokkiharrast
 
 ## Mikä lennokki sopii aloittelijalle?
 
-Aloittelijalle parhaiten sopiva lennokki on **trainer-tyyppinen harjoituslennokki**. Näillä lennokeilla on seuraavia ominaisuuksia:
+Aloittelijalle parhaiten sopiva lennokki on **Ylätasoinen harjoituslennokki eli traineri**. Näillä lennokeilla on seuraavia ominaisuuksia:
 
-- **Yläsiipinen rakenne**: Siipi on rungon yläpuolella, mikä tekee lennokista vakaamman ja itseoikaisevan.
+- **Yläsiipinen rakenne**: Siipi on rungon yläpuolella, mikä tekee lennokista stabiilin eli vakaan ja itseoikaisevan.
 - **Riittävä koko**: Liian pieni lennokki on herkkä tuulelle, liian suuri taas voi olla vaikeampi hallita. Noin 1–1,5 metrin siipivälillä varustettu lennokki on usein hyvä valinta.
-- **Maltillinen nopeus**: Hitaampi lennokki antaa enemmän aikaa reagoida ohjauksiin.
-- **Kestävä rakenne**: Aloittelija kohtaa väistämättä kovempia laskuja, joten kestävyys on tärkeää.
+- **Maltillinen nopeus**: Hidas lennokki antaa enemmän aikaa reagoida ohjauksiin.
+- **Kestävä rakenne**: Aloittelija kohtaa väistämättä kovia laskuja, joten kestävyys on tärkeää.
 
 ### Yleisiä aloittelijalennokkeja
 
@@ -47,12 +47,12 @@ Liidokit ovat erityisen hyviä aloittelijoille, koska ne ovat vakaita ja lentäv
 
 Lennokkeja on saatavilla eri valmiusasteissa:
 
-- **RTF (Ready-to-Fly)**: Täysin lentovalmis paketti, joka sisältää kaiken tarvittavan (lennokki, radio-ohjain, akut, laturi). Valinta aloittelijalle, joka haluaa päästä nopeasti lentämään. (Huom: Paketin laturi voi olla yksinkertainen, esim. USB-laturi, joten tehokkaampaa lentoaikaa haluava saattaa myöhemmin hankkia paremman laturin.)
-- **PNF (Plug and Fly)**: Lennokki on lähes kokonaan koottu ja varustettu moottorilla, nopeudensäätimellä sekä servoilla. Tarvitset vain oman vastaanottimen ja akun, niin pääset lentämään. (Tarvitaan oma lähetin ja siihen sopiva vastaanotin, akku sekä mahdollisesti laturi, jos sellaista ei vielä ole.)
-- **ARF (Almost-Ready-to-Fly)**: Lennokki on suurimmaksi osaksi koottu, mutta vaatii vielä elektroniikan asennuksen ja viimeistelyn (esim. moottori, nopeudensäädin, servot, vastaanotin ja akku). Sopii aloittelijalle, jolla on jo hieman teknistä osaamista tai joku auttamassa.
+- **RTF (Ready-to-Fly)**: Täysin lentovalmis paketti, joka sisältää kaiken tarvittavan (lennokki, radio-ohjain, akut, laturi). Valinta aloittelijalle, joka haluaa päästä nopeasti lennättämään. (Huom: Paketin laturi voi olla yksinkertainen, esim. USB-laturi, joten tehokkaampaa lentoaikaa haluava saattaa myöhemmin hankkia paremman laturin.)
+- **PNF (Plug and Fly)**: Lennokki on lähes kokonaan koottu ja varustettu moottorilla, nopeudensäätimellä sekä servoilla. Tarvitset vain oman vastaanottimen ja akun, niin pääset lennättämään. (Tarvitaan oma lähetin ja siihen sopiva vastaanotin, akku sekä mahdollisesti laturi, jos sellaista ei vielä ole.)
+- **ARF (Almost-Ready-to-Fly)**: Lennokki on suurimmaksi osaksi koottu, mutta vaatii vielä laitteiden asennuksen ja viimeistelyn (esim. moottori, nopeudensäädin, servot, vastaanotin ja akku). Sopii aloittelijalle, jolla on jo hieman teknistä osaamista tai joku auttamassa.
 - **Rakennussarja**: Lennokki kootaan alusta asti osista. Vaatii enemmän aikaa, työkaluja ja osaamista. Ei suositella ensimmäiseksi lennokiksi, ellei sinulla ole kokemusta rakentamisesta ja joku opastamassa.
 
-**Suositus aloittelijalle**: Valitse RTF- tai PNF-paketti ensimmäiseksi lennokiksi. Näin pääset nopeasti ilmaan ja voit keskittyä lentämisen opetteluun rakentamisen sijaan.
+**Suositus aloittelijalle**: Valitse RTF- tai PNF-paketti ensimmäiseksi lennokiksi. Näin pääset nopeasti ilmaan ja voit keskittyä lennättämisen opetteluun rakentamisen sijaan.
 
 ## Sähkö- vai polttomoottori?
 
@@ -85,7 +85,7 @@ Lennokin lisäksi tarvitset seuraavat varusteet:
 ### Hyödyllisiä lisävarusteita
 
 1. **LiPo-turvapussi**: Akkujen turvalliseen säilytykseen ja lataukseen.
-2. **Varapotkuri**: Potkurit vaurioituvat helposti aloittelevalla lentäjällä.
+2. **Varapotkureita**: Potkurit vaurioituvat helposti aloittelevalla lentäjällä.
 3. **Vara-akut**: Mahdollistavat pidemmän lennätyssession.
 4. **Lennokkisimulaattori**: Erinomainen tapa harjoitella turvallisesti ennen oikeaa lentoa. Suositeltavia ovat RealFlight, Phoenix RC ja Aerofly RC.
 
@@ -105,7 +105,7 @@ Painopiste (CG, Center of Gravity) on kriittinen lennokin vakaan lennon kannalta
 
 - Tarkista valmistajan ohjeista suositeltu painopisteen sijainti.
 - Säädä akun paikkaa tarvittaessa painopisteen saavuttamiseksi.
-- Liian etupainoinen lennokki on vakaa mutta jäykkä ohjata, liian takapainoinen on epävakaa ja voi kaatua helposti.
+- Liian etupainoinen lennokki on vakaa mutta jäykkä ohjata, liian takapainoinen on epävakaa ja karkaa helposti kokemattoman ohjaajan hallinnasta.
 
 ### 3. Radio-ohjaimen asetukset
 
@@ -124,15 +124,16 @@ Ensimmäiset lennot ovat jännittäviä mutta myös ratkaisevia oppimisen kannal
 
 ### 1. Valitse sopiva paikka ja aika
 
-- Laaja, avoin alue ilman esteitä (puita, rakennuksia, sähkölinjoja).
+- Laaja, avoin alue ilman esteitä (puut, rakennukset, sähkölinjat).
 - Tyyni sää, mieluiten aamu tai ilta, jolloin tuuli on vähäistä (alle 3 m/s aloittelijalle).
-- Vältä lentämistä yksin ensimmäisillä kerroilla – kokeneempi apuri voi pelastaa monelta virheeltä.
+- Vältä lennättämistä yksin ensimmäisillä kerroilla – kokenut apulainen voi pelastaa monelta virheeltä.
 
 ### 2. Lennätyksen perusteet
 
 - Aloita yksinkertaisilla suorilla lennoilla ja loivilla käännöksillä.
 - Pidä lennokki riittävän korkealla (vähintään 50 metriä) aluksi, jotta sinulla on aikaa reagoida.
 - Harjoittele lentämistä sekä itseäsi kohti että itsestäsi poispäin – suunnan hahmottaminen vaatii tottumista.
+- Jos lennätät moottoritonta liidokkia, pysyttele tuulen yläpuolella.
 
 ### 3. Laskeutuminen
 
@@ -143,24 +144,24 @@ Ensimmäiset lennot ovat jännittäviä mutta myös ratkaisevia oppimisen kannal
 ## Yleisimmät virheet ja niiden välttäminen
 
 1. **Liian monimutkaisen lennokin valinta**: Aloita yksinkertaisella, vakaalla mallilla.
-2. **Huonot sääolosuhteet**: Vältä lentämistä tuulisella säällä (yli 5 m/s) aloittelijana.
+2. **Huonot sääolosuhteet**: Vältä lennättämistä tuulisella säällä (yli 5 m/s), kun kokemuksesi on vielä vähäinen.
 3. **Liian nopea eteneminen**: Opettele perustaidot kunnolla ennen temppuja tai nopeita lennokkeja.
 4. **Painopisteen laiminlyönti**: Tarkista painopiste aina ennen lentoa.
-5. **Akkujen väärinkäyttö**: Älä lennä akkuja täysin tyhjiksi – laskeudu, kun huomaat tehon hiipuvan (yleensä 20–30 % varauksesta jäljellä).
+5. **Akkujen väärinkäyttö**: Älä käytä akkuja täysin tyhjiksi – laskeudu, kun huomaat tehon hiipuvan (yleensä 20–30 % varauksesta jäljellä).
 
 ## Mistä hankkia lennokki?
 
 Suomessa lennokkeja ja tarvikkeita myyvät useat liikkeet:
 
 - **Verkkokaupat**: RC-Kauppa, Hobby Point, Hobbylinna
-- **Fyysiset liikkeet**: Kysy suosituksia paikalliselta lennokkikerholta
+- **Perinteiset askarteluliikkeet**: Kysy suosituksia paikalliselta lennokkikerholta
 - **Käytetyt lennokit**: RC-harrastajien foorumit (esim. Lennokit.net) ja monet Facebook-ryhmät
 
 ## Yhteenveto
 
-Ensimmäisen lennokin valinta on tärkeä askel harrastuksen aloittamisessa. Suosittelemme vakaata trainer-tyyppistä lennokkia, mieluiten PNF tai RTF-pakettina sähkömoottorilla. Harjoittele rauhallisissa olosuhteissa ja pyydä apua kokeneemmilta harrastajilta tarpeen tullen.
+Ensimmäisen lennokin valinta on tärkeä askel harrastuksen aloittamisessa. Suosittelemme vakaata trainerityyppistä lennokkia, mieluiten PNF tai RTF-pakettina sähkömoottorilla. Harjoittele rauhallisissa olosuhteissa ja pyydä apua kokeneemmilta harrastajilta tarpeen tullen.
 
-Muista, että jokainen lentäjä on joskus ollut aloittelija. Virheet ovat osa oppimisprosessia, joten älä lannistu pienistä kolhuista. Lennokkiharrastus tarjoaa paljon iloa ja oppimiskokemuksia, kun pääset alkuun!
+Muista, että jokainen lennättäjä on joskus ollut aloittelija. Virheet ovat osa oppimisprosessia, joten älä lannistu pienistä kolhuista. Lennokkiharrastus tarjoaa paljon iloa ja oppimiskokemuksia, kun pääset alkuun!
 
 **Haluatko lisätietoja tai apua lennokin valinnassa?** Tule käymään [Vallilan Lennokkikerhon kentällä](/lennokkikenttä/) tai ota [yhteyttä](/yhteystiedot/). Autamme mielellään sinut alkuun tässä kiehtovassa harrastuksessa!
 

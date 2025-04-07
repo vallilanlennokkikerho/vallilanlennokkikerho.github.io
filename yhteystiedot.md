@@ -47,23 +47,14 @@ Hallituksen tehtäviin kuuluu muun muassa:
 - Sääntöjen ja eettisten periaatteiden noudattaminen
 - Yhteistyö sidosryhmien kanssa
 
-### Kerhon hallitus 2024
+### Kerhon hallitus 2025
 
 **Puheenjohtaja:**
 Kenneth Forsman
 [Sähköposti](mailto:kentsu.forsman@gmail.com)
 
-**Varapuheenjohtaja:**
-Jouni Niemi
-[Sähköposti](mailto:jouninrc@gmail.com)
-
-**Sihteeri:**
-Mikko Suokas
-[Sähköposti](mailto:mikko.suokas@pp.inet.fi)
-
-**Kenttämestari:**
-Pasi Ruokoaho
-[Sähköposti](mailto:pasi.ruokoaho@gmail.com)
+**Jäsenet:**
+Jarkko Stråhle, Mikko Suokas, Pasi Ruokoaho sekä Raimo Kanervo
 
 **Muut toimihenkilöt:**
 Rahastonhoitaja Rae Marja Lumes

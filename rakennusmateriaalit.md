@@ -77,7 +77,7 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
 
 **Haasteet:**
 
-* Raskaampi kuin styroksi tai balsa, jos ei optimoideta.
+* Raskaampi kuin styroksi tai balsa, jos ei optimoida.
 * Vaatii 3D-tulostimen ja osaamista.
 
 **Kenelle sopii:** Teknologiasta kiinnostuneille ja kokeilijoille.
@@ -139,7 +139,7 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
 
 * Raskaampi kuin balsa, mutta erittäin vahva.
 * Saatavilla ohuina levyinä (esim. 1–3 mm).
-* Käyttö: Moottoripedit, paloseinät, laskutelineiden kiinnikkeet.
+* Käyttö: Moottoripukit, tuliseinät ja runkokaaret, laskutelineiden kiinnikkeet.
 
 **Esimerkkejä:** Monissa polttomoottorimalleissa ja skaalaprojekteissa.
 

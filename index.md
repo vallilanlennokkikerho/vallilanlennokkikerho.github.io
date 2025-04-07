@@ -1,7 +1,7 @@
 ---
 layout: default
 keywords: Vallilan lennokkikerho, Valkka, Lennokkikerho, lennokki, lennätys, rc lennokki, lennokkiharrastus
-description: Vallilan Lennokkikerho on lennokkiharrastukseen keskittyvä yhteisö, perustettu vuonna 1937. Tutustu kotisivuihimme ja löydä intohimosi lennokkien rakentamiseen ja lentämiseen yhdessä muiden harrastajien kanssa!
+description: Vallilan Lennokkikerho on lennokkiharrastukseen keskittyvä yhteisö, joka on perustettu vuonna 1937. Tutustu kotisivuihimme ja löydä intohimosi lennokkien rakentamiseen ja lentämiseen yhdessä muiden harrastajien kanssa!
 ---
 
 # Vallilan Lennokkikerho ry
@@ -10,25 +10,25 @@ description: Vallilan Lennokkikerho on lennokkiharrastukseen keskittyvä yhteis�
 
 Tervetuloa Vallilan Lennokkikerho ry:n eli Valkan kotisivuille!
 
-Jos olet kiinnostunut rakentamaan tai lennättämään kiinteäsiipisiä radio-ohjattavia (R/C) lentokoneita tai vain viettämään aikaa hyvässä seurassa, olet oikeassa paikassa!
+Jos olet kiinnostunut rakentamaan tai lennättämään kiinteäsiipisiä radio-ohjattavia (RC) lennokkeja tai vain viettämään aikaa hyvässä seurassa, olet oikeassa paikassa!
 
-Radio-ohjattavien lentokoneiden harrastajille Valkka tarjoaa monipuolisen yhteisön, jossa lennätetään kaikkea kevyistä vaahtomuovikoneista suuriin balsakoneisiin ja siltä väliltä. Yksi harrastuksen palkitsevimmista hetkistä on nähdä itse rakentamansa kone ilmassa ensimmäistä kertaa. Kokeneet harrastajat jakavat mielellään osaamistaan ja auttavat uusia tulokkaita alkuun.
+Radio-ohjattavien lennokkien harrastajille Valkka tarjoaa monipuolisen yhteisön, jossa lennätetään kaikkea kevyistä vaahtomuovikoneista suuriin balsakoneisiin ja siltä väliltä. Yksi harrastuksen palkitsevimmista hetkistä on nähdä itse rakentamansa kone ilmassa ensimmäistä kertaa. Kokeneet harrastajat jakavat mielellään osaamistaan ja auttavat uusia tulokkaita alkuun.
 
-Jos olet vasta-alkaja, radio-ohjattavien lentokoneiden lennättäminen voi tuntua haastavalta ja kalliilta opetella yksin. Siksi tarjoamme ohjausta, tukea ja apua turvallisen lentämisen sekä koneen huollon ja kokoamisen oppimiseen.
+Jos olet vasta-alkaja, radio-ohjattavien lennokkien lennättäminen voi tuntua vaikealta ja kalliilta opetella yksin. Siksi tarjoamme ohjausta, tukea ja apua turvallisen lennättämisen sekä koneen huollon ja kokoamisen oppimiseen.
 
 Talosaarentien lennätyskenttä tarjoaa hyvät puitteet harrastukselle: laaja nurmialue, varikkopöytiä, tuoleja ja muita mukavuuksia. Lennättäminen jatkuu ympäri vuoden.
 
-Valkka on vuonna 1937 perustettu arvostettu lennokkikerho, jonka jäsenistössä on lähes kaikki lennokkiluokat edustettuina. Toimintamme keskittyy lennokkiharrastuksen mahdollistamiseen ylläpitämällä Talosaarentien lennokkikenttää ja pitämällä sen hyvässä kunnossa koko kesän ajan.
+Valkka on vuonna 1937 perustettu arvostettu lennokkikerho, jonka jäsenistössä on lähes kaikkien lennokkiluokkien harrastajat edustettuina. Toimintamme keskittyy lennokkiharrastuksen mahdollistamiseen ylläpitämällä Talosaarentien lennokkikenttää ja pitämällä se hyvässä kunnossa koko kesän ajan.
 
-Vaikka emme tällä hetkellä omista omia sisätiloja, intohimomme lennokkiharrastukseen ei ole vähentynyt. Kerhossamme on vahva tee-se-itse-meininki, ja jäsenistömme omaa laajasti osaamista erilaisista valmistus- ja rakennustekniikoista. Monet jäsenistämme ovat menestyneet eri lennokkiluokissa aina MM-tasolle saakka.
+Vaikka käytössämme ei nykyään ole sisätiloja, intohimomme lennokkiharrastukseen ei ole vähentynyt. Kerhossamme on vahva tee-se-itse-meininki, ja jäsenistöllämme on laajasti osaamista erilaisista valmistus- ja rakennustekniikoista. Monet jäsenistämme ovat menestyneet eri lennokkiluokissa aina MM-tasolle saakka.
 
 Kentällämme on nähty mitä erikoisimpia kokeiluja, kuten bensamoottorilla lentävä pizzalaatikko tai 400 km/h lentävä sähköpylon. Olemme ylpeitä perinteistämme ja avoimista mielistämme uusia ideoita ja kokeiluja kohtaan.
 
 Jos olet kiinnostunut lennokkiharrastuksesta tai haluat liittyä osaksi yhteisöämme, olet lämpimästi tervetullut tutustumaan toimintaamme ja jakamaan kanssamme intohimon lennokkiharrastusta kohtaan!
 
-Lennokit ovat upea tapa nauttia ilmailusta kaikenikäisille. Harrastus tarjoaa monipuolisia mahdollisuuksia rentoutumiseen, uusien taitojen oppimiseen ja yhdessäolon iloon ystävien ja perheen kanssa.
+Lennokit ovat kaikenikäisille upea tapa nauttia ilmailusta. Harrastus tarjoaa monipuolisia mahdollisuuksia rentoutumiseen, uusien taitojen oppimiseen ja yhdessäolon iloon ystävien ja perheen kanssa.
 
-Haluamme kutsua sinut tutustumaan lennokkiharrastuksen maailmaan kanssamme. Valkka tukee niin aloittelijoita kuin kokeneita harrastajiakin. Voit rakentaa omia lennokkejasi tai lentää valmiilla malleilla – valinta on sinun.
+Haluamme kutsua sinut tutustumaan lennokkiharrastuksen maailmaan kanssamme. Valkka tukee niin aloittelijoita kuin kokeneita harrastajiakin. Voit rakentaa omia lennokkejasi tai lennättää valmiita malleja – valinta on sinun.
 
 Lisäksi lennokkiharrastus tarjoaa mainion tilaisuuden sosiaaliseen kanssakäymiseen ja tiimityöskentelyyn. Yhdessä voimme kokea lennokkien tuoman ilon ja haasteet.
 

@@ -26,7 +26,7 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 <img src="/images/type3.svg" alt="Trainer-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
 
-**Kuvaus:** Harjoituslennokit eli trainerit on suunniteltu erityisesti aloittelijoille. Ne ovat vakaita, helppoja ohjata ja anteeksiantavia pienille virheille.
+**Kuvaus:** Harjoituslennokit eli trainerit on suunniteltu erityisesti aloittelijoille. Ne ovat vakaita, helppoja ohjata ja antavat pienet virheet anteeksi.
 
 **Ominaisuudet:**
 
@@ -47,9 +47,9 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 **Hyödyt:** Helppo oppimiskäyrä, turvallinen laskeutuminen, anteeksiantavat lento-ominaisuudet.
 
-**Haasteet:** Rajoitetut temppumahdollisuudet, voi tuntua tylsältä taitojen kehittyessä.
+**Haasteet:** Rajoitetut taitolento-ominaisuudet, voi tuntua tylsältä taitojen kehittyessä.
 
-**Vinkki aloittelijalle:** Trainerit ovat usein saatavilla RTF (Ready-to-Fly) -paketteina, jotka sisältävät kaiken lentämiseen tarvittavan. Tämä on helpoin tapa päästä harrastuksen alkuun.
+**Vinkki aloittelijalle:** Trainereita ovat usein saatavilla RTF (Ready-to-Fly) -paketteina, jotka sisältävät kaiken lennättämiseen tarvittavan. Tämä on helpoin tapa päästä harrastuksen alkuun.
 
 ## Liidokit
 
@@ -61,12 +61,12 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 - **Termiikkiliidokit:** Hyödyntävät nousevia lämpimiä ilmavirtauksia (termiikkejä) ja pysyvät ilmassa pitkiä aikoja. Vaativat usein hinauksen tai heiton ilmaan.
 - **Rinneliidokit:** Lennätetään rinteiden reunoilla hyödyntäen rinteen aiheuttamaa nousevaa ilmavirtausta.
-- **DLG/F3K-liidokit (Discus Launch Glider):** Kevyitä ja edistyneitä liidokkeja, jotka heitetään ilmaan käsin kiekonheittotyylisellä liikkeellä. Vaativat taitoa ja tarkkuutta. Lue lisää [F3K-lajiesittelystämme](/F3K-lajiesittely/).
+- **DLG/F3K-liidokit (Disc Launch Glider):** Kevyitä ja edistyneitä liidokkeja, jotka heitetään ilmaan käsin kiekonheittotyylisellä liikkeellä. Vaativat taitoa ja tarkkuutta. Lue lisää [F3K-lajiesittelystämme](/F3K-lajiesittely/).
 - **Sähköliidokit:** Varustettu sähkömoottorilla nousua varten. Moottori sammutetaan, kun haluttu korkeus on saavutettu.
 
 **Ominaisuudet:**
 
-- Pitkät, kapeat siivet maksimaalisen nosteen saamiseksi
+- Pitkät, kapeat siivet hyvien liito-ominaisuuksien saavuttamiseksi
 - Kevyt rakenne, usein balsa- tai komposiittimateriaaleista
 - Erinomainen liitosuhde (kuinka pitkälle lennokki liitää suhteessa korkeuteen)
 
@@ -93,7 +93,7 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 - Keskisiipi- tai alasiipirakenne
 - Aerodynaamisempi muotoilu kuin trainereissa
-- Sopii perusakrobatiaan, kuten silmukoihin ja kaarroksiin
+- Sopii perustaitolentoon
 - Tasapaino vakauden ja ketteryyden välillä
 
 **Esimerkkejä:**
@@ -102,9 +102,9 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 - Phoenix Model Spitfire
 - E-flite Carbon-Z Cessna 150
 
-**Kenelle sopii:** Harrastajille, joilla on jo peruslentotaitoja ja jotka haluavat kehittyä. Hyvä "toinen lennokki" trainerin jälkeen.
+**Kenelle sopii:** Harrastajille, joilla on jo peruslennätysotaitoja ja jotka haluavat kehittyä. Hyvä "toinen lennokki" trainerin jälkeen.
 
-**Hyödyt:** Monipuolisuus, hauska lentokokemus, mahdollisuus oppia uusia lentotaitoja.
+**Hyödyt:** Monipuolisuus, hauska lentokokemus, mahdollisuus oppia uusia taitoja.
 
 **Haasteet:** Vaativampi ohjaus kuin trainereilla, vähemmän anteeksiantava virheille.
 
@@ -133,9 +133,9 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 **Haasteet:** Vaikea hallita ilman kokemusta, vaatii hyviä refleksejä ja lentotaitoja.
 
-## Scale-mallit
+## Mallilennokit
 
-**Kuvaus:** Scale-mallit ovat oikeiden lentokoneiden tarkkoja pienoismalleja. Niiden rakentamisessa ja lennättämisessä pyritään mahdollisimman suureen realismiin.
+**Kuvaus:** Mallilennokit eli skeilit (scale) ovat oikeiden lentokoneiden tarkkoja pienoismalleja. Niiden rakentamisessa ja lennättämisessä pyritään mahdollisimman suureen realismiin.
 
 **Ominaisuudet:**
 
@@ -164,15 +164,15 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 **Toimintaperiaate:**
 
-- Lennokki viritetään ennen lentoa ja päästetään ilmaan (esim. käsiheitolla, kumiköydellä tai pienellä moottorilla)
+- Lennokki viritetään ennen lentoa ja lähetetään ilmaan
 - Lento päättyy, kun lennokki laskeutuu itsestään
 - Vaatii tarkkaa rakentamista ja trimmausta halutun lentotavan saavuttamiseksi
 
 **Lajit:**
 
 - F1A (A2) – Hinattavat liidokit
-- F1B (Wakefield) – Kumimoottorilliset
-- F1C – Polttomoottorilliset
+- F1B (Wakefield) – Kumimoottorilennokit
+- F1C – Polttomoottorilennokit
 - F1D – Sisälennokit
 - F1E – Rinneliidokit
 
@@ -180,7 +180,7 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 **Hyödyt:** Kehittää syvällistä ymmärrystä aerodynamiikasta, ei vaadi kallista radio-ohjauslaitteistoa.
 
-**Haasteet:** Vaatii tarkkuutta rakentamisessa ja trimmauksessa, lennokin löytäminen voi olla haastavaa pitkien lentojen jälkeen.
+**Haasteet:** Vaatii tarkkuutta rakentamisessa ja trimmauksessa, lennokin löytäminen voi olla vaikeaa pitkien lentojen jälkeen.
 
 ## Helikopterit
 
@@ -278,7 +278,7 @@ Lennokkityypin valinta riippuu monista tekijöistä. Tässä vinkkejä oikean le
 
 ### Aloittelijalle
 
-- **Aloita yksinkertaisella:** Valitse trainer tai vakaa sähköliidokki.
+- **Aloita yksinkertaisella:** Valitse traineri tai vakaa sähköliidokki.
 - **RTF-paketit:** Ready-to-Fly -paketit sisältävät kaiken tarvittavan ja ovat helpoin tapa aloittaa.
 - **Koko:** Keskikokoinen lennokki (siipiväli n. 1–1,5 m) on usein paras – liian pieni on tuuliherkkä, liian suuri vaikea hallita.
 - **Materiaalit:** Vaahtomuovilennokit kestävät kolhuja paremmin kuin balsa- tai komposiittilennokit.

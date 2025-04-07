@@ -48,7 +48,7 @@ Missä ja miten lennättää turvallisesti? Tässä osiossa opit:
 
 ## Miksi oppimisosioita?
 
-Lennokkiharrastuksen aloittaminen voi tuntua aluksi haastavalta, sillä opittavaa riittää lennokkien tekniikasta, lentämisestä, säännöistä ja turvallisuudesta. Olemme jakaneet tiedon helposti omaksuttaviin osiin, jotta voit keskittyä yhteen aiheeseen kerrallaan ja edetä omaan tahtiisi.
+Lennokkiharrastuksen aloittaminen voi tuntua aluksi työläältä, sillä opittavaa riittää lennokkien tekniikasta, lentämisestä, säännöistä ja turvallisuudesta. Olemme jakaneet tiedon helposti omaksuttaviin osiin, jotta voit keskittyä yhteen aiheeseen kerrallaan ja edetä omaan tahtiisi.
 
 Nämä osiot täydentävät [aloittelijan opastamme](/aloittelijan-opas/) ja tarjoavat syventävää tietoa eri aiheista. Suosittelemme aloittamaan yleisestä oppaasta ja siirtymään sitten näihin tarkempiin osioihin.
 

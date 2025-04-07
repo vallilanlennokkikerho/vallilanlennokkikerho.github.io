@@ -27,7 +27,7 @@ Lennokkien rakentaminen on palkitseva osa lennokkiharrastusta. Se tarjoaa mahdol
 Itse tehdyn lennokin rakentamisella on monia etuja:
 
 - **Syvällisempi ymmärrys**: Opit tuntemaan lennokin rakenteen ja aerodynamiikan perusteellisesti.
-- **Korjaustaidot**: Kun osaat rakentaa lennokin, osaat myös korjata sen onnettomuuden sattuessa.
+- **Korjaustaidot**: Kun osaat rakentaa lennokin, osaat myös korjata sen vahingon satuttua.
 - **Kustannustehokkuus**: Pitkällä tähtäimellä rakentaminen voi olla edullisempaa kuin valmiiden mallien ostaminen.
 - **Yksilöllisyys**: Voit muokata lennokkia omien mieltymystesi mukaan.
 - **Ylpeys saavutuksesta**: Itse rakennetun lennokin lentäminen tuo ainutlaatuista tyydytystä.
@@ -56,7 +56,7 @@ Laserleikatut sarjat, joissa osat ovat valmiiksi muotoon leikattuja, helpottavat
 
 ### Perustyökalut
 
-1. **Terävä askarteluveitsi tai skalpelli**
+1. **Terävä askarteluveitsi tai kirurginveitsi eli skalpelli**
 2. **Metallinen suorakulma ja viivain**
 3. **Hiekkapaperi** (eri karkeusasteita)
 4. **Nuppineulat** osien kiinnittämiseen rakennusvaiheessa
@@ -71,6 +71,7 @@ Laserleikatut sarjat, joissa osat ovat valmiiksi muotoon leikattuja, helpottavat
 2. **Pikaliima** (syanoakrylaatti) nopeisiin liimauksiin
 3. **Epoksiliima** vahvempiin liitoksiin
 4. **Kontaktiliima** (esim. UHU-POR) vaahtomuoviosien liimaamiseen
+5. **Perinteinen lennokkiliima** (esim. Uhu Hart) balsaosien liimaukseen
 
 ### Rakennusalusta
 
@@ -83,13 +84,13 @@ Tasainen, pehmeä alusta, johon voit kiinnittää osia nuppineuloilla. Esimerkik
 1. **Kaavapiirustuksen käyttö**: Kiinnitä rakennuspiirustus alustalle ja suojaa se muovikalvolla.
 2. **Osien leikkaaminen**: Leikkaa osat tarkasti piirustusten mukaan.
 3. **Kokoaminen**: Kokoa runko ja siivet piirustuksen päällä nuppineulojen avulla.
-4. **Liimaaminen**: Käytä puuliimaa balsaosien liimaamiseen ja anna kuivua kunnolla.
+4. **Liimaaminen**: Käytä puuliimaa tai lennokkiliimaa balsaosien liimaamiseen ja anna kuivua kunnolla.
 
 ### Vaahtomuovirakentaminen
 
 1. **Mallineiden käyttö**: Piirrä osat paperi- tai pahvimallineilla.
 2. **Leikkaaminen**: Leikkaa osat terävällä veitsellä tai kuumalankaleikkurilla.
-3. **Liimaaminen**: Käytä kontaktiliimaa, uretaaniliimaa tai kuumaliimaa.
+3. **Liimaaminen**: Käytä kontaktiliimaa, uretaaniliimaa tai kuumaliimaa. Varmistu ennen liimausta, ettei käyttämäsi liima sulata muovia!
 4. **Vahvistaminen**: Vahvista kriittiset kohdat hiilikuidulla tai balsalla.
 
 ## Yleisimmät rakennusmateriaalit
@@ -97,7 +98,7 @@ Tasainen, pehmeä alusta, johon voit kiinnittää osia nuppineuloilla. Esimerkik
 ### Balsa
 
 - **Edut**: Kevyt, helppo työstää, vahva painoonsa nähden.
-- **Haitat**: Hauras, vaatii huolellista käsittelyä.
+- **Haitat**: Hauras, vaatii huolellista käsittelyä. Hiomapöly voi aiheuttaa allergisia reaktioita.
 - **Käyttökohteet**: Runko, siivet, peräsimet, kaaret.
 
 ### Vaahtomuovi
@@ -143,7 +144,7 @@ Tyypillinen rakennusprosessi etenee näin:
 ### 4. Peräsimet
 
 - Rakenna korkeus- ja sivuperäsin.
-- Varmista, että saranat toimivat sulavasti.
+- Varmista, että saranat toimivat herkästi ja takertelematta.
 
 ### 5. Kokoonpano
 
@@ -164,9 +165,9 @@ Hyvä viimeistely parantaa lennokin ulkonäköä ja suorituskykyä:
 
 Vaihtoehtoja pinnoitukseen:
 
-- **Kalvopinnoite** (esim. Oracover, Monokote): Lämmöllä kiinnitettävä, kestävä pinnoite.
+- **Kalvopinnoite** (esim. Oracover, Monokote): Lämmöllä kiinnitettävä, kestävä pinnoite, joka kestää myös polttoainetta.
 - **Maali**: Kevyt ruiskumaali tai siveltävä maali.
-- **Paperi**: Perinteinen japaninpaperi ja liisterikerros.
+- **Paperi**: Perinteinen japaninpaperi, joka kiinnitetään liimalla tai lakalla. Myös voimapaperi soveltuu varsinkin harjoituslennokkien päällystykseen, koska se on lujaa.
 - **Teippi**: Vaahtomuovilennokeissa värillinen teippi on helppo ratkaisu.
 
 ### 3. Yksityiskohdat
@@ -201,13 +202,13 @@ Elektroniikan asennus on kriittinen vaihe:
 ### 5. Johdotus
 
 - Pidä johdot siisteinä ja kiinnitä ne runkoon.
-- Vältä johtoja, jotka voivat tarttua liikkuviin osiin.
+- Estä johtojen takertuminen liikkuviin osiin.
 
 ## Yleisimmät virheet ja niiden välttäminen
 
 1. **Kiirehtiminen**: Varaa riittävästi aikaa ja anna liimojen kuivua kunnolla.
 2. **Epätarkkuus**: Mittaa kahdesti, leikkaa kerran – pienetkin virheet voivat kertautua.
-3. **Ylipainoisuus**: Vältä liiallista liiman käyttöä ja turhia vahvistuksia.
+3. **Ylipainoisuus**: Vältä liiallista liiman käyttöä ja turhia vahvistuksia. Tee tarkat sovitukset, ettei rakoja tarvitse rapata umpeen liimalla.
 4. **Vääristyneet rakenteet**: Tarkista säännöllisesti, että siivet ja runko pysyvät suorina.
 5. **Painopisteen laiminlyönti**: Suunnittele elektroniikan sijoittelu niin, että painopiste on oikeassa kohdassa.
 
@@ -216,7 +217,7 @@ Elektroniikan asennus on kriittinen vaihe:
 Suomessa lennokkien rakennusmateriaaleja ja -sarjoja myyvät:
 
 - **Verkkokaupat**: RC-Kauppa, Hobby Point, Hobbylinna
-- **Fyysiset liikkeet**: Kysy suosituksia paikalliselta lennokkikerholta
+- **Perinteiset askarteluliikkeet**: Kysy suosituksia paikalliselta lennokkikerholta
 - **Kansainväliset verkkokaupat**: HobbyKing, Banggood (huomioi toimitusajat ja tullimaksut)
 
 ## Yhteenveto

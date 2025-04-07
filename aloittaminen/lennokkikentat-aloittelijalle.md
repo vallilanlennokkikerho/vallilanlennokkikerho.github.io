@@ -44,17 +44,17 @@ Lennokkikenttiä on erilaisia, ja ne soveltuvat erilaisiin lennätystarpeisiin:
 ### 2. Asfaltoidut kentät
 
 - **Ominaisuudet**: Kova, tasainen pinta.
-- **Soveltuvuus**: Ihanteellinen pienille sähkölennokeille ja suihkukoneille.
+- **Soveltuvuus**: Ihanteellinen pienille sähkölennokeille ja suihkukoneille, välttämätön erikoislennokeille, kuten siimaohjattavat nopeus- ja joukkuenopeuslennokit.
 
 ### 3. Rinnetuulialueet
 
 - **Ominaisuudet**: Mäki tai rinne, jossa tuuli nousee ylöspäin.
-- **Soveltuvuus**: Erinomainen liidokeille ja purjelentokoneille.
+- **Soveltuvuus**: Erinomainen liidokeille ja purjelentokoneiden pienoismalleille.
 
 ### 4. Vesistöalueet
 
-- **Ominaisuudet**: Järvi tai meri, jossa voi lennättää vesitasolennokeja.
-- **Soveltuvuus**: Vesitasolennokit ja kellukkeilla varustetut lennokit.
+- **Ominaisuudet**: Järvi tai meri, jossa voi lennättää kellukekoneita eli vesitasoja.
+- **Soveltuvuus**: Kellukekoneet ja lentoveneet.
 
 ## Vallilan Lennokkikerhon kenttä
 
@@ -67,7 +67,7 @@ Lennokkikenttiä on erilaisia, ja ne soveltuvat erilaisiin lennätystarpeisiin:
   - Hiiligrilli
   - Ilmoitustaulu kenttäsäännöillä
 - **Erityishuomiot**:
-  - Kentän vastapäisen metsän takana on hevostalli, joten lennättämistä metsän ja sen takaisten alueiden päällä tulee välttää.
+  - Kentän vastapäisen metsän takana on hevostalli, joten lennättämistä metsän ja sen takaisten alueiden päällä on vältettävä.
   - Erityistä varovaisuutta vaaditaan isojen polttomoottorilennokkien kanssa melun vuoksi.
 
 [Talosaarentien kenttäsäännöt](/lennokkikenttä/Talosaari_lennokkikentän_kenttäsäännöt/)
@@ -95,7 +95,7 @@ Jokaisella lennokkikentällä on omat sääntönsä, mutta tietyt perusperiaatte
 
 ### Valmistelut kentällä
 
-1. **Lennokin tarkistus**: Tarkista lennokin kunto, ohjainpintojen toiminta ja akun/polttoaineen riittävyys.
+1. **Lennokin tarkistus**: Tarkista lennokin kunto, ohjainpintojen toiminta ja akkuvirran sekä polttoaineen riittävyys.
 2. **Radio-ohjaimen tarkistus**: Varmista, että radio-ohjain toimii oikein ja akut ovat täynnä.
 3. **Ympäristön havainnointi**: Tarkista tuulen suunta ja voimakkuus, mahdolliset esteet ja muut lennättäjät.
 
@@ -108,7 +108,7 @@ Jokaisella lennokkikentällä on omat sääntönsä, mutta tietyt perusperiaatte
 2. **Peruslentäminen**:
    - Pidä lennokki riittävän korkealla (vähintään 50 metriä) aluksi.
    - Tee laajoja, rauhallisia käännöksiä.
-   - Harjoittele lentämistä sekä itsestä poispäin että itseä kohti.
+   - Harjoittele lennättämistä sekä itsestä poispäin että itseä kohti.
 3. **Laskeutuminen**:
    - Lähesty laskeutumisaluetta loivasti vastatuuleen.
    - Vähennä tehoa tasaisesti.
@@ -129,7 +129,7 @@ Sääolosuhteet vaikuttavat merkittävästi lennättämiseen:
 ### Sade
 
 - Vältä lennättämistä sateessa, ellei lennokkisi ole erityisesti suunniteltu siihen.
-- Kosteus voi vahingoittaa elektroniikkaa ja heikentää rakenteiden kestävyyttä.
+- Kosteus voi vahingoittaa elektroniikkaa ja heikentää rakenteiden kestävyyttä. Puurakenteet voivat kieroutua kosteudesta.
 
 ### Lämpötila
 
@@ -143,7 +143,7 @@ Turvallisuus on lennokkiharrastuksen tärkein periaate:
 ### Henkilökohtainen turvallisuus
 1. **Pyörivät osat**: Varo potkureita ja roottoreita – ne voivat aiheuttaa vakavia vammoja.
 2. **Akut**: Käsittele LiPo-akkuja varovasti, sillä ne voivat syttyä palamaan väärinkäytettynä.
-3. **Aurinkosuoja ja nesteytys**: Suojaudu auringolta ja juo riittävästi vettä ulkona ollessa.
+3. **Aurinkosuoja ja nesteytys**: Suojaudu auringolta ja juo riittävästi vettä ulkona ollessasi.
 
 ### Lennokin turvallisuus
 1. **Failsafe-asetukset**: Varmista, että lennokki on ohjelmoitu laskeutumaan turvallisesti signaalin kadotessa.
@@ -183,7 +183,7 @@ Jos asut kauempana Talosaarentien kentästä, voit löytää muita lennokkikentt
 
 1. **Suomen Ilmailuliitto**: SIL:n [verkkosivuilta](https://www.ilmailuliitto.fi/) löydät tietoa jäsenkerhoista ja niiden kentistä.
 2. **Paikalliset lennokkikerhot**: Etsi alueesi kerhoja internetistä tai kysy harrastajilta.
-3. **Lennokkifoorumit**: Suomalaiset foorumit ja Facebook-ryhmät ovat hyviä tiedonlähteitä.
+3. **Lennokkifoorumit**: Suomalaiset foorumit ja Facebook-ryhmät ovat hyviä tietolähteitä.
 4. **Droneinfo-sovellus**: Traficomin sovellus näyttää, missä lennättäminen on sallittua.
 
 ### Vieraillessasi uudella kentällä
