@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Opas Lennokkien Rakennusmateriaaleihin
-permalink: /rakennusmateriaalit/
+permalink: /aloittelijan-opas/rakennusmateriaalit/
+redirect_from:
+  - /rakennusmateriaalit/
 ---
 
 
@@ -165,3 +167,7 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
 ### Lopuksi
 
 Lennokin materiaali määrittää sen luonteen – kevyestä ja hauraasta nopeaan ja kestävään. Kokeile eri vaihtoehtoja ja yhdistele niitä tarpeidesi mukaan.
+
+<div class="button-container">
+<a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>
+</div>

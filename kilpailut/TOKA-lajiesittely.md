@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Tokan ja F1Ax:n lajiesittely
-permalink: /TOKA-lajiesittely/
+permalink: /kilpailut/TOKA-lajiesittely/
+redirect_from:
+  - /TOKA-lajiesittely/
 description: Katsaus Tokan ja F1Ax:n teknisiin sääntöihin, ikärajoituksiin, rakenteellisiin rajoituksiin ja kilpailumenestyksen avaimiin. 
 
 keywords: Toka, F1Ax, lennokin rakentaminen, liidokki, kilpailusäännöt, ikärajoitus, rakenteelliset rajoitukset, urheiluhenki, kilpailumenestys

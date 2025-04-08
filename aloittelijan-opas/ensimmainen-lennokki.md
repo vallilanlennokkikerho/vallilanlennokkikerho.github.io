@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ensimmäisen RC-lennokin valinta ja käyttöönotto
-permalink: /aloittaminen/ensimmainen-lennokki/
+permalink: /aloittelijan-opas/ensimmainen-lennokki/
 lang: fi
 description: Miten valita ensimmäinen RC-lennokki? Opas aloittelijalle sopivan lennokin valintaan, käyttöönottoon ja ensimmäisiin lentoihin.
 keywords: rc lennokki aloittelijalle, ensimmäinen lennokki, aloittelijan lennokki, lennokkien rakentaminen, lennokki harrastus aloittaminen
@@ -105,7 +105,7 @@ Painopiste (CG, Center of Gravity) on kriittinen lennokin vakaan lennon kannalta
 
 - Tarkista valmistajan ohjeista suositeltu painopisteen sijainti.
 - Säädä akun paikkaa tarvittaessa painopisteen saavuttamiseksi.
-- Liian etupainoinen lennokki on vakaa mutta jäykkä ohjata, liian takapainoinen on epävakaa ja karkaa helposti kokemattoman ohjaajan hallinnasta.
+- Liian etupainoinen lennokki on vakaa mutta jäykkä ohjata, liian takapainoinen on epävakaa ja karkaa helposti kokeneemmankin ohjaajan hallinnasta.
 
 ### 3. Radio-ohjaimen asetukset
 
@@ -163,6 +163,8 @@ Ensimmäisen lennokin valinta on tärkeä askel harrastuksen aloittamisessa. Suo
 
 Muista, että jokainen lennättäjä on joskus ollut aloittelija. Virheet ovat osa oppimisprosessia, joten älä lannistu pienistä kolhuista. Lennokkiharrastus tarjoaa paljon iloa ja oppimiskokemuksia, kun pääset alkuun!
 
-**Haluatko lisätietoja tai apua lennokin valinnassa?** Tule käymään [Vallilan Lennokkikerhon kentällä](/lennokkikenttä/) tai ota [yhteyttä](/yhteystiedot/). Autamme mielellään sinut alkuun tässä kiehtovassa harrastuksessa!
+**Haluatko lisätietoja tai apua lennokin valinnassa?** Tule käymään [Vallilan Lennokkikerhon kentällä](/lennokkikenttä/) tai ota [yhteyttä](/yhteystiedot/). Autamme mielellämme sinut alkuun tässä kiehtovassa harrastuksessa!
 
-[Takaisin aloittelijan oppaaseen](/aloittaminen/)
+<div class="button-container">
+<a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>
+</div>

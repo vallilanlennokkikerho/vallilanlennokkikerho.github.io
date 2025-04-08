@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tervetuloa Valkan lennokkiyhdistykseen!
+title: Tervetuloa jäseneksi lennokkiyhdistykseen!
 permalink: /jäseneksi/
 description: Tervetuloa lennokkiharrastajien yhteisöön! Lähetä jäsenhakemus meille ja aloita lennättäminen kentällä! Jäsenmaksun suorittaneet ovat oikeutettuja lennokkikentän käyttöön ja muihin jäsenetuihin. Tule mukaan jakamaan intohimoa lennokkien parissa ja nauttimaan yhteisestä harrastuksestamme Valkan lennokkiyhdistyksessä!
 keywords: lennokkiharrastus, lennokkiyhdistys, jäsenyys, lennokkikenttä, lennättäminen, yhteisö, harrastus, Valkan lennokkiyhdistys

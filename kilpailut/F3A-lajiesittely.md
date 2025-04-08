@@ -1,7 +1,9 @@
 ---
 layout: page
 title: F3A-lajiesittely
-permalink: /F3A-lajiesittely/
+permalink: /kilpailut/F3A-lajiesittely/
+redirect_from:
+  - /F3A-lajiesittely/
 description: Tutustu FAI F3A -lentokoneiden taitolentokilpailuihin ja niiden maailmaan. Lue lisää säännöistä, kilpailumenestyksestä ja yhteisöstä.
 
 keywords: F3A, RC-taitolentokone, FAI F3-taitolento, lentokuvio, kilpailu, taitolento, moottorityyppi, polttomoottori, sähkömoottori, kilpailumenestys, kansainvälinen, yhteisö, lentäjä, koulutus

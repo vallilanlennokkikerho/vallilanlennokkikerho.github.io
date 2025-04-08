@@ -17,7 +17,7 @@ Vallilan Lennokkikerho ry toimii järjestäjänä F2B-luokan SM-osakilpailuissa 
 - **SM-osakilpailu 3**: Lauantai 16.8.2025, Nummela (varapäivä 17.8.2025)
 
 Kilpailujen seuranta on avoin kaikelle yleisölle. Tervetuloa seuraamaan tätä ainutlaatuista lajia! Tapahtumapaikalla on mahdollisuus tutustua F2B-koneisiin ja harrastukseen lähempää.
-[F2B-lajiesittely](/F2B-lajiesittely/)
+[F2B-lajiesittely](/kilpailut/F2B-lajiesittely/)
 
 ## Lennokkikilpailut 2024
 
@@ -34,13 +34,13 @@ Vallilan Lennokkikerho ry toimi järjestäjänä F2B-luokan osakilpailuissa nume
 
 <br/>
 <img src="/images/F3K_3-2022.png" width="100%" />
-[F3K lajiesittely](/F3K-lajiesittely/)
+[F3K lajiesittely](/kilpailut/F3K-lajiesittely/)
 <br>
 ## Toka-kilpailut
 ----------------
 ----------------
 <br>
-- [Tokan ja F1Ax:n lajiesittely](/TOKA-lajiesittely/)
+- [Tokan ja F1Ax:n lajiesittely](/kilpailut/TOKA-lajiesittely/)
 <br/>
 ## Jämi-tulokset 6/2022
 ----------------

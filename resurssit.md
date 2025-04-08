@@ -39,8 +39,16 @@ Tälle sivulle on koottu hyödyllisiä linkkejä lennokkiharrastajille.
 
 ## Muut hyödylliset linkit
 
-* [FAI (Fédération Aéronautique Internationale)](https://www.fai.org/) - Kansainvälinen urheiluilmailujärjestö, joka hallinnoi kilpailusääntöjä ja ennätyksiä.
-* [RC-lentosimulaattorit](https://www.realflight.com/) - RealFlight on yksi suosituimmista RC-lentosimulaattoreista, joka auttaa harjoittelemaan ilman riskiä.
-* [4in1 Multimodule](https://www.multi-module.org/) - Monipuolinen lisäosa, joka mahdollistaa useiden eri valmistajien vastaanottimien käytön yhdessä lähettimessä.
+* [FAI (Fédération Aéronautique Internationale)](https://www.fai.org/) – Kansainvälinen urheiluilmailujärjestö, joka hallinnoi kilpailusääntöjä ja ennätyksiä.
+* [RC-lentosimulaattorit](https://www.realflight.com/) – RealFlight on yksi suosituimmista RC-lentosimulaattoreista, joka auttaa harjoittelemaan ilman riskiä.
+* [4in1 Multimodule](https://www.multi-module.org/) – Monipuolinen lisäosa, joka mahdollistaa useiden eri valmistajien vastaanottimien käytön yhdessä lähettimessä.
+* [Ilmapartio](https://ilmapartio.fi/) – Malmin Tuulenkävijät harjoittelevat satunnaisesti Valkan lennokkikentällä yhdessä partionuorten kanssa.
+* [Aloittelijan opas](/aloittelijan-opas/) – Tulevan lennokkiharrastajan opas.
+
+<div class="button-container">
+<a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>
+</div>
+
+
 
 *Jos tiedät hyvän linkin, joka puuttuu listalta, vinkkaa siitä sähköpostiimme!*

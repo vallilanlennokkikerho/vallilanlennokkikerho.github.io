@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lennokkikentät ja lennättäminen – Aloittelijan opas
-permalink: /aloittaminen/lennokkikentat-aloittelijalle/
+permalink: /aloittelijan-opas/lennokkikentat-aloittelijalle/
 lang: fi
 description: Mistä löydät lennokkikenttiä ja miten toimit niillä? Kattava opas aloittelijalle lennokkikenttien käytöstä, säännöistä ja lennättämisen perusteista.
 keywords: lennokkikenttä helsinki, rc lennokki kenttä, lennokki harrastus aloittaminen, lennättäminen, lennokkikenttä säännöt
@@ -201,4 +201,6 @@ Lennokkikenttä on myös sosiaalinen ympäristö, jossa voit tavata muita harras
 
 **Haluatko tutustua kenttäämme tai saada lisätietoja lennättämisestä?** Tule käymään [Talosaarentien kentällä](/lennokkikenttä/) tai ota [yhteyttä](/yhteystiedot/). Toivotamme sinut lämpimästi tervetulleeksi harrastuksen pariin!
 
-[Takaisin aloittelijan oppaaseen](/aloittaminen/)
+<div class="button-container">
+<a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>
+</div>

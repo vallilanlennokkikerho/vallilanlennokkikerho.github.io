@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Siimaohjattujen taitolennokkien F2B lajiesittely
-permalink: /F2B-lajiesittely/
+permalink: /kilpailut/F2B-lajiesittely/
+redirect_from:
+  - /F2B-lajiesittely/
 description: Siimaohjattujen taitolennokkien F2B lajiesittely kertoo siitä, miten lennokkia ohjataan ja kuinka laji on suosittu ympäri maailmaa. 
 
 keywords: Siimaohjattavat taitolennokit, F2B-lajiesittely, Stunttilennokit, Taitolentokilpailut, Siimalajit, F2B-kilpailuohjelma, X-luokka, Lentosuoritusten arvostelu, Kilpailusäännöt, Harjoituslennokit

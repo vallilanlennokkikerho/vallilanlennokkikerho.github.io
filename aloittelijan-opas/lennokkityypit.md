@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Lennokkityypit – Opas aloittelijasta konkariin
-permalink: /lennokkityypit/
+permalink: /aloittelijan-opas/lennokkityypit/
+redirect_from:
+  - /lennokkityypit/
 lang: fi
 description: Kattava opas lennokkityyppeihin! Löydä itsellesi sopiva lennokki, oli kyseessä sitten ensimmäinen lennokki tai uusi haaste kokeneelle harrastajalle.
 keywords: rc lennokki aloittelijalle, rc liidokki, trainer lennokki, sport lennokki, 3d lennokki, skaala lennokki, lennokkityypit
@@ -61,7 +63,7 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 - **Termiikkiliidokit:** Hyödyntävät nousevia lämpimiä ilmavirtauksia (termiikkejä) ja pysyvät ilmassa pitkiä aikoja. Vaativat usein hinauksen tai heiton ilmaan.
 - **Rinneliidokit:** Lennätetään rinteiden reunoilla hyödyntäen rinteen aiheuttamaa nousevaa ilmavirtausta.
-- **DLG/F3K-liidokit (Disc Launch Glider):** Kevyitä ja edistyneitä liidokkeja, jotka heitetään ilmaan käsin kiekonheittotyylisellä liikkeellä. Vaativat taitoa ja tarkkuutta. Lue lisää [F3K-lajiesittelystämme](/F3K-lajiesittely/).
+- **DLG/F3K-liidokit (Disc Launch Glider):** Kevyitä ja edistyneitä liidokkeja, jotka heitetään ilmaan käsin kiekonheittotyylisellä liikkeellä. Vaativat taitoa ja tarkkuutta. Lue lisää [F3K-lajiesittelystämme](/kilpailut/F3K-lajiesittely/).
 - **Sähköliidokit:** Varustettu sähkömoottorilla nousua varten. Moottori sammutetaan, kun haluttu korkeus on saavutettu.
 
 **Ominaisuudet:**
@@ -133,7 +135,7 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 **Haasteet:** Vaikea hallita ilman kokemusta, vaatii hyviä refleksejä ja lentotaitoja.
 
-## Mallilennokit
+## Scale mallit
 
 **Kuvaus:** Mallilennokit eli skeilit (scale) ovat oikeiden lentokoneiden tarkkoja pienoismalleja. Niiden rakentamisessa ja lennättämisessä pyritään mahdollisimman suureen realismiin.
 
@@ -301,4 +303,9 @@ Lennokkityypin valinta riippuu monista tekijöistä. Tässä vinkkejä oikean le
 
 Lennokkiharrastus tarjoaa jokaiselle jotakin – rauhallista liitämistä, vauhdikasta temppulentämistä tai tarkkojen pienoismallien rakentamista. Aloita harrastus omien kiinnostustesi ja taitotasosi mukaan, ja muista, että taidot kehittyvät ajan myötä.
 
-Jos jokin lennokkityyppi herätti kiinnostuksesi, tutustu [aloittelijan oppaamme](/aloittelijan-opas/) osioihin ja harkitse [jäseneksi liittymistä](/jäseneksi/) Vallilan Lennokkikerhoon. Jäsenemme auttavat mielellään sinua valitsemaan sopivan lennokin ja pääsemään alkuun tässä kiehtovassa harrastuksessa!
+Jos jokin lennokkityyppi herätti kiinnostuksesi, tutustu aloittelijan oppaamme osioihin ja harkitse jäseneksi liittymistä Vallilan Lennokkikerhoon. Autamme mielelläämme valitsemaan sopivan lennokin ja pääsemään alkuun tässä kiehtovassa harrastuksessa!
+
+<div class="button-container">
+<a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>
+</div>
+

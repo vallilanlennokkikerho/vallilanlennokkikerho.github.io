@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lennokkien rakentaminen – Aloittelijan opas
-permalink: /aloittaminen/lennokkien-rakentaminen/
+permalink: /aloittelijan-opas/lennokkien-rakentaminen/
 lang: fi
 description: Opi lennokkien rakentamisen perusteet! Kattava opas aloittelijalle materiaalien valinnasta, työkaluista ja tekniikoista onnistuneeseen rakennusprojektiin.
 keywords: lennokkien rakentaminen, rc lennokki rakentaminen, lennokki rakennussarja, balsa lennokki, lennokki materiaalit
@@ -228,4 +228,8 @@ Rakentaminen on myös sosiaalista. Liity [Vallilan Lennokkikerhoon](/jäseneksi/
 
 **Haluatko lisätietoja rakentamisesta tai apua projektin aloittamisessa?** Tule käymään [lennokkikentällämme](/lennokkikenttä/) tai ota yhteyttä [jäseniimme](/yhteystiedot/). Jaamme mielellämme tietoa ja kokemuksia lennokkien rakentamisesta!
 
-[Takaisin aloittelijan oppaaseen](/aloittaminen/)
+<div class="button-container">
+<a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>
+</div>
+
+{% include carousel.html height="50" unit="%" duration="10" number="3" %}

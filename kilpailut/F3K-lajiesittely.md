@@ -1,7 +1,9 @@
 ---
 layout: page
 title: F3K lajiesittely
-permalink: /F3K-lajiesittely/
+permalink: /kilpailut/F3K-lajiesittely/
+redirect_from:
+  - /F3K-lajiesittely/
 description: FAI:n F3K-kisaluokka on saavuttanut suosiota kätevän koon, kuljetusystävällisyyden ja kohtuullisen hinnan ansiosta. Luokan kilpailuhistoria alkoi 1970-luvun lopulla Yhdysvalloissa. 
 
 keywords: FAI, F3K, radio-ohjattavat lennokit, heittoliidokkien kilpailu, lennokkikilpailu, radio-ohjattava, lennokki, DLG, maailmancup, kilpailuhistoria 
