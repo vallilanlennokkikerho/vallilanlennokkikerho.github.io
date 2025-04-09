@@ -33,14 +33,14 @@ Seuraa näitä helppoja askeleita päästäksesi alkuun lennokkiharrastuksessa:
    - **Muut tarvikkeet**: Pieniä työkaluja (esim. ruuvimeisseli, kuusiokoloavaimet), liimaa ja teippiä rakenteluun ja korjauksiin.
 
 4. **Turvallisuus, materiaalit ja ensimmäinen lennokki**  
-   Lennokki ei ole lelu, vaan se lentää samojen periaatteiden mukaisesti kuin täysikokoinen lentokone. Siksi on tärkeää oppia hallitsemaan lennokki turvallisesti. Aloittelijan kannattaa valita traineri, joka on valmistettu kestävistä vaahtomuoveista (kuten EPP tai EPO), jotka sietävät pieniä kolhuja ja ovat helposti korjattavissa. Voit lukea lisää yleisimmistä [rakennusmateriaaleista täältä](/aloittelijan-opas/rakennusmateriaalit/).
+   Lennokki ei ole lelu, vaan se lentää samojen periaatteiden mukaisesti kuin täysikokoinen lentokone. Siksi on tärkeää oppia hallitsemaan lennokki turvallisesti. Aloittelijan kannattaa valita kestävästä vaahtomuovista (EPP tai EPO) valmistettu traineri, joka sietää hyvin pieniä kolhuja ja on helposti korjattavissa. Voit lukea lisää yleisimmistä [rakennusmateriaaleista täältä](/aloittelijan-opas/rakennusmateriaalit/).
 
 ## Mitä seuraavaksi harrastuksessa?
 
 Kun olet löytänyt itsellesi sopivan lennokkityypin ja saanut perusteet haltuun, lennokkiharrastus avaa oven moniin kiehtoviin suuntiin:
 
 ### Kokeile uusia lennokkityyppejä  
-Harrastuksen edetessä voit laajentaa kokemustasi kokeilemalla erilaisia lennokkeja. Jos aloitit trainerilla, seuraava askel voisi olla sport-lennokki perustaitolentoon tai sähköliidokki rauhalliseen liitämiseen. Kokeneempana voit haastaa itsesi 3D-lennokkien äärimmäisillä tempuilla tai mallilennokkien eli skeilien tarkalla realismilla. Tule Talosaarentien kentälle katsomaan ja inspiroitumaan!
+Harrastuksen edetessä voit laajentaa kokemustasi kokeilemalla erilaisia lennokkeja. Jos aloitit trainerilla, seuraava askel voisi olla sport-lennokki perustaitolentoon tai sähköliidokki rauhalliseen liitämiseen. Kokeneempana voit haastaa itsesi 3D-lennokkien äärimmäisillä tempuilla tai mallilennokkien - eli skeilien - tarkalla realismilla. Tule Talosaarentien kentälle katsomaan ja inspiroitumaan!
 
 ### Tutustu kilpailutoimintaan  
 Lennokkiharrastus tarjoaa myös kilpailullisia haasteita. Voit kokeilla esimerkiksi:  
@@ -58,7 +58,7 @@ Jos pidät käsillä tekemisestä, voit siirtyä valmiiden lennokkien lennättä
 Harrastuksen paras puoli on sen sosiaalinen ulottuvuus. Vallilan Lennokkikerhon Talosaarentien kentällä tapaat muita harrastajia, joilta voit oppia uutta ja jakaa kokemuksia. Kentällä järjestetään myös yhteisiä lennätyshetkiä ja tapahtumia. Tutustu tarkemmin [Lennokkikentät ja lennättäminen](/aloittelijan-opas/lennokkikentat-aloittelijalle/) -sivulla ja tule mukaan!
 
 ### Kehitä taitojasi simulaattorilla  
-Ennen kuin siirryt vaativampiin lennokkeihin, harkitse lennokkisimulaattorin käyttöä. Simulaattorit, kuten Phoenix RC tai RealFlight, auttavat harjoittelemaan turvallisesti ja edullisesti – ilman riskiä lennokin rikkoutumisesta.
+Ennen kuin siirryt vaativampiin lennokkeihin, harkitse lennokkisimulaattorin käyttöä. [Simulaattorit](/aloittelijan-opas/lennokkisimulaattorit/), kuten Phoenix RC tai RealFlight, auttavat harjoittelemaan turvallisesti ja edullisesti – ilman riskiä lennokin rikkoutumisesta.
 
 ## Hyödyllisiä vinkkejä aloittelijalle
 
