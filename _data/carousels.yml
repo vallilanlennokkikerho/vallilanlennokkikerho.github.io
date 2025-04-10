@@ -5,15 +5,21 @@
     - image: /images/lennokkikuvia/fokker-dr-1.jpg
     - image: /images/lennokkikuvia/kantti.jpg
     - image: /images/lennokkikuvia/lennokkikerho.png
+    
 - images:
 #aloittelijan-opas
     - image: /images/lennokkikuvia/Piper Cub.jpg
     - image: /images/lennokkikuvia/Robbe DHC-2 BEAVER.jpg
     - image: /images/lennokkikuvia/Durafly Tundra V3.jpg
     - image: /images/lennokkikuvia/E-flite Night Timber X Evolution.jpg
+    
 - images:
 #lennokkien-rakentaminen
     - image: /images/lennokkikuvia/rakentelua.jpg
     - image: /images/lennokkikuvia/höylä.jpg
     - image: /images/lennokkikuvia/toka.jpg
-
+    
+- images:
+#lennokkisimulaattorit
+    - image: /images/lennokkikuvia/PicaSim.jpg
+    - image: /images/lennokkikuvia/RealFlight.jpg

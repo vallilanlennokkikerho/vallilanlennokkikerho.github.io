@@ -89,3 +89,5 @@ Simulaattorin pyörittäminen ei vaadi huipputietokonetta, mutta muutama perusas
 <div class="button-container">
 <a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>
 </div>
+
+{% include carousel.html height="50" unit="%" duration="10" number="4" %}
