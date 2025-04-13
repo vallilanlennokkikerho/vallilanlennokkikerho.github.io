@@ -74,7 +74,8 @@ Ennen kuin siirryt vaativampiin lennokkeihin, harkitse lennokkisimulaattorin kä
 Olemme luoneet sarjan sivuja tarkempaa tietoa varten:  
 - [Ensimmäisen lennokin valinta ja käyttöönotto](/aloittelijan-opas/ensimmainen-lennokki/)  
 - [Lennokkien rakentaminen](/aloittelijan-opas/lennokkien-rakentaminen/)  
-- [Lennokkikentät ja lennättäminen](/aloittelijan-opas/lennokkikentat-aloittelijalle/)  
+- [Lennokkikentät ja lennättäminen](/aloittelijan-opas/lennokkikentat-aloittelijalle/)
+- [Lennokkisanastoa – tutustu harrastuksen termeihin](/aloittelijan-opas/lennokkisanastoa/)
 
 Kysy rohkeasti lisää kerhon jäseniltä! Autamme mielellämme sinut alkuun tässä kiehtovassa harrastuksessa.
 
