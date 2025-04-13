@@ -12,7 +12,7 @@ lang: fi
 - **A-kakkonen** – Iso vapaastilentävä liidokki, nykyinen FAI-luokka F1A, aiemmin A2  
 - **A-ykkönen** – Pikkuliidokki, nykyään FAI-luokka F1H, aiemmin A1  
 - **AM** – Amplitudimodulaatio, käytössä varhaisissa RC-laitteissa  
-- **Analoginen servo** – Servo, jossa asento määräytyy signaalin jännitteen mukaan  
+- **Analoginen servo** – Servo, jota ohjataan pulssinleveysmoduloidulla (PWM) signaalilla; reagoi hitaammin ja vähemmän tarkasti kuin digitaalinen servo.  
 - **Abachi, apachi, apassi** – Kevyt puulaji, käytetään viilupinnoitteissa  
 - **Araldit** – Luja epoksiliima, hitaasti kovettuva  
 
@@ -31,7 +31,7 @@ lang: fi
 - **Dekali** – Siirtokuva  
 - **Diccoplast** – Katalyyttilakka polttoainesuojaukseen  
 - **Diesel** – Puristussytytysmoottori  
-- **Digitaalinen servo** – Servo, joka käyttää binääristä ohjausviestiä  
+- **Digitaalinen servo** – Servo, joka ohjaa asentoaan mikroprosessorin kautta analysoimalla PWM-signaalia, mahdollistaa nopeamman ja tarkemman vasteen.  
 - **Drone, drooni** – Moniroottorinen RC-helikopteri kameralla  
 - **Dynajet** – Alkeellinen suihkumoottori  
 
@@ -127,7 +127,7 @@ lang: fi
 - **Nöösi** – Nuori lennokkipoika  
 
 ## O
-- **Oldtimer** – 1930–40-lukujen mukainen lennokki  
+- **Oldtimer** – Vanhan ajan lennokki, yleensä 1930–40-lukujen mallien mukainen vapaastilentävä tai RC-lennokki  
 
 ## P
 - **P-30** – Kumimoottorilennokki, 30 tuuman maksimimitat  
