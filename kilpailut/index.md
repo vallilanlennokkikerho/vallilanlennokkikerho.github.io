@@ -172,6 +172,12 @@ Kilpailijalla on oltava voimassaoleva FAI-kilpailulisenssi. Kilpailuissa noudate
 
 Lisätietoja antaa Mikko Suokas, puh. 045 678 0839.
 
+<div class="image-container">
+<img src="/images/Lasse.jpg" alt="Suomen Mestaruuskilpailut" />
+Lasse Laxman starttaa. Vallilan Lennokkikerhon XVI Talvikisat 11.2.1962 (Vapaastilentävien Lennokkien Suomen Mestaruuskilpailut). Ilmailu-lehden kokoelma / Suomen Ilmailumuseo.
+</div>
+
+
 ### GDPR
 
 Ilmoittautuessasi kilpailuun hyväksyt, että nimesi julkaistaan lähtö- ja tuloslistoilla, ellet sitä erikseen kiellä (GDPR) ja lisäksi lähtö- ja tulostietoja voidaan luovuttaa esimerkiksi median käyttöön ja tilastointiin. Tietoja voidaan julkaista vapaasti, julkaisijoina ovat esimerkiksi kilpailun järjestäjä, Suomen Ilmailuliitto ja kansainvälinen ilmailuliitto FAI sekä Suomen Olympiakomitea. Tulostietoja säilytetään määräämättömän ajan. Muita ilmoittautumisen yhteydessä kerättyjä henkilötietoja säilytetään niin kauan kuin on tarpeellista. Ilmoittautuneella on oikeus rajoittaa tietojensa käyttöä ja kilpailijaa pyydetään ilmoittamaan mahdollisista henkilötietoihinsa liittyvistä rajoituksista ilmoittautumisen yhteydessä. Tietojen rajoittaminen voi estää pääsyn kilpailuihin.
