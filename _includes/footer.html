@@ -1,29 +1,30 @@
-<footer class="site-footer">
+<footer class="site-footer" itemscope itemtype="http://schema.org/Organization">
   <div class="wrapper">
-
     <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-        <h2 class="footer-heading">Lennokkikentät Helsinki</h2>
-        <ul class="contact-list">
-          <li class="text">Talosaari</li>
-          <li><a target="_blank" rel="noopener noreferrer" href="https://flyk.com/map?drone#14/60.243574/25.178451&p=12.94/60.24385/25.17682">Talosaaren lennokkikenttä UAS</a></li>
-          <li>
-            <ul class="contact-list">
-              <li class="text">Malmi</li>
-              <li><a target="_blank" rel="noopener noreferrer" href="https://flyk.com/map?drone#14/60.243574/25.178451&p=13.66/60.24969/25.04456">EFHF lennokkikenttä UAS</a></li>
-            </ul>
-          </li>
-        </ul>
-		<a href="/Modellflygfält/">På Svenska</a>
+      <div class="footer-col footer-col-1">
+        <div id="hcard-Talosaarentien-lennokkikenttä-UAS" class="vcard" itemprop="location" itemscope itemtype="http://schema.org/Place">
+          <span class="fn n given-name" itemprop="name">Talosaaren lennokkikenttä</span>
+          <div class="org" itemprop="parentOrganization" itemscope itemtype="http://schema.org/Organization">
+            <span itemprop="name">Vallilan lennokkikerho</span>
+          </div>
+          <div class="adr" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <div class="street-address" itemprop="streetAddress">Talosaarentie 108</div>
+            <span class="postal-code" itemprop="postalCode">00890</span>
+            <span class="locality" itemprop="addressLocality">Helsinki</span>,
+            <span class="country-name" itemprop="addressCountry">Finland</span>
+          </div>
+          <a class="url" href="https://flyk.com/map?drone#14/60.243574/25.178451&p=12.94/60.24385/25.17682" itemprop="url" aria-label="Näytä Talosaarentien lennokkikenttä UAS kartalla">Talosaarentien lennokkikenttä UAS</a>
+        </div>
+        <div class="contact-info">
+          <span itemprop="email"><a href="mailto:vallilanlennokkikerho@gmail.com">vallilanlennokkikerho@gmail.com</a></span>
+        </div>
+        <a href="/Modellflygfält/" hreflang="sv" lang="sv">På Svenska</a>
       </div>
-      <div class="footer-col  footer-col-2"></div>
-      <div class="footer-col  footer-col-3">
+      <div class="footer-col footer-col-2"></div>
+      <div class="footer-col footer-col-3">
+        
         <div class="sil-logo-container">
-          <img class="sil-logo" src="https://upload.wikimedia.org/wikipedia/fi/2/23/SIL_logo.svg" alt="Suomen Ilmailuliiton jäsenyhdistys">
+          <img class="sil-logo" src="https://upload.wikimedia.org/wikipedia/fi/2/23/SIL_logo.svg" alt="Suomen Ilmailuliiton jäsenyhdistys logo">
         </div>
       </div>
     </div>
@@ -31,24 +32,29 @@
 </footer>
 
 <div style="text-align: right;">
-<button id="scrollToTop" aria-label="Scroll to Top">
-  <img id="darken-on-hover" src="/images/type9.svg" width="131" height="131" alt="Takaisin ylös">
-</button>
+  <button id="scrollToTop" aria-label="Siirry sivun alkuun">
+    <img id="darken-on-hover" src="/images/type9.svg" width="131" height="131" alt="Siirry ylös -ikoni">
+  </button>
 </div>
 
 <style>
   #scrollToTop {
     border: none;
     background-color: transparent;
+    cursor: pointer;
   }
-  #darken-on-hover:hover {
+  #scrollToTop:focus {
+    outline: 2px solid #005ea2;
+  }
+  #darken-on-hover:hover,
+  #darken-on-hover:focus {
     filter: brightness(0.7);
   }
 </style>
 
 <script>
-document.getElementById('scrollToTop').addEventListener('click', function(event) {
+  document.getElementById('scrollToTop').addEventListener('click', function(event) {
     event.preventDefault();
     window.scrollTo({ top: 0, behavior: 'smooth' });
-});
+  });
 </script>

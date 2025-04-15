@@ -20,7 +20,7 @@ Toiminta kentällä tapahtuu omalla vastuulla. Ihmisten turvalllisuudesta on pid
 
 ### Rekisteröityminen
 
-1.2.2021 alkaen jokaisen, joka lennättää yli 250 g painavia lennokkeja (droneja), pitää rekisteröityä viranomaiselle. Tämä koskee myös alle 250 g laitteita, joissa on kamera. Rekisteröinti maksaa verkossa 30€/1v tai 100€/5v ja se tapahtuu Traficomin Droneinfo [verkkopalvelussa](https://droneinfo.fi/fi/rekisteroityminen-ja-teoriakoe). Yhdistyksen puitteissa tapahtuva harrastetoiminta rajoittuu ainoastaan Talosaarentien ja Malmilla sijaitseville lennokkikentille, missä yhdistykseen kuuluvat harrastajat voivat toimia kuten aikaisemminkin noudattaen voimassa olevia lennokkitoiminnan sääntöjä ja turvaohjeita. [Talosaarentien_lennokkikentän_kenttäsäännöt_v1.2](/lennokkikenttä/Talosaari_lennokkikentän_kenttäsäännöt/)
+1.2.2021 alkaen jokaisen, joka lennättää yli 250 g painavia lennokkeja (droneja), pitää rekisteröityä viranomaiselle. Tämä koskee myös alle 250 g laitteita, joissa on kamera. Rekisteröinti maksaa verkossa 30€/1v tai 100€/5v ja se tapahtuu Traficomin Droneinfo [verkkopalvelussa](https://droneinfo.fi/fi/rekisteroityminen-ja-teoriakoe). Yhdistyksen puitteissa tapahtuva harrastetoiminta rajoittuu ainoastaan Talosaaressa sijaitsevalle lennokkikentälle, jossa yhdistykseen kuuluvat harrastajat voivat jatkaa toimintaansa kuten aiemminkin, noudattaen voimassa olevia lennokkitoiminnan sääntöjä ja turvaohjeita. [Talosaarentien_lennokkikentän_kenttäsäännöt_v1.2](/lennokkikenttä/Talosaari_lennokkikentän_kenttäsäännöt/)
 
 ### Toiminta yksityishenkilönä
 
@@ -36,10 +36,6 @@ Mikäli harrastat kerhon määrittelemän toiminnan ulkopuolella yksityishenkil�
 ### Erityisvaroitukset
 
 **HUOMIO!** Kentän vastapäisen metsän takana sijaitsee hevostalli, jossa voi aiheutua vaaratilanne hevosten pillastuessa. Lennättämistä on tämän johdosta ehdottomasti vältettävä vastapäisen metsän sekä sen taikaisten alueiden päällä. Erityistä varovaisuutta vaativat etenkin isot polttomoottorilennokit, joista aiheutuu kovaa melua. Joen takaisella pellolla ja metsän rajassa myös ratsatetaan ajoittain ja hevosten läsnäoloon tulee tällöin kiinnittää erityistä huomiota muillakin alueilla. Jos hevosia on näköpiirissä, näiden pällä ei missään tilanteessa saa lennättää ja isoilla lennokeilla lennättämistä on vältettävä kokonaan.
-
-### Malmin lennokkikenttä
-
-Päälennätyskenttä on Talosaaressa sijaitseva lennätyskenttä, mutta kerholla on myös toinen lennokkikenttä Malmilla. Malmilla lennätyksen säännöt koskevat vain ilmatilaa Malmin lentokentän yläpuolella, ja maa-alueella on otettava huomioon, että se on Helsingin kaupungin omistamaa ulkoilualuetta, jossa toimiessamme muut alueella liikkujat on otettava huomioon ja heidän turvallisuutensa ei saa vaarantua. Katso lisätietoja [kenttäsäännöt_EFHF_lennokkikenttä_v1.0](/lennokkikenttä/Malmi_lennokkikentän_kenttäsäännöt/).
 
 ### Pysäköinti ja rajoitukset
 
