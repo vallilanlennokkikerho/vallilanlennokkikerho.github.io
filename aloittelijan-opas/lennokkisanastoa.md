@@ -86,7 +86,6 @@ lang: fi
 - **Horni** – Ohjauspinnan kääntövipu, yhdistää servon työntötangon ohjainpintaan.  
 - **Huikka** – Käynnistysryyppy, pieni määrä polttoainetta ruiskutetaan moottoriin käynnistyksen helpottamiseksi.  
 - **Huiska** – Potkuri.  
-- **Huopilennokki** – Slangitermi kestäville harjoituslennokeille, sopii aloittelijoille.  
 - **Hyttynen** – Yksinkertainen kumimoottorilennokki.  
 - **Händi** – Siimaohjauskahva, jolla ohjataan siimaohjattavaa lennokkia.  
 
