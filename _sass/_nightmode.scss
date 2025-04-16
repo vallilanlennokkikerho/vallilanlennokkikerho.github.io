@@ -111,6 +111,11 @@ html.night-mode {
     color: #f0f0f0; // Light color for dark background
   }
 
+  // Site Footer
+  .site-footer {
+    color: #f0f0f0; // Match site-title night mode color
+  }
+
   // Site Navigation (Mobile)
   .site-nav {
     @include media-query($on-palm) {
