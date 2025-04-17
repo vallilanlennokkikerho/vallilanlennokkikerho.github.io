@@ -11,12 +11,12 @@ Simulaattori on erinomainen tapa opetella RC-lennokin ohjaamista turvallisesti j
 
 ## Sisällysluettelo
 
-1. [Miksi käyttää simulaattoria?](#miksi-käyttää-simulaattoria)  
-2. [Simulaattorien vertailu](#simulaattorien-vertailu)  
-3. [Laitteistovaatimukset ja ohjaimet](#laitteistovaatimukset-ja-ohjaimet)  
-4. [Simulaattorin asetukset aloittelijalle](#simulaattorin-asetukset-aloittelijalle)  
-5. [Harjoitusohjelma ensilennoille ja jatkoon](#harjoitusohjelma-ensilennoille-ja-jatkoon)  
-6. [Vinkkejä tehokkaaseen harjoitteluun](#vinkkejä-tehokkaaseen-harjoitteluun)  
+1. [Miksi käyttää simulaattoria?](#1-miksi-käyttää-simulaattoria)
+2. [Simulaattorien vertailu](#2-simulaattorien-vertailu)
+3. [Laitteistovaatimukset ja ohjaimet](#3-laitteistovaatimukset-ja-ohjaimet)
+4. [Simulaattorin asetukset aloittelijalle](#4-simulaattorin-asetukset-aloittelijalle)
+5. [Harjoitusohjelma ensilennoille ja jatkoon](#5-harjoitusohjelma-ensilennoille-ja-jatkoon)
+6. [Vinkkejä tehokkaaseen harjoitteluun](#6-vinkkejä-tehokkaaseen-harjoitteluun)
 
 ---
 
@@ -42,7 +42,11 @@ Alla vertailutaulukko suosituimmista simulaattoreista:
 | **FPV Freerider**       | Edullinen (~5€) | FPV-dronet                  | Kohtalainen    | Windows, Mac, Linux | [Virallinen](https://fpv-freerider.itch.io/fpv-freerider)                                 | Kevyt, hyvä perusharjoitteluun                       |
 | **PicaSim**             | Ilmainen      | Liidokit, purjelentokoneet  | Kohtalainen    | Windows, Android   | [Virallinen](http://www.rowlhouse.co.uk/PicaSim/)                                          | Kevyt, helppo käyttää                                |
 | **Phoenix RC**          | Ilmainen (ei tukea) | Lennokit, helikopterit     | Hyvä           | Windows            | [RC-Thoughts](https://www.rc-thoughts.com/phoenix-sim/)                                   | Kehitys lopetettu, asennus hankala |
+| **Liftoff**             | Maksullinen   | FPV-dronet     | Korkea        | Windows, Mac, Linux | [Steam](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/) | Moninpeli, kustomointi                 |
+| **DRL Simulator**       | Maksullinen   | FPV-dronet     | Korkea        | Windows           | [Steam](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/)    | Viralliset DRL-radat                   |
+| **Heli-X**              | Ilmainen/Maksullinen | Helikopterit (myös lennokit) | Korkea        | Windows, Mac, Linux | [Virallinen](https://www.heli-x.info/)                                                 | Vahva helikopteriharjoitteluun         |
 
+[Mitä on FPV?](/aloittelijan-opas/mitä-on-fpv/)
 ## 3. Laitteistovaatimukset ja ohjaimet
 
 Simulaattorin pyörittäminen ei vaadi huipputietokonetta, mutta muutama perusasia on hyvä tarkistaa:  

@@ -63,8 +63,8 @@ lang: fi
 - **FAI-luokat** – Kansainvälisen ilmailuliiton (FAI) määrittelemät lennokkien kilpailuluokat, kuten F1A, F1B, F2D, F3A jne.  
 - **Fail Safe** – Turva-asetus radio-ohjausjärjestelmässä, ohjaa servot ennalta määriteltyyn asentoon häiriön sattuessa (esim. kaasu tyhjäkäynnille).  
 - **Filmari (mikrofilmari)** – Erittäin kevyt F1D-luokan sisälennokki, päällystetty mikrofilmikalvolla.  
-- **Flapsit (fläpsit)** – Laskusiivekkeet, ohjainpinnat, jotka hidastavat lennokkia laskeutumisen aikana.  
-- **Flaperon** – Ohjainpinta, joka yhdistää siivekkeiden ja laskusiivekkeiden (flapsien) toiminnot. Toimii käännöksissä siivekkeen tavoin ja laskeutumisessa hidastaa lennokkia kuten laskusiiveke.  
+- **Flapsit (fläpsit)** – Laskusiivekkeet (laipat), ohjainpinnat, jotka lisäävät nostovoimaa ja hidastavat lennokkia laskeutumisen ja nousun aikana.  
+- **Flaperon** – Ohjainpinta, joka yhdistää siivekkeiden ja laippojen toiminnot. Toimii käännöksissä siivekkeen tavoin ja laskeutumisessa hidastaa lennokkia kuten laskusiiveke.  
 - **FM (Taajuusmodulaatio)** – Radio-ohjauslaitteiden modulointitapa, vähemmän herkkä häiriöille kuin AM.  
 - **Foam** – Yleisnimitys vaahtomuoville, kuten Styrox tai Depron, käytetään kevyiden lennokkien rakentamiseen.  
 - **Fuili** – Slangitermi polttomoottorin polttoaineelle, yleensä metanoli-öljyseokselle, voi sisältää nitrometaania.  

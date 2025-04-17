@@ -213,7 +213,7 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 <img src="/images/drone2.svg" alt="Multikopteri (drone)" style="float: right; width: 200px; margin-left: 15px;" />
 
-**Kuvaus:** Multikopterit eli dronet ovat suosittuja ja eroavat teknisesti perinteisistä lennokeista. Ne perustuvat useisiin roottoreihin ja kehittyneeseen elektroniikkaan vakauden ja ohjattavuuden saavuttamiseksi.
+**Kuvaus:** Multikopterit eli dronet ovat suosittuja ja eroavat teknisesti perinteisistä lennokeista. Ne perustuvat useisiin roottoreihin ja kehittyneeseen elektroniikkaan vakauden ja ohjattavuuden saavuttamiseksi. Tähän kategoriaan kuuluvat myös FPV-dronet, joita ohjataan reaaliaikaisen videokuvan avulla [Mitä on FPV?](/aloittelijan-opas/mitä-on-fpv/).
 
 **Ominaisuudet:**
 
