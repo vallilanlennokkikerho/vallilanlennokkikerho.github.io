@@ -3,7 +3,7 @@ layout: page
 permalink: /Modellflygfält/
 title: RC-flygfältet i Helsingfors | Vallilan Lennokkikerho
 description: Välkommen till Vallilan Lennokkikerho, Helsingfors mest aktiva klubb för RC-modellflyg. Flygfältet i Talosaari erbjuder perfekta förhållanden för alla modellflygaktiviteter.
-lang: se
+lang: sv
 keywords: RC-flygfält, RC-modellflyg, Vallilan Lennokkikerho, Talosaari, RC-flygplan, modellflygning Helsingfors, drönare, helikoptrar, multirotorer, flygfält Helsingfors
 ---
 
@@ -17,7 +17,7 @@ Vi är Helsingfors mest aktiva och historiska klubb för RC-modellflyg, med medl
 
 ### Vårt flygfält har följande faciliteter
 
-- En välskött landningsbana för smidiga starter och landningar.
+- En välskött gräsbana för smidiga starter och landningar.
 - Ett pilotområde med bänkar och bord för vila och förberedelser.
 - Pitbord, stolar, en kolgrill och en anslagstavla med de senaste fältreglerna och klubbinformationen.
 
@@ -25,15 +25,13 @@ Oavsett om du är nybörjare som slipar på dina färdigheter eller en erfaren p
 
 ## MODELLFLYGPLATS
 
-En bra plats att flyga på är avgörande för vår hobby, och vi är stolta över att ha vårt eget flygfält på Talosaarentie 108 i Helsingfors, nära gränsen till Sibbo. Vårt fält underhålls av klubbmedlemmar som frivilligt bidrar med sin tid, inklusive en årlig underhållsdag där aktiva medlemmar hjälper till att klippa gräset och hålla allt i gott skick.
+En bra plats att flyga på är avgörande för vår hobby, och vi är stolta över att ha vårt eget flygfält på Talosaarentie 108 i Helsingfors, nära gränsen till Sibbo. Talosaari är klubbens stolthet och Helsingfors enda RC-flygfält. Sedan starten har det utvecklats till en av stadens bästa platser för modellflygning. Fältet är anpassat för både små och medelstora modeller, och tack vare sitt läge nära naturen erbjuder det en unik miljö för flygning. Vårt fält underhålls av klubbmedlemmar som frivilligt bidrar med sin tid, inklusive en årlig underhållsdag där aktiva medlemmar hjälper till att klippa gräset och hålla allt i gott skick.
 
 ### Talosaari RC-flygfält
 
 För att flyga på vårt fält behöver du betala medlemsavgiften och registrera dig som drönaroperatör hos Traficom. Se till att ditt modellflygplan har ditt namn, kontaktuppgifter och drönaroperatörs-ID på sig.
 
 **Viktigt!** Det finns ett stall bakom skogen mittemot vårt fält. Hästar kan lätt bli skrämda, vilket kan vara farligt. Undvik att flyga över skogen och området bortom den, och var försiktig med stora bensindrivna modeller på grund av bullret. Om du ser hästar i närheten, överväg att inte använda stora modeller alls.
-
-Vårt huvudsakliga flygfält är i Talosaari, men vi har också ett fält i Malm. När du flyger i Malm, tänk på att det är ett offentligt friluftsområde som ägs av Helsingfors stad. Var uppmärksam på andra människor i området och se till att säkerheten inte äventyras.
 
 ## KLUBBENS UPPDRAG
 
@@ -72,7 +70,7 @@ Vi uppmuntrar till deltagande i frivilliga aktiviteter för att främja gemenska
 Vindförhållandena i Talosaari kan variera; sydvästliga och västliga vindar kan orsaka turbulens nära skogen, medan sydostliga och nordvästliga vindar vanligtvis är bäst. Kontrollera alltid den senaste väderprognosen innan du flyger!
 
 <a href="https://www.yr.no/en/details/graph/2-11978530/Finland/Uusimaa/Helsinki/Vuosaari" target="_blank">
-    <img src="https://www.yr.no/en/content/2-11978530/meteogram.svg" style="width: 100%; height: auto;" alt="sää Vuosaari" />
+    <img src="https://www.yr.no/en/content/2-11978530/meteogram.svg" style="width: 100%; height: auto;" alt="väder Vuosaari" />
 </a>
 
 {% include lang.html %}
