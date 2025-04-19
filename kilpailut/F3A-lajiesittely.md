@@ -1,38 +1,53 @@
 ---
+
 layout: page
-title: F3A-lajiesittely
+title: F3A - Radio-ohjattavien taitolennokkien kilpailuluokka
 permalink: /kilpailut/F3A-lajiesittely/
 redirect_from:
   - /F3A-lajiesittely/
-description: Tutustu FAI F3A -lentokoneiden taitolentokilpailuihin ja niiden maailmaan. Lue lisää säännöistä, kilpailumenestyksestä ja yhteisöstä.
-
-keywords: F3A, RC-taitolentokone, FAI F3-taitolento, lentokuvio, kilpailu, taitolento, moottorityyppi, polttomoottori, sähkömoottori, kilpailumenestys, kansainvälinen, yhteisö, lentäjä, koulutus
+description: Tutustu FAI F3A -luokkaan, radio-ohjattavien taitolennokkien suosituimpaan kilpailuluokkaan. Lue säännöistä, suomalaisten menestyksestä ja yhteisöstä.
+keywords: F3A, RC-taitolentokone, FAI, taitolento, lentokuvio, kilpailu, Lassi Nurila, maailmanmestaruus, Euroopan mestaruus, Sport-luokka, Nordic-luokka, F3A FAI, yhteisö, aerobatic zone, K-factor
 ---
 
-## F3A - RC-taitolentokone on suosituin FAI F3-taitolentojen kilpailuluokka. Upeaa lentoa ja tarkkoja suorituksia
+F3A on kuin taidetta taivaalla, jossa pilotit ohjaavat radio-ohjattavia taitolennokkeja suorittamaan henkeäsalpaavia kuvioita – silmukoita, jyrkkiä käännöksiä ja sulavia pyörähdyksiä – täydellisellä tarkkuudella. Jokainen lento on intensiivinen esitys, jossa pilotin taito ja koneen hallinta yhdistyvät, kun tuomaristo seuraa jokaista liikettä. Kilpailun jännitys kasvaa, kun pilotit haastavat itsensä ja toisensa lentämään virheettömästi, luoden unohtumattoman kokemuksen niin osallistujille kuin katsojille.
 
-F3A:ssa suoritetaan sarja tarkasti määriteltyjä lentokuvioita, jotka vaativat piloteilta huipputarkkuutta ja kykyä hallita koneidensa pienimpiäkin liikkeitä. Tuomaristo arvioi jokaisen suorituksen täsmällisyyttä ja tyylikkyyttä, ja kilpailun jännitys tiivistyy jokaisella kierroksella.
+### Kilpailuformaatti
 
-## Avoin kaikille
+Kilpailijat lentävät tarkasti määriteltyjä lentokuvioita aerobatic zone -alueella, joka ulottuu noin 150 metriä eteenpäin ja rajoittuu 60 asteen kulmiin sivuille ja ylöspäin maasta. Tuomaristo arvioi jokaisen liikkeen pistein 0–10, ja pisteet kerrotaan liikkeen vaikeuskertoimella (K-factor) ennen yhteenlaskua. Epätarkkuuksista vähennetään pisteitä, joten tarkkuus on avainasemassa. Lue tarkemmat säännöt [FAI:n virallisesta dokumentista](https://www.fai.org/sites/default/files/sc4_vol_f3_aerobatics_25.pdf).
 
-F3A:n parhaita puolia on sen avoimuus. Kilpailuissa voi osallistua monenlaisilla koneilla, ja pilotit voivat valita itselleen parhaiten sopivan moottorityypin – olipa se sitten perinteinen polttomoottori, innovatiivinen sähkömoottori tai jokin aivan uusi ratkaisu. Tämä luo ainutlaatuisen ympäristön, jossa tekninen kehitys ja luovuus kukoistavat.
+### Lennokkien vaatimukset
 
-## Aloita matka kohti huippua
+- **Mitat**: Siipien kärkiväli ja rungon pituus enintään 2 metriä.  
+- **Paino**: Enintään 5,5 kg (vuonna 2025, 1 % toleranssi).  
+- **Melutaso**: Enintään 94 dB(A) mitattuna 3 metrin etäisyydeltä.  
+- **Voimanlähde**: Polttomoottori tai sähkömoottori, kunhan meluraja alittuu.
 
-F3A-harrastuksen aloittaminen on helpompaa kuin luuletkaan! Sport-luokka tarjoaa erinomaisen lähtökohdan taitolennon kiehtovaan maailmaan. Yksinkertaisempien koneiden ja liikkeiden avulla voit hioa taitojasi ja edetä ajan myötä vaativampiin luokkiin.
+### Avoimuus ja innovaatio
 
-## Kilpailumenestys ja Kansainväliset Saavutukset
+F3A on avoin monenlaisille koneille, ja pilotit voivat valita poltto- tai sähkömoottorin, mikä edistää teknistä kehitystä ja luovuutta.
 
-F3A-luokassa suomalaiset ovat kunnostautuneet kansainvälisesti. Esimerkiksi Lassi Nurila on voittanut maailmanmestaruuden, mikä nostaa esiin Suomen vahvan aseman tässä lajissa. Joukkuekilpailut ovat myös tärkeitä, sillä ne tuovat yhteen parhaat pilotit ympäri maailman.
+### Aloittelijoille
 
-## Liity joukkoon
+Suomessa on käytössä kolmitasoinen luokkajärjestelmä:  
 
-F3A on enemmän kuin pelkkä kilpailu. Se on yhteisö, joka tuo yhteen taitolennon ystäviä kaikkialta maailmasta. Lentotapahtumat, koulutukset ja yhteistyö tarjoavat ainutlaatuisen tilaisuuden oppia toisiltamme ja jakaa innostusta tätä upeaa lajia kohtaan.
+1. **Sport-luokka**: Aloittelijoille, yksinkertaisemmat liikkeet ja koneet ilman teknisiä rajoituksia.  
+2. **Nordic-luokka**: Välimuoto, keskitason haasteita.  
+3. **F3A FAI -luokka**: Kansainvälinen taso, jossa kilpaillaan FAI:n sääntöjen mukaisesti.  
 
-## F3A odottaa sinua
+Aloittelijat voivat aloittaa Sport-luokasta ja edetä kokemuksen karttuessa.
 
-Olitpa sitten kokenut lentäjä tai vasta aloittelemassa, F3A tarjoaa jotakin jokaiselle. Koe lentämisen riemu, testaa taitojasi ja liity jännittävään yhteisöön. F3A - koho korkeuksiin ja löydä uusia ulottuvuuksia taitolennon maailmassa!
+### Suomalainen menestys
 
-[lue lisää](https://www.ilmailuliitto.fi/avainsana/f3a/)
+Suomalaiset pilotit ovat loistaneet kansainvälisesti. Lassi Nurila voitti Euroopan mestaruuden Zamorassa, Espanjassa elokuussa 2022 ja maailmanmestaruuden Warwickissa, Australiassa elokuussa 2023, ollen ensimmäinen suomalainen maailmanmestari F3A-luokassa.
+
+### Yhteisö
+
+F3A on globaali yhteisö, joka yhdistää harrastajia koulutusten, seminaarien ja kilpailujen kautta. Paikalliset kerhot ja kansainväliset liitot tarjoavat mahdollisuuksia oppimiseen, verkostoitumiseen ja intohimon jakamiseen.
+
+### Liity mukaan
+
+Olitpa kokenut lentäjä tai vasta aloittelemassa, F3A tarjoaa haasteita ja iloa kaikille. Liity mukaan ja koe radio-ohjattavan taitolennon jännitys!
+
+[Lue lisää](https://www.f3a.fi/)
 
 {% include esittely.html %}
