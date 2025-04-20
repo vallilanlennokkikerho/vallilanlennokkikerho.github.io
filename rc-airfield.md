@@ -68,7 +68,7 @@ We encourage participation in volunteer activities, fostering community spirit a
 Wind conditions at Talosaari can vary; southwest and west winds may cause turbulence near the forest, while southeast and northwest winds are typically best. Always check the latest weather forecast before flying!
 
 <a href="https://www.yr.no/en/details/graph/2-11978530/Finland/Uusimaa/Helsinki/Vuosaari" target="_blank">
-    <img src="/images/2-11978530/meteogram.svg" style="width: 100%; height: auto;" alt="Weather Vuosaari" />
+    <img src="https://www.yr.no/en/content/2-11978530/meteogram.svg" style="width: 100%; height: auto;" alt="Weather at Vuosaari" />
 </a>
 
 {% include lang.html %}
