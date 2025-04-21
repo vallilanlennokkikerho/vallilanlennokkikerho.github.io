@@ -7,7 +7,7 @@ description: Miten valita ensimmäinen RC-lennokki? Opas aloittelijalle sopivan 
 keywords: rc lennokki aloittelijalle, ensimmäinen lennokki, aloittelijan lennokki, lennokkien rakentaminen, lennokki harrastus aloittaminen
 ---
 
-Ensimmäisen radio-ohjattavan lennokin valinta on tärkeä askel lennokkiharrastuksen aloittamisessa. Oikea valinta tekee oppimisesta miellyttävämpää ja vähentää turhautumista. Tässä oppaassa kerromme, mitä sinun on hyvä tietää ensimmäisen lennokkisi valinnasta ja käyttöönotosta.
+Ensimmäisen radio-ohjattavan lennokin valinta on tärkeä askel lennokkiharrastuksen aloittamisessa. Oikea valinta tekee oppimisesta miellyttävämpää ja vähentää turhautumista. Tässä kerromme, mitä sinun on hyvä tietää ensimmäisen lennokkisi valinnasta, käyttöönotosta ja valmistautumisesta ensimmäisiin lentoihin.
 
 ## Sisällysluettelo
 
@@ -19,8 +19,48 @@ Ensimmäisen radio-ohjattavan lennokin valinta on tärkeä askel lennokkiharrast
 6. [Ensimmäiset lennot](#ensimmäiset-lennot)
 7. [Yleisimmät virheet ja niiden välttäminen](#yleisimmät-virheet-ja-niiden-välttäminen)
 8. [Mistä hankkia lennokki?](#mistä-hankkia-lennokki)
+9. [Ensimmäisen lennokin kokoaminen ja tarkistukset](#ensimmaisen-lennokin-kokoaminen-ja-tarkistukset)
+10. [Ensilennon valmistelu](#ensilennon-valmistelu)
 
 ## Mikä lennokki sopii aloittelijalle?
+
+Ensimmäisen lennokkisi tulisi olla hidas, vakaa ja kestävä. Vältä näyttäviä skaalakoneita, kuten hävittäjiä tai taitolentokoneita, sillä ne ovat haastavia ohjata ja hajoavat herkästi.
+
+Hyviä vaihtoehtoja ovat:
+
+- **Moottoriliidokit**, jotka liitävät hyvin ja sopivat aukeille alueille.
+- **Suurisiipiset trainer-mallit**, jotka lentävät hitaasti ja voivat laskeutua pienemmille kentille.
+- **Ylätasoiset skaalakoneet** ovat rauhallisia lentää, mutta sopivat paremmin toiseksi koneeksi.
+
+Vakaassa lennokissa painopiste on siipien alapuolella. Siipien V-kulma (dihedral) lisää vakautta. Pieni siipikuormitus mahdollistaa hitaan lentämisen. Rakenne kannattaa olla kestävä, ja varaosien saatavuus tärkeää.
+
+Lennätyspaikka vaikuttaa valintaan: aukeat pellot sopivat moottoriliidokeille, kun taas pienemmät alueet sopivat pyörällisille moottorikoneille.
+
+**RTF-paketit (Ready-to-Fly)** ovat suositeltavia, sillä ne sisältävät lennokin, radion, akun ja laturin. Suomessa suosittuja merkkejä ovat **Multiplex** ja **Graupner**, joita saa hyvin kotimaisista ja eurooppalaisista verkkokaupoista.
+
+## Ensimmäisen lennokin kokoaminen ja tarkistukset
+
+Vaikka ostaisit RTF-lennokin, se vaatii pientä kokoamista ja tarkistuksia. Kiinnitä siivet, peräsimet ja laskutelineet ohjeiden mukaisesti. Tarkista moottorin kiinnitys, servojen keskitys ja ohjainpintojen suoruus. Säädä tarvittaessa servotankoja.
+
+Tarkista radio ja servot ennen jokaista lentoa. Suomessa käytetään **2.4 GHz** -radioita – varmista CE-hyväksyntä. Yleisimmät ohjainasetukset:
+
+- **Mode 2**: oikea tikku ohjaa korkeutta ja kallistusta, vasen tikku sivuperäsintä ja kaasua.
+- Testaa radion kantama ("Range Check") 20–30 metrin päästä.
+- Aseta trimmit keskelle ennen ensilentoa, ja säädä niitä lennon aikana tarpeen mukaan.
+
+Tarkista potkurin asento (tekstit menosuuntaan) ja pyörimissuunta. Väärä suunta korjataan vaihtamalla kaksi moottorin johdoista keskenään. Potkuri tulee tasapainottaa tai vaihtaa, jos se on vaurioitunut.
+
+## Ensilennon valmistelu
+
+Valitse tyyni päivä ja avoin alue ilman esteitä. Tarkista painopiste (CG) ohjekirjan mukaan. Suunnittele lentoreitti ja pakkolaskupaikka. Varmista akun lataus ja kaikkien osien kunto.
+
+**Käsiheitto**: heitä lujaa ja yläviistoon, pidä toinen käsi ohjaimella.
+**Laskutelineiltä nousu**: kiihdytä rauhallisesti ja vedä kevyesti.
+**Lento**: pysy korkealla, tee rauhallisia ympyröitä ja käytä pieniä ohjausliikkeitä.
+
+**Lasku**: tee laskukierros vastatuuleen, pudota korkeutta, kaarra kentälle ja vähennä kaasua. Vedä kevyesti juuri ennen kosketusta.
+
+Akun kesto on yleensä 7–15 minuuttia. Moottoriliidokit voivat liitää pidempään. Jos moottorin teho hiipuu, laskeudu heti.
 
 Aloittelijalle parhaiten sopiva lennokki on **Ylätasoinen harjoituslennokki eli traineri**. Näillä lennokeilla on seuraavia ominaisuuksia:
 
@@ -42,6 +82,13 @@ Aloittelijalle parhaiten sopiva lennokki on **Ylätasoinen harjoituslennokki eli
    - Multiplex EasyGlider
 
 Liidokit ovat erityisen hyviä aloittelijoille, koska ne ovat vakaita ja lentävät hitaasti, mikä antaa enemmän aikaa reagoida. Monet sähkökäyttöiset liidokit pystyvät nousemaan ilmaan itsenäisesti ilman avustusta.
+
+### Suositeltavia trainer-malleja
+
+- **Multiplex EasyStar 3**: kestävä moottoriliidokki
+- **Graupner Elektro Junior**: aloittelijaystävällinen moottorikone
+- **Multiplex FunCub**: monipuolinen ja kolhuja kestävä
+- **Volantex Ranger 1600**: edullinen ja helposti korjattava
 
 ## RTF, PNF, ARF vai rakennussarja?
 

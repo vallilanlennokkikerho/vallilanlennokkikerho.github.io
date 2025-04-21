@@ -140,50 +140,56 @@
   margin-left: 0;
 }
 
+
+
+
 .footer-col-wrapper {
-  // font-size and color removed, will inherit from .site-footer
-  margin-left: -$spacing-unit / 2;
-  @extend %clearfix;
+  display: flex; /* Flexbox for side-by-side columns */
+  flex-wrap: wrap; /* Allow wrapping if needed */
+  margin-left: -$spacing-unit / 2; /* Your spacing unit */
+  @extend %clearfix; /* For nested floated elements */
 }
 
 .footer-col {
-  float: left;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
+  box-sizing: border-box; /* Ensure padding doesn’t affect width */
+
+
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width: calc(35% - (#{$spacing-unit} / 2));
+  flex: 0 0 calc(60% - (#{$spacing-unit} / 2)); /* 60% width */
+  width: calc(60% - (#{$spacing-unit} / 2)); /* Fallback */
 }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width: calc(20% - (#{$spacing-unit} / 2));
+  flex: 0 0 calc(40% - (#{$spacing-unit} / 2)); /* 40% width */
+  width: calc(40% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width: calc(45% - (#{$spacing-unit} / 2));
+[itemprop="name"] {
+  display: block; /* New line after the name */
 }
+
+[itemprop="streetAddress"] {
+  display: block; /* From previous question, for consistency */
+}
+
+
+
 
 @include media-query($on-laptop) {
   .footer-col-1,
   .footer-col-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    flex: 0 0 calc(50% - (#{$spacing-unit} / 2));
     width: calc(50% - (#{$spacing-unit} / 2));
-  }
-
-  .footer-col-3 {
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width: calc(100% - (#{$spacing-unit} / 2));
   }
 }
 
 @include media-query($on-palm) {
   .footer-col {
-    float: none;
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    flex: 0 0 calc(100% - (#{$spacing-unit} / 2));
     width: calc(100% - (#{$spacing-unit} / 2));
   }
 }
