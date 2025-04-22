@@ -177,6 +177,11 @@ Vaihtoehtoja pinnoitukseen:
 
 ## Elektroniikan asennus
 
+Ennen elektroniikan asennusta on hyvä ymmärtää lyhyesti, mitä eri komponentit tekevät:
+
+- **Servot:** Pieniä moottoreita, jotka kääntävät lennokin ohjainpintoja (siivekkeet, korkeusperäsin, sivuperäsin) radiolähettimen käskyjen mukaisesti.
+- **Radio-ohjain (lähetin ja vastaanotin):** Lähetin on kädessä pidettävä laite, jolla ohjaat lennokkia. Vastaanotin sijaitsee lennokissa ja tulkitsee lähettimen signaalit, ohjaten servoja.
+
 Elektroniikan asennus on kriittinen vaihe:
 
 ### 1. Servot

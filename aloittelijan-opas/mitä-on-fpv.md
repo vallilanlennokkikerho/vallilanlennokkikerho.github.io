@@ -9,11 +9,28 @@ keywords: FPV, First Person View, FPV drone, FPV lennokki, drone racing, freesty
 
 Kuvittele, että kiidät puiden lomaan, teet huimia temppuja ilmassa tai kuvaat upeita maisemia – FPV-lentäminen tekee tämän mahdolliseksi! FPV eli *First Person View* (suomeksi "ensimmäisen persoonan näkökulma") on tapa ohjata dronea reaaliaikaisen videokuvan avulla. FPV-lasien kautta näet dronen kameran kuvan, ja tuntuu kuin lentäisit itse. Tämä hauska ja luova harrastus sopii kaikille – voit aloittaa helposti ja kehittyä omassa tahdissasi!
 
+## Ilmakuvauskamerat ja FPV
+
+FPV-lennätyksessä käytetään yleensä pientä kameraa, joka on sijoitettu droneen tai lennokkiin. Kameran kuvaa välitetään reaaliajassa lennättäjälle videolaseihin tai näytölle.
+
+**Kameran ominaisuudet:**
+
+- **Resoluutio:** Korkea resoluutio (esim. 720p tai 1080p) parantaa esteiden havaitsemista ja navigointia.
+- **Linssi:** Laajakulmalinssi (esim. 120–150° FOV) tarjoaa laajan näkökentän.
+- **Valovoima:** Hyvä hämäräsuorituskyky (esim. f/2.0 tai parempi) mahdollistaa lennon hämärässä.
+- **Videolinkki:** Matala latenssi (alle 30 ms) ja luotettava digitaalinen (esim. DJI FPV) tai analoginen linkki ovat välttämättömiä sujuvalle lennätykselle.
+
+**Suosittuja kameroita:** DJI O3 Air Unit, Caddx Nebula Pro, Runcam Phoenix 2.  
+Valitse kamera dronen koon, budjetin ja lentotyylin mukaan.
+
+FPV-lennättämiseen liittyy myös perinteinen ilmakuvaus, jolloin voit ottaa valokuvia tai videoita ilmasta. Huomioi säännöt ja rajoitukset
+
 ---
 
 ## 1. Mikä tekee FPV:stä niin siistiä?
 
 FPV-lentäminen yhdistää teknologian, taidon ja luovuuden. Voit:
+
 - **Kilpailla** ratoja pitkin kuin oikea lentäjä.
 - **Tehdä temppuja** ja lentää vapaasti.
 - **Kuvata** upeita videoita ahtaissakin paikoissa.
@@ -26,6 +43,7 @@ Harrastus on helppo aloittaa, ja Suomen aktiiviset yhteisöt auttavat sinut alku
 ## 2. Mitä tarvitset aloittaaksesi?
 
 Aloittaminen on edullista ja hauskaa. Tässä perusvälineet:
+
 - **Drone**: Pieni lentolaite, joka lähettää kameran kuvan laseihin. Aloittelijalle sopii kestävä micro-drone, kuten *Tinyhawk*.
 - **FPV-lasit**: Lasit näyttävät dronen näkymän – kuin olisit kyydissä! Edulliset lasit riittävät alkuun.
 - **Ohjain**: Kaukosäädin droneen ohjaamiseen. Esimerkiksi *Radiomaster*-mallit ovat hyviä aloittelijoille.
@@ -50,6 +68,7 @@ FPV:ssä on jokaiselle jotain! Tässä suosituimmat harrastusmuodot:
 ## 4. Näin pääset alkuun
 
 FPV:n oppiminen on hauskaa ja palkitsevaa! Näin aloitat:
+
 1. **Harjoittele simulaattorilla**: Ohjelmat, kuten *Liftoff* tai *DRL Simulator*, opettavat ohjaamaan ilman riskiä. Tarvitset vain ohjaimen ja tietokoneen.
 2. **Hanki micro-whoop**: Pieni drone, kuten *BetaFPV Air65*, on edullinen ja turvallinen aloitus.
 3. **Liity yhteisöön**: [FPV Finland](https://fpvfinland.fi) ja paikalliset kerhot tarjoavat vinkkejä.
@@ -63,15 +82,15 @@ FPV:n oppiminen on hauskaa ja palkitsevaa! Näin aloitat:
 ## 5. Turvallisuus ja säännöt lyhyesti
 
 FPV-lentäminen on turvallista, kun noudatat yksinkertaisia ohjeita:
+
 - Pidä drone näköpiirissä tai käytä tähystäjää, jos lennät FPV-laseilla.
 - Tarkista rajoitukset ennen lentoa: [droneinfo.fi](https://www.droneinfo.fi).
 - Yhteisöt ja kerhot, opastavat sääntöjen kanssa.
 
 ---
 
-## 6. Hyppää dronen ohjaimiin!  
+## 6. Hyppää dronen ohjaimiin  
 
 FPV-lentäminen on jännittävä tapa kokea lento, tehdä temppuja ja luoda upeita videoita. Aloittaminen on helppoa simulaattoreilla, edullisilla droneilla ja yhteisön tuella. Lähde kokeilemaan – pian kiidät ilmassa ja nautit uudesta harrastuksesta!
 
 **Haluatko aloittaa?** Lataa [simulaattori](/aloittelijan-opas/lennokkisimulaattorit/), ja lennä kohti seikkailua!
-

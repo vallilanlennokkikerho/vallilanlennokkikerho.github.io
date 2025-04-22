@@ -18,11 +18,12 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 3. [Sport-lennokit](#sport-lennokit)
 4. [3D-lennokit](#3d-lennokit)
 5. [Scale-mallit](#scale-mallit)
-6. [Vapaastilentävät lennokit](#vapaastilentävät-lennokit)
-7. [Helikopterit](#helikopterit)
-8. [Multikopterit (Dronet)](#multikopterit-dronet)
-9. [Sähkö- vs. polttomoottorilennokit](#sähkö-vs-polttomoottorilennokit)
-10. [Vinkkejä lennokkityypin valintaan](#vinkkejä-lennokkityypin-valintaan)
+6. [Lentävät siivet](#lentävät-siivet)
+7. [Vapaastilentävät lennokit](#vapaastilentävät-lennokit)
+8. [Helikopterit](#helikopterit)
+9. [Multikopterit (Dronet)](#multikopterit-dronet)
+10. [Sähkö- vs. polttomoottorilennokit](#sähkö-vs-polttomoottorilennokit)
+11. [Vinkkejä lennokkityypin valintaan](#vinkkejä-lennokkityypin-valintaan)
 
 ## Harjoituslennokit (Trainerit)
 
@@ -158,6 +159,32 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 **Haasteet:** Usein kalliimpi ja herkempi vaurioille, voi vaatia enemmän taitoa sekä rakentamisessa että lennättämisessä.
 
+## Lentävät siivet
+
+<img src="/images/siipi.svg" alt="Lentävä siipi" style="float: right; width: 200px; margin-left: 15px;" />
+
+**Kuvaus:** Lentävä siipi on lennokki, josta puuttuu perinteinen runko ja pyrstö. Siinä on yleensä vain kaksi liikkuvaa ohjainpintaa (elevonit), jotka toimivat sekä korkeus- että kallistusperäsiminä.
+
+**Ominaisuudet:**
+
+- Yksinkertainen ja kestävä rakenne
+- Hyvä kantavuus suhteessa kokoon
+- Moottori usein takana, mikä on hyväksi kameralle (ei potkuria kuvassa)
+- Voi olla pitkittäissuunnassa hieman kiikkerä
+- Lasku tapahtuu usein "mahalleen", mikä voi rasittaa ohjainpintoja
+
+**Esimerkkejä:**
+
+- SonicModell AR.Wing
+- Multiplex FunWing
+- Skynetic Neptune II
+
+**Kenelle sopii:** Harrastajille, jotka etsivät yksinkertaista, kestävää ja tehokasta lennokkia esimerkiksi FPV-lentoon tai nopeampaan lentämiseen. Ei välttämättä paras ensilennokki kiikkeryyden vuoksi.
+
+**Hyödyt:** Yksinkertaisuus, kestävyys, hyvä suorituskyky.
+
+**Haasteet:** Vaatii tarkempaa trimmausta, voi olla epävakaampi kuin perinteiset mallit.
+
 ## Vapaastilentävät lennokit
 
 <img src="/images/vapari.svg" alt="Vapaastilentävä lennokki" style="float: right; width: 200px; margin-left: 15px;" />
@@ -213,14 +240,15 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 <img src="/images/drone2.svg" alt="Multikopteri (drone)" style="float: right; width: 200px; margin-left: 15px;" />
 
-**Kuvaus:** Multikopterit eli dronet ovat suosittuja ja eroavat teknisesti perinteisistä lennokeista. Ne perustuvat useisiin roottoreihin ja kehittyneeseen elektroniikkaan vakauden ja ohjattavuuden saavuttamiseksi. Tähän kategoriaan kuuluvat myös FPV-dronet, joita ohjataan reaaliaikaisen videokuvan avulla [Mitä on FPV?](/aloittelijan-opas/mitä-on-fpv/).
+**Kuvaus:** Multikopterit eli dronet ovat suosittuja ja eroavat teknisesti perinteisistä lennokeista. Ne perustuvat useisiin roottoreihin (yleensä 4, 6 tai 8) ja kehittyneeseen elektroniikkaan vakauden ja ohjattavuuden saavuttamiseksi. Ohjaus tapahtuu säätämällä yksittäisten moottorien kierroslukuja, mikä tekee rakenteesta mekaanisesti yksinkertaisen mutta vaatii tehokkaan lennonohjaimen (autopilotin). Tähän kategoriaan kuuluvat myös FPV-dronet, joita ohjataan reaaliaikaisen videokuvan avulla [Mitä on FPV?](/aloittelijan-opas/mitä-on-fpv/).
 
 **Ominaisuudet:**
 
-- Useita roottoreita (yleensä 4, quadcopter)
-- Helppo ohjaus moderneilla stabilointijärjestelmillä
-- Usein varustettu kameralla ilmakuvausta varten
-- Kehittynyt elektroniikka mahdollistaa automaattiset toiminnot
+- Useita roottoreita (quad-, hexa-, oktokopterit)
+- Helppo ohjaus moderneilla stabilointijärjestelmillä (GPS, korkeusanturit)
+- Kyky leijua paikallaan ja nousta/laskea pystysuoraan
+- Usein varustettu kameralla ilmakuvausta varten, joskus gimbaalilla vakautettuna
+- Kehittynyt elektroniikka mahdollistaa automaattiset lentotilat (esim. kotiinpaluu, kohteen seuranta)
 
 **Esimerkkejä:**
 
@@ -308,4 +336,3 @@ Jos jokin lennokkityyppi herätti kiinnostuksesi, tutustu aloittelijan oppaamme 
 <div class="button-container">
 <a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>
 </div>
-

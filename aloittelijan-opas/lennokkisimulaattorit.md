@@ -7,6 +7,8 @@ description: Tutustu RC-lennokkisimulaattoreihin ja opi lennättämään turvall
 keywords: rc lennokki, simulaattori, lennokkisimulaattori, harjoittelu, aloittelija, lennätyksen opettelu
 ---
 
+Ennen oikean lennokin ohjaamista on viisasta harjoitella RC-lentosimulaattorilla. Simulaattorit opettavat ohjaamaan konetta ulkopuolelta ja hahmottamaan sen asentoa, nopeutta ja suuntaa. Ne auttavat erityisesti tottumaan siihen, että kohti lentävä lennokki vaatii ohjauksen peilikuvana.
+
 Simulaattori on erinomainen tapa opetella RC-lennokin ohjaamista turvallisesti ja edullisesti – ilman pelkoa siitä, että arvokas lennokkisi rysähtäisi maahan ensilennolla. Olitpa vasta-alkaja tai kokenut harrastaja, simulaattori tarjoaa hauskan ja opettavaisen ympäristön taitojesi kehittämiseen.
 
 ## Sisällysluettelo
@@ -47,6 +49,7 @@ Alla vertailutaulukko suosituimmista simulaattoreista:
 | **Heli-X**              | Ilmainen/Maksullinen | Helikopterit (myös lennokit) | Korkea        | Windows, Mac, Linux | [Virallinen](https://www.heli-x.info/)                                                 | Vahva helikopteriharjoitteluun         |
 
 [Mitä on FPV?](/aloittelijan-opas/mitä-on-fpv/)
+
 ## 3. Laitteistovaatimukset ja ohjaimet
 
 Simulaattorin pyörittäminen ei vaadi huipputietokonetta, mutta muutama perusasia on hyvä tarkistaa:  

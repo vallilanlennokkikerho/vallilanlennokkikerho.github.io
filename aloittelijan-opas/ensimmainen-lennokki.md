@@ -129,6 +129,17 @@ Lennokin lisäksi tarvitset seuraavat varusteet:
    - Sivuleikkurit
    - Teippiä (esim. kirkas pakkausteippi pikaiseen korjaukseen)
 
+### Tärkeää tietoa LiPo-akuista (Turvallisuus)
+
+LiPo-akut ovat tehokkaita, mutta vaativat huolellista käsittelyä. Väärinkäyttö voi aiheuttaa tulipalon tai jopa räjähdyksen. Noudata aina näitä ohjeita:
+
+- **Käytä vain LiPo-akkujen lataamiseen tarkoitettua laturia.** Laturin tulee tukea kennojen balansointia.
+- **Älä koskaan ylilataa akkua.** Ylilataus voi vahingoittaa akkua ja aiheuttaa tulipalon.
+- **Älä pura akkua liian tyhjäksi.** Jännite ei saa laskea alle 3.0V/kenno.
+- **Säilytä ja lataa akut turvallisessa paikassa.** Käytä LiPo-turvapussia tai palamatonta alustaa.
+- **Älä jätä latauksessa olevaa akkua valvomatta.**
+- **Vaurioituneita akkuja ei saa käyttää.** Jos akku on pullistunut, vaurioitunut tai ylikuumentunut, se on hävitettävä asianmukaisesti.
+- **Hävitä akut oikein:** Toimita käytetyt LiPo-akut kierrätykseen (esim. sähkö- ja elektroniikkalaitteiden kierrätyspisteeseen).
 ### Hyödyllisiä lisävarusteita
 
 1. **LiPo-turvapussi**: Akkujen turvalliseen säilytykseen ja lataukseen.
@@ -171,7 +182,7 @@ Ensimmäiset lennot ovat jännittäviä mutta myös ratkaisevia oppimisen kannal
 
 ### 1. Valitse sopiva paikka ja aika
 
-- Laaja, avoin alue ilman esteitä (puut, rakennukset, sähkölinjat).
+- Laaja, avoin alue ilman esteitä (lennokkikenttä).
 - Tyyni sää, mieluiten aamu tai ilta, jolloin tuuli on vähäistä (alle 3 m/s aloittelijalle).
 - Vältä lennättämistä yksin ensimmäisillä kerroilla – kokenut apulainen voi pelastaa monelta virheeltä.
 
@@ -201,7 +212,7 @@ Ensimmäiset lennot ovat jännittäviä mutta myös ratkaisevia oppimisen kannal
 Suomessa lennokkeja ja tarvikkeita myyvät useat liikkeet:
 
 - **Verkkokaupat**: RC-Kauppa, Hobby Point, Hobbylinna
-- **Perinteiset askarteluliikkeet**: Kysy suosituksia paikalliselta lennokkikerholta
+- **Perinteiset askarteluliikkeet**: Kysy suosituksia lennokkikerholta
 - **Käytetyt lennokit**: RC-harrastajien foorumit (esim. Lennokit.net) ja monet Facebook-ryhmät
 
 ## Yhteenveto
