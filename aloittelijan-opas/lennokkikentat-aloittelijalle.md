@@ -101,6 +101,8 @@ Jokaisella lennokkikentällä on omat sääntönsä, mutta tietyt perusperiaatte
 
 ### Peruslennätys
 
+**Huomio:** Nämä ovat vain yleisiä perusteita, eivätkä ne korvaa kunnollista harjoittelua. Ennen ensimmäistä lentoa suosittelemme vahvasti harjoittelua lennokkisimulaattorilla ja/tai lentämistä kokeneen harrastajan opastuksella, mahdollisesti opettajakaapelia käyttäen.
+
 1. **Lentoonlähtö**:
    - Lähde aina vastatuuleen.
    - Käytä riittävästi tehoa nousuvaiheessa.
@@ -141,16 +143,19 @@ Sääolosuhteet vaikuttavat merkittävästi lennättämiseen:
 Turvallisuus on lennokkiharrastuksen tärkein periaate:
 
 ### Henkilökohtainen turvallisuus
+
 1. **Pyörivät osat**: Varo potkureita ja roottoreita – ne voivat aiheuttaa vakavia vammoja.
 2. **Akut**: Käsittele LiPo-akkuja varovasti, sillä ne voivat syttyä palamaan väärinkäytettynä.
 3. **Aurinkosuoja ja nesteytys**: Suojaudu auringolta ja juo riittävästi vettä ulkona ollessasi.
 
 ### Lennokin turvallisuus
+
 1. **Failsafe-asetukset**: Varmista, että lennokki on ohjelmoitu laskeutumaan turvallisesti signaalin kadotessa.
 2. **Etäisyys**: Pidä lennokki näköetäisyydellä ja turvallisen matkan päässä ihmisistä.
 3. **Lentokorkeus**: Noudata sallittuja lentokorkeuksia (yleensä enintään 120 metriä).
 
 ### Hätätilanteet
+
 1. **Ohjauksen menetys**: Jos menetät lennokin hallinnan, huuda varoitus muille kentällä olijoille.
 2. **Törmäys**: Jos lennokki törmää, varmista ensin, ettei kukaan loukkaantunut, ja tarkista vasta sitten lennokin vauriot.
 
@@ -162,6 +167,8 @@ Turvallisuus on lennokkiharrastuksen tärkein periaate:
 
 - Rekisteröinti maksaa verkossa 30 €/1 v tai 100 €/5 v.
 - Rekisteröinti tapahtuu Traficomin [Droneinfo-verkkopalvelussa](https://droneinfo.fi/fi/rekisteroityminen-ja-teoriakoe).
+
+**Huomio:** Vaikka Traficomin termistössä puhutaan usein 'droneista', rekisteröitymis- ja muut vaatimukset koskevat yleensä kaikkia yli 250g painavia tai kameralla varustettuja miehittämättömiä ilma-aluksia, myös perinteisiä RC-lennokkeja.
 
 ### Yhdistyksen puitteissa tapahtuva harrastetoiminta
 
