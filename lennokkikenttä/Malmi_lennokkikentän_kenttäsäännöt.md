@@ -12,6 +12,9 @@ keywords: Vallilan Lennokkikerho, Malmi, EFHF, lennokkikenttä, suljettu, histor
 
 Vallilan Lennokkikerhon toiminta Malmin lentokentällä (EFHF) on päättynyt, eikä alueella ole enää sallivaa UAS-vyöhykettä 17.4.2025 alkaen.
 
+**Huomio! Lennokkitoiminta jatkuu normaalisti Talosaaren lennokkikentällä, joka on Helsingin ainoa aktiivinen lennokkikenttä.** Tutustu Talosaaren kenttään ja sen sääntöihin osoitteessa [Talosaaren lennokkikenttä](/lennokkikenttä/).
+---
+
 Alla historiallinen kuva kentän avajaisista vuodelta 1938.
 
 <div class="image-container">
