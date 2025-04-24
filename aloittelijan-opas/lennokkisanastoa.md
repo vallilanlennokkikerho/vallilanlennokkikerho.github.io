@@ -53,7 +53,7 @@ lang: fi
 - **Digitaalinen servo** – Servo, joka käyttää mikroprosessoria PWM-signaalin analysointiin; nopeampi ja tarkempi kuin analoginen servo.
 - **DII (Diesel Ignition Improver)** – Dieselpolttoaineen lisäaine, jolla parannetaan syttyvyyttä. Useimmiten isopropyylinitraatti tai 2-etyyliheksyylinitraatti (2-EHN), aikaisemmin myös amyylinitraatti ja -nitriitti.
 - **Drone (drooni)** – Moniroottorinen radio-ohjattava helikopteri, usein varustettu kameralla.
-- **Dual-Rate** – Radio‑ohjaimen säätö, jolla rajoitetaan ohjainpintojen liikeratoja (herkkyyttä) lennon aikana. Parantaa tarkkuutta, kun suuret liikkeet eivät ole tarpeen.
+- **Dual-Rate** – Radio-ohjaimen säätö, jolla rajoitetaan ohjainpintojen liikeratoja (herkkyyttä) lennon aikana. Parantaa tarkkuutta, kun suuret liikkeet eivät ole tarpeen.
 - **Durali, duralumiini** - Luja alumiiniseos, jota käytetään lentokonerakenteissa ja joka sopii hyvin myös lennokkien metalliosiin.
 - **Dynajet** – Pulssisuihkumoottori (pulsejet), käytettiin joskus vanhoissa nopeuslennokeissa. Erittäin meluisa, vaikea käynnistää ja palovaarallinen.
 
@@ -140,7 +140,7 @@ lang: fi
 - **Koulinki** – Moottorin suojus, esimerkiksi polttomoottorin suojakupu.
 - **Kupla** – Termiikki, nouseva ilmavirtaus, jota liidokit hyödyntävät.
 - **Kuski** – Slangitermi lennättäjälle, erityisesti radio-ohjattavien lennokkien tai dronejen ohjaajalle.
-- **Kärkisakkaaja** - Lennokki, jonka siivessä sakkaus alkaa kärjestä. Vaarallinen ominaisuus, jota pyritään välttämään rakentamalla siipeen haritusta (wash-in).
+- **Kärkisakkaaja** - Lennokki, jonka siivessä sakkaus alkaa kärjestä. Vaarallinen ominaisuus, jota pyritään välttämään rakentamalla siipeen haritusta (wash-out).
 
 ## L
 - **Landari** – Laskuteline.
@@ -306,6 +306,7 @@ lang: fi
 
 ## Ö
 (Ei termejä tässä kategoriassa, öljy listattu O-kirjaimella.)
+
 
 ---
 
