@@ -42,7 +42,7 @@ Lennätyspaikka vaikuttaa valintaan: aukeat pellot sopivat moottoriliidokeille, 
 
 Vaikka ostaisit RTF-lennokin, se vaatii pientä kokoamista ja tarkistuksia. Kiinnitä siivet, peräsimet ja laskutelineet ohjeiden mukaisesti. Tarkista moottorin kiinnitys, servojen keskitys ja ohjainpintojen suoruus. Säädä tarvittaessa servotankoja.
 
-Tarkista radio ja servot ennen jokaista lentoa. Suomessa käytetään **2.4 GHz** -radioita – varmista CE-hyväksyntä. Yleisimmät ohjainasetukset:
+Tarkista radio ja [servot](/aloittelijan-opas/lennokkisanastoa/#s) ennen jokaista lentoa. Suomessa käytetään **2.4 GHz** -radioita – varmista CE-hyväksyntä. Yleisimmät ohjainasetukset:
 
 - **Mode 2**: oikea tikku ohjaa korkeutta ja kallistusta, vasen tikku sivuperäsintä ja kaasua.
 - Testaa radion kantama ("Range Check") 20–30 metrin päästä.
@@ -140,6 +140,7 @@ LiPo-akut ovat tehokkaita, mutta vaativat huolellista käsittelyä. Väärinkäy
 - **Älä jätä latauksessa olevaa akkua valvomatta.**
 - **Vaurioituneita akkuja ei saa käyttää.** Jos akku on pullistunut, vaurioitunut tai ylikuumentunut, se on hävitettävä asianmukaisesti.
 - **Hävitä akut oikein:** Toimita käytetyt LiPo-akut kierrätykseen (esim. sähkö- ja elektroniikkalaitteiden kierrätyspisteeseen).
+
 ### Hyödyllisiä lisävarusteita
 
 1. **LiPo-turvapussi**: Akkujen turvalliseen säilytykseen ja lataukseen.

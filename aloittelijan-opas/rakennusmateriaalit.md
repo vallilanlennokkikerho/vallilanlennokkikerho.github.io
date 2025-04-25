@@ -12,7 +12,7 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
 
 ### 1. Vaahtomuovit (EPO, EPP, EPS, XPS)
 
-**Kuvaus:** Erilaiset vaahtomuovit ovat kevyitä ja edullisia materiaaleja, joita käytetään laajasti erityisesti valmiissa (RTF, PNP) ja aloittelijaystävällisissä lennokeissa sekä DIY-projekteissa.
+**Kuvaus:** Erilaiset vaahtomuovit ovat kevyitä ja edullisia materiaaleja, joita käytetään laajasti erityisesti valmiissa  ([RTF](/aloittelijan-opas/lennokkisanastoa/#r), PNP) ja aloittelijaystävällisissä lennokeissa sekä DIY-projekteissa.
 
 **Ominaisuudet ja yleisimmät tyypit:**
 

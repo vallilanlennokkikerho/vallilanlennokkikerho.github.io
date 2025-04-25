@@ -101,7 +101,7 @@ Jokaisella lennokkikentällä on omat sääntönsä, mutta tietyt perusperiaatte
 
 ### Peruslennätys
 
-**Huomio:** Nämä ovat vain yleisiä perusteita, eivätkä ne korvaa kunnollista harjoittelua. Ennen ensimmäistä lentoa suosittelemme vahvasti harjoittelua lennokkisimulaattorilla ja/tai lentämistä kokeneen harrastajan opastuksella, mahdollisesti opettajakaapelia käyttäen.
+**Huomio:** Nämä ovat vain yleisiä perusteita, eivätkä ne korvaa kunnollista harjoittelua. Ennen ensimmäistä lentoa suosittelemme vahvasti harjoittelua lennokkisimulaattorilla ja/tai lentämistä kokeneen harrastajan opastuksella, mahdollisesti [opetuskaapelia](/aloittelijan-opas/lennokkisanastoa/#o) käyttäen.
 
 1. **Lentoonlähtö**:
    - Lähde aina vastatuuleen.
@@ -190,7 +190,7 @@ Jos asut kauempana Talosaarentien kentästä, voit löytää muita lennokkikentt
 
 1. **Suomen Ilmailuliitto**: SIL:n [verkkosivuilta](https://www.ilmailuliitto.fi/) löydät tietoa jäsenkerhoista ja niiden kentistä.
 2. **Paikalliset lennokkikerhot**: Etsi alueesi kerhoja internetistä tai kysy harrastajilta.
-3. **Lennokkifoorumit**: Suomalaiset foorumit ja Facebook-ryhmät ovat hyviä tietolähteitä.
+3. **Lennokkifoorumit**: Suomalaiset foorumit (esim. [Lennunet](/aloittelijan-opas/lennokkisanastoa/#l)) ja Facebook-ryhmät ovat hyviä tietolähteitä.
 4. **Droneinfo-sovellus**: Traficomin sovellus näyttää, missä lennättäminen on sallittua.
 
 ### Vieraillessasi uudella kentällä

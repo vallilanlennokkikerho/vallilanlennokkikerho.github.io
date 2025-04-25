@@ -62,7 +62,7 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 **Liidokkityyppejä:**
 
-- **Termiikkiliidokit:** Hyödyntävät nousevia lämpimiä ilmavirtauksia (termiikkejä) ja pysyvät ilmassa pitkiä aikoja. Vaativat usein hinauksen tai heiton ilmaan.
+- **Termiikkiliidokit:** Hyödyntävät nousevia lämpimiä ilmavirtauksia ([termiikkejä](/aloittelijan-opas/lennokkisanastoa/#t)) ja pysyvät ilmassa pitkiä aikoja. Vaativat usein hinauksen tai heiton ilmaan.
 - **Rinneliidokit:** Lennätetään rinteiden reunoilla hyödyntäen rinteen aiheuttamaa nousevaa ilmavirtausta.
 - **DLG/F3K-liidokit (Disc Launch Glider):** Kevyitä ja edistyneitä liidokkeja, jotka heitetään ilmaan käsin kiekonheittotyylisellä liikkeellä. Vaativat taitoa ja tarkkuutta. Lue lisää [F3K-lajiesittelystämme](/kilpailut/F3K-lajiesittely/).
 - **Sähköliidokit:** Varustettu sähkömoottorilla nousua varten. Moottori sammutetaan, kun haluttu korkeus on saavutettu.

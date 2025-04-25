@@ -71,7 +71,7 @@ Laserleikatut sarjat, joissa osat ovat valmiiksi muotoon leikattuja, helpottavat
 2. **Pikaliima** (syanoakrylaatti) nopeisiin liimauksiin
 3. **Epoksiliima** vahvempiin liitoksiin
 4. **Kontaktiliima** (esim. UHU-POR) vaahtomuoviosien liimaamiseen
-5. **Perinteinen lennokkiliima** (esim. Uhu Hart) balsaosien liimaukseen
+5. **Perinteinen [lennokkiliima](/aloittelijan-opas/lennokkisanastoa/#l)** (esim. Uhu Hart) balsaosien liimaukseen
 
 ### Rakennusalusta
 

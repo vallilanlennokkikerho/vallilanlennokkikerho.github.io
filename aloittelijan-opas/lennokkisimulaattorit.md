@@ -73,7 +73,7 @@ Simulaattorin pyörittäminen ei vaadi huipputietokonetta, mutta muutama perusas
 3. **Kohti itseä lentäminen:** Harjoittele peilikuvakontrollia.
 4. **Korkeuden hallinta:** Pidä tasainen korkeus.
 5. **Laskeutuminen:** Pehmeä, hallittu lasku.
-6. **Hätätilanteet:** Sakkaus, liiallinen kallistus – turvallista harjoitella simulaattorissa.
+6. **Hätätilanteet:** [Sakkaus](/aloittelijan-opas/lennokkisanastoa/#s), liiallinen kallistus – turvallista harjoitella simulaattorissa.
 
 ## 6. Vinkkejä tehokkaaseen harjoitteluun
 
