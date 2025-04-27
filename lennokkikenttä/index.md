@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Lennokkikenttä
+title: Talosaaren lennokkikenttä – Vallilan lennokkikerho
 permalink: /lennokkikenttä/
 redirect_from:
   - /kenttä/
-description: Vallilan lennokkikerhon ylläpitämä lennokkikenttä tarjoaa harrastajille mahdollisuuden lennättää Helsingissä. Tutustu kenttäsääntöihin ja toimintaohjeisiin tässä.
-keywords: lennokkikenttä, lennokkikerho, Valkka
+description: Tutustu Vallilan lennokkikerhon Talosaaren lennokkikenttään Helsingissä. Lue kenttäsäännöt, lennätysohjeet ja pysäköintitiedot.
+keywords: Talosaaren lennokkikenttä, lennokkikenttä Helsinki, Vallilan lennokkikerho, radio-ohjattavat lennokit, lennokkiharrastus, kenttäsäännöt
 ---
 
 ## Hyvä lennätyspaikka on oleellinen osa harrastuksemme edellytyksistä

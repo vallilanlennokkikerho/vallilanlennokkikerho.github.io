@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Yhteystiedot
+title: Yhteystiedot – Vallilan lennokkikerho
 permalink: /yhteystiedot/
 redirect_from:
   - /hallitus/
   - /johtokunta/
-description: Vallilan lennokkikerhon yhteystiedot ja Talosaaren lennokkikentän sijainti. Tutustu hallituksen jäseniin ja ota yhteyttä kerhoon. Löydä helposti perille lennokkikentälle Google Maps -kartan avulla.
-keywords: Vallilan lennokkikerho, vallilan lennokkikerho, Valkka, valkka, Vallilan, vallilan, Lennokkikerho, lennokkikerho, lennokki, lennätys, yhteystiedot, Talosaaren lennokkikenttä, lennokkikenttä Helsinki
+description: Ota yhteyttä Vallilan lennokkikerhoon ja tutustu Talosaaren lennokkikenttään Helsingissä. Löydä kentän sijainti ja hallituksen yhteystiedot.
+keywords: Vallilan lennokkikerho, lennokkikerho, Talosaaren lennokkikenttä, lennokkikenttä Helsinki, radio-ohjattavat lennokit, lennokkiharrastus, yhteystiedot
 ---
 
 ## Talosaaren lennokkikentän sijainti

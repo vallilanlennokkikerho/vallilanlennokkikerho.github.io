@@ -1,9 +1,10 @@
 ---
 layout: gallery
-title: Lennokkikuvia
+title: Lennokkikuvia – Kurkistus radio-ohjattavien lennokkien maailmaan
 permalink: /lennokkikuvat/
-description: Kuvia ja tietoa radio-ohjattavista lennokeista, niiden rakentamisesta ja harrastamisesta
-keywords: lennokkikenttä, lennokkikerho, Valkka, valkka, Lennokkikerho, lennokkikerho, Lennokkikenttä, lennokkikenttä, Kenttä, kenttä
+description: Tervetuloa katsomaan kuvia radio-ohjattavista lennokeista! Näe erilaisia malleja ja tunnelmia lennokkikentältä sekä tutustu harrastukseen.
+keywords: lennokkikuvat, radio-ohjattavat lennokit, lennokkigalleria, lennokkikerho, RC-lennokit, lennokkiharrastus, lennokkikenttä
+
 ---
 
 # Lennokkikuvia ja tietoa harrastuksesta
