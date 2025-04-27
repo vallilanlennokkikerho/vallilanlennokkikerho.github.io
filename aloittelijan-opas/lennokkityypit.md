@@ -50,8 +50,8 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 **Hyödyt:** Helppo oppimiskäyrä, turvallinen laskeutuminen, anteeksiantavat lento-ominaisuudet.
 
-**Haasteet:** Rajoitetut taitolento-ominaisuudet, voi tuntua tylsältä taitojen kehittyessä.
-
+**Haasteet:** Rajoitetut taitolento-ominaisuudet, voi tuntua tylsältä taitojen kehittyessä. Ne ovat usein [ensimmäinen lennokki](/aloittelijan-opas/ensimmainen-lennokki/), jolla opetellaan perusteet.
+Link RTF (Ready-to-Fly) to [RTF (Ready-to-Fly)](/aloittelijan-opas/lennokkisanastoa/#r).
 **Vinkki aloittelijalle:** Trainereita ovat usein saatavilla RTF (Ready-to-Fly) -paketteina, jotka sisältävät kaiken lennättämiseen tarvittavan. Tämä on helpoin tapa päästä harrastuksen alkuun.
 
 ## Liidokit
@@ -300,7 +300,7 @@ Monet lennokkityypit voivat olla joko sähkö- tai polttomoottorikäyttöisiä. 
 - Moottorit vaativat säätöä ja huoltoa
 - Sotkuisia öljyn ja polttoaineen vuoksi
 
-**Valinta:** Riippuu mieltymyksistäsi, lennätyspaikan vaatimuksista ja lennokkityypistä. Sähkölennokit ovat nykyään yleisempiä, erityisesti aloittelijoiden keskuudessa.
+**Valinta:** Riippuu mieltymyksistäsi, lennätyspaikan vaatimuksista ja lennokkityypistä. Sähkölennokit ovat nykyään yleisempiä, erityisesti aloittelijoiden keskuudessa. Lisätietoa ensimmäisen lennokin moottorityypin valinnasta löydät [täältä](/aloittelijan-opas/ensimmainen-lennokki/#sähkö--vs-polttomoottori).
 
 ## Vinkkejä lennokkityypin valintaan
 
@@ -308,10 +308,10 @@ Lennokkityypin valinta riippuu monista tekijöistä. Tässä vinkkejä oikean le
 
 ### Aloittelijalle
 
-- **Aloita yksinkertaisella:** Valitse traineri tai vakaa sähköliidokki.
-- **RTF-paketit:** Ready-to-Fly -paketit sisältävät kaiken tarvittavan ja ovat helpoin tapa aloittaa.
+- **Aloita yksinkertaisella:** Valitse [traineri](#harjoituslennokit-trainerit) tai vakaa [sähköliidokki](#liidokit).
+- **RTF-paketit:** [Ready-to-Fly -paketit](/aloittelijan-opas/lennokkisanastoa/#r) sisältävät kaiken tarvittavan ja ovat helpoin tapa aloittaa.
 - **Koko:** Keskikokoinen lennokki (siipiväli n. 1–1,5 m) on usein paras – liian pieni on tuuliherkkä, liian suuri vaikea hallita.
-- **Materiaalit:** Vaahtomuovilennokit kestävät kolhuja paremmin kuin balsa- tai komposiittilennokit.
+- **Materiaalit:** [Vaahtomuovilennokit](/aloittelijan-opas/rakennusmateriaalit/#1-vaahtomuovit-epo-epp-eps-xps) kestävät kolhuja paremmin kuin [balsa-](/aloittelijan-opas/rakennusmateriaalit/#3-balsa) tai [komposiittilennokit](/aloittelijan-opas/rakennusmateriaalit/#6-komposiitit-lasikuitu-hiilikuitu-kevlar).
 
 ### Kokeneemmalle harrastajalle
 
@@ -324,7 +324,7 @@ Lennokkityypin valinta riippuu monista tekijöistä. Tässä vinkkejä oikean le
 
 - **Kysy neuvoa:** Keskustele kokeneempien harrastajien kanssa.
 - **Tutustu vaihtoehtoihin:** Käy Talosaarentien lennokkikentällä katsomassa erilaisia lennokkeja.
-- **Simulaattori:** Harjoittele lennokkisimulaattorilla ennen hankintaa.
+- **Simulaattori:** Harjoittele [lennokkisimulaattorilla](/aloittelijan-opas/lennokkisimulaattorit/) ennen hankintaa.
 - **Varaosat:** Varmista, että lennokkiin on saatavilla varaosia.
 
 ## Yhteenveto

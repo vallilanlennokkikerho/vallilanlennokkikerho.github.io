@@ -33,7 +33,7 @@ Seuraa näitä helppoja askeleita päästäksesi alkuun lennokkiharrastuksessa:
 3. **Hanki tarvittavat varusteet**  
    - **Lennokki**: Aloittelijalle sopii helposti lennätettävä ja kestävä malli, kuten vakaa traineri (yläsiipinen, anteeksiantava) tai sähköliidokki (rauhallinen, pitkä lentoaika). Kerholaisilta saat vinkkejä sopivan mallin valintaan. Tutustu tarkemmin erilaisiin [lennokkityyppeihin](/aloittelijan-opas/lennokkityypit/).  
    - **Radiolähetin ja vastaanotin**: Nykyaikaiset 2.4 GHz -järjestelmät ovat luotettavia ja helppokäyttöisiä.  
-   - **Akut ja laturi**: Sähkölennokeissa tarvitaan LiPo-akkuja ja niille sopiva laturi (esim. balansoiva laturi). Polttomoottorikoneissa tarvitaan polttoainetta ja käynnistystarvikkeita.  
+   - **Akut ja laturi**: Sähkölennokeissa tarvitaan [LiPo-akkuja](/aloittelijan-opas/lennokkisanastoa/#l) ja niille sopiva laturi (esim. balansoiva laturi). Polttomoottorikoneissa tarvitaan polttoainetta ja käynnistystarvikkeita.
    - **Muut tarvikkeet**: Pieniä työkaluja (esim. ruuvimeisseli, kuusiokoloavaimet), liimaa ja teippiä rakenteluun ja korjauksiin.
 
 4. **Turvallisuus, materiaalit ja ensimmäinen lennokki**  
@@ -75,7 +75,7 @@ Ennen kuin siirryt vaativampiin lennokkeihin, harkitse lennokkisimulaattorin kä
 - **Liity lennokkikerhoon**: Saat tukea, opastusta ja pääset osaksi yhteisöä.  
 - **Tutustu turvallisuusmääräyksiin**: Lue kerhon ja lennokkikentän säännöt huolella.  
 - **Hanki vakuutus**: Varmista, että sinulla on lennokkitoiminnan kattava vastuuvakuutus (esim. Suomen Ilmailuliiton jäsenyyden kautta).  
-- **Harjoittele simulaattorilla**: Simulaattori on erinomainen tapa opetella radiolaitteiden käyttöä ja lentämisen perusteita turvallisesti.  
+- **Harjoittele simulaattorilla**: [Simulaattori](/aloittelijan-opas/lennokkisimulaattorit/) on erinomainen tapa opetella radiolaitteiden käyttöä ja lentämisen perusteita turvallisesti.
 - **Ole kärsivällinen**: Virheet kuuluvat oppimiseen.
 - **Pidä hauskaa ja opi muilta**: Ole utelias, kysy neuvoa ja nauti harrastuksesta!
 - [Linkkejä ja resursseja](/resurssit/)

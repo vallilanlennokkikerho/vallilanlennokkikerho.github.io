@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Opas Lennokkien Rakennusmateriaaleihin
+description: Opas RC-lennokkien yleisimpiin rakennusmateriaaleihin, kuten vaahtomuoveihin, balsapuuhun, 3D-tulosteisiin, komposiitteihin ja vaneriin.
 permalink: /aloittelijan-opas/rakennusmateriaalit/
 redirect_from:
   - /rakennusmateriaalit/
@@ -12,7 +13,7 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
 
 ### 1. Vaahtomuovit (EPO, EPP, EPS, XPS)
 
-**Kuvaus:** Erilaiset vaahtomuovit ovat kevyitä ja edullisia materiaaleja, joita käytetään laajasti erityisesti valmiissa  ([RTF](/aloittelijan-opas/lennokkisanastoa/#r), PNP) ja aloittelijaystävällisissä lennokeissa sekä DIY-projekteissa.
+**Kuvaus:** Erilaiset vaahtomuovit ovat kevyitä ja edullisia materiaaleja, joita käytetään laajasti erityisesti valmiissa  ([RTF](/aloittelijan-opas/lennokkisanastoa/#r), PNP) ja [aloittelijaystävällisissä lennokeissa](/aloittelijan-opas/ensimmainen-lennokki/) sekä DIY-projekteissa.
 
 **Ominaisuudet ja yleisimmät tyypit:**
 
@@ -42,7 +43,7 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
 
 ### 2. Kapalevy (Foam Board)
 
-**Kuvaus:** Kapalevy on paperilla tai ohuella muovilla päällystettyä vaahtomuoviydintä (usein XPS-tyyppistä). Se on erittäin suosittu materiaali itse rakennettavissa (DIY) lennokeissa, erityisesti Flite Test -yhteisössä.
+**Kuvaus:** Kapalevy on paperilla tai ohuella muovilla päällystettyä vaahtomuoviydintä (usein XPS-tyyppistä). Se on erittäin suosittu materiaali itse rakennettavissa (DIY) lennokeissa, erityisesti [Flite Test -yhteisössä](/aloittelijan-opas/lennokkien-rakentaminen/#aloittelijan-rakennusprojektit).
 
 **Ominaisuudet:**
 
@@ -134,7 +135,7 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
 * **PLA:** Helpoin tulostaa, jäykkä, mutta hauras ja herkkä lämmölle (voi pehmetä auringossa). Hyvä prototyyppeihin ja vähemmän rasitettuihin osiin.
 * **PETG:** Hyvä kompromissi PLA:n helppotulosteisuuden ja ABS:n kestävyyden välillä. Sitkeämpi ja lämmönkestävämpi kuin PLA.
 * **ABS:** Kestävä ja lämmönkestävämpi, mutta vaatii korkeamman tulostuslämpötilan ja usein suljetun tulostimen. Voi olla haastava tulostaa.
-* **LW-PLA (LightWeight PLA):** Erityinen vaahtoava PLA-filamentti, joka mahdollistaa erittäin kevyiden osien tulostamisen. Soveltuu jopa kokonaisten lennokkien tai niiden osien (siivet, runko) tulostamiseen.
+* **LW-PLA (LightWeight PLA):** Erityinen vaahtoava PLA-filamentti, joka mahdollistaa erittäin kevyiden osien tulostamisen. Soveltuu jopa kokonaisten [lennokkien](/aloittelijan-opas/lennokkien-rakentaminen/) tai niiden osien (siivet, runko) tulostamiseen.
 * Mahdollistaa monimutkaisten ja optimoitujen muotojen luomisen.
 
 **Käyttö:** Moottorikiinnikkeet, servopidikkeet, laskutelineiden osat, ohjauspintojen vivut, rungon osat, antennikiinnikkeet, prototyypit, jopa kokonaiset lennokin rungot ja siivet (erityisesti LW-PLA:lla).
@@ -188,13 +189,13 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
 
 ### Vinkkejä materiaalin valintaan ja käyttöön
 
-* **Aloittelijalle:** **Kapalevy (Foam Board)** on erinomainen ja edullinen valinta ensimmäisen itse rakennettavan lennokin materiaaliksi (esim. Flite Test -mallit). Valmiit **EPO-vaahtomuoviset** lennokit (RTF/PNP) ovat myös erittäin suosittuja ja helppoja aloittaa.
+* **Aloittelijalle:** [**Kapalevy (Foam Board)**](#2-kapalevy-foam-board) on erinomainen ja edullinen valinta ensimmäisen itse rakennettavan lennokin materiaaliksi (esim. Flite Test -mallit). Valmiit [**EPO-vaahtomuoviset**](#1-vaahtomuovit-epo-epp-eps-xps) lennokit ([RTF/PNP](/aloittelijan-opas/ensimmainen-lennokki/#rtf-pnf-arf-vai-rakennussarja)) ovat myös erittäin suosittuja ja helppoja aloittaa.
 * **Kestävyys vs. Paino:** **EPP** on mestari iskunkestävyydessä, mutta ei välttämättä jäykin. **Hiilikuitu** tarjoaa parhaan jäykkyyden ja lujuuden painoon nähden, mutta on hauras. **Balsa** on hyvä kompromissi keveydessä ja jäykkyydessä perinteisessä rakentamisessa. **Vaneria** käytetään siellä, missä tarvitaan raakaa voimaa.
 * **Budjetti:** **Kapalevy** ja **EPS** ovat halvimpia. **Balsa** ja **EPO/EPP** ovat keskihintaisia. **3D-tulostusfilamentit** vaihtelevat, mutta voivat olla kalliita suuriin osiin. **Komposiitit** (erityisesti hiilikuitu ja Kevlar) ovat kalleimpia.
 * **Työkalut ja taidot:** Vaahtomuovit ja kapalevy vaativat vain perustyökaluja (veitsi, viivain, kuumaliimapistooli). Balsa vaatii tarkkuutta ja enemmän käsityötä (veitset, hiomapaperi, liimat, pinnoitus). 3D-tulostus vaatii tulostimen ja digitaalisia taitoja. Komposiitit vaativat eniten erikoistyökaluja, tiloja ja osaamista.
 * **Liimat:** Varmista aina liiman sopivuus materiaalille!
-  * **Kapalevy:** Kuumaliima (yleisin), PU-liima (polyuretaani, esim. Gorilla Glue), kontaktiliimat.
-  * **EPO/EPP/XPS:** Vaahtoturvallinen CA-liima (Foam Safe CA), UHU Por, Foam-Tac, Beacon 3-in-1, E6000, kuumaliima (matalampi lämpötila EPP:lle).
+  * **Kapalevy:** Kuumaliima (yleisin), PU-liima (polyuretaani, esim. Gorilla Glue), kontaktiliimat. [CA-liima](/aloittelijan-opas/lennokkisanastoa/#s) (Syano)
+  * **EPO/EPP/XPS:** Vaahtoturvallinen CA-liima (Foam Safe CA), UHU Por, Foam-Tac, Beacon 3-in-1, E6000, kuumaliima (matalampi lämpötila EPP:lle). [epoksiliimat](/aloittelijan-opas/lennokkisanastoa/#e)
   * **Balsa/Vaneri:** CA-liimat (ohut, medium, paksu), Alifaattinen hartsiliima (Titebond), epoksiliimat (5min, 30min), PU-liima.
   * **3D-tulosteet:** CA-liima (usein aktivaattorilla), epoksi. PLA:n liimaus voi olla haastavaa.
 * **Vahvistaminen:** Älä unohda strategisia vahvikkeita! Hiilikuitutangot/-nauhat siivissä, vaneripalat moottorin ja laskutelineiden alla, tai jopa pakkausteippi vaahtomuovin pinnassa voivat merkittävästi parantaa lennokin kestävyyttä.

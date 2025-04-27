@@ -101,7 +101,7 @@ Jokaisella lennokkikentällä on omat sääntönsä, mutta tietyt perusperiaatte
 
 ### Peruslennätys
 
-**Huomio:** Nämä ovat vain yleisiä perusteita, eivätkä ne korvaa kunnollista harjoittelua. Ennen ensimmäistä lentoa suosittelemme vahvasti harjoittelua lennokkisimulaattorilla ja/tai lentämistä kokeneen harrastajan opastuksella, mahdollisesti [opetuskaapelia](/aloittelijan-opas/lennokkisanastoa/#o) käyttäen.
+**Huomio:** Nämä ovat vain yleisiä perusteita, eivätkä ne korvaa kunnollista harjoittelua. Ennen ensimmäistä lentoa suosittelemme vahvasti harjoittelua [lennokkisimulaattorilla](/aloittelijan-opas/lennokkisimulaattorit/) ja/tai lentämistä kokeneen harrastajan opastuksella, mahdollisesti [opetuskaapelia](/aloittelijan-opas/lennokkisanastoa/#o) käyttäen.
 
 1. **Lentoonlähtö**:
    - Lähde aina vastatuuleen.

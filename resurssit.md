@@ -3,7 +3,7 @@ layout: page
 title: Resurssit ja linkit lennokkiharrastajille
 permalink: /resurssit/
 lang: fi
-description: Löydä hyödyllisiä linkkejä lennokkiharrastukseen: foorumeita, kauppoja, valmistajia ja säädöstietoa. Tutustu Vallilan lennokkikerhon suosituksiin.
+description: Löydä hyödyllisiä linkkejä lennokkiharrastukseen - foorumeita, kauppoja, valmistajia ja säädöstietoa. Tutustu Vallilan lennokkikerhon suosituksiin.
 keywords: lennokkiharrastus, radio-ohjattavat lennokit, lennokkikaupat, RC-foorumit, lennokkisimulaattorit, Vallilan lennokkikerho, drone-säädökset
 ---
 
@@ -50,7 +50,5 @@ Tälle sivulle on koottu hyödyllisiä linkkejä lennokkiharrastajille.
 <div class="button-container">
 <a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>
 </div>
-
-
 
 *Jos tiedät hyvän linkin, joka puuttuu listalta, vinkkaa siitä sähköpostiimme!*

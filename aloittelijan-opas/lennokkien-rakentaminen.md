@@ -45,7 +45,7 @@ Yksinkertainen balsaliidokki on erinomainen ensimmäinen projekti. Se opettaa ae
 Valmiit rakennussarjat sisältävät kaikki tarvittavat osat ja yksityiskohtaiset ohjeet. Hyviä aloittelijasarjoja ovat:
 
 - **Balsa USA Trainer**: Perinteinen balsarakennussarja.
-- **Flite Test -sarjat**: Edullisia vaahtolevystä (foam board) rakennettavia malleja.
+- [**Flite Test -sarjat**](/aloittelijan-opas/rakennusmateriaalit/#2-kapalevy-foam-board): Edullisia vaahtolevystä (foam board) rakennettavia malleja.
 - **SIG Kadet**: Klassinen aloittelijalennokki.
 
 ### 3. Valmiiksi leikatut rakennussarjat
@@ -67,10 +67,10 @@ Laserleikatut sarjat, joissa osat ovat valmiiksi muotoon leikattuja, helpottavat
 
 ### Liimat
 
-1. **Puuliima** (esim. Eri Keeper) balsaosien liimaamiseen
-2. **Pikaliima** (syanoakrylaatti) nopeisiin liimauksiin
-3. **Epoksiliima** vahvempiin liitoksiin
-4. **Kontaktiliima** (esim. UHU-POR) vaahtomuoviosien liimaamiseen
+1. [**Pikaliima**](/aloittelijan-opas/lennokkisanastoa/#p) (syanoakrylaatti) nopeisiin liimauksiin
+2. [**Epoksiliima**](/aloittelijan-opas/lennokkisanastoa/#e) vahvempiin liitoksiin
+3. **Kontaktiliima** (esim. UHU-POR) vaahtomuoviosien liimaamiseen
+4. **PU-liima** (polyuretaani, esim. Gorilla Glue) turpoava, erittäin vahva liima, joka sopii monille materiaaleille, vaatii puristusta kuivuessaan.
 5. **Perinteinen [lennokkiliima](/aloittelijan-opas/lennokkisanastoa/#l)** (esim. Uhu Hart) balsaosien liimaukseen
 
 ### Rakennusalusta
@@ -97,11 +97,15 @@ Tasainen, pehmeä alusta, johon voit kiinnittää osia nuppineuloilla. Esimerkik
 
 ### Balsa
 
+(Katso tarkemmin [Rakennusmateriaalit-sivulta](/aloittelijan-opas/rakennusmateriaalit/#3-balsa))
+
 - **Edut**: Kevyt, helppo työstää, vahva painoonsa nähden.
 - **Haitat**: Hauras, vaatii huolellista käsittelyä. Hiomapöly voi aiheuttaa allergisia reaktioita.
 - **Käyttökohteet**: Runko, siivet, peräsimet, kaaret.
 
 ### Vaahtomuovi
+
+(Katso tarkemmin [Rakennusmateriaalit-sivulta](/aloittelijan-opas/rakennusmateriaalit/#1-vaahtomuovit-epo-epp-eps-xps))
 
 - **Edut**: Edullinen, kestävä, helppo korjata.
 - **Haitat**: Ei yhtä vahva kuin balsa, voi vaatia vahvistuksia.
@@ -109,11 +113,15 @@ Tasainen, pehmeä alusta, johon voit kiinnittää osia nuppineuloilla. Esimerkik
 
 ### Liimattu vaneri (plywood)
 
+(Katso tarkemmin [Rakennusmateriaalit-sivulta](/aloittelijan-opas/rakennusmateriaalit/#4-puu-vaneri-koivuvaneri-kevytvaneri))
+
 - **Edut**: Erittäin vahva, jäykkä.
 - **Haitat**: Painavampi kuin balsa.
 - **Käyttökohteet**: Moottoripukki, vahvistukset, keskisiipi.
 
 ### Hiilikuitu
+
+(Katso tarkemmin [Rakennusmateriaalit-sivulta](/aloittelijan-opas/rakennusmateriaalit/#6-komposiitit-lasikuitu-hiilikuitu-kevlar))
 
 - **Edut**: Erittäin vahva ja kevyt.
 - **Haitat**: Kallis, vaatii erityisiä työstötekniikoita.
@@ -179,17 +187,21 @@ Vaihtoehtoja pinnoitukseen:
 
 Ennen elektroniikan asennusta on hyvä ymmärtää lyhyesti, mitä eri komponentit tekevät:
 
-- **Servot:** Pieniä moottoreita, jotka kääntävät lennokin ohjainpintoja (siivekkeet, korkeusperäsin, sivuperäsin) radiolähettimen käskyjen mukaisesti.
-- **Radio-ohjain (lähetin ja vastaanotin):** Lähetin on kädessä pidettävä laite, jolla ohjaat lennokkia. Vastaanotin sijaitsee lennokissa ja tulkitsee lähettimen signaalit, ohjaten servoja.
+- [**Servot**](/aloittelijan-opas/lennokkisanastoa/#s): Pieniä moottoreita, jotka kääntävät lennokin ohjainpintoja (siivekkeet, korkeusperäsin, sivuperäsin) radiolähettimen käskyjen mukaisesti.
+- [**Radio-ohjain (lähetin ja vastaanotin)**](/aloittelijan-opas/lennokkisanastoa/#r): Lähetin on kädessä pidettävä laite, jolla ohjaat lennokkia. Vastaanotin sijaitsee lennokissa ja tulkitsee lähettimen signaalit, ohjaten servoja.
 
 Elektroniikan asennus on kriittinen vaihe:
 
 ### 1. Servot
 
+Link servot to [servot](/aloittelijan-opas/lennokkisanastoa/#s).
+
 - Asenna servot tukevasti runkoon tai siipiin.
 - Varmista, että työntötangot liikkuvat vapaasti ilman takertelua.
 
 ### 2. Vastaanotin
+
+Link Vastaanotin to [Vastaanotin](/aloittelijan-opas/lennokkisanastoa/#v).
 
 - Sijoita vastaanotin suojattuun paikkaan, etäälle moottorista ja nopeudensäätimestä.
 - Kiinnitä se vaahtomuovilla tärinän vähentämiseksi.
@@ -200,6 +212,8 @@ Elektroniikan asennus on kriittinen vaihe:
 - Varmista, että moottori on linjassa rungon kanssa.
 
 ### 4. Akku
+
+Link akku to [akku](/aloittelijan-opas/lennokkisanastoa/#a).
 
 - Sijoita akku niin, että painopiste asettuu oikeaan kohtaan.
 - Varmista, että akku on helposti vaihdettavissa ja tukevasti kiinni.
@@ -215,7 +229,7 @@ Elektroniikan asennus on kriittinen vaihe:
 2. **Epätarkkuus**: Mittaa kahdesti, leikkaa kerran – pienetkin virheet voivat kertautua.
 3. **Ylipainoisuus**: Vältä liiallista liiman käyttöä ja turhia vahvistuksia. Tee tarkat sovitukset, ettei rakoja tarvitse rapata umpeen liimalla.
 4. **Vääristyneet rakenteet**: Tarkista säännöllisesti, että siivet ja runko pysyvät suorina.
-5. **Painopisteen laiminlyönti**: Suunnittele elektroniikan sijoittelu niin, että painopiste on oikeassa kohdassa.
+5. **Painopisteen laiminlyönti**: Suunnittele elektroniikan sijoittelu niin, että painopiste on oikeassa kohdassa. (Tarkista [ensimmäisen lennokin oppaasta](/aloittelijan-opas/ensimmainen-lennokki/#2-painopisteen-tarkistus) ohjeet painopisteen määrittämiseen).
 
 ## Mistä hankkia rakennussarjoja ja materiaaleja?
 

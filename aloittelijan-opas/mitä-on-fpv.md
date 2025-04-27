@@ -11,7 +11,7 @@ Kuvittele, että kiidät puiden lomaan, teet huimia temppuja ilmassa tai tallenn
 
 ## Ilmakuvauskamerat ja FPV
 
-FPV-lennätyksessä käytetään yleensä pientä kameraa, joka on sijoitettu droneen tai lennokkiin. Kameran kuvaa välitetään reaaliajassa lennättäjälle videolaseihin tai näytölle.
+FPV-lennätyksessä käytetään yleensä pientä kameraa, joka on sijoitettu droneen tai lennokkiin. Kameran kuvaa välitetään reaaliajassa lennättäjälle videolaseihin tai näytölle. Matala [latenssi](/aloittelijan-opas/lennokkisanastoa/#l) on tärkeää.
 
 **Kameran ominaisuudet:**
 
@@ -44,11 +44,11 @@ Harrastus on helppo aloittaa, ja Suomen aktiiviset yhteisöt auttavat sinut alku
 
 Aloittaminen on edullista ja hauskaa. Tässä perusvälineet:
 
-- **Drone**: Pieni lentolaite, joka lähettää kameran kuvan laseihin. Aloittelijalle sopii kestävä micro-drone, kuten *Tinyhawk*.
+- [**Drone**](/aloittelijan-opas/lennokkityypit/#multikopterit-dronet): Pieni lentolaite, joka lähettää kameran kuvan laseihin. Aloittelijalle sopii kestävä micro-drone, kuten *Tinyhawk*.
 - **FPV-lasit**: Lasit näyttävät dronen näkymän – kuin olisit kyydissä! Edulliset lasit riittävät alkuun.
 - **Ohjain**: Kaukosäädin droneen ohjaamiseen. Esimerkiksi *Radiomaster*-mallit ovat hyviä aloittelijoille.
 - **Akut**: Ladattavat akut pitävät dronen ilmassa.
-- **Simulaattori**: Tietokoneohjelma, kuten *Liftoff* tai *VelociDrone*, auttaa harjoittelemaan turvallisesti ilman kolaririskiä.
+- [**Simulaattori**](/aloittelijan-opas/lennokkisimulaattorit/): Tietokoneohjelma, kuten *Liftoff* tai *VelociDrone*, auttaa harjoittelemaan turvallisesti ilman kolaririskiä.
 
 **Pro-vinkki**: Välineiden pitää olla laillisia (EU-hyväksyttyjä), mutta kaupat ja yhteisöt opastavat oikeiden valinnassa. Aloittelijan setti maksaa noin 150–300 €.
 
@@ -69,7 +69,7 @@ FPV:ssä on jokaiselle jotain! Tässä suosituimmat harrastusmuodot:
 
 FPV:n oppiminen on hauskaa ja palkitsevaa! Näin aloitat:
 
-1. **Harjoittele simulaattorilla**: Ohjelmat, kuten *Liftoff* tai *DRL Simulator*, opettavat ohjaamaan ilman riskiä. Tarvitset vain ohjaimen ja tietokoneen.
+1. **Harjoittele simulaattorilla**: Ohjelmat, kuten [Liftoff tai DRL Simulator](/aloittelijan-opas/lennokkisimulaattorit/#2-simulaattorien-vertailu), opettavat ohjaamaan ilman riskiä. Tarvitset vain ohjaimen ja tietokoneen.
 2. **Hanki micro-whoop**: Pieni drone, kuten *BetaFPV Air65*, on edullinen ja turvallinen aloitus.
 3. **Liity yhteisöön**: [FPV Finland](https://fpvfinland.fi) ja paikalliset kerhot tarjoavat vinkkejä.
 4. **Kehity omassa tahdissa**: Aloita tinywhoopilla sisällä, siirry ulos ja kokeile temppuja tai kilparatoja!
@@ -85,7 +85,7 @@ FPV-lentäminen on turvallista, kun noudatat yksinkertaisia ohjeita:
 
 - Pidä drone näköpiirissä tai käytä tähystäjää, jos lennät FPV-laseilla.
 - Tarkista rajoitukset ennen lentoa: [droneinfo.fi](https://www.droneinfo.fi).
-- Yhteisöt ja kerhot, opastavat sääntöjen kanssa.
+- Yhteisöt ja kerhot, opastavat sääntöjen kanssa. Yleisiä lennätyssääntöjä käsitellään myös [lennokkikenttäoppaassa](/aloittelijan-opas/lennokkikentat-aloittelijalle/#lennätysluvat-ja-määräykset).
 
 ---
 

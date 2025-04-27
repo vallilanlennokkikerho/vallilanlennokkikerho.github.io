@@ -56,7 +56,7 @@ Simulaattorin pyörittäminen ei vaadi huipputietokonetta, mutta muutama perusas
 
 - **Tietokone**: Windows-PC tai Mac
 - **Näytönohjain**: Kevyisiin simulaattoreihin riittää integroitu grafiikka, mutta RealFlight ja Aerofly hyötyvät erillisestä näytönohjaimesta (esim. NVIDIA GeForce RTX 3060 on enemmän kuin riittävä).  
-- **Ohjain**: USB-simulaattorikaapeli ja oma radiolähettimesi tai peliohjain (esim. Xbox-ohjain).  
+- **Ohjain**: USB-simulaattorikaapeli ja oma [radiolähettimesi](/aloittelijan-opas/lennokkisanastoa/#r) tai peliohjain (esim. Xbox-ohjain). Ole kuitenkin tietoinen ongelmallisesta erosta: peliohjaimen jousitettu kaasutikku palautuu aina keskelle, mikä vaikeuttaa realistisen tehonsäädön harjoittelua lennättämistä varten.
 
 ## 4. Simulaattorin asetukset aloittelijalle
 
@@ -81,7 +81,7 @@ Simulaattorin pyörittäminen ei vaadi huipputietokonetta, mutta muutama perusas
 - Keskity yhteen taitoon kerrallaan.
 - Älä pelkää virheitä – ne ovat ilmaisia oppitunteja.
 - Kokeile eri koneita ja sääolosuhteita.
-- Siirry oikeaan lennokkiin vasta, kun simulaattorissa onnistut toistuvasti.
+- Siirry [oikeaan lennokkiin](/aloittelijan-opas/ensimmainen-lennokki/#ensimmäiset-lennot) vasta, kun simulaattorissa onnistut toistuvasti.
 
 ---
 
