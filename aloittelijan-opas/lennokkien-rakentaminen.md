@@ -67,10 +67,10 @@ Laserleikatut sarjat, joissa osat ovat valmiiksi muotoon leikattuja, helpottavat
 
 ### Liimat
 
-1. [**Pikaliima**](/aloittelijan-opas/lennokkisanastoa/#p) (syanoakrylaatti) nopeisiin liimauksiin
-2. [**Epoksiliima**](/aloittelijan-opas/lennokkisanastoa/#e) vahvempiin liitoksiin
+1. **Pikaliima** (syanoakrylaatti) nopeisiin liimauksiin
+2. **Epoksiliima** vahvempiin liitoksiin
 3. **Kontaktiliima** (esim. UHU-POR) vaahtomuoviosien liimaamiseen
-4. **PU-liima** (polyuretaani, esim. Gorilla Glue) turpoava, erittäin vahva liima, joka sopii monille materiaaleille, vaatii puristusta kuivuessaan.
+4. **PU-liima** (polyuretaani, esim. Gorilla Glue) turpoava liima, joka sopii monille materiaaleille, vaatii puristusta kuivuessaan.
 5. **Perinteinen [lennokkiliima](/aloittelijan-opas/lennokkisanastoa/#l)** (esim. Uhu Hart) balsaosien liimaukseen
 
 ### Rakennusalusta
@@ -88,7 +88,7 @@ Tasainen, pehmeä alusta, johon voit kiinnittää osia nuppineuloilla. Esimerkik
 
 ### Vaahtomuovirakentaminen
 
-1. **Mallineiden käyttö**: Piirrä osat paperi- tai pahvimallineilla.
+1. **Mallinteiden käyttö**: Piirrä osat paperi- tai pahvimallinteilla.
 2. **Leikkaaminen**: Leikkaa osat terävällä veitsellä tai kuumalankaleikkurilla.
 3. **Liimaaminen**: Käytä kontaktiliimaa, uretaaniliimaa tai kuumaliimaa. Varmistu ennen liimausta, ettei käyttämäsi liima sulata muovia!
 4. **Vahvistaminen**: Vahvista kriittiset kohdat hiilikuidulla tai balsalla.
@@ -194,14 +194,10 @@ Elektroniikan asennus on kriittinen vaihe:
 
 ### 1. Servot
 
-Link servot to [servot](/aloittelijan-opas/lennokkisanastoa/#s).
-
 - Asenna servot tukevasti runkoon tai siipiin.
 - Varmista, että työntötangot liikkuvat vapaasti ilman takertelua.
 
 ### 2. Vastaanotin
-
-Link Vastaanotin to [Vastaanotin](/aloittelijan-opas/lennokkisanastoa/#v).
 
 - Sijoita vastaanotin suojattuun paikkaan, etäälle moottorista ja nopeudensäätimestä.
 - Kiinnitä se vaahtomuovilla tärinän vähentämiseksi.
@@ -212,8 +208,6 @@ Link Vastaanotin to [Vastaanotin](/aloittelijan-opas/lennokkisanastoa/#v).
 - Varmista, että moottori on linjassa rungon kanssa.
 
 ### 4. Akku
-
-Link akku to [akku](/aloittelijan-opas/lennokkisanastoa/#a).
 
 - Sijoita akku niin, että painopiste asettuu oikeaan kohtaan.
 - Varmista, että akku on helposti vaihdettavissa ja tukevasti kiinni.
@@ -235,17 +229,17 @@ Link akku to [akku](/aloittelijan-opas/lennokkisanastoa/#a).
 
 Suomessa lennokkien rakennusmateriaaleja ja -sarjoja myyvät:
 
-- **Verkkokaupat**: RC-Kauppa, Hobby Point, Hobbylinna
+- **Verkkokaupat**: esim. Skydream Hobby, Hobby Point, Hobbylinna
 - **Perinteiset askarteluliikkeet**: Kysy suosituksia paikalliselta lennokkikerholta
-- **Kansainväliset verkkokaupat**: HobbyKing, Banggood (huomioi toimitusajat ja tullimaksut)
+- **Kansainväliset verkkokaupat**: HobbyKing, Banggood (huomioi toimitusajat ja mahdolliset tullimaksut)
 
 ## Yhteenveto
 
 Lennokkien rakentaminen on palkitseva harrastus, joka kehittää kädentaitoja ja syventää ymmärrystä lennokkien toiminnasta. Aloita yksinkertaisista projekteista ja etene vähitellen haastavampiin. Muista, että virheet ovat osa oppimisprosessia – niistä oppiminen vie sinut eteenpäin.
 
-Rakentaminen on myös sosiaalista. Liity [Vallilan Lennokkikerhoon](/jäseneksi/) ja tapaa muita rakentajia, jotka jakavat vinkkejä ja auttavat ongelmatilanteissa. Järjestämme säännöllisesti rakennusiltoja ja -kursseja, joissa voit oppia uusia tekniikoita.
+Rakentaminen on myös sosiaalista. Liity [Vallilan Lennokkikerhoon](/jäseneksi/) ja tapaa muita rakentajia, jotka jakavat vinkkejä ja auttavat ongelmatilanteissa. 
 
-**Haluatko lisätietoja rakentamisesta tai apua projektin aloittamisessa?** Tule käymään [lennokkikentällämme](/lennokkikenttä/) tai ota yhteyttä [jäseniimme](/yhteystiedot/). Jaamme mielellämme tietoa ja kokemuksia lennokkien rakentamisesta!
+**Haluatko lisätietoja rakentamisesta tai apua projektin aloittamisessa?** Tule käymään [lennokkikentällämme](/lennokkikenttä/) tai ota  [yhteyttä](/yhteystiedot/). Jaamme mielellämme tietoa ja kokemuksia lennokkien rakentamisesta!
 
 <div class="button-container">
 <a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>

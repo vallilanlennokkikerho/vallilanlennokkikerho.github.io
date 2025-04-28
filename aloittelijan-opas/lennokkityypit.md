@@ -51,7 +51,7 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 **Hyödyt:** Helppo oppimiskäyrä, turvallinen laskeutuminen, anteeksiantavat lento-ominaisuudet.
 
 **Haasteet:** Rajoitetut taitolento-ominaisuudet, voi tuntua tylsältä taitojen kehittyessä. Ne ovat usein [ensimmäinen lennokki](/aloittelijan-opas/ensimmainen-lennokki/), jolla opetellaan perusteet.
-Link RTF (Ready-to-Fly) to [RTF (Ready-to-Fly)](/aloittelijan-opas/lennokkisanastoa/#r).
+
 **Vinkki aloittelijalle:** Trainereita ovat usein saatavilla RTF (Ready-to-Fly) -paketteina, jotka sisältävät kaiken lennättämiseen tarvittavan. Tämä on helpoin tapa päästä harrastuksen alkuun.
 
 ## Liidokit

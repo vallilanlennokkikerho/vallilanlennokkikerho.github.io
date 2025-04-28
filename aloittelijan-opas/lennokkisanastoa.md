@@ -147,6 +147,7 @@ lang: fi
 - **Laput** – Laskusiivekkeet, lisäävät siiven nostovoimaa ja samalla ilmanvastusta, mahdollistavat lähestymisen pienemmällä nopeudella kuin ns. sileällä koneella.
 - **Lasi** – Lasikuitu, käytetään lennokkien rakenteiden vahvistamiseen.
 - **Laskeva** – Laskeva ilmavirtaus, vastakohta termiikille, hankaloittaa liitoa.
+- **Latenssi** – Viive kameran kuvan siirtymisessä FPV-laseihin, mitattuna millisekunneissa.
 - **Lennokkiliima** – Nitroselluloosapohjainen liima, jota käytetään erityisesti lennokkimallien rakentamisessa. Sisältää usein asetonia ja muodostaa nopeasti kuivuvan, vahvan liitoksen. Soveltuu erityisesti balsan ja paperin liimaamiseen. Ohennettuna toimii myös lennokkilakkana. Esimerkkejä ovat Uhu Hart ja Ilmailuliiton valkoisessa tuubissa myyty perinteinen lennokkiliima.
 - **LePo** – Lennokkipojat, helsinkiläinen lennokkikerho.
 - **Liidokki** – Lennokki, joka lentää pääasiassa liitämällä, sopii myös aloittelijoille.

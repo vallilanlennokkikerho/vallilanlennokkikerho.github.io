@@ -33,7 +33,7 @@ FPV-lentäminen yhdistää teknologian, taidon ja luovuuden. Voit:
 
 - **Kilpailla** ratoja pitkin kuin oikea lentäjä.
 - **Tehdä temppuja** ja lentää vapaasti.
-- **Kuvata** upeita videoita ahtaissakin paikoissa.
+- **Kuvata** upeita videoita paikoissa.
 - **Rakentaa** omia droneja ja oppia tekniikkaa.
 
 Harrastus on helppo aloittaa, ja Suomen aktiiviset yhteisöt auttavat sinut alkuun!
@@ -48,7 +48,7 @@ Aloittaminen on edullista ja hauskaa. Tässä perusvälineet:
 - **FPV-lasit**: Lasit näyttävät dronen näkymän – kuin olisit kyydissä! Edulliset lasit riittävät alkuun.
 - **Ohjain**: Kaukosäädin droneen ohjaamiseen. Esimerkiksi *Radiomaster*-mallit ovat hyviä aloittelijoille.
 - **Akut**: Ladattavat akut pitävät dronen ilmassa.
-- [**Simulaattori**](/aloittelijan-opas/lennokkisimulaattorit/): Tietokoneohjelma, kuten *Liftoff* tai *VelociDrone*, auttaa harjoittelemaan turvallisesti ilman kolaririskiä.
+- **Simulaattori**: Tietokoneohjelma, kuten *Liftoff* tai *VelociDrone*, auttaa harjoittelemaan turvallisesti ilman kolaririskiä.
 
 **Pro-vinkki**: Välineiden pitää olla laillisia (EU-hyväksyttyjä), mutta kaupat ja yhteisöt opastavat oikeiden valinnassa. Aloittelijan setti maksaa noin 150–300 €.
 

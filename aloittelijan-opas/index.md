@@ -68,7 +68,7 @@ Harrastuksen paras puoli on sen sosiaalinen ulottuvuus. Vallilan Lennokkikerhon 
 
 ### Kehitä taitojasi simulaattorilla  
 
-Ennen kuin siirryt vaativampiin lennokkeihin, harkitse lennokkisimulaattorin käyttöä. [Simulaattorit](/aloittelijan-opas/lennokkisimulaattorit/), kuten Phoenix RC tai RealFlight, auttavat harjoittelemaan turvallisesti ja edullisesti – ilman riskiä lennokin rikkoutumisesta.
+Ennen kuin siirryt vaativampiin lennokkeihin, harkitse lennokkisimulaattorin käyttöä. Simulaattorit, kuten Phoenix RC tai RealFlight, auttavat harjoittelemaan turvallisesti ja edullisesti – ilman riskiä lennokin rikkoutumisesta.
 
 ## Hyödyllisiä vinkkejä aloittelijalle
 
