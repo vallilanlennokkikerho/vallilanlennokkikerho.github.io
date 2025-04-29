@@ -16,6 +16,7 @@ lang: fi
 </div>
 
 ## A
+
 - **AAC** - Polttomoottoreissa käytetty ratkaisu, jossa mäntä ja sylinteri ovat alumiinia ja sylinterin sisäpinta kovakromattu (chromed).
 - **ABC** - Kuten AAC, mutta sylinteri messinkiä (brass) tai pronssia (bronze).
 - **A-kakkonen** – Iso vapaastilentävä liidokki, FAI-luokka F1A, aikaisemmin A2.
@@ -30,6 +31,7 @@ lang: fi
 - **Änkkäri (ääntsäri)** – Polttomoottorin äänenvaimennin.
 
 ## B
+
 - **Balansointi** – Akun balansointi, akkukennojen tasapainottaminen, jotta ne latautuvat ja purkautuvat tasaisesti; tärkeää LiPo-akuilla.
 - **Balsa** – Kevyt puulaji, perinteinen rakennusmateriaali rakenteiden ja pinnoitteiden tekoon.
 - **BEC (Battery Eliminating Circuit)** – Nopeussäätimen ominaisuus, joka syöttää käyttöjännitteen vastaanottimelle, jolloin erillistä akkua ei tarvita.
@@ -39,6 +41,7 @@ lang: fi
 - **Bunttaus** – Liidokin nopea nousuliike siimasta irrotuksen jälkeen.
 
 ## C
+
 - **C-rating** – Kuvaa akun kykyä purkaa tai vastaanottaa virtaa suhteessa sen nimelliskapasiteettiin. Esimerkiksi 2200 mAh (2,2 Ah) akku 70C-arvolla voi valmistajan mukaan purkaa jopa 154 A virtaa (2,2 × 70). Erityisen tärkeä LiPo-akkujen suorituskyvyn arvioinnissa. Huomio: Turvallisin latausvirta on yleensä 1C, ellei valmistaja toisin suosittele.
 - **C-grain (quarter grain)** – Balsan sahaustapa, joka parantaa jäykkyyttä; levy sahataan puun vuosirenkaiden mukaan tietyllä kulmalla.
 - **CL (Control Line)** – Siimaohjaus, jossa lennokkia ohjataan ohjausvaijereilla.
@@ -47,6 +50,7 @@ lang: fi
 - **Coupe d’Hiver** – F1G-luokan kumimoottorilennokki, pienempi kuin F1B eli wake.
 
 ## D
+
 - **Dekali** – Siirtokuva, jota käytetään lennokkien koristeluun, esimerkiksi pienoismalleissa.
 - **Diccoplast** – Katalyyttilakka, jota käytetään polttoaineen kestävänä suojapinnoitteena lennokeissa.
 - **Diesel** – Puristussytytysmoottori, käyttää polttoaineena eetterin, petrolin ja risiiniöljyn seosta.
@@ -58,6 +62,7 @@ lang: fi
 - **Dynajet** – Pulssisuihkumoottori (pulsejet), käytettiin joskus vanhoissa nopeuslennokeissa. Erittäin meluisa, vaikea käynnistää ja palovaarallinen.
 
 ## E
+
 - **Eetteri** – Dietyyylieetteri, dieselin polttoainekomponentti, parantaa sytytysominaisuuksia pienoisdieseleissä.
 - **Eka** – Alkeisliidokki, jonka siipi on tehty yhdestä Perussiivestä. Tokan siipi tehdään kahdesta perussiivestä.
 - **Elapor** – Elastinen ja kestävä vaahtomuovi, kestää kolhuja paremmin kuin Styrox ja on helppo korjata pikaliimalla.
@@ -67,6 +72,7 @@ lang: fi
 - **Expo (Exponentiaali)** – Radio-ohjaimen säätö, joka pehmentää ohjainpintojen liikettä lähellä keskiasentoa, mahdollistaen tarkemman ohjauksen pienillä liikkeillä, mutta säilyttää täyden liikkeen laajuuden suuremmilla ohjainliikkeillä.
 
 ## F
+
 - **FAI-luokat** – Kansainvälisen ilmailuliiton (FAI) määrittelemät lennokkien kilpailuluokat, kuten F1A, F1B, F2D, F3A jne.
 - **Fail Safe** – Turva-asetus radio-ohjausjärjestelmässä, ohjaa servot ennalta määriteltyyn asentoon häiriön sattuessa (esim. kaasu tyhjäkäynnille).
 - **Filmari (mikrofilmari)** – Erittäin kevyt F1D-luokan sisälennokki, päällystetty mikrofilmikalvolla.
@@ -81,13 +87,15 @@ lang: fi
 - **Fusetus** – Fuse-toiminnon käyttö, esimerkiksi lennon päättäminen ajastimella.
 
 ## G
+
 - **Gigaiset** – 2,4 GHz radiot, nykyinen standardi niiden häiriönsietokyvyn ja luotettavuuden vuoksi.
 - **Glideri** – Liidokki, lennokki, joka lentää pääasiassa liitämällä ilman moottoria tai käyttää moottoria vain nousuun.
 
 ## H
+
 - **Hakalaite** – Servon edeltäjä, vanha mekaaninen ohjauslaite, käytössä ennen nykyaikaisia servoja.
 - **Haistartti** – RC-liidokin hinauslaite, jossa on kumiköysi, nailonsiimaa, laskuvarjo ja avainrengas.
-- **Haltex** - Huokoinen kuitulevy, joka soveltuu rakennusalustaksi, koska siihen on helppo työntää nuppineuloja liimattavien osien pitämiseksi paikallaan. Tunnettiin ennen myös insuliittina.
+- **Halltex** - Huokoinen kuitulevy, joka soveltuu rakennusalustaksi, koska siihen on helppo työntää nuppineuloja liimattavien osien pitämiseksi paikallaan. Tunnettiin ennen myös insuliittina.
 - **Haritus** – Siiven tarkoituksellinen kierto (wash-out tai wash-in), parantaa lento-ominaisuuksia.
 - **Harjaton** – Harjaton sähkömoottori, tehokas ja huoltovapaa, yleinen nykylennokeissa.
 - **Hartsi** – Lujitemuovien sideaine, esimerkiksi lasi- tai hiilikuiturakenteissa.
@@ -103,6 +111,7 @@ lang: fi
 - **Händi** – Siimaohjattavan lennokin ohjauskahva.
 
 ## I
+
 - **Ilmailuradio** - Laite, jolla voi puhua ja kuunnella ilmailun radiotaajuuksia. Tarvitsee luvan, joten lennokkiharrastuksessa sitä käytetään harvoin, esimerkiksi isoissa tapahtumissa.
 - **Ilmailuskanneri** - Laite, joka kuuntelee lentokoneiden ja lennonjohdon radiopuhetta. Ei vaadi lupaa, ja lennokkiharrastajat voivat käyttää sitä tarkistaakseen, onko lähellä muuta lentoliikennettä.
 - **Ilmaruuvi** - RC-kaasuttimen säätöruuvi, jolla säädetään tyhjäkäyntiseos.
@@ -110,6 +119,7 @@ lang: fi
 - **IPN (Isopropyylinitraatti)** – Dieselpolttoaineen lisäaine, parantaa syttymistä ja tehoa.
 
 ## J
+
 - **Jalka (foot, mon. feet)** – Anglosaksinen pituusmitta, 12 tuumaa. Käytetään ilmailussa mm. korkeuden ilmaisemiseen.
 - **Japsi** – Silkkipaperi, käytetään kevyiden lennokkien päällystämiseen, erityisesti vapaastilentävissä malleissa.
 - **Jetti** – 1. Suihkumoottorilennokki. 2. Eräs kotimainen, nopeasti kuivuva lennokkiliima, jota ei enää valmisteta.
@@ -117,6 +127,7 @@ lang: fi
 - **Jättöreuna** - Siiven takareuna.
 
 ## K
+
 - **Kaartolaippa** – Vapariharrastajien (ks. vapari) käyttämä nimitys sivuperäsimestä.
 - **Kaasari** – Kaasutin, säätelee polttoaineen ja ilman seosta polttomoottorissa.
 - **Kabiini** – Ohjaamon kupu, erityisesti pienoismalleissa, jäljittelee oikean lentokoneen ohjaamoa.
@@ -133,6 +144,7 @@ lang: fi
 - **Klunkki** – Polttoainetankin messinkipaino, pitää letkun pään polttoaineessa kaikissa asennoissa.
 - **Kohtauskulma** - Siipiprofiilin keskiviivan ja ilmavirtauksen välinen kulma, joka vaikuttaa nostovoiman suuruuteen. Kun kohtauskulmaa kasvatetaan liikaa, ilmavirtaus irtoaa siivestä ja siipi sakkaa. Sakkaus tapahtuu aina samalla kohtauskulmalla, mutta sakkausnopeus on riippuvainen siipikuormituksesta. Raskas kone sakkaa suuremmalla nopeudella kuin kevyt.
 - **Kokovartalokierre** – Slangitermi hallitsemattomalle syöksykierteelle, usein sakkauksen seuraus.
+- **KOLLARI** – Pieni rengasmainen lukitsin, jota käytetään esimerkiksi akselin päässä pyörän paikallaan pitämiseen. Kiinnitetään usein pienellä kuusiokoloruuvilla.
 - **Kolmio** – Ks. ohjauskolmio.
 - **Koneruuvi** - Ruuvi, jonka kanssa käytetään mutteria. Yleisimmät koot lennokkiharrastajan tarvikevarastossa lienevät M3 ja M4, mutta myös tuumajärjestelmän mukaisia ruuveja (esim. UNC 4-40) tulee varsinkin amerikkalaisten rakennussarjojen ja tarvikkeiden mukana. Ne eivät ole vaihtokelpoisia keskenään, vaikka koot olisivatkin lähellä toisiaan.
 - **Kopteri, kopu, kopukka** – Helikopteri, radio-ohjattava tai vapaastilentävä.
@@ -143,6 +155,7 @@ lang: fi
 - **Kärkisakkaaja** - Lennokki, jonka siivessä sakkaus alkaa kärjestä. Vaarallinen ominaisuus, jota pyritään välttämään rakentamalla siipeen haritusta (wash-out).
 
 ## L
+
 - **Landari** – Laskuteline.
 - **Laput** – Laskusiivekkeet, lisäävät siiven nostovoimaa ja samalla ilmanvastusta, mahdollistavat lähestymisen pienemmällä nopeudella kuin ns. sileällä koneella.
 - **Lasi** – Lasikuitu, käytetään lennokkien rakenteiden vahvistamiseen.
@@ -160,6 +173,7 @@ lang: fi
 - **Löpö** – Polttoaine, fuili, soppa.
 
 ## M
+
 - **Maksi** – Tavoitelentoaika vapaastilentävissä lennokeissa.
 - **MaLe** – Intin maalilennokki, käytetty sotilaskoulutuksessa.
 - **Mallilennokki** – Lentävä pienoismalli, jäljittelee oikeaa lentokonetta tarkasti.
@@ -175,6 +189,7 @@ lang: fi
 - **Mylar** – Muovikalvo, käytetään siipien päällystämiseen kevyissä lennokeissa.
 
 ## N
+
 - **Naula (pound, lb, mon. lbs)** – Anglosaksinen massan yksikkö, kuusitoista unssia, 453,6 grammaa.
 - **Nelari** – Nelitahtimoottori, harvinaisempi kuin kaksitahtinen hehkutulppamoottori.
 - **Neula, neulaventtiili** – Ilma-polttoaineseoksen säätöventtiili.
@@ -187,6 +202,7 @@ lang: fi
 - **Nöösi** – Slangitermi nuorelle lennokkipojalle, usein kerhon aloitteleva jäsen.
 
 ## O
+
 - **Ohjauskolmio (Bellcrank)** – Kone-elin, joka siirtää ohjaussiimojen liikkeen työntötangolle. On useimmiten kolmion muotoinen, siitä nimi.
 - **Oldtimer** – Vanhan ajan lennokki, yleensä 1930–40-lukujen mallien mukainen, vapaastilentävä tai RC.
 - **Opetuskaapeli** – Järjestelmä, joka yhdistää opettajan ja oppilaan radiolähettimet, mahdollistaa ohjauksen turvallisen siirron koulutuksessa.
@@ -195,6 +211,7 @@ lang: fi
 - **Öljy** – Polttoaineen voiteluaine, esimerkiksi risiiniöljy tai synteettinen öljy; sähkömoottorit eivät tarvitse öljyä.
 
 ## P
+
 - **P-30** – Kumimoottorilennokki, maksimimitat 30 tuumaa, suosittu kilpailuluokka.
 - **Pailoni** – Pylon racing -lennokki.
 - **Paino, painovoima** - Maan vetovoiman aiheuttama voima, joka on vastakkaissuuntainen nostovoiman kanssa. Kun molemmat ovat yhtä suuria, lennokki lentää vaakalentoa.
@@ -214,9 +231,11 @@ lang: fi
 - **Pulsejet** – Pulssisuihkumoottori, katso Dynajet.
 
 ## Q
+
 - **Quarter grain** – Balsan sahaustapa, tekee levystä vääntöjäykän, sama kuin C-grain.
 
 ## R
+
 - **Raaseri** – Nopeuskilpailulennokki, erityisesti F3D-pylonkoneista käytetty nimitys.
 - **Racer-Kilta** – Turkulainen, jo lopettanut lennokkikerho, tunnettu siimaohjattujen taistelulennokkien piloteista.
 - **Radiohäiriö** – Häiriö radiotaajuudella, voi aiheuttaa ohjauksen menetyksen, usein päällekkäisten taajuuksien vuoksi.
@@ -226,6 +245,7 @@ lang: fi
 - **RTF (Ready-To-Fly)** – Täysin lentovalmis lennokkisarja, sisältää kaiken tarvittavan, kootaan yleensä yhdessä illassa.
 
 ## S
+
 - **Sakkaus** - Kun siiven kohtauskulma kasvaa liian suureksi, ilmavirtaus irtoaa siivestä ja nostovoima katoaa. Seurauksena huomattava korkeuden menetys, vaarallista matalalla.
 - **Sakkausnopeus** – Nopeus, jossa siipi sakkaa. On riippuvainen siipikuormituksesta, muttei kohtauskulmasta.
 - **Schrenkung** – Saksankielinen termi siiven haritukselle, nykyään käytetään termejä wash-out tai wash-in.
@@ -256,6 +276,7 @@ lang: fi
 - **Syntetisaattori, syntikka** – Radio-ohjauslaite, joka vaihtaa taajuutta ilman kiteiden vaihtoa.
 
 ## T
+
 - **Taimeri (timeri)** – Lentoajan rajoitin vapaastilentävissä lennokeissa. Tyypillisesti taimeri päästää korkeusperäsimen kääntymään pystyyn säädetyn ajan kuluttua, jolloin lennokki laskeutuu alas kuin hissillä. Ks. Fuilitaimeri.
 - **Takakansi** - Polttomoottorin kampikammion irrotettava takaosa, useimmiten kiinni kolmella tai neljällä koneruuvilla, mutta myös kierteellisiä takakansia käytetään, jolloin niiden avaamiseen tarvitaan erikoistyökalu.
 - **Tiima** – Joukkuenopeuslennokki, siimaohjattujen lennokkien F2C-kilpailuluokka.
@@ -263,17 +284,21 @@ lang: fi
 - **Tintti** – Slangitermi termiikille, nousevalle ilmavirtaukselle.
 - **Toka** – Pikkuliidokki, suomalainen kilpailuluokka, jossa on Olavi Lumeksen suunnittelema solumuovisiipi. Ks. Perussiipi.
 - **Tolppa** – Termiikki, nouseva ilmavirtaus, kuvataan usein pylvääksi.
+- **Torsio** – Siiven etureunan rakenne (esim. D-muotoinen kotelo tai etureunan levypäällystys), joka lisää siiven kiertojäykkyyttä ja estää sen vääntymistä lennon aikana.
 - **Traineri** – Harjoituslennokki, suunniteltu aloittelijoille helppoon lennättämiseen.
+- **Trapetsisiipi** – Siiven muoto, joka kapenee tasaisesti tyvestä kärkeen.
 - **Trimmivipu** – Radio-ohjaimen säätövipu, jolla hienosäädetään lennokin ohjainpintoja vakaaseen lentoon.
 - **Tsukki** – Heittoliidokki, yksinkertainen malli, usein käytetty kerhokisoissa.
 - **Tuuma (inch)** – Anglosaksinen pituusmitta, 25,4 mm. Et voi välttyä törmäämästä näihin, jos hankit amerikkalaisen rakennussarjan tai tarvikkeita. Myös potkurikoot ilmoitetaan yleisesti tuumina, esim. 8” x 6” -potkurin halkaisija on kahdeksan ja nousu kuusi tuumaa.
 - **Tönäri** – 1. Työntötanko, yhdistää servon ohjainpintaan. 2. Työntömitta, slangiksi “mauseri”.
 
 ## U
+
 - **Uniflow** – Tankkiratkaisu siimaohjattavissa lennokeissa, varmistaa tasaisen polttoaineensyötön polttoaineen pinnankorkeudesta riippumatta.
 - **Unssi (ounce, oz)** – Anglosaksinen massan yksikkö, 28,35 grammaa. Amerikkalaiset ilmoittavat lennokkiensa ja niiden osien painot unsseina.
 
 ## V
+
 - **Valkka** – Vallilan lennokkikerho, perustettu 1937, Suomen vanhin yhä toimiva lennokkikerho.
 - **Vapari** – Vapaastilentävä lennokki, lentää ilman radio- tai siimaohjausta.
 - **Varttipailoni** – Pylon-lennokki, käyttää 2,5 cm³ moottoria, kilpailuluokka.
@@ -281,33 +306,40 @@ lang: fi
 - **Vastari** – Lennokkiin sijoitettu vastaanotin, joka vastaanottaa radiolähettimen ohjaussignaalit.
 - **Vastus** - 1. Ilmavirran ja lennokin pintojen välisestä kitkasta aiheutuva voima, joka jarruttaa lennokin etenemistä ilmassa. Vastusta voidaan myös tarkoituksellisesti kasvattaa lentojarrujen avulla, jotta liukukulmaa saadaan laskussa jyrkennettyä laskeutumisen helpottamiseksi. 2. Sähkötekninen komponentti, jonka ominaisuutta kutsutaan resistanssiksi, yksikkönä ohmi.
 - **Veivata** – Lennättää taitolentoa, erityisesti siimaohjatuilla lennokeilla.
+- **VETOKULMA** – Potkurin akselin tai moottorin asennuskulma suhteessa lennokin rungon pituusakseliin. Moottori asennetaan usein vetämään hieman alas ja oikealle potkurin aiheuttamien vääntö- ja kiertovaikutusten kompensoimiseksi.
 - **Vinssi** – Sähkövinssi, käytetään RC-liidokkien hinaamiseen korkealle.
 - **Vispata** – Käynnistää polttomoottori potkurista käsin heittämällä.
 - **Vispilä** – Slangitermi helikopterille, viittaa roottoreihin.
 - **Vääntää** – Lennättää taitolentoa, tehdä akrobaattisia liikkeitä.
 
 ## W
+
 - **Wake** – F1B-luokan iso kumimoottorilennokki, aiemmin tunnettu nimellä C-2.
 - **Wash-out** – Siiven haritus, jättöreuna nousee kohti siiven kärkeä, parantaa vakautta.
 
 ## X
+
 - **X-luokka** – Kerhotason siimaohjausluokka, sisälsi aikaisemmin myös nopeuslentotehtävän.
 
 ## Y
+
 (Ei termejä tässä kategoriassa.)
 
 ## Z
+
 (Ei termejä tässä kategoriassa.)
 
 ## Å
+
 (Ei termejä tässä kategoriassa.)
 
 ## Ä
+
 (Ei termejä tässä kategoriassa, änkkäri listattu A-kirjaimella.)
 
 ## Ö
-(Ei termejä tässä kategoriassa, öljy listattu O-kirjaimella.)
 
+(Ei termejä tässä kategoriassa, öljy listattu O-kirjaimella.)
 
 ---
 
