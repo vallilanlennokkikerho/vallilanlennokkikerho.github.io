@@ -78,6 +78,7 @@ lang: fi
 - **Filmari (mikrofilmari)** – Erittäin kevyt F1D-luokan sisälennokki, päällystetty mikrofilmikalvolla.
 - **Flapsit (fläpsit)** – Laskusiivekkeet (laipat), ohjainpinnat, jotka lisäävät nostovoimaa ja hidastavat lennokkia laskeutumisen ja nousun aikana.
 - **Flaperon** – Ohjainpinta, joka yhdistää siivekkeiden ja laippojen toiminnot. Toimii käännöksissä siivekkeen tavoin ja laskeutumisessa hidastaa lennokkia kuten laskusiiveke.
+- **Fly-off** – Vapaastilentävien tai RC-liidokkien kilpailumuoto tasatuloksen sattuessa. Kilpailijat, joilla on täydet pisteet ("maksit"), lennättävät lisäkierroksia pidennetyllä lentoajalla, kunnes ero syntyy.
 - **FM (Taajuusmodulaatio)** – Radio-ohjauslaitteiden modulointitapa, sietää paremmin häiriöitä kuin AM.
 - **Foam** – Yleisnimitys vaahtomuoville, kuten Styrox tai Depron, käytetään kevyiden lennokkien rakentamiseen.
 - **FPV (First Person View)** – Lennokkiin tai droneen asennettu videokamera lähettää reaaliaikaista videokuvaa lennättäjälle, jolla on videolasit silmillään ja saa vaikutelman siitä, kuin lentäisi itse koneensa mukana. Suosio kasvanut nopeasti.
@@ -247,7 +248,7 @@ lang: fi
 ## S
 
 - **Sakkaus** - Kun siiven kohtauskulma kasvaa liian suureksi, ilmavirtaus irtoaa siivestä ja nostovoima katoaa. Seurauksena huomattava korkeuden menetys, vaarallista matalalla.
-- **Sakkausnopeus** – Nopeus, jossa siipi sakkaa. On riippuvainen siipikuormituksesta, muttei kohtauskulmasta.
+- **Sakkausnopeus** – Nopeus, jossa siipi sakkaa. Saavutetaan, kun siiven kohtauskulma ylittää kriittisen rajan ja nostovoima katoaa. Sakkausnopeus on riippuvainen mm. lennokin siipikuormituksesta ja painosta.
 - **Schrenkung** – Saksankielinen termi siiven haritukselle, nykyään käytetään termejä wash-out tai wash-in.
 - **Scuderia Arkadia** – Helsingissä 1950–60-luvuilla toiminut siimalennokkiharrastajien kerho, toiminta loppui nopeasti.
 - **Semiskeili** – Lennokki, joka jäljittelee oikeaa lentokonetta, mutta lento-ominaisuuksien vuoksi yksityiskohdista on tingitty.
@@ -287,6 +288,7 @@ lang: fi
 - **Torsio** – Siiven etureunan rakenne (esim. D-muotoinen kotelo tai etureunan levypäällystys), joka lisää siiven kiertojäykkyyttä ja estää sen vääntymistä lennon aikana.
 - **Traineri** – Harjoituslennokki, suunniteltu aloittelijoille helppoon lennättämiseen.
 - **Trapetsisiipi** – Siiven muoto, joka kapenee tasaisesti tyvestä kärkeen.
+- **Trimmaus** – Lennokin säätäminen (trimmaaminen) vakaaseen ja halutunlaiseen lentoon. Vapaastilentävissä säädetään painopistettä ja peräsinkulmia, RC-koneissa käytetään lisäksi lähettimen trimmejä ohjainpintojen hienosäätöön.
 - **Trimmivipu** – Radio-ohjaimen säätövipu, jolla hienosäädetään lennokin ohjainpintoja vakaaseen lentoon.
 - **Tsukki** – Heittoliidokki, yksinkertainen malli, usein käytetty kerhokisoissa.
 - **Tuuma (inch)** – Anglosaksinen pituusmitta, 25,4 mm. Et voi välttyä törmäämästä näihin, jos hankit amerikkalaisen rakennussarjan tai tarvikkeita. Myös potkurikoot ilmoitetaan yleisesti tuumina, esim. 8” x 6” -potkurin halkaisija on kahdeksan ja nousu kuusi tuumaa.
