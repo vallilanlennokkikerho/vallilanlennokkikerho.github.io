@@ -308,7 +308,7 @@ lang: fi
 - **Vastari** – Lennokkiin sijoitettu vastaanotin, joka vastaanottaa radiolähettimen ohjaussignaalit.
 - **Vastus** - 1. Ilmavirran ja lennokin pintojen välisestä kitkasta aiheutuva voima, joka jarruttaa lennokin etenemistä ilmassa. Vastusta voidaan myös tarkoituksellisesti kasvattaa lentojarrujen avulla, jotta liukukulmaa saadaan laskussa jyrkennettyä laskeutumisen helpottamiseksi. 2. Sähkötekninen komponentti, jonka ominaisuutta kutsutaan resistanssiksi, yksikkönä ohmi.
 - **Veivata** – Lennättää taitolentoa, erityisesti siimaohjatuilla lennokeilla.
-- **VETOKULMA** – Potkurin akselin tai moottorin asennuskulma suhteessa lennokin rungon pituusakseliin. Moottori asennetaan usein vetämään hieman alas ja oikealle potkurin aiheuttamien vääntö- ja kiertovaikutusten kompensoimiseksi.
+- **Vetokulma** – Potkurin akselin tai moottorin asennuskulma suhteessa lennokin rungon pituusakseliin. Moottori asennetaan usein vetämään hieman alas ja oikealle potkurin aiheuttamien vääntö- ja kiertovaikutusten kompensoimiseksi.
 - **Vinssi** – Sähkövinssi, käytetään RC-liidokkien hinaamiseen korkealle.
 - **Vispata** – Käynnistää polttomoottori potkurista käsin heittämällä.
 - **Vispilä** – Slangitermi helikopterille, viittaa roottoreihin.
@@ -325,7 +325,7 @@ lang: fi
 
 ## Y
 
-(Ei termejä tässä kategoriassa.)
+- **Y-kaapeli** – Yhdistää kaksi servoa yhteen vastaanottimen kanavaan, esimerkiksi siivekkeiden ohjauksessa.
 
 ## Z
 
@@ -347,13 +347,22 @@ lang: fi
 
  **Muista:**
 
-- Mikään ei ole niin helppoa, miltä se näyttää.  
-- Kaikkeen menee odotettua enemmän aikaa.  
-- Jos jonkin asian voi tehdä väärin, se tehdään väärin.  
-- Varaosien määrä varastossa on kääntäen verrannollinen niiden tarpeeseen.  
-- Jos tarvitset muttereita *N* kappaletta, löydät *N-1*.  
-- Oikean mittaiseksi leikattu osa on liian lyhyt.  
-- Vaihtokelpoiset osat eivät ole vaihtokelpoisia.  
-- Jos parannat jotakin ominaisuutta, jokin muu huononee.  
-- Löydät kadonneen työkalusi heti ostettuasi uuden.  
-- Kun saat kilpailulennokin valmiiksi, se on jo vanhentunut.
+> Mikään ei ole niin helppoa, miltä se näyttää.
+>
+> Kaikkeen menee odotettua enemmän aikaa.
+>
+> Jos jonkin asian voi tehdä väärin, se tehdään väärin.
+>
+> Varaosien määrä varastossa on kääntäen verrannollinen niiden tarpeeseen.
+>
+> Jos tarvitset muttereita *N* kappaletta, löydät *N-1*.
+>
+> Oikean mittaiseksi leikattu osa on liian lyhyt.
+>
+> Vaihtokelpoiset osat eivät ole vaihtokelpoisia.
+>
+> Jos parannat jotakin ominaisuutta, jokin muu huononee.
+>
+> Löydät kadonneen työkalusi heti ostettuasi uuden.
+>
+> Kun saat kilpailulennokin valmiiksi, se on jo vanhentunut.
