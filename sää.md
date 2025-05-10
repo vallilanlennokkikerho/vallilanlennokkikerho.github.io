@@ -42,6 +42,15 @@ keywords: Tietoa säästä, lentotoiminta, sääolosuhteet, Tuuli, lämpötila, 
 
 <iframe frameborder="0" src="https://widgets.meteox.com/en-GB/widgets/radar/location/10610/rain?z=6" style="height:400px;width:100%;max-width:100%;"></iframe>
 
+## Turvallinen lennätys sään mukaan
+
+Sää vaikuttaa lennokkien hallintaan ja turvallisuuteen. Tuulen lisäksi sade ja näkyvyys ovat tärkeitä tekijöitä. Tarkista sääennuste ennen lennätystä Ilmatieteen laitoksen tai Windyn kaltaisilta sivustoilta, jotta voit nauttia lennätyksestä parhaissa olosuhteissa.
+
+## Miksi sää on tärkeä lennokkien lennätyksessä?
+
+Hyvät sääolosuhteet varmistavat turvallisen ja nautinnollisen lennätyksen. Tuulen nopeus, sateen riski ja näkyvyys vaikuttavat lennokin hallintaan ja lentoaikaan. Ennen kentälle lähtöä tarkista ajantasainen sääennuste esimerkiksi Ilmatieteen laitoksen tai Windyn sivuilta. Näin voit suunnitella lennätyksen parhaaseen mahdolliseen ajankohtaan.
+
+
 <div class="image-container">
   <img src="/images/lennokkikuvia/talosaari.jpg" alt="" />
 </div>
