@@ -3,22 +3,31 @@
  */
 
 // Column helpers
+.row {
+    display: flex;
+    flex-wrap: wrap; // Allow columns to wrap if they exceed 100%
+}
+
 .column-small {
-    float: left;
-    width: 40%;
+    // float: left; // Removed
+    // width: 40%; // Replaced by flex-basis
+    flex: 0 0 40%; // flex-grow: 0, flex-shrink: 0, flex-basis: 40%
+    box-sizing: border-box; // Ensure padding and border don't increase width
 }
 
 .column {
-    float: left;
-    width: 50%;
+    // float: left; // Removed
+    // width: 50%; // Replaced by flex-basis
+    flex: 0 0 50%; // flex-grow: 0, flex-shrink: 0, flex-basis: 50%
+    box-sizing: border-box; // Ensure padding and border don't increase width
 }
 
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
+/* Clear floats after the columns - No longer needed with Flexbox */
+// .row:after {
+//     content: "";
+//     display: table;
+//     clear: both;
+// }
 
 // Margin helper
 .no-margin {

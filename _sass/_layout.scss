@@ -1,8 +1,14 @@
+@mixin responsive-font-size($base-size, $laptop-size) {
+  font-size: $base-size;
+  @include media-query($on-laptop) {
+    font-size: $laptop-size;
+  }
+}
 /**
  * Site header
  */
 .site-header {
-  border-top: 5px solid #f9df17;
+  border-top: 5px solid $site-header-border-top-color;
   border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
 
@@ -73,10 +79,6 @@
     text-align: right;
     z-index: 1000; // Ensure z-index is applied in mobile view too
     right: 30px;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
 
     .menu-icon {
       display: block;
@@ -242,36 +244,20 @@
   margin-bottom: $spacing-unit;
 
   h1 {
-    font-size: 2.625rem; // 42px / 16px
+    @include responsive-font-size(2.625rem, 2.25rem); // 42px / 16px and 36px / 16px
     letter-spacing: -1px;
     line-height: 1;
-
-    @include media-query($on-laptop) {
-      font-size: 2.25rem; // 36px / 16px
-    }
   }
 
   h2 {
-    font-size: 2rem; // 32px / 16px
-
-    @include media-query($on-laptop) {
-      font-size: 1.75rem; // 28px / 16px
-    }
+    @include responsive-font-size(2rem, 1.75rem); // 32px / 16px and 28px / 16px
   }
 
   h3 {
-    font-size: 1.625rem; // 26px / 16px
-
-    @include media-query($on-laptop) {
-      font-size: 1.375rem; // 22px / 16px
-    }
+    @include responsive-font-size(1.625rem, 1.375rem); // 26px / 16px and 22px / 16px
   }
 
   h4 {
-    font-size: 1.25rem; // 20px / 16px
-
-    @include media-query($on-laptop) {
-      font-size: 1.125rem; // 18px / 16px
-    }
+    @include responsive-font-size(1.25rem, 1.125rem); // 20px / 16px and 18px / 16px
   }
 }

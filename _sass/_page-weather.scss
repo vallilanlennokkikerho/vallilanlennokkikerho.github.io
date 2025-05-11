@@ -22,28 +22,28 @@
 .wind-data {
     font-size: 24px;
     text-align: center;
-    color: #555; // Consider using $grey-color
+    color: $weather-data-text;
     padding: 20px;
-    border: 1px solid #ddd; // Consider using $grey-color-light
+    border: 1px solid $weather-data-border;
     border-radius: 5px;
     margin-bottom: 20px;
-    background-color: #f9f9f9; // Consider a variable
+    background-color: $weather-data-bg;
 }
 
 .loading {
     text-align: center;
     font-style: italic;
-    color: #888; // Consider using $grey-color
+    color: $loading-text-color;
 }
 
 .error {
     text-align: center;
-    color: red;
+    color: $error-text-color;
 }
 
 .error-message {
     text-align: center;
-    color: darkred;
+    color: $error-message-text-color;
     font-weight: bold;
     margin-top: 10px;
 }
@@ -57,12 +57,12 @@
 
 .weather-forecast {
     text-align: center;
-    color: #555; // Consider using $grey-color
+    color: $weather-data-text;
     padding: 20px;
-    border: 1px solid #ddd; // Consider using $grey-color-light
+    border: 1px solid $weather-data-border;
     border-radius: 5px;
     margin-bottom: 20px;
-    background-color: #f9f9f9; // Consider a variable
+    background-color: $weather-data-bg;
 }
 
 .wind-arrow-container {

@@ -18,7 +18,48 @@
   --button-background-color: #{$button-background-color};
   --button-text-color: #{$button-text-color};
   --border-color: #{$grey-color-light};
-  --code-background: #eef;
+  // --code-background: #eef; // Replaced by --code-block-bg
+
+  // New theme color variables (Light)
+  --site-header-border-top-color: #{$site-header-border-top-color};
+  --code-block-bg: #{$code-block-bg-light};
+  --gallery-image-placeholder-bg: #{$gallery-image-placeholder-bg};
+  --gallery-caption-bg: #{$gallery-caption-bg-light};
+  --gallery-caption-text-color: #{$gallery-caption-text-color};
+  --weather-data-bg: #{$weather-data-bg};
+  --weather-data-border: #{$weather-data-border};
+  --weather-data-text: #{$weather-data-text};
+  --loading-text-color: #{$loading-text-color};
+  --error-text-color: #{$error-text-color};
+  --error-message-text-color: #{$error-message-text-color};
+
+  // Syntax Highlighting Colors (Light Theme)
+  --syntax-default-text: var(--text-color); // For general code text not otherwise styled
+  --syntax-c: #{$syntax-c};                     // Comment
+  --syntax-err-text: #{$syntax-err-text};       // Error text
+  --syntax-err-bg: #{$syntax-err-bg};           // Error background
+  --syntax-cp: #{$syntax-cp};                   // Comment.Preproc, Comment.Special
+  --syntax-gd-text: #{$syntax-gd-text};         // Generic.Deleted text
+  --syntax-gd-bg: #{$syntax-gd-bg};             // Generic.Deleted background
+  --syntax-gd-x-bg: #{$syntax-gd-x-bg};         // Generic.Deleted.Specific background
+  --syntax-gr: #{$syntax-gr};                   // Generic.Error
+  --syntax-gi-text: #{$syntax-gi-text};         // Generic.Inserted text
+  --syntax-gi-bg: #{$syntax-gi-bg};             // Generic.Inserted background
+  --syntax-gi-x-bg: #{$syntax-gi-x-bg};         // Generic.Inserted.Specific background
+  --syntax-go: #{$syntax-go};                   // Generic.Output
+  --syntax-gp: #{$syntax-gp};                   // Generic.Prompt, Name.Namespace
+  --syntax-gu: #{$syntax-gu};                   // Generic.Subheading
+  --syntax-kt: #{$syntax-kt};                   // Keyword.Type, Name.Class
+  --syntax-m: #{$syntax-m};                     // Literal.Number
+  --syntax-s: #{$syntax-s};                     // Literal.String
+  --syntax-na: #{$syntax-na};                   // Name.Attribute, Name.Constant, Name.Variable
+  --syntax-nb: #{$syntax-nb};                   // Name.Builtin
+  --syntax-ni: #{$syntax-ni};                   // Name.Entity
+  --syntax-ne: #{$syntax-ne};                   // Name.Exception, Name.Function
+  --syntax-nt: #{$syntax-nt};                   // Name.Tag
+  --syntax-w: #{$syntax-w};                     // Text.Whitespace
+  --syntax-sr: #{$syntax-sr};                   // Literal.String.Regex
+  --syntax-ss: #{$syntax-ss};                   // Literal.String.Symbol
 
   // Wind indicator colors (Light)
   --wind-low-color: #28a745;
@@ -40,7 +81,48 @@ html.night-mode-preload {
   --button-background-color: #61AFEF; // Match brand color for button hover bg
   --button-text-color: #E1E3E6;    // Match text color for button hover text
   --border-color: #353A42;         // Match light grey for borders
-  --code-background: #2B3038;      // Slightly lighter dark blue-grey for code blocks
+  // --code-background: #2B3038; // Replaced by --code-block-bg
+
+  // New theme color variables (Dark)
+  --site-header-border-top-color: #B7A00D; // Darker yellow
+  --code-block-bg: #252930;                // Darker than main dark bg
+  --gallery-image-placeholder-bg: #303030; // Dark grey
+  --gallery-caption-bg: rgba(30,30,30,0.8); // Dark semi-transparent
+  --gallery-caption-text-color: #bbb;      // Light grey
+  --weather-data-bg: #282C34;              // Slightly lighter dark shade
+  --weather-data-border: #383D45;          // Slightly lighter dark shade
+  --weather-data-text: #ABB2BF;            // Common dark theme text color
+  --loading-text-color: #999;              // Lighter grey
+  --error-text-color: #F44747;             // Brighter/softer red
+  --error-message-text-color: #E06C75;     // Lighter, softer red
+
+  // Syntax Highlighting Colors (Dark Theme - Atom One Dark inspired)
+  --syntax-default-text: #ABB2BF;             // Light Gray (general code text)
+  --syntax-c: #5C6370;                        // Gray (Comment)
+  --syntax-err-text: #E06C75;                  // Red (Error text)
+  --syntax-err-bg: rgba(224, 108, 117, 0.15);  // Subtle Red BG (Error background)
+  --syntax-cp: #5C6370;                       // Gray (Comment.Preproc)
+  --syntax-gd-text: #E06C75;                  // Red (Generic.Deleted text)
+  --syntax-gd-bg: rgba(224, 108, 117, 0.15);  // Subtle Red BG (Generic.Deleted background)
+  --syntax-gd-x-bg: rgba(224, 108, 117, 0.2); // Slightly more Red BG
+  --syntax-gr: #E06C75;                       // Red (Generic.Error)
+  --syntax-gi-text: #98C379;                  // Green (Generic.Inserted text)
+  --syntax-gi-bg: rgba(152, 195, 121, 0.15);  // Subtle Green BG (Generic.Inserted background)
+  --syntax-gi-x-bg: rgba(152, 195, 121, 0.2); // Slightly more Green BG
+  --syntax-go: #ABB2BF;                       // Light Gray (Generic.Output)
+  --syntax-gp: #5C6370;                       // Gray (Generic.Prompt / Name.Namespace)
+  --syntax-gu: #C678DD;                       // Purple (Generic.Subheading)
+  --syntax-kt: #E5C07B;                       // Yellow (Keyword.Type / Name.Class)
+  --syntax-m: #D19A66;                        // Orange (Literal.Number)
+  --syntax-s: #98C379;                        // Green (Literal.String)
+  --syntax-na: #E06C75;                       // Red (Name.Attribute, Name.Constant, Name.Variable)
+  --syntax-nb: #61AFEF;                       // Blue (Name.Builtin)
+  --syntax-ni: #D19A66;                       // Orange (Name.Entity)
+  --syntax-ne: #61AFEF;                       // Blue (Name.Exception / Name.Function)
+  --syntax-nt: #E06C75;                       // Red (Name.Tag)
+  --syntax-w: #2C313A;                        // Very Subtle Dark Gray (Text.Whitespace)
+  --syntax-sr: #56B6C2;                       // Cyan (Literal.String.Regex)
+  --syntax-ss: #56B6C2;                       // Cyan (Literal.String.Symbol)
 
   // Wind indicator colors (Dark - Adjusted slightly for new background)
   --wind-low-color: #4CAF50; // Slightly adjusted green
@@ -79,8 +161,8 @@ a {
 }
 
 pre, code {
-  border: 1px solid var(--border-color);
-  background-color: var(--code-background);
+  border: 1px solid var(--border-color); // Or use a specific --code-border-color if defined
+  background-color: var(--code-block-bg); // Use new variable
 }
 
 blockquote {
@@ -107,12 +189,12 @@ html.night-mode {
   // Site Title
   .site-header .site-title,
   .site-header .site-title:visited {
-    color: #f0f0f0; // Light color for dark background
+    color: var(--text-color); // Use theme variable
   }
 
   // Site Footer
   .site-footer {
-    color: #f0f0f0; // Match site-title night mode color
+    color: var(--text-color); // Use theme variable
   }
 
   // Site Navigation (Mobile)
@@ -153,11 +235,11 @@ html.night-mode {
   // Gallery adjustments
   .image-gallery li a {
     img {
-      background: var(--grey-color-light); // Darker background for image placeholder
+      background: var(--gallery-image-placeholder-bg); // Use new theme variable
     }
     span {
-      background: rgba(0, 0, 0, 0.7); // Darker caption background
-      color: var(--text-color); // Ensure caption text is readable
+      background: var(--gallery-caption-bg); // Use new theme variable
+      color: var(--gallery-caption-text-color); // Use new theme variable
     }
     &:hover {
       opacity: 1; // Ensure full opacity
