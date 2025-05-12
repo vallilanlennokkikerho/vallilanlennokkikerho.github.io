@@ -145,7 +145,7 @@ lang: fi
 - **Klunkki** – Polttoainetankin messinkipaino, pitää letkun pään polttoaineessa kaikissa asennoissa.
 - **Kohtauskulma** - Siipiprofiilin keskiviivan ja ilmavirtauksen välinen kulma, joka vaikuttaa nostovoiman suuruuteen. Kun kohtauskulmaa kasvatetaan liikaa, ilmavirtaus irtoaa siivestä ja siipi sakkaa. Sakkaus tapahtuu aina samalla kohtauskulmalla, mutta sakkausnopeus on riippuvainen siipikuormituksesta. Raskas kone sakkaa suuremmalla nopeudella kuin kevyt.
 - **Kokovartalokierre** – Slangitermi hallitsemattomalle syöksykierteelle, usein sakkauksen seuraus.
-- **KOLLARI** – Pieni rengasmainen lukitsin, jota käytetään esimerkiksi akselin päässä pyörän paikallaan pitämiseen. Kiinnitetään usein pienellä kuusiokoloruuvilla.
+- **Kollari** – Pieni rengasmainen lukitsin, jota käytetään esimerkiksi akselin päässä pyörän paikallaan pitämiseen. Kiinnitetään usein pienellä kuusiokoloruuvilla.
 - **Kolmio** – Ks. ohjauskolmio.
 - **Koneruuvi** - Ruuvi, jonka kanssa käytetään mutteria. Yleisimmät koot lennokkiharrastajan tarvikevarastossa lienevät M3 ja M4, mutta myös tuumajärjestelmän mukaisia ruuveja (esim. UNC 4-40) tulee varsinkin amerikkalaisten rakennussarjojen ja tarvikkeiden mukana. Ne eivät ole vaihtokelpoisia keskenään, vaikka koot olisivatkin lähellä toisiaan.
 - **Kopteri, kopu, kopukka** – Helikopteri, radio-ohjattava tai vapaastilentävä.
