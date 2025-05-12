@@ -366,3 +366,5 @@ lang: fi
 > Löydät kadonneen työkalusi heti ostettuasi uuden.
 >
 > Kun saat kilpailulennokin valmiiksi, se on jo vanhentunut.
+>
+> Jos kuulut kahteen tai useampaan yhdistykseen, niiden talkoot ja muut tapahtumat pidetään samana päivänä.
