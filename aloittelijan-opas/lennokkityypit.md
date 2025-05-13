@@ -120,7 +120,7 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 **Ominaisuudet:**
 
 - Suuret ohjainpinnat (siivekkeet, korkeusperäsin, sivuperäsin)
-- Kevyt mutta vahva rakenne, usein vaahtomuovia (EPP/foam) tai komposiittimateriaalia
+- Kevyt mutta vahva rakenne, usein solumuovia (EPP/foam) tai komposiittimateriaalia
 - Tehokas moottori suhteessa painoon
 - Symmetrinen siipiprofiili, joka mahdollistaa lennon selkäasennossa
 
@@ -311,7 +311,7 @@ Lennokkityypin valinta riippuu monista tekijöistä. Tässä vinkkejä oikean le
 - **Aloita yksinkertaisella:** Valitse [traineri](#harjoituslennokit-trainerit) tai vakaa [sähköliidokki](#liidokit).
 - **RTF-paketit:** [Ready-to-Fly -paketit](/aloittelijan-opas/lennokkisanastoa/#r) sisältävät kaiken tarvittavan ja ovat helpoin tapa aloittaa.
 - **Koko:** Keskikokoinen lennokki (siipiväli n. 1–1,5 m) on usein paras – liian pieni on tuuliherkkä, liian suuri vaikea hallita.
-- **Materiaalit:** [Vaahtomuovilennokit](/aloittelijan-opas/rakennusmateriaalit/#1-vaahtomuovit-epo-epp-eps-xps) kestävät kolhuja paremmin kuin [balsa-](/aloittelijan-opas/rakennusmateriaalit/#3-balsa) tai [komposiittilennokit](/aloittelijan-opas/rakennusmateriaalit/#6-komposiitit-lasikuitu-hiilikuitu-kevlar).
+- **Materiaalit:** [Solumuovilennokit](/aloittelijan-opas/rakennusmateriaalit/#1-vaahtomuovit-epo-epp-eps-xps) kestävät kolhuja paremmin kuin [balsa-](/aloittelijan-opas/rakennusmateriaalit/#3-balsa) tai [komposiittilennokit](/aloittelijan-opas/rakennusmateriaalit/#6-komposiitit-lasikuitu-hiilikuitu-kevlar).
 
 ### Kokeneemmalle harrastajalle
 

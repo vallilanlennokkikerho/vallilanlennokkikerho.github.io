@@ -37,7 +37,7 @@ Seuraa näitä helppoja askeleita päästäksesi alkuun lennokkiharrastuksessa:
    - **Muut tarvikkeet**: Pieniä työkaluja (esim. ruuvimeisseli, kuusiokoloavaimet), liimaa ja teippiä rakenteluun ja korjauksiin.
 
 4. **Turvallisuus, materiaalit ja ensimmäinen lennokki**  
-   Lennokki ei ole lelu, vaan se lentää samojen periaatteiden mukaisesti kuin täysikokoinen lentokone. Siksi on tärkeää oppia hallitsemaan lennokki turvallisesti. Aloittelijan kannattaa valita kestävästä vaahtomuovista (EPP tai EPO) valmistettu traineri, joka sietää hyvin pieniä kolhuja ja on helposti korjattavissa. Voit lukea lisää yleisimmistä [rakennusmateriaaleista täältä](/aloittelijan-opas/rakennusmateriaalit/).
+   Lennokki ei ole lelu, vaan se lentää samojen periaatteiden mukaisesti kuin täysikokoinen lentokone. Siksi on tärkeää oppia hallitsemaan lennokki turvallisesti. Aloittelijan kannattaa valita kestävästä solumuovista (EPP tai EPO) valmistettu traineri, joka sietää hyvin pieniä kolhuja ja on helposti korjattavissa. Voit lukea lisää yleisimmistä [rakennusmateriaaleista täältä](/aloittelijan-opas/rakennusmateriaalit/).
 
 ## Mitä seuraavaksi harrastuksessa?
 

@@ -9,11 +9,11 @@ redirect_from:
 
 ### Johdanto
 
-RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisiä. Materiaali vaikuttaa lennokin painoon, kestävyyteen, hintaan ja rakennusprosessiin. Tässä käydään läpi yleisimmät lennokeissa käytetyt materiaalit – erilaiset vaahtomuovit, balsapuu, 3D-tulosteet, komposiitit ja vaneri – sekä niiden ominaisuudet, edut ja haasteet, erityisesti aloittelijan näkökulmasta.
+RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisiä. Materiaali vaikuttaa lennokin painoon, kestävyyteen, hintaan ja rakennusprosessiin. Tässä käydään läpi yleisimmät lennokeissa käytetyt materiaalit – erilaiset solumuovit, balsapuu, 3D-tulosteet, komposiitit ja vaneri – sekä niiden ominaisuudet, edut ja haasteet, erityisesti aloittelijan näkökulmasta.
 
 ### 1. Vaahtomuovit (EPO, EPP, EPS, XPS)
 
-**Kuvaus:** Erilaiset vaahtomuovit ovat kevyitä ja edullisia materiaaleja, joita käytetään laajasti erityisesti valmiissa  ([RTF](/aloittelijan-opas/lennokkisanastoa/#r), PNP) ja [aloittelijaystävällisissä lennokeissa](/aloittelijan-opas/ensimmainen-lennokki/) sekä DIY-projekteissa.
+**Kuvaus:** Erilaiset solumuovit ovat kevyitä ja edullisia materiaaleja, joita käytetään laajasti erityisesti valmiissa  ([RTF](/aloittelijan-opas/lennokkisanastoa/#r), PNP) ja [aloittelijaystävällisissä lennokeissa](/aloittelijan-opas/ensimmainen-lennokki/) sekä DIY-projekteissa.
 
 **Ominaisuudet ja yleisimmät tyypit:**
 
@@ -43,7 +43,7 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
 
 ### 2. Kapalevy (Foam Board)
 
-**Kuvaus:** Kapalevy on paperilla tai ohuella muovilla päällystettyä vaahtomuoviydintä (usein XPS-tyyppistä). Se on erittäin suosittu materiaali itse rakennettavissa (DIY) lennokeissa, erityisesti [Flite Test -yhteisössä](/aloittelijan-opas/lennokkien-rakentaminen/#aloittelijan-rakennusprojektit).
+**Kuvaus:** Kapalevy on paperilla tai ohuella muovilla päällystettyä solumuoviydintä (usein XPS-tyyppistä). Se on erittäin suosittu materiaali itse rakennettavissa (DIY) lennokeissa, erityisesti [Flite Test -yhteisössä](/aloittelijan-opas/lennokkien-rakentaminen/#aloittelijan-rakennusprojektit).
 
 **Ominaisuudet:**
 
@@ -93,7 +93,7 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
 
 **Haasteet:**
 
-* Kalliimpi kuin vaahtomuovit.
+* Kalliimpi kuin solumuovit.
 * Herkkä kolhuille ja painaumille.
 * Vaatii enemmän aikaa, taitoa ja kärsivällisyyttä rakentaa verrattuna vaahtomuovimalleihin.
 * Herkkä kosteudelle ilman suojaavaa pinnoitetta.
@@ -168,7 +168,7 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
 * Valmistetaan tyypillisesti laminoimalla kuitukangasta muottiin hartsin kanssa, usein tyhjiöpussitekniikkaa käyttäen parhaan lujuus-paino-suhteen saavuttamiseksi.
 * Mahdollistavat sileät, aerodynaamisesti tehokkaat ja kestävät pinnat ja rakenteet.
 
-**Käyttö:** Korkean suorituskyvyn lennokkien siivet ja rungot, kilpadroonien rungot, siipisalkoina ja putkina vahvistamassa muita rakenteita (esim. vaahtomuovisiipiä).
+**Käyttö:** Korkean suorituskyvyn lennokkien siivet ja rungot, kilpadroonien rungot, siipisalkoina ja putkina vahvistamassa muita rakenteita (esim. solumuovisiipiä).
 
 **Esimerkkejä:** Monet liidokit, laadukkaat hotlinerit.
 

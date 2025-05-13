@@ -65,7 +65,7 @@ lang: fi
 
 - **Eetteri** – Dietyyylieetteri, dieselin polttoainekomponentti, parantaa sytytysominaisuuksia pienoisdieseleissä.
 - **Eka** – Alkeisliidokki, jonka siipi on tehty yhdestä Perussiivestä. Tokan siipi tehdään kahdesta perussiivestä.
-- **Elapor** – Elastinen ja kestävä vaahtomuovi, kestää kolhuja paremmin kuin Styrox ja on helppo korjata pikaliimalla.
+- **Elapor** – Elastinen ja kestävä solumuovi, kestää kolhuja paremmin kuin Styrox ja on helppo korjata pikaliimalla.
 - **Epoksi** – Synteettinen hartsi tai kaksikomponenttiliima, käytetään lennokkien rakentamisessa ja korjaamisessa.
 - **Esa** – Ilmailuliiton alkeisliidokki, suunniteltu yksinkertaiseksi rakennussarjaksi aloittelijoille.
 - **Esko 1** – Esan kaltainen alkeisliidokki, suosittu Suomessa harrastuksen aloitukseen.
@@ -80,7 +80,7 @@ lang: fi
 - **Flaperon** – Ohjainpinta, joka yhdistää siivekkeiden ja laippojen toiminnot. Toimii käännöksissä siivekkeen tavoin ja laskeutumisessa hidastaa lennokkia kuten laskusiiveke.
 - **Fly-off** – Vapaastilentävien tai RC-liidokkien kilpailumuoto tasatuloksen sattuessa. Kilpailijat, joilla on täydet pisteet ("maksit"), lennättävät lisäkierroksia pidennetyllä lentoajalla, kunnes ero syntyy.
 - **FM (Taajuusmodulaatio)** – Radio-ohjauslaitteiden modulointitapa, sietää paremmin häiriöitä kuin AM.
-- **Foam** – Yleisnimitys vaahtomuoville, kuten Styrox tai Depron, käytetään kevyiden lennokkien rakentamiseen.
+- **Foam** – Yleisnimitys solumuoville, kuten Styrox tai Depron, käytetään kevyiden lennokkien rakentamiseen.
 - **FPV (First Person View)** – Lennokkiin tai droneen asennettu videokamera lähettää reaaliaikaista videokuvaa lennättäjälle, jolla on videolasit silmillään ja saa vaikutelman siitä, kuin lentäisi itse koneensa mukana. Suosio kasvanut nopeasti.
 - **Fuili** – Slangitermi polttomoottorin polttoaineelle, yleensä metanoli-öljyseokselle, voi sisältää nitrometaania.
 - **Fuilitaimeri** – Moottorin käyntiajan rajoitin vanhoissa vapaastilentävissä lennokeissa, katkaisee polttoaineen virtauksen.
@@ -271,7 +271,7 @@ lang: fi
 - **Startteri** – Polttomoottorin sähkökäynnistin, helpottaa moottorin käynnistämistä.
 - **Striimeri** – Kreppinauha taistelulennokin perässä, vastustaja yrittää katkaista sen.
 - **Stuntti** – Taitolennokki, joko siimaohjattu (luokka F2B) tai radio-ohjattu (F3A).
-- **Styroksi, styrox** – Polystyreeni, kevyt mutta hauras vaahtomuovi lennokkien rakentamiseen.
+- **Styroksi, styrox** – Polystyreeni, kevyt mutta hauras solumuovi lennokkien rakentamiseen.
 - **Styrsapaali** – Kevyt solumuovista tehty puistolennokki, kestää kolhuja.
 - **Syano** – Syanoakrylaattiliima, nopea pikaliima lennokkien kokoamiseen ja korjaamiseen.
 - **Syntetisaattori, syntikka** – Radio-ohjauslaite, joka vaihtaa taajuutta ilman kiteiden vaihtoa.

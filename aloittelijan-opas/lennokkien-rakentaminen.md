@@ -105,7 +105,7 @@ Tasainen, pehmeä alusta, johon voit kiinnittää osia nuppineuloilla. Esimerkik
 
 ### Vaahtomuovi
 
-(Katso tarkemmin [Rakennusmateriaalit-sivulta](/aloittelijan-opas/rakennusmateriaalit/#1-vaahtomuovit-epo-epp-eps-xps))
+(Katso tarkemmin [Rakennusmateriaalit-sivulta](/aloittelijan-opas/rakennusmateriaalit/#1-solumuovit-epo-epp-eps-xps))
 
 - **Edut**: Edullinen, kestävä, helppo korjata.
 - **Haitat**: Ei yhtä vahva kuin balsa, voi vaatia vahvistuksia.
@@ -223,7 +223,7 @@ Elektroniikan asennus on kriittinen vaihe:
 2. **Epätarkkuus**: Mittaa kahdesti, leikkaa kerran – pienetkin virheet voivat kertautua.
 3. **Ylipainoisuus**: Vältä liiallista liiman käyttöä ja turhia vahvistuksia. Tee tarkat sovitukset, ettei rakoja tarvitse rapata umpeen liimalla.
 4. **Vääristyneet rakenteet**: Tarkista säännöllisesti, että siivet ja runko pysyvät suorina.
-5. **Painopisteen laiminlyönti**: Suunnittele elektroniikan sijoittelu niin, että painopiste on oikeassa kohdassa. (Tarkista [ensimmäisen lennokin oppaasta](/aloittelijan-opas/ensimmainen-lennokki/#2-painopisteen-tarkistus) ohjeet painopisteen määrittämiseen).
+5. **Painopisteen laiminlyönti**: Suunnittele elektroniikan sijoittelu niin, että painopiste on oikeassa kohdassa. (Tarkista [ensimmäisen lennokin oppaasta](/aloittelijan-opas/ensimmainen-lennokki/#painopisteen-tarkistus) ohjeet painopisteen määrittämiseen).
 
 ## Mistä hankkia rakennussarjoja ja materiaaleja?
 
