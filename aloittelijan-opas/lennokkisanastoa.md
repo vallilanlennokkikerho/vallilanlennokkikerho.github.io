@@ -18,7 +18,7 @@ lang: fi
 ## A
 
 - **AAC** - Polttomoottoreissa käytetty ratkaisu, jossa mäntä ja sylinteri ovat alumiinia ja sylinterin sisäpinta kovakromattu (chromed).
-- **ABC** - Kuten AAC, mutta sylinteri messinkiä (brass) tai pronssia (bronze).
+- **ABC** - Kuten AAC, mutta sylinteri on yleensä messinkiä tai harvemmin pronssia. Messinkiä käytetään sen lämpölaajenemisominaisuuksien vuoksi.
 - **A-kakkonen** – Iso vapaastilentävä liidokki, FAI-luokka F1A, aikaisemmin A2.
 - **A-ykkönen** – Pieni vapaastilentävä liidokki, FAI-luokka F1H, aikaisemmin A1.
 - **Abachi (apachi, apassi)** – Kevyt puulaji, käytetään lennokkien viilupinnoitteissa lujuuden ja keveyden vuoksi.
@@ -42,7 +42,7 @@ lang: fi
 
 ## C
 
-- **C-rating** – Kuvaa akun kykyä purkaa tai vastaanottaa virtaa suhteessa sen nimelliskapasiteettiin. Esimerkiksi 2200 mAh (2,2 Ah) akku 70C-arvolla voi valmistajan mukaan purkaa jopa 154 A virtaa (2,2 × 70). Erityisen tärkeä LiPo-akkujen suorituskyvyn arvioinnissa. Huomio: Turvallisin latausvirta on yleensä 1C, ellei valmistaja toisin suosittele.
+- **C-rating** – Kuvaa akun kykyä purkaa tai vastaanottaa virtaa suhteessa sen nimelliskapasiteettiin. Esimerkiksi 2200 mAh (2,2 Ah) akku 70C-arvolla voi valmistajan mukaan purkaa jopa 154 A virtaa (2,2 × 70). Vaikka valmistaja ilmoittaa suuria arvoja, turvallinen ja realistinen purkuvirta on usein alempi. Turvallisin latausvirta on yleensä 1C, ellei valmistaja toisin suosittele.
 - **C-grain (quarter grain)** – Balsan sahaustapa, joka parantaa jäykkyyttä; levy sahataan puun vuosirenkaiden mukaan tietyllä kulmalla.
 - **CL (Control Line)** – Siimaohjaus, jossa lennokkia ohjataan ohjausvaijereilla.
 - **Clark Y** - Kauan käytössä ollut, tasapohjainen siipiprofiili. Sopii harjoituslennokkeihin, koska siiven rakentaminen on helppoa tasaisella alustalla. Ei sovellu taitolennokkeihin, joissa käytetään symmetristä, pisaramaista siipiprofiilia.
@@ -55,7 +55,7 @@ lang: fi
 - **Diccoplast** – Katalyyttilakka, jota käytetään polttoaineen kestävänä suojapinnoitteena lennokeissa.
 - **Diesel** – Puristussytytysmoottori, käyttää polttoaineena eetterin, petrolin ja risiiniöljyn seosta.
 - **Digitaalinen servo** – Servo, joka käyttää mikroprosessoria PWM-signaalin analysointiin; nopeampi ja tarkempi kuin analoginen servo.
-- **DII (Diesel Ignition Improver)** – Dieselpolttoaineen lisäaine, jolla parannetaan syttyvyyttä. Useimmiten isopropyylinitraatti tai 2-etyyliheksyylinitraatti (2-EHN), aikaisemmin myös amyylinitraatti ja -nitriitti.
+- **DII (Diesel Ignition Improver)** – Dieselpolttoaineen lisäaine, jolla parannetaan syttyvyyttä. Useimmiten isopropyylinitraatti (IPN), aikaisemmin myös amyylinitraatti tai -nitriitti. 2-EHN on teollisesti yleisempi, mutta harvinainen pienoismoottoreissa.
 - **Drone (drooni)** – Moniroottorinen radio-ohjattava helikopteri, usein varustettu kameralla.
 - **Dual-Rate** – Radio-ohjaimen säätö, jolla rajoitetaan ohjainpintojen liikeratoja (herkkyyttä) lennon aikana. Parantaa tarkkuutta, kun suuret liikkeet eivät ole tarpeen.
 - **Durali, duralumiini** - Luja alumiiniseos, jota käytetään lentokonerakenteissa ja joka sopii hyvin myös lennokkien metalliosiin.
@@ -69,12 +69,12 @@ lang: fi
 - **Epoksi** – Synteettinen hartsi tai kaksikomponenttiliima, käytetään lennokkien rakentamisessa ja korjaamisessa.
 - **Esa** – Ilmailuliiton alkeisliidokki, suunniteltu yksinkertaiseksi rakennussarjaksi aloittelijoille.
 - **Esko 1** – Esan kaltainen alkeisliidokki, suosittu Suomessa harrastuksen aloitukseen.
-- **Expo (Exponentiaali)** – Radio-ohjaimen säätö, joka pehmentää ohjainpintojen liikettä lähellä keskiasentoa, mahdollistaen tarkemman ohjauksen pienillä liikkeillä, mutta säilyttää täyden liikkeen laajuuden suuremmilla ohjainliikkeillä.
+- **Expo (Exponentiaali)** – Radio-ohjaimen säätö, joka pehmentää ohjainpintojen liikettä lähellä keskiasentoa ja pienentää vasteen herkkyyttä keskialueella, mikä helpottaa tarkkaa ohjausta. Säilyttää täyden liikkeen laajuuden suuremmilla ohjainliikkeillä.
 
 ## F
 
 - **FAI-luokat** – Kansainvälisen ilmailuliiton (FAI) määrittelemät lennokkien kilpailuluokat, kuten F1A, F1B, F2D, F3A jne.
-- **Fail Safe** – Turva-asetus radio-ohjausjärjestelmässä, ohjaa servot ennalta määriteltyyn asentoon häiriön sattuessa (esim. kaasu tyhjäkäynnille).
+- **Fail Safe** – Radio-ohjausjärjestelmän turvallisuusominaisuus, joka siirtää lennokin ohjauskomponentit ennalta määriteltyyn turvalliseen asentoon (esim. moottori pois päältä) yhteyden katketessa tai häiriön sattuessa.
 - **Filmari (mikrofilmari)** – Erittäin kevyt F1D-luokan sisälennokki, päällystetty mikrofilmikalvolla.
 - **Flapsit (fläpsit)** – Laskusiivekkeet (laipat), ohjainpinnat, jotka lisäävät nostovoimaa ja hidastavat lennokkia laskeutumisen ja nousun aikana.
 - **Flaperon** – Ohjainpinta, joka yhdistää siivekkeiden ja laippojen toiminnot. Toimii käännöksissä siivekkeen tavoin ja laskeutumisessa hidastaa lennokkia kuten laskusiiveke.
@@ -116,7 +116,7 @@ lang: fi
 - **Ilmailuradio** - Laite, jolla voi puhua ja kuunnella ilmailun radiotaajuuksia. Tarvitsee luvan, joten lennokkiharrastuksessa sitä käytetään harvoin, esimerkiksi isoissa tapahtumissa.
 - **Ilmailuskanneri** - Laite, joka kuuntelee lentokoneiden ja lennonjohdon radiopuhetta. Ei vaadi lupaa, ja lennokkiharrastajat voivat käyttää sitä tarkistaakseen, onko lähellä muuta lentoliikennettä.
 - **Ilmaruuvi** - RC-kaasuttimen säätöruuvi, jolla säädetään tyhjäkäyntiseos.
-- **IPD (Intelligent Pulse Decoding)** – Häiriönpoistotekniikka ikivanhoissa PPM-radioissa, suodattaa epärealistiset ohjauskäskyt.
+- **IPD (Intelligent Pulse Decoding)** – Graupnerin kehittämä häiriönpoistotekniikka PPM-radioissa 1990–2000-luvulla, paransi signaalin luotettavuutta. Ei yhteensopiva kaikkien vastaanottimien kanssa.
 - **IPN (Isopropyylinitraatti)** – Dieselpolttoaineen lisäaine, parantaa syttymistä ja tehoa.
 
 ## J
