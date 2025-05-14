@@ -19,7 +19,7 @@ Ensimmäisen radio-ohjattavan lennokin valinta on tärkeä askel lennokkiharrast
 6. [Ensimmäiset lennot](#ensimmäiset-lennot)
 7. [Yleisimmät virheet ja niiden välttäminen](#yleisimmät-virheet-ja-niiden-välttäminen)
 8. [Mistä hankkia lennokki?](#mistä-hankkia-lennokki)
-9. [Ensimmäisen lennokin kokoaminen ja tarkistukset](#ensimmaisen-lennokin-kokoaminen-ja-tarkistukset)
+9. [Ensimmäisen lennokin kokoaminen ja tarkistukset](#ensimmäisen-lennokin-kokoaminen-ja-tarkistukset)
 10. [Ensilennon valmistelu](#ensilennon-valmistelu)
 
 ## Mikä lennokki sopii aloittelijalle?

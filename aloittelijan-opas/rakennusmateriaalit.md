@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Opas Lennokkien Rakennusmateriaaleihin
-description: Opas RC-lennokkien yleisimpiin rakennusmateriaaleihin, kuten vaahtomuoveihin, balsapuuhun, 3D-tulosteisiin, komposiitteihin ja vaneriin.
+description: Opas RC-lennokkien yleisimpiin rakennusmateriaaleihin, kuten solumuoveihin, balsapuuhun, 3D-tulosteisiin, komposiitteihin ja vaneriin.
 permalink: /aloittelijan-opas/rakennusmateriaalit/
 redirect_from:
   - /rakennusmateriaalit/
@@ -11,7 +11,7 @@ redirect_from:
 
 RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisiä. Materiaali vaikuttaa lennokin painoon, kestävyyteen, hintaan ja rakennusprosessiin. Tässä käydään läpi yleisimmät lennokeissa käytetyt materiaalit – erilaiset solumuovit, balsapuu, 3D-tulosteet, komposiitit ja vaneri – sekä niiden ominaisuudet, edut ja haasteet, erityisesti aloittelijan näkökulmasta.
 
-### 1. Vaahtomuovit (EPO, EPP, EPS, XPS)
+### 1. Solumuovit (EPO, EPP, EPS, XPS)
 
 **Kuvaus:** Erilaiset solumuovit ovat kevyitä ja edullisia materiaaleja, joita käytetään laajasti erityisesti valmiissa  ([RTF](/aloittelijan-opas/lennokkisanastoa/#r), PNP) ja [aloittelijaystävällisissä lennokeissa](/aloittelijan-opas/ensimmainen-lennokki/) sekä DIY-projekteissa.
 
@@ -20,7 +20,7 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
 * **EPO (Expanded PolyOlefin):** Joustavampi ja kestävämpi kuin EPS. Yleisin materiaali monissa valmislennokeissa (esim. FMS, E-flite). Kestää pieniä iskuja murtumatta ja on helppo korjata vaahtomuoviliimoilla (esim. UHU Por, Foam-Tac) tai CA-pikaliimalla (vaahtoturvallinen versio!).
 * **EPP (Expanded PolyPropylene):** Erittäin sitkeä ja joustava, "muistaa" muotonsa hyvin ja kestää kovia törmäyksiä murtumatta (ns. "pomppumateriaali"). Suosittu FPV-siivissä ja harjoituslennokeissa. Liimaus usein kuumaliimalla tai kontaktiliimoilla.
 * **EPS (Expanded PolyStyrene):** Perinteinen "styroksi" (kuten kylmälaukuissa). Hyvin kevyt ja halpa, mutta hauras ja murenee helposti iskuista. Käytetään joskus edullisimmissa malleissa tai pakkausmateriaalina.
-* **XPS (Extruded PolyStyrene, esim. Depron, Finnfoam):** Tiiviimpi, jäykempi ja sileämpi kuin EPS. Helppo leikata tarkasti ja soveltuu hyvin itse rakennettaviin malleihin ("scratch building"). Kapalevy (Foam Board) käyttää usein XPS-tyyppistä ydintä.
+* **XPS (Extruded PolyStyrene, esim. Depron, Finnfoam):** Tiiviimpi, jäykempi ja sileämpi kuin EPS. Helppo leikata tarkasti ja soveltuu hyvin itse rakennettaviin malleihin ("scratch building"). Kapalevy (Foam Board) käyttää usein XPS-tyyppistä solumuoviydintä.
 
 **Käyttö:** Siivet, rungot, koko lennokin rakenne yksinkertaisissa malleissa.
 
@@ -151,7 +151,7 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
 **Haasteet:**
 
 * Vaatii 3D-tulostimen ja jonkin verran osaamista sen käytöstä ja mallien suunnittelusta/viipaloinnista.
-* Perinteiset filamentit (PLA, PETG, ABS) ovat suhteellisen painavia verrattuna vaahtomuoveihin tai balsaan, ellei rakennetta optimoida huolellisesti.
+* Perinteiset filamentit (PLA, PETG, ABS) ovat suhteellisen painavia verrattuna solumuoveihin tai balsaan, ellei rakennetta optimoida huolellisesti.
 * Tulostuslaatu ja osien kestävyys riippuvat paljon tulostusasetuksista ja materiaalista.
 
 **Kenelle sopii:** Teknologiasta kiinnostuneille harrastajille, kokeilijoille, suunnittelijoille ja niille, jotka haluavat valmistaa täysin räätälöityjä osia tai kokonaisia lennokkeja.

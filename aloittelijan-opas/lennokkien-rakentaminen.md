@@ -45,7 +45,7 @@ Yksinkertainen balsaliidokki on erinomainen ensimmäinen projekti. Se opettaa ae
 Valmiit rakennussarjat sisältävät kaikki tarvittavat osat ja yksityiskohtaiset ohjeet. Hyviä aloittelijasarjoja ovat:
 
 - **Balsa USA Trainer**: Perinteinen balsarakennussarja.
-- [**Flite Test -sarjat**](/aloittelijan-opas/rakennusmateriaalit/#2-kapalevy-foam-board): Edullisia vaahtolevystä (foam board) rakennettavia malleja.
+- [**Flite Test -sarjat**](/aloittelijan-opas/rakennusmateriaalit/#2-kapalevy-foam-board): Edullisia kapalevystä (foam board) rakennettavia malleja.
 - **SIG Kadet**: Klassinen aloittelijalennokki.
 
 ### 3. Valmiiksi leikatut rakennussarjat
@@ -69,7 +69,7 @@ Laserleikatut sarjat, joissa osat ovat valmiiksi muotoon leikattuja, helpottavat
 
 1. **Pikaliima** (syanoakrylaatti) nopeisiin liimauksiin
 2. **Epoksiliima** vahvempiin liitoksiin
-3. **Kontaktiliima** (esim. UHU-POR) vaahtomuoviosien liimaamiseen
+3. **Kontaktiliima** (esim. UHU-POR) solumuoviosien liimaamiseen
 4. **PU-liima** (polyuretaani, esim. Gorilla Glue) turpoava liima, joka sopii monille materiaaleille, vaatii puristusta kuivuessaan.
 5. **Perinteinen [lennokkiliima](/aloittelijan-opas/lennokkisanastoa/#l)** (esim. Uhu Hart) balsaosien liimaukseen
 
@@ -86,7 +86,7 @@ Tasainen, pehmeä alusta, johon voit kiinnittää osia nuppineuloilla. Esimerkik
 3. **Kokoaminen**: Kokoa runko ja siivet piirustuksen päällä nuppineulojen avulla.
 4. **Liimaaminen**: Käytä puuliimaa tai lennokkiliimaa balsaosien liimaamiseen ja anna kuivua kunnolla.
 
-### Vaahtomuovirakentaminen
+### Solumuovirakentaminen
 
 1. **Mallinteiden käyttö**: Piirrä osat paperi- tai pahvimallinteilla.
 2. **Leikkaaminen**: Leikkaa osat terävällä veitsellä tai kuumalankaleikkurilla.
@@ -103,12 +103,12 @@ Tasainen, pehmeä alusta, johon voit kiinnittää osia nuppineuloilla. Esimerkik
 - **Haitat**: Hauras, vaatii huolellista käsittelyä. Hiomapöly voi aiheuttaa allergisia reaktioita.
 - **Käyttökohteet**: Runko, siivet, peräsimet, kaaret.
 
-### Vaahtomuovi
+### Solumuovit
 
 (Katso tarkemmin [Rakennusmateriaalit-sivulta](/aloittelijan-opas/rakennusmateriaalit/#1-solumuovit-epo-epp-eps-xps))
 
-- **Edut**: Edullinen, kestävä, helppo korjata.
-- **Haitat**: Ei yhtä vahva kuin balsa, voi vaatia vahvistuksia.
+- **Edut**: Edullinen, kestävä, helppo korjata (erityisesti EPP ja EPO).
+- **Haitat**: Ei yhtä vahva kuin balsa, voi vaatia vahvistuksia. EPS (Styroksi) on hauras.
 - **Käyttökohteet**: Runko, siivet, nopeat prototyypit.
 
 ### Liimattu vaneri (plywood)
@@ -124,7 +124,7 @@ Tasainen, pehmeä alusta, johon voit kiinnittää osia nuppineuloilla. Esimerkik
 (Katso tarkemmin [Rakennusmateriaalit-sivulta](/aloittelijan-opas/rakennusmateriaalit/#6-komposiitit-lasikuitu-hiilikuitu-kevlar))
 
 - **Edut**: Erittäin vahva ja kevyt.
-- **Haitat**: Kallis, vaatii erityisiä työstötekniikoita.
+- **Haitat**: Kallis, vaatii erityisiä työstötekniiikoita.
 - **Käyttökohteet**: Vahvistukset, putkirungot, siiven salot.
 
 ## Vaiheittainen rakennusprosessi
@@ -176,7 +176,7 @@ Vaihtoehtoja pinnoitukseen:
 - **Kalvopinnoite** (esim. Oracover, Monokote): Lämmöllä kiinnitettävä, kestävä pinnoite, joka kestää myös polttoainetta.
 - **Maali**: Kevyt ruiskumaali tai siveltävä maali.
 - **Paperi**: Perinteinen japaninpaperi, joka kiinnitetään liimalla tai lakalla. Myös voimapaperi soveltuu varsinkin harjoituslennokkien päällystykseen, koska se on lujaa.
-- **Teippi**: Vaahtomuovilennokeissa värillinen teippi on helppo ratkaisu.
+- **Teippi**: Solumuovilennokeissa värillinen teippi on helppo ratkaisu.
 
 ### 3. Yksityiskohdat
 
@@ -237,9 +237,9 @@ Suomessa lennokkien rakennusmateriaaleja ja -sarjoja myyvät:
 
 Lennokkien rakentaminen on palkitseva harrastus, joka kehittää kädentaitoja ja syventää ymmärrystä lennokkien toiminnasta. Aloita yksinkertaisista projekteista ja etene vähitellen haastavampiin. Muista, että virheet ovat osa oppimisprosessia – niistä oppiminen vie sinut eteenpäin.
 
-Rakentaminen on myös sosiaalista. Liity [Vallilan Lennokkikerhoon](/jäseneksi/) ja tapaa muita rakentajia, jotka jakavat vinkkejä ja auttavat ongelmatilanteissa. 
+Rakentaminen on myös sosiaalista. Liity [Vallilan Lennokkikerhoon](/jäseneksi/) ja tapaa muita rakentajia, jotka jakavat vinkkejä ja auttavat ongelmatilanteissa.
 
-**Haluatko lisätietoja rakentamisesta tai apua projektin aloittamisessa?** Tule käymään [lennokkikentällämme](/lennokkikenttä/) tai ota  [yhteyttä](/yhteystiedot/). Jaamme mielellämme tietoa ja kokemuksia lennokkien rakentamisesta!
+**Haluatko lisätietoja rakentamisesta tai apua projektin aloittamisessa?** Tule käymään [lennokkikentällämme](/lennokkikenttä/) tai ota [yhteyttä](/yhteystiedot/). Jaamme mielellämme tietoa ja kokemuksia lennokkien rakentamisesta!
 
 <div class="button-container">
 <a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>
