@@ -1,0 +1,23 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head-en.html %}
+
+  <body>
+
+    {% include header-en.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer-en.html %}
+
+    <script src="{{ "/js/fontsize.js" | relative_url }}"></script>
+  </body>
+
+</html>

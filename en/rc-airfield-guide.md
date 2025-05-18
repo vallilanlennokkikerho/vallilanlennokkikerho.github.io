@@ -1,7 +1,7 @@
 ---
-layout: page
-title: RC Flying Field Helsinki
-permalink: /rc-airfield/
+layout: page-en
+title: RC Flying Field Helsinki - English Guide
+permalink: /en/rc-airfield-guide/
 description: Join Vallilan Lennokkikerho in Helsinki for exciting RC flying experiences! Perfect for all skill levels.
 lang: en
 keywords: RC flying, model aircraft, Helsinki, drone flying, aviation, model aviation, hobby club
