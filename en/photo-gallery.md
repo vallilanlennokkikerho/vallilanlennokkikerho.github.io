@@ -9,8 +9,6 @@ keywords: model airplane pictures, radio-controlled model airplanes, model airpl
 
 Welcome to explore the fascinating world of the model airplane hobby! Below, you can see pictures of various fixed-wing model airplanes and our hobby activities.
 
-
-
 {% include image-gallery.html folder="/images/lennokkikuvia" %}
 
 Interested in starting the hobby? Check out our   [Beginner’s Guide](/en/)
@@ -34,8 +32,3 @@ Woodworking
 Modern materials
 
 The hobby evolves continuously with technology, and new skills are always to be learned. Experienced hobbyists can offer help and support in building and flying model airplanes, so collaboration with others is worthwhile.
-
-
-
-
-

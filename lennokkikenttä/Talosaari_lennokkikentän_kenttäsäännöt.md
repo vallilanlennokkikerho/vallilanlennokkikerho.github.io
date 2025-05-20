@@ -76,7 +76,7 @@ Sääntöjen rikkomisesta tai noudattamatta jättämisestä voidaan langettaa es
 
 ### 7. Kentällä sallitut lennokit
 
-Talosaarentien lennokkikentällä saa lennättää kaikentyyppisiä lennokkeja melurajoitukset ja lennätysajat huomioiden aina 25 kg:n lentopainoon saakka. Lennättäjä vastaa lennokin olevan turvallisesti rakennettu ja että turvalliseen lennättämiseen tähtäävä päivätarkastus ja lentojen väliset tarkastukset on tehty. Kaiken lennättämisen on tapahuttava näköyhteydellä. FPV-lennätys yli 30 m:n korkeuksilla vaatii kauko-ohjaajaa tukevaa tähystäjää. Näköyhteyden ulkopuolella tapahtuva lennätys (BVLOS) on kielletty. Yli 250 g:n painoisiin sekä kevyempiin kamerallisiin lennokkeihin on merkittävä droneoperaattorin rekisteritunnus, oma nimi sekä puhelinnumero.
+Talosaarentien lennokkikentällä saa lennättää kaikentyyppisiä lennokkeja melurajoitukset ja lennätysajat huomioiden aina 25 kg:n lentopainoon saakka. Lennättäjä vastaa lennokin olevan turvallisesti rakennettu ja että turvalliseen lennättämiseen tähtäävä päivätarkastus ja lentojen väliset tarkastukset on tehty. Kaiken lennättämisen on tapahuttava näköyhteydellä. [FPV-lennätys](/aloittelijan-opas/mitä-on-fpv/) yli 30 m:n korkeuksilla vaatii kauko-ohjaajaa tukevaa tähystäjää. Näköyhteyden ulkopuolella tapahtuva lennätys (BVLOS) on kielletty. Yli 250 g:n painoisiin sekä kevyempiin kamerallisiin lennokkeihin on merkittävä droneoperaattorin rekisteritunnus, oma nimi sekä puhelinnumero.
 
 **Yli 25 kg:n lennokit on KIELLETTY**  
 **Suihkuturbiinilennokit on KIELLETTY**  

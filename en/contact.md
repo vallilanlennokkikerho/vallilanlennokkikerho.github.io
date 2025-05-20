@@ -24,6 +24,7 @@ The field is easily accessible by car and public transport:
 ### Field Facilities
 
 At the field, you'll find:
+
 - Pit tables and chairs
 - Charcoal grill
 - Bulletin board with current field rules
@@ -33,8 +34,6 @@ The field is maintained by volunteers from the club. We typically organize one a
 ## Contact the Board
 
 At the heart of the association are its members, with the board serving as their voice and representative. The board’s role is to implement the association’s activity plan and address members’ needs and ideas.
-
-
 
 Our board is a dedicated and enthusiastic team working together for the benefit of all members. Each board member brings unique skills and perspectives, forming a strong unit committed to the club's values and goals.
 
@@ -67,5 +66,3 @@ Fokker Dr.1 on a March morning at the start of spring
 <img src="/images/lennokkikuvia/lennokkikenttä-2.jpg" alt="drone view of the field in summer" />
 </div>
 August 15th, the sun gilds the field
-
-

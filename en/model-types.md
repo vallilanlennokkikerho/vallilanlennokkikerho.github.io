@@ -90,13 +90,14 @@ Most RC aircraft can use electric or fuel engines. Electric engines are quiet, c
 ## Choosing Your Aircraft
 
 To pick the right model:
+
 - **Beginners**: Choose a trainer or electric glider with an RTF package, foam construction (EPO/EPP), and 1–1.5m wingspan for stability and visibility.
 - **Intermediate/Advanced**: Match your goals—gliders for relaxation, 3D models for thrills, or scale models for realism. Consider field size: small spaces suit drones or trainers; large fields fit gliders or scale models. Decide between building or ready-made based on time and skills.
 - **General Tips**: Consult experienced pilots at [Talosaari field](/en/rc-airfield/), practice on simulators (*RealFlight*, *Aerofly RC*), check spare part availability, and review local regulations at [droneinfo.fi](https://droneinfo.fi/en).
 
 ---
 
-## Take Flight!
+## Take Flight
 
 From stable trainers to versatile drones, RC flying offers something for every skill level. Beginners should start with a trainer or electric glider, while advanced pilots can explore aerobatics or scale models. Join Vallilan Lennokkikerho to see aircraft in action and get expert advice. Start simple, practice often, and soar into the skies!
 

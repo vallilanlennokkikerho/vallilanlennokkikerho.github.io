@@ -146,15 +146,16 @@ Starting your RC model aircraft hobby requires finding a safe and legal place to
 ### What Makes a Good Flying Field?
 
 Look for:
+
 - **Open Space**: At least 200x200m clear of obstacles.
 - **Surface**: Grass or asphalt for smooth takeoffs and landings.
 - **Accessibility**: Easy to reach with safe parking.
 
 ### Club Fields vs. Public Areas
 
-
 - **Club Fields**: Offer facilities, support, and community. Check out [Vallilan Lennokkikerho’s field](/en/rc-airfield/).
 - **Public Spaces**: Require permission and have stricter rules. Always check local regulations at [droneinfo.fi](https://droneinfo.fi/en).
+
 ### Our Club’s Field
 
 - **Location**: Talosaarentie 108, Helsinki.
@@ -164,6 +165,7 @@ Look for:
 ### Finding Other Flying Fields in Finland
 
 Tips for Finding Fields:
+
 - Join a local RC club for access and guidance, such as through the [Finnish Aeronautical Association](https://ilmailuliitto.fi) (note: primarily in Finnish).
 - Check RC forums like Lennokit.net or Finnish RC Facebook groups for recommendations.
 - Use [Traficom's Droneinfo website](https://droneinfo.fi) to identify permitted areas and no-fly zones.
@@ -191,6 +193,7 @@ Safety is paramount in RC flying, protecting both pilots and others:
 ### Pre-Flight Checklist
 
 Ensure your aircraft is flight-ready:
+
 1. Inspect Structure: Check for cracks, loose screws, and secure landing gear.
 2. Control Surfaces: Verify correct movement (e.g., stick right = right aileron up).
 3. Battery: Confirm full charge, secure mounting, and no damage.
@@ -328,12 +331,12 @@ Tip: Set realistic goals and track progress with structured practice sessions.
 
 ## Additional Resources
 
-
 - [Guide to RC Model Aircraft Types](/en/model-types/): Explore different RC aircraft categories.
 - [Building Materials](/en/building-materials/): Learn about construction materials.
 - [FPV Flying](/en/what-is-fpv/): Discover First Person View flying.
 
 ---
-## Take to the Skies!
+
+## Take to the Skies
 
 RC flying in Finland is an exciting journey of skill, creativity, and community. Start with a simulator, choose a beginner-friendly model, and join Vallilan Lennokkikerho for support. Follow safety guidelines and regulations to enjoy the skies responsibly. **Happy flying and safe landings!**

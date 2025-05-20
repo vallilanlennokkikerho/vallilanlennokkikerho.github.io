@@ -32,6 +32,7 @@ New members can begin flying at the field after receiving approval for their app
 - **Family members**: €5  
 
 **For those joining after September 1st:**
+
 - New full members pay only half the annual fee (€17.50) for the remainder of the season.
 - Junior members and family members of new applicants pay no fee for the joining year.
 

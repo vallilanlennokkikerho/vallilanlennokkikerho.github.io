@@ -45,7 +45,8 @@ A small camera on your drone streams live video to your goggles or screen. Low l
 - **Low-Light Performance**: Cameras with f/2.0 or better shine in dim conditions.
 - **Video Link**: Choose digital systems (e.g., *DJI O3 Air Unit* or *HDZero Nano*) for clarity or analog (*Caddx Walrus*) for affordability.
 
-**Popular Picks**: 
+**Popular Picks**:
+
 - Micro drones: *Caddx Walrus* (analog) or *HDZero Nano* (digital).
 - Larger builds: *DJI O3 Pro* or *Walksnail Avatar* systems.
 
@@ -88,7 +89,7 @@ Stay safe and legal with these tips:
 
 ---
 
-## Take Flight Today!
+## Take Flight Today
 
 FPV flying is your ticket to thrilling flights, creative stunts, and breathtaking videos. With affordable gear, simulators, and supportive communities, there's no better time to start. Download a simulator and take your first step into the cockpit!
 
