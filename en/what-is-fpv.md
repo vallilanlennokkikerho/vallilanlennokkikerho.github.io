@@ -7,6 +7,8 @@ description: Discover the thrilling world of FPV flying! Learn what First Person
 keywords: FPV, First Person View, FPV drone, drone racing, freestyle drone, cinematic FPV, micro drone, Tiny Whoop, FPV goggles, FPV simulator, starting FPV, FPV Finland
 ---
 
+> **Explore FPV Topics:** [FPV Aircraft & Use Cases](/en/what-is-fpv/aircraft/) | [FPV Gear Guide](/en/what-is-fpv/gear/) | [FPV Regulations & Safety](/en/what-is-fpv/regulations-safety/) | [FPV Community & Events](/en/what-is-fpv/community/)
+
 Imagine zooming through treetops, flipping through the air, or filming epic landscapes—all from the pilot’s seat! **First Person View (FPV)** flying lets you control a drone or aircraft using a real-time video feed streamed directly to your FPV goggles. It’s like being inside the cockpit, making every flight an adrenaline-pumping adventure. Whether you're a beginner or a thrill-seeker, FPV is a fun, creative hobby you can start today and grow with at your own pace!
 
 ---
@@ -34,7 +36,7 @@ FPV is affordable and beginner-friendly. Here’s the essential gear to kick off
 - **Batteries**: High-performance LiPo batteries from *CNHL* or *Tattu R-Line* ensure long flights and durability.
 - **Simulator**: Practice with *VelociDrone* (racing) or *Uncrashed* (freestyle) to build skills risk-free.
 
-**Pro Tip**: Stick to EU-approved equipment to stay legal. Local shops and FPV communities can guide you. A beginner setup typically costs €150–€300.
+**Pro Tip**: Stick to EU-approved equipment to stay legal. Local shops and FPV communities can guide you. A basic micro-drone setup (including drone, simple goggles, controller, and batteries) can start from around €250–€400, while more advanced setups for larger drones will be higher.
 
 ### Choosing an FPV Camera
 
@@ -70,7 +72,7 @@ FPV offers something for everyone! Pick your style:
 Jump into FPV with these simple steps:
 
 1. **Start with a Simulator**: Try [Liftoff or DRL Simulator](/en/resources/#simulators) to practice flying. All you need is a controller and a computer.
-2. **Get a Micro Drone**: Start with a safe, affordable *BetaFPV Air65* for indoor practice.
+2. **Get a Micro Drone**: Start with a safe, affordable *BetaFPV Cetus* (formerly Air65 mentioned, Cetus is a common beginner kit) for indoor practice.
 3. **Join a Community**: Connect with [FPV Finland](https://fpvfinland.fi/) or local clubs for tips and support.
 4. **Progress Gradually**: Move from indoor micro drones to outdoor flights, then try stunts or racing.
 5. **Stock Up on Spares**: Drones take a beating—keep extra propellers and batteries handy.
@@ -84,8 +86,8 @@ Jump into FPV with these simple steps:
 Stay safe and legal with these tips:
 
 - Keep your drone in sight or use a spotter with goggles.
-- Check local rules at [droneinfo.fi](https://droneinfo.fi/en).
-- Lean on FPV communities for guidance on regulations. [Learn more about flying rules](/en/rc-airfield/#flight-permits-and-regulations-finland).
+- Check local rules at [droneinfo.fi](https://www.droneinfo.fi/en).
+- Lean on FPV communities for guidance on regulations. [Learn more about flying rules](/en/what-is-fpv/regulations-safety/).
 
 ---
 
