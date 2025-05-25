@@ -1,0 +1,23 @@
+---
+---
+<!DOCTYPE html>
+<html lang="sv">
+
+  {% include head-sv.html %}
+
+  <body>
+
+    {% include header-sv.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer-sv.html %}
+
+    <script src="{{ "/js/fontsize.js" | relative_url }}"></script>
+  </body>
+
+</html>

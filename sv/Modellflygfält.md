@@ -1,6 +1,8 @@
 ---
-layout: page
-permalink: /Modellflygfält/
+layout: page-sv
+permalink: /sv/Modellflygfält/
+redirect_from:
+  - /Modellflygfält/
 title: RC-flygfältet i Helsingfors | Vallilan Lennokkikerho
 description: Välkommen till Vallilan Lennokkikerho, Helsingfors mest aktiva klubb för RC-modellflyg. Flygfältet i Talosaari erbjuder perfekta förhållanden för alla modellflygaktiviteter.
 lang: sv

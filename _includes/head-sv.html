@@ -1,0 +1,99 @@
+<head>
+    <!-- Apply night mode immediately if previously selected -->
+    <script>
+        (function() {
+            if (localStorage.getItem('nightMode') === 'true') {
+                document.documentElement.classList.add('night-mode');
+                document.documentElement.style.colorScheme = 'dark';
+            }
+            document.documentElement.classList.remove('night-mode-preload');
+        })();
+    </script>
+    <script type="text/javascript">
+        // Initial Font Size Application (No Compression)
+        (function() {
+            const htmlEl = document.documentElement;
+            const storageKey = 'fontSizePercent';
+            const minSize = 70;
+            const maxSize = 150;
+            const defaultFontSize = 100;
+
+            try {
+                const savedSizeStr = localStorage.getItem(storageKey);
+                let sizeToApply = defaultFontSize;
+                if (savedSizeStr !== null && savedSizeStr !== undefined) {
+                    const savedSizeNum = parseFloat(savedSizeStr);
+                    if (!isNaN(savedSizeNum)) {
+                        sizeToApply = Math.max(minSize, Math.min(maxSize, savedSizeNum));
+                    }
+                }
+                htmlEl.style.fontSize = sizeToApply + '%';
+            } catch (e) {
+                // Errors here would be critical, but console logging might be too verbose for prod.
+                // Consider a more robust error reporting for production if needed.
+            }
+        })();
+    </script>
+
+{% if jekyll.environment == 'production' %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.tracking.google_analytics }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.tracking.google_analytics }}');
+    </script>
+    <script>
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "{{ site.tracking.clarity }}");
+    </script>
+{% endif %}
+    <script src="{{ "/js/nightmode.js" | relative_url }}"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5.0, user-scalable=yes" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="description" content="{{ page.description | escape | replace: '"', '"' }}">
+    <meta name="keywords" content="{{ page.keywords | escape | replace: '"', '"' }}">
+
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon_package/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon_package/favicon-16x16.png">
+    <link rel="manifest" href="/images/favicon_package/site.webmanifest">
+    <link rel="mask-icon" href="/images/favicon_package/safari-pinned-tab.svg" color="#5bbad5">
+
+{% if page.image %}
+  {% assign meta_image = page.image %}
+{% else %}
+  {% assign meta_image = site.data.meta_images[page.permalink] %}
+{% endif %}
+{% assign meta_image = meta_image | default: '/images/logo.png' %}
+
+<!-- Ensure we have a proper absolute URL with domain for social media -->
+{% if meta_image contains '://' %}
+  {% assign full_image_url = meta_image %}
+{% else %}
+  {% assign full_image_url = site.url | append: meta_image | replace: ' ', '%20' %}
+{% endif %}
+
+<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+<meta property="og:description" content="{{ page.description | escape | replace: '"', '"' }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:site_name" content="{{ site.title | escape }}">
+<meta property="og:image" content="{{ full_image_url }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+<meta name="twitter:description" content="{{ page.description | escape | replace: '"', '"' }}">
+<meta name="twitter:image" content="{{ full_image_url }}">
+<meta name="twitter:image:alt" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+</head>
