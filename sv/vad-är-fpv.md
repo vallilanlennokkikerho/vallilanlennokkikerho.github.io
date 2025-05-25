@@ -31,6 +31,8 @@ FPV är prisvärt och nybörjarvänligt. Här är den viktigaste utrustningen f�
 
 - **Flygplan (Drönare eller Flygplan)**: Välj en drönare som *BetaFPV Meteor65 Pro* (mikrodrönare) eller *iFlight Nazgul Evoque* (5-tums freestyle) för nybörjare. För fastvingad FPV, prova *Volantex Ranger 1600*. [Lär dig mer om modelltyper](/sv/modelltyper/).
 - **FPV-glasögon**: Digitala system som *DJI Goggles 2* eller *HDZero VRX* erbjuder klara bilder. Budgetvänliga analoga alternativ som *Eachine EV800D* är bra för nybörjare.
+
+   För en översikt över olika flygplanstyper, se vår guide om [modelltyper](/sv/modelltyper/).
 - **Kontroller**: Pålitliga alternativ inkluderar *Radiomaster Boxer* (ELRS) eller den kompakta *TBS Tango 2*.
 - **Batterier**: Högpresterande LiPo-batterier från *CNHL* eller *Tattu R-Line* säkerställer långa flygtider och hållbarhet.
 - **Simulator**: Öva med *VelociDrone* (racing) eller *Uncrashed* (freestyle) för att bygga färdigheter utan risk.

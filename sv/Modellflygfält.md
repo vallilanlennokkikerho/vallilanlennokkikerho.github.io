@@ -14,7 +14,7 @@ keywords: RC-flygfält, RC-modellflyg, Vallilan Lennokkikerho, Talosaari, RC-fly
 Vi är Helsingfors mest aktiva och historiska klubb för RC-modellflyg, med medlemmar i alla åldrar och på alla kunskapsnivåer. Regelbundna träffar på vårt flygfält i Talosaari ger möjlighet att flyga olika modeller, inklusive flygplan, helikoptrar och multirotorer.
 
 <div class="image-container">
-<img src="/images/lennokkikuvia/lennokkikenttä-1.jpg" alt="Talosaari RC airfield" />
+<img src="/images/lennokkikuvia/lennokkikenttä-1.jpg" alt="Talosaari RC-flygfält" />
 </div>
 
 ### Vårt flygfält har följande faciliteter
@@ -44,7 +44,7 @@ Vallilan Lennokkikerho grundades för att främja modellflygning och skapar en s
 Säkerheten är av största vikt i Vallilan Lennokkikerho. Alla medlemmar måste genomföra förkontroller före flygning och följa de tilldelade flygområdena. Sätt alltid säkerheten för dig själv och andra i första hand när du njuter av modellflygningens spänning!
 
 <div class="image-container">
-<img src="/images/lennokkikuvia/Pug%20DLG%20Angelwing%20designs.jpg" alt="Angelwing PUG" />
+<img src="/images/lennokkikuvia/Pug%20DLG%20Angelwing%20designs.jpg" alt="Angelwing PUG segelflygplan" />
 </div>
 
 ## PLATS OCH VÄGBESKRIVNING
@@ -53,14 +53,14 @@ Talosaaris RC-flygfält ligger nära Nordsjö. Fältet är lättillgängligt med
 
 ## MEDLEMSINFORMATION
 
-Att bli medlem i vår klubb ger tillgång till våra anläggningar, evenemang, resurser och en levande gemenskap. Årliga medlemsavgifter täcker underhåll av fältet och aktiviteter.
+Att bli medlem i vår klubb ger tillgång till våra anläggningar, evenemang, resurser och en levande gemenskap. Årliga medlemsavgifter täcker underhåll av fältet och aktiviteter. För mer information om medlemskap och klubbaktiviteter, se vår [medlemsinformation](/sv/medlemskap/) eller [kontakta klubben](/sv/kontakt/).
 
 ## ANSLUTNINGSPROCESS
 
 Intresserad av att gå med i RC-flygklubben? Vänligen gå igenom våra regler och skicka en informell ansökan via e-post, inklusive ditt fullständiga namn, adress, e-postadress, telefonnummer, födelsedatum och SIL-nummer (om tillämpligt).
 
 <div class="image-container">
-<img src="/images/lennokkikuvia/waco.jpg" alt="waco red" />
+<img src="/images/lennokkikuvia/waco.jpg" alt="röd Waco" />
 </div>
 
 Efter att vi mottagit din ansökan kommer vi att granska den vid vårt nästa styrelsemöte och meddela dig vårt beslut via e-post. Medlemmar som har betalat sin avgift får tillgång till flygfältet och kan njuta av alla klubbens förmåner samt delta i beslutsfattandet.
@@ -74,5 +74,7 @@ Vindförhållandena i Talosaari kan variera; sydvästliga och västliga vindar k
 <a href="https://www.yr.no/en/details/graph/2-11978530/Finland/Uusimaa/Helsinki/Vuosaari" target="_blank">
     <img src="https://www.yr.no/en/content/2-11978530/meteogram.svg" style="width: 100%; height: auto;" alt="väder Vuosaari" />
 </a>
+
+[Svensk Nybörjarguide](/sv/)
 
 {% include lang.html %}

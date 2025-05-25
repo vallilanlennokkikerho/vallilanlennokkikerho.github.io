@@ -115,6 +115,8 @@ Följ dessa steg för att starta din RC-resa:
    - **Kit**: Bygg från grunden, kräver verktyg och erfarenhet. Spara för senare projekt. ([Lär dig mer om modellbygge](/sv/modellbygge/))
    **Rekommendation**: Börja med ett **RTF**- eller **PNF**-paket för att fokusera på flygning, inte byggande. RTF är idealiskt för absoluta nybörjare.
 
+   För mer detaljerad information om att bygga modeller, se vår guide om [modellbygge](/sv/modellbygge/).
+
 2. **Elektriska vs. Bränslemotorer**
    **Elektriska motorer** är det bästa valet för nybörjare:
    - **Enkla att använda**: Starta med ett tryck på gasen, ingen inställning behövs.
@@ -153,8 +155,10 @@ Leta efter:
 
 ### Klubb-fält vs. Offentliga områden
 
-- **Klubb-fält**: Erbjuder faciliteter, stöd och gemenskap. Kolla in [Vallilan Lennokkikerhos fält](/sv/Modellflygf%C3%A4lt/).
+- **Klubb-fält**: Erbjuder faciliteter, stöd och gemenskap. Kolla in [Vallilan Lennokkikerhos fält](/sv/Modellflygfält/).
 - **Offentliga platser**: Kräver tillstånd och har striktare regler. Kontrollera alltid lokala bestämmelser på [droneinfo.fi](https://droneinfo.fi/sv).
+
+   Läs mer om vårt [RC-flygfält](/sv/Modellflygfält/) för detaljerad information.
 
 ### Vårt klubb-fält
 
