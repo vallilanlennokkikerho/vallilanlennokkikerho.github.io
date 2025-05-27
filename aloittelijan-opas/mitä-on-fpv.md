@@ -12,7 +12,7 @@ Kuvittele, että kiidät puiden lomaan, teet huimia temppuja ilmassa tai tallenn
 ## Ilmakuvauskamerat ja FPV
 
 <a href="/images/lennokkikuvia/FPV%20lennokki.jpg">
-    <img src="/images/fpv-lennokki-pieni.png" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+    <img src="/images/FPV-lennokki-pieni.png" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
 </a>
 FPV-lennätyksessä käytetään yleensä pientä kameraa, joka on sijoitettu droneen tai lennokkiin. Kameran kuvaa välitetään reaaliajassa lennättäjälle videolaseihin tai näytölle. Matala [latenssi](/aloittelijan-opas/lennokkisanastoa/#l) on tärkeää.
 
@@ -92,7 +92,7 @@ FPV-lentäminen on turvallista, kun noudatat yksinkertaisia ohjeita:
 
 ---
 <a href="/images/FPV-drone.jpg">
-    <img src="/images/fpv-drone-pieni.jpg" alt="FPV-drone" style="float: right; width: 200px; margin-left: 15px;" />
+    <img src="/images/FPV-drone-pieni.jpg" alt="FPV-drone" style="float: right; width: 200px; margin-left: 15px;" />
 </a>
 ## 6. Hyppää dronen ohjaimiin  
 
