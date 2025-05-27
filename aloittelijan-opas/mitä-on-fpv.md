@@ -11,6 +11,9 @@ Kuvittele, että kiidät puiden lomaan, teet huimia temppuja ilmassa tai tallenn
 
 ## Ilmakuvauskamerat ja FPV
 
+<a href="/images/lennokkikuvia/FPV%20lennokki.jpg">
+    <img src="/images/fpv-lennokki-pieni.png" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+</a>
 FPV-lennätyksessä käytetään yleensä pientä kameraa, joka on sijoitettu droneen tai lennokkiin. Kameran kuvaa välitetään reaaliajassa lennättäjälle videolaseihin tai näytölle. Matala [latenssi](/aloittelijan-opas/lennokkisanastoa/#l) on tärkeää.
 
 **Kameran ominaisuudet:**
@@ -88,7 +91,9 @@ FPV-lentäminen on turvallista, kun noudatat yksinkertaisia ohjeita:
 - Yhteisöt ja kerhot, opastavat sääntöjen kanssa. Yleisiä lennätyssääntöjä käsitellään myös [lennokkikenttäoppaassa](/aloittelijan-opas/lennokkikentat-aloittelijalle/#lennätysluvat-ja-määräykset).
 
 ---
-
+<a href="/images/FPV-drone.jpg">
+    <img src="/images/fpv-drone-pieni.jpg" alt="FPV-drone" style="float: right; width: 200px; margin-left: 15px;" />
+</a>
 ## 6. Hyppää dronen ohjaimiin  
 
 FPV-lentäminen on jännittävä tapa kokea lento, tehdä temppuja ja luoda upeita videoita. Aloittaminen on helppoa simulaattoreilla, edullisilla droneilla ja yhteisön tuella. Lähde kokeilemaan – pian kiidät ilmassa ja nautit uudesta harrastuksesta!
