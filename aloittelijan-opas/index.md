@@ -39,6 +39,8 @@ Seuraa näitä helppoja askeleita päästäksesi alkuun lennokkiharrastuksessa:
 4. **Turvallisuus, materiaalit ja ensimmäinen lennokki**  
    Lennokki ei ole lelu, vaan se lentää samojen periaatteiden mukaisesti kuin täysikokoinen lentokone. Siksi on tärkeää oppia hallitsemaan lennokki turvallisesti. Aloittelijan kannattaa valita kestävästä solumuovista (EPP tai EPO) valmistettu traineri, joka sietää hyvin pieniä kolhuja ja on helposti korjattavissa. Voit lukea lisää yleisimmistä [rakennusmateriaaleista täältä](/aloittelijan-opas/rakennusmateriaalit/).
 
+Katso [RC-lennokki ensilennon tarkistuslista](/aloittelijan-opas/lennokin-ensilennon-tarkistuslista/) ennen ensimmäistä lentoasi.
+
 ## Mitä seuraavaksi harrastuksessa?
 
 Kun olet löytänyt itsellesi sopivan lennokkityypin ja saanut perusteet haltuun, lennokkiharrastus avaa oven moniin kiehtoviin suuntiin:
