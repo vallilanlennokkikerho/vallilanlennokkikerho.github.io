@@ -6,64 +6,68 @@ description: Käytännöllinen tarkistuslista RC-lentokoneen ensilennolle. Käy 
 keywords: rc-lennokki, ensilento, tarkistuslista, lennokkiharrastus, turvallisuus, aloittelijan opas
 lang: fi
 ---
-<style>ul {list-style-type: none;}strong {font-weight: 700;}</style>
 
-Tarkistuslista auttaa sinua valmistautumaan ensilentoon turvallisesti ja huolellisesti. Käy vaiheet läpi rauhassa, niin pääset nauttimaan lennättämisen riemusta. Vallilan lennokkikerho on tukenasi – iloista ja turvallista lennätystä!
+<style>
+ul {list-style-type: none;}
+</style>
+
+Tämä tarkistuslista ohjaa sinut turvallisesti ensilentoon. Käy vaiheet läpi huolella, niin pääset nauttimaan lennättämisen ilosta. Vallilan lennokkikerho tukee sinua – turvallista ja hauskaa lentoa!
 
 ## ENNEN KENTÄLLE LÄHTÖÄ
 
 ### Lennätyspaikan valmistelu
 
-- [ ] Tarkista lennätysrajoitukset Droneinfo-sovelluksella.
-- [ ] Varmista, että lennätyspaikka sopii ensilentoon (avoin alue, ei esteitä).
+- [ ] Tarkista lennätysrajoitukset, kuten kieltoalueet ja korkeusrajoitukset, [Flyk-palvelusta](https://flyk.com/fi).
+- [ ] Varmista lennätyspaikan sopivuus ensilentoon (avoin alue ilman esteitä).
 - [ ] Tarkista sääennuste – tuulen nopeus mielellään alle 4 m/s ensilennolle.
 - [ ] Huolehdi, että sinulla on tarvittavat luvat lennätyspaikalle tai lennättämiseen.
 
 ### Laitteiston valmistelu
 
 - [ ] Lataa kaikki akut täyteen (lähetin, vastaanotin, lentoakku).
-- [ ] Tarkista lähettimen asetukset ja ohjelmointi (esim. ohjainpintojen liikkeet).
+- [ ] Tarkista lähettimen asetukset ja ohjelmointi (esim. ohjainpintojen liikkeet) sekä radiolähettimen ja vastaanottimen paritus (binding), erityisesti uuden laitekokonaisuuden tai PNF/ARF-koneen osalta.
+- [ ] Määritä turvakytkin lähettimeen (esim. asetus, joka estää moottorin käynnistymisen vahingossa).
 - [ ] Pakkaa mukaan tarvittavat työkalut (esim. ruuvimeisseli, jakoavain).
-- [ ] Ota mukaan varapotkuri ja vara-akkuja.
+- [ ] Ota mukaan varapotkuri ja vara-akkuja (esim. 2–3 kpl).
 
 ## KENTÄLLÄ ENNEN KOKOAMISTA
 
 ### Ympäristön tarkistus
 
 - [ ] Arvioi tuulen suunta ja voimakkuus paikan päällä.
-- [ ] Tutki lentokenttä ja varmista, ettei alueella ole esteitä.
-- [ ] Varmista, että muut harrastajat tai ihmiset eivät ole vaarassa.
+- [ ] Tutki lennokkikenttä ja varmista, ettei alueella ole esteitä.
+- [ ] Varmista muiden harrastajien tai ihmisten turvallisuus.
 - [ ] Suunnittele lentoreitti ja varaa hätälaskeutumispaikka.
 
 ### Turvallisuusvalmistelut
 
-- [ ] Varmista, että ensiapuvälineet ovat saatavilla.
-- [ ] Säilytä LiPo-akut paloturvallisessa pussissa.
-- [ ] Pyydä avustaja mukaan, jos mahdollista.
-- [ ] Tarkista, että puhelimessasi on riittävästi akkua ja verkkoyhteys hätätilanteita varten.
+- [ ] Varmista ensiapuvälineiden saatavuus.
+- [ ] Säilytä [LiPo-akut](/aloittelijan-opas/lennokkisanastoa/#l) paloturvallisessa pussissa.
+- [ ] Pyydä tarvittaessa kokenut kerholainen avustajaksi ensilennolle, jos mahdollista.
+- [ ] Tarkista puhelimen akku ja verkkoyhteys hätätilanteita varten (esim. varavirtalähde mukana).
 
 ## LENNOKIN KOKOAMINEN JA TARKISTUS
 
 ### Rakenteellinen tarkistus
 
-- [ ] Tarkasta runko vaurioiden varalta (halkeamat, lommot, repeämät).
+- [ ] Tarkista rungon kunto (ei halkeamia, lommoja tai repeämiä).
 - [ ] Varmista siipien tukevuus ja suoruus.
 - [ ] Tarkista pyrstön kiinnitys ja linjaus.
-- [ ] Varmista, että kaikki ruuvit ja mutterit ovat tiukasti kiinni.
+- [ ] Varmista, että ruuvit ja mutterit ovat tiukasti kiinni.
 - [ ] Tarkista laskutelineen kunto ja kiinnitys.
 
 ### Ohjainpinnat ja mekaaniset osat
 
 - [ ] Tarkista ohjainpintojen (esim. korkeusperäsin, siivekkeet) saranat ja kiinnitykset.
 - [ ] Varmista työntötankojen ja nivelten kunto.
-- [ ] Testaa servojen kiinnitys ja toiminta ilman virtaa.
-- [ ] Varmista, että ohjainpinnat liikkuvat vapaasti ilman vastusta.
-- [ ] Tarkista potkurin kunto ja kiinnitys.
+- [ ] Testaa [servojen](/aloittelijan-opas/lennokkisanastoa/#s) kiinnitys käsin ja toiminta virran kytkemisen jälkeen.
+- [ ] Varmista ohjainpintojen vapaa liike ilman vastusta.
+- [ ] Tarkista [potkurin](/aloittelijan-opas/lennokkisanastoa/#p) kunto ja kiinnitys.
 
 ### Elektroniikka ennen virran kytkemistä
 
 - [ ] Varmista vastaanottimen ja sen johdotusten kiinnitys.
-- [ ] Tarkista nopeussäätimen (ESC) asennus ja johdotukset.
+- [ ] Tarkista [nopeussäätimen (ESC)](/aloittelijan-opas/lennokkisanastoa/#n) (moottorin tehonsäädin) asennus ja johdotukset.
 - [ ] Varmista akkujen turvallinen kiinnitys ja johdotukset.
 - [ ] Huolehdi, että johdot eivät osu liikkuviin osiin.
 - [ ] Tarkista antennin sijainti ja suuntaus.
@@ -74,8 +78,18 @@ Tarkistuslista auttaa sinua valmistautumaan ensilentoon turvallisesti ja huolell
 
 - [ ] Kytke lähetin päälle ensin.
 - [ ] Kytke vastaanotin ja lentoakku päälle.
-- [ ] Varmista, että vastaanotin yhdistyy lähettimeen (tarkista LED-valo).
+- [ ] Varmista vastaanottimen yhteys lähettimeen (tarkista LED-valo).
 - [ ] Mittaa akkujen jännite ja varaustila (esim. jännitemittarilla).
+
+### Kantama-testi
+
+- [ ] Suorita kantama-testi (range test): kävele 20–30 metrin päähän lennokista ja varmista, että lähetin ohjaa ohjainpintoja luotettavasti.
+- [ ] Käytä lähettimen range test -toimintoa, jos saatavilla, vähentääksesi lähetystehoa testin ajaksi.
+
+### Fail-Safe-toiminnon tarkistus
+
+- [ ] Tarkista [Fail-Safe-asetukset](/aloittelijan-opas/lennokkisanastoa/#f) (toiminto, joka ohjaa lennokkia turvallisesti, jos yhteys katkeaa, esim. moottori sammuu, ohjainpinnat neutraaliin).
+- [ ] Testaa Fail-Safe: sammuta lähetin ja varmista, että lennokki reagoi oikein (esim. moottori sammuu).
 
 ### Ohjainpintojen testaus
 
@@ -86,13 +100,14 @@ Tarkistuslista auttaa sinua valmistautumaan ensilentoon turvallisesti ja huolell
 - [ ] Testaa laskusiivekkeiden toiminta, jos käytössä.
 - [ ] Tarkista [trimmien](/aloittelijan-opas/lennokkisanastoa/#t) toiminta (säädä ohjainpinnat neutraaliin asentoon vakauden varmistamiseksi).
 
-### Moottorin testaus
+### Moottorin ja turvakytkimen testaus
 
-- [ ] Varmista, että potkurin edessä ei ole esteitä tai ihmisiä.
+- [ ] Varmista, että [potkurin](/aloittelijan-opas/lennokkisanastoa/#p) edessä ei ole esteitä tai ihmisiä.
+- [ ] Testaa turvakytkimen toiminta: Varmista, että [moottori](/aloittelijan-opas/lennokkisanastoa/#h) ei käynnisty, kun turvakytkin on asetettu estämään moottorin toiminta.
 - [ ] Testaa kaasuvaste varovasti pienellä kaasulla.
-- [ ] Tarkista moottorin kiinnitys lyhyellä täyskaasutestillä.
+- [ ] Tee lyhyt kaasuntestaus pienellä teholla. Vältä täyskaasua, ellei testipenkkiä tai turvallista kiinnitystä ole käytössä.
 - [ ] Kuuntele, käykö moottori tasaisesti ilman epänormaaleja ääniä.
-- [ ] Varmista, että moottori sammuu kokonaan kaasun ollessa minimissä (estää tahattoman käynnistymisen).
+- [ ] Varmista moottorin sammuvan kokonaan kaasun ollessa minimissä (estää tahattoman käynnistymisen).
 
 ### Painopisteen tarkistus
 
@@ -110,14 +125,14 @@ Tarkistuslista auttaa sinua valmistautumaan ensilentoon turvallisesti ja huolell
   - **A**: Angles – kulmat ja linjaukset kunnossa.
   - **P**: Power – virtalähteet ja liitännät kunnossa.
 - [ ] Tarkista tuulen suunta ja voimakkuus uudelleen.
-- [ ] Varmista, että lennätysalue on vapaa.
+- [ ] Varmista lennätysalueen olevan vapaa. Ilmoita muille lennättäjille aikeistasi ja varmista heidän olevan tietoisia toiminnastasi.
 - [ ] Suunnittele lentoonlähtö, lentoreitti ja laskeutuminen tuulen mukaan.
 - [ ] Testaa lähettimen ja vastaanottimen toiminta vielä kerran.
 
 ### Henkinen valmistautuminen
 
 - [ ] Käy läpi toimintasuunnitelma hätätilanteiden varalle.
-- [ ] Varmista, että olet levännyt ja keskittynyt.
+- [ ] Varmista olevasi levännyt ja keskittynyt.
 - [ ] Keskustele avustajan kanssa lennätyksen kulusta.
 - [ ] Muista: ensilento on testi – pidä se lyhyenä ja turvallisena.
 
@@ -125,15 +140,15 @@ Tarkistuslista auttaa sinua valmistautumaan ensilentoon turvallisesti ja huolell
 
 ### Järjestelmien tarkistus
 
-- [ ] Katkaise lentokoneen virta ensin.
-- [ ] Sammuta lähetin vasta lentokoneen virran katkaisun jälkeen.
+- [ ] Sammuta lennokin virta ensin, jotta [potkuri](/aloittelijan-opas/lennokkisanastoa/#p) ei käynnisty vahingossa.
+- [ ] Sammuta lähetin vasta lennokin virran katkaisun jälkeen.
 - [ ] Tarkista akkujen lämpötila ja jännite.
-- [ ] Tutki lentokone vaurioiden varalta.
-- [ ] Kirjaa muistiin havainnot ja säädöt seuraavaa lentoa varten.
+- [ ] Tutki lennokki vaurioiden varalta.
+- [ ] Kirjaa muistiin havainnot ja säädöt seuraavaa lennokin lentoa varten.
 
 ---
 
-**Onnea ensilentoon!** Vallilan lennokkikerho toivottaa sinulle turvallisia ja hauskoja hetkiä lennokkien parissa. Jos kaipaat neuvoja tai haluat jakaa kokemuksiasi, tule juttelemaan kentälle – ilmailu on hauskempaa yhdessä
+**Onnea ensilentoon!** Vallilan lennokkikerho toivottaa sinulle ikimuistoisia hetkiä lennokkien parissa. Tarvitsetko vinkkejä tai haluatko jakaa kokemuksiasi? Tule kentälle juttelemaan – ilmailu on hauskempaa yhdessä!
 
 <div class="button-container">
 <a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>
