@@ -6,7 +6,14 @@ lang: fi
 description: Kiinnostaako lennokkiharrastus? Tämä opas auttaa sinut alkuun. Vinkkejä ensimmäisen lennokin valintaan, turvallisuusohjeita ja miten liittyä kerhoon.
 keywords: rc lennokki aloittelijalle, lennokkiharrastus, lennokkien rakentaminen, aloittelijan opas
 ---
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
 
+<div class="image-container">
+<a href="/images/paja.jpeg">
+    <img src="/images/paja.jpeg" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+</a>
+</div>
 Tervetuloa radio-ohjattavien (RC) lennokkien kiehtovaan maailmaan! Tämä harrastus yhdistää teknistä osaamista, aerodynamiikkaa ja lentämisen iloa, tarjoten loputtomasti opittavaa. Aloittaminen voi tuntua haastavalta, mutta oikeilla välineillä, tiedoilla ja tuella pääset nopeasti ilmaan. Tämä opas auttaa sinua valitsemaan ensimmäisen lennokkisi, valmistautumaan lentoon ja oppimaan perusteet.
 
 RC-lennokkien lennättäminen kehittää kädentaitoja, avaruudellista hahmotuskykyä ja teknistä ymmärrystä. Harrastus kattaa monia osa-alueita, kuten lennokin rakentamisen, elektroniikan ja lentämisen fysiikan. Suomessa lennokkiharrastus on yhteisöllistä, ja kerhoihin liittymällä tapaat samanhenkisiä ihmisiä. Kokeneet harrastajat tarjoavat arvokkaita neuvoja, ja teknologian kehittyessä harrastus pysyy aina mielenkiintoisena.
@@ -74,6 +81,11 @@ Ennen kuin siirryt vaativampiin lennokkeihin, harkitse lennokkisimulaattorin kä
 
 ## Hyödyllisiä vinkkejä aloittelijalle
 
+<div class="image-container">
+<a href="/images/spinneri.jpeg">
+    <img src="/images/spinneri.jpeg" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+</a>
+</div>
 - **Liity lennokkikerhoon**: Saat tukea, opastusta ja pääset osaksi yhteisöä.  
 - **Tutustu turvallisuusmääräyksiin**: Lue kerhon ja lennokkikentän säännöt huolella.  
 - **Hanki vakuutus**: Varmista, että sinulla on lennokkitoiminnan kattava vastuuvakuutus (esim. Suomen Ilmailuliiton jäsenyyden kautta).  
