@@ -6,7 +6,14 @@ lang: fi
 description: Opi lennokkien rakentamisen perusteet! Kattava opas aloittelijalle materiaalien valinnasta, työkaluista ja tekniikoista onnistuneeseen rakennusprojektiin.
 keywords: lennokkien rakentaminen, rc lennokki rakentaminen, lennokki rakennussarja, balsa lennokki, lennokki materiaalit
 ---
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
 
+<div class="image-container">
+<a href="/images/rakennuspöytä.jpeg">
+    <img src="/images/rakennuspöytä.jpeg" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+</a>
+</div>
 Lennokkien rakentaminen on palkitseva osa lennokkiharrastusta. Se tarjoaa mahdollisuuden oppia uusia taitoja, ymmärtää lennokin toimintaa syvällisemmin ja kokea ainutlaatuista ylpeyttä, kun itse rakennettu lennokki nousee ilmaan. Tämä opas johdattaa sinut lennokkien rakentamisen perusteisiin.
 
 ## Sisällysluettelo
@@ -74,6 +81,12 @@ Laserleikatut sarjat, joissa osat ovat valmiiksi muotoon leikattuja, helpottavat
 5. **Perinteinen [lennokkiliima](/aloittelijan-opas/lennokkisanastoa/#l)** (esim. Uhu Hart) balsaosien liimaukseen
 
 ### Rakennusalusta
+
+<div class="image-container">
+<a href="/images/rakennusalusta.jpeg">
+    <img src="/images/rakennusalusta.jpeg" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+</a>
+</div>
 
 Tasainen, pehmeä alusta, johon voit kiinnittää osia nuppineuloilla. Esimerkiksi vaahtolevy tai erityinen rakennusalusta sopii hyvin.
 
@@ -145,6 +158,11 @@ Tyypillinen rakennusprosessi etenee näin:
 
 ### 3. Siipien rakentaminen
 
+<div class="image-container">
+ <a href="/images/siipi.jpeg">
+    <img src="/images/siipi.jpeg" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+</a>
+</div>
 - Rakenna siivet tasaisella alustalla.
 - Varmista, että siipi on suora ja kiertymätön.
 - Lisää vahvistukset (salot, kaaret) ohjeiden mukaan.
