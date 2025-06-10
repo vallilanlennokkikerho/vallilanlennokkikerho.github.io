@@ -264,6 +264,8 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 **Huomio:** Vallilan Lennokkikerho keskittyy pääasiassa perinteisiin siivellisiin lennokkeihin, mutta monet harrastuksen perusperiaatteet (kuten ilmailumääräykset ja turvallisuus) pätevät myös droneihin.
 
+<a id="sähkö-vs-polttomoottorilennokit"></a>
+
 ## Sähkö- vs. polttomoottorilennokit
 
 Monet lennokkityypit voivat olla joko sähkö- tai polttomoottorikäyttöisiä. Molemmilla on omat etunsa ja haasteensa:

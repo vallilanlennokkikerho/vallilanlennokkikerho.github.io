@@ -6,7 +6,8 @@ lang: fi
 description: Mistä löydät lennokkikenttiä ja miten toimit niillä? Kattava opas aloittelijalle lennokkikenttien käytöstä, säännöistä ja lennättämisen perusteista.
 keywords: lennokkikenttä helsinki, rc lennokki kenttä, lennokki harrastus aloittaminen, lennättäminen, lennokkikenttä säännöt
 ---
-
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
 Lennokkiharrastuksen aloittamisessa yksi tärkeimmistä asioista on löytää sopiva ja turvallinen paikka lennättämiseen. Tässä oppaassa käymme läpi lennokkikenttien käytön perusteet, säännöt ja käytännöt, jotka jokaisen aloittelijan on hyvä tietää.
 
 ## Sisällysluettelo
@@ -101,9 +102,16 @@ Jokaisella lennokkikentällä on omat sääntönsä, mutta tietyt perusperiaatte
 
 ### Peruslennätys
 
+<div class="image-container">
+<a href="/images/trainerkaapeli.jpg">
+    <img src="/images/trainerkaapeli-min.jpg" alt="Trainerkaapeli" style="float: right; width: 200px;" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+</a>
+</div>
+
 **Huomio:** Nämä ovat vain yleisiä perusteita, eivätkä ne korvaa kunnollista harjoittelua. Ennen ensimmäistä lentoa suosittelemme vahvasti harjoittelua [lennokkisimulaattorilla](/aloittelijan-opas/lennokkisimulaattorit/) ja/tai lentämistä kokeneen harrastajan opastuksella, mahdollisesti [opetuskaapelia](/aloittelijan-opas/lennokkisanastoa/#o) käyttäen.
 
 Muista tarkistaa [RC-lennokki ensilennon tarkistuslista](/aloittelijan-opas/lennokin-ensilennon-tarkistuslista/) ennen lähtöä lennokkipaikalle.
+
 1. **Lentoonlähtö**:
    - Lähde aina vastatuuleen.
    - Käytä riittävästi tehoa nousuvaiheessa.

@@ -101,6 +101,8 @@ Lennokkeja on saatavilla eri valmiusasteissa:
 
 **Suositus aloittelijalle**: Valitse RTF- tai PNF-paketti ensimmäiseksi lennokiksi. Näin pääset nopeasti ilmaan ja voit keskittyä lennättämisen opetteluun rakentamisen sijaan.
 
+<a id="sähkö-vai-polttomoottori"></a>
+
 ## Sähkö- vai polttomoottori?
 
 Aloittelijalle **sähkömoottori** on ehdottomasti suositeltavin vaihtoehto seuraavista syistä: (Lue lisää [sähkö- ja polttomoottoreiden vertailusta](/aloittelijan-opas/lennokkityypit/#sähkö--vs-polttomoottorilennokit))
