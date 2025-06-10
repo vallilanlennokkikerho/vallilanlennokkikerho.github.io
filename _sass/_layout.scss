@@ -104,10 +104,10 @@
       display: none;
     }
 
-    &:hover .trigger {
+    /*&:hover .trigger {
       display: block;
       padding-bottom: 5px;
-    }
+    }*/
 
     .page-link {
       display: block;
@@ -238,6 +238,25 @@
   @include media-query($on-laptop) {
     font-size: 2.25rem; // 36px / 16px
   }
+}
+
+.fpv-topics {
+  margin-bottom: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center; /* Vertically align items */
+  overflow-x: auto; /* Enable horizontal scrolling if needed */
+  padding: 0.5em; /* Add some padding */
+}
+
+.fpv-topics strong {
+  margin-right: 0.5em; /* Add spacing after the text */
+}
+
+.button-link.active-link {
+  background-color: var(--button-background-color);
+  color: var(--button-text-color);
 }
 
 .post-content {

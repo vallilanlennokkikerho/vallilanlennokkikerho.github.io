@@ -6,7 +6,7 @@ lang: fi
 description: Tutustu erilaisiin FPV-lennokkityyppeihin ja niiden käyttötarkoituksiin Suomessa.
 keywords: FPV, FPV Suomi, FPV dronet, drone tyypit, racing drone, freestyle drone, micro whoop, cinematic FPV, long range FPV, FPV wing
 ---
-> **Tutustu FPV-aiheisiin:** [Mitä on FPV?](/aloittelijan-opas/mitä-on-fpv/) | [FPV-lennokkien tyypit ja käyttötarkoitukset](/aloittelijan-opas/mitä-on-fpv/tyypit-käyttötarkoitukset/) | [FPV-laitteet ja tarvikkeet](/aloittelijan-opas/mitä-on-fpv/laitteet-tarvikkeet/) | [Säännöt ja turvallisuus](/aloittelijan-opas/mitä-on-fpv/Lainsäädäntö-turvallisuus/) | [Yhteisöt ja kultuuri](/aloittelijan-opas/mitä-on-fpv/yhteisöt-kulttuuri/) | [Lennätyspaikat ja tapahtumat](/aloittelijan-opas/mitä-on-fpv/lennätyspaikat-tapahtumat/)
+{% include fpv_topics_fi.html %}
 
 # FPV-lennokkien tyypit ja käyttötarkoitukset Suomessa
 

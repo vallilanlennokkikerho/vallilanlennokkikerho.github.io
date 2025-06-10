@@ -7,7 +7,7 @@ description: Innostava opas FPV maailmaan. Opi, mitä FPV-lentäminen on, miten 
 keywords: FPV, First Person View, FPV drone, FPV lennokki, drone racing, freestyle drone, cinematic FPV, micro drone, Tiny Whoop, FPV lasit, FPV simulaattori, FPV aloittaminen, FPV Suomi
 ---
 
-> **Tutustu FPV-aiheisiin:** [Mitä on FPV?](/aloittelijan-opas/mitä-on-fpv/) | [FPV-lennokkien tyypit ja käyttötarkoitukset](/aloittelijan-opas/mitä-on-fpv/tyypit-käyttötarkoitukset/) | [FPV-laitteet ja tarvikkeet](/aloittelijan-opas/mitä-on-fpv/laitteet-tarvikkeet/) | [Säännöt ja turvallisuus](/aloittelijan-opas/mitä-on-fpv/Lainsäädäntö-turvallisuus/) | [Yhteisöt ja kultuuri](/aloittelijan-opas/mitä-on-fpv/yhteisöt-kulttuuri/) | [Lennätyspaikat ja tapahtumat](/aloittelijan-opas/mitä-on-fpv/lennätyspaikat-tapahtumat/)
+{% include fpv_topics_fi.html %}
 
 Kuvittele, että kiidät puiden lomaan, teet huimia temppuja ilmassa tai tallennat upeita maisemia – FPV-lentäminen tekee tämän mahdolliseksi! FPV eli First Person View (suomeksi "ensimmäisen persoonan näkymä") on tapa ohjata dronea reaaliaikaisen videokuvan avulla. [FPV-lasien](/aloittelijan-opas/mitä-on-fpv/laitteet-tarvikkeet/#aloittelijan-perusvarusteet-drone-lasit-radio-ohjain) kautta näet dronen kameran välittämän kuvan, ja tuntuu kuin lentäisit itse. Tämä hauska ja luova harrastus sopii kaikille – voit aloittaa helposti ja kehittyä omassa tahdissasi!
 

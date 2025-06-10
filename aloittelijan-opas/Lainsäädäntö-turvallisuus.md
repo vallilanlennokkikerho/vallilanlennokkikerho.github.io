@@ -6,7 +6,7 @@ lang: fi
 description: Opi FPV-lennätyksen lainsäädännöstä ja turvallisuudesta Suomessa.
 keywords: FPV, FPV Suomi, FPV lainsäädäntö, FPV turvallisuus, drone säännöt Suomi, Traficom, droneinfo
 ---
-> **Tutustu FPV-aiheisiin:** [Mitä on FPV?](/aloittelijan-opas/mitä-on-fpv/) | [FPV-lennokkien tyypit ja käyttötarkoitukset](/aloittelijan-opas/mitä-on-fpv/tyypit-käyttötarkoitukset/) | [FPV-laitteet ja tarvikkeet](/aloittelijan-opas/mitä-on-fpv/laitteet-tarvikkeet/) | [Säännöt ja turvallisuus](/aloittelijan-opas/mitä-on-fpv/Lainsäädäntö-turvallisuus/) | [Yhteisöt ja kultuuri](/aloittelijan-opas/mitä-on-fpv/yhteisöt-kulttuuri/) | [Lennätyspaikat ja tapahtumat](/aloittelijan-opas/mitä-on-fpv/lennätyspaikat-tapahtumat/)
+{% include fpv_topics_fi.html %}
 
 FPV-lennätys on tarkasti säänneltyä toimintaa, jota ohjaavat EU:n ja kansalliset määräykset. Sääntöjen tunteminen on välttämätöntä turvallisen ja laillisen harrastuksen varmistamiseksi. Tämä opas kattaa lainsäädännön ja turvallisuusohjeet FPV-lennätykseen.
 

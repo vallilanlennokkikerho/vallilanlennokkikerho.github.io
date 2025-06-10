@@ -106,6 +106,16 @@ blockquote {
 }
 
 /**
+ * Mobile styles for blockquote links
+ */
+blockquote a {
+    @include media-query($on-palm) {
+        display: inline-block;
+        margin: 5px; // Add some margin for spacing
+    }
+}
+
+/**
  * Code formatting
  */
 html {

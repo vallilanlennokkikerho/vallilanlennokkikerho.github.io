@@ -1,0 +1,39 @@
+<div class="fpv-topics">
+  <strong>Tutustu FPV-aiheisiin:</strong>
+  <a id="fpv-link-1" class="button-link" href="/aloittelijan-opas/mitä-on-fpv/">Mitä on FPV?</a>
+  <a id="fpv-link-2" class="button-link" href="/aloittelijan-opas/mitä-on-fpv/tyypit-käyttötarkoitukset/">FPV-lennokkien tyypit ja käyttötarkoitukset</a>
+  <a id="fpv-link-3" class="button-link" href="/aloittelijan-opas/mitä-on-fpv/laitteet-tarvikkeet/">FPV-laitteet ja tarvikkeet</a>
+  <a id="fpv-link-4" class="button-link" href="/aloittelijan-opas/mitä-on-fpv/Lainsäädäntö-turvallisuus/">Säännöt ja turvallisuus</a>
+  <a id="fpv-link-5" class="button-link" href="/aloittelijan-opas/mitä-on-fpv/yhteisöt-kulttuuri/">Yhteisöt ja kultuuri</a>
+  <a id="fpv-link-6" class="button-link" href="/aloittelijan-opas/mitä-on-fpv/lennätyspaikat-tapahtumat/">Lennätyspaikat ja tapahtumat</a>
+</div>
+
+<script>
+  const currentUrl = window.location.pathname;
+
+  const link1 = document.getElementById('fpv-link-1');
+  const link2 = document.getElementById('fpv-link-2');
+  const link3 = document.getElementById('fpv-link-3');
+  const link4 = document.getElementById('fpv-link-4');
+  const link5 = document.getElementById('fpv-link-5');
+  const link6 = document.getElementById('fpv-link-6');
+
+  if (new URL(link1.href).pathname === currentUrl) {
+    link1.classList.add('active-link');
+  }
+  if (new URL(link2.href).pathname === currentUrl) {
+    link2.classList.add('active-link');
+  }
+  if (new URL(link3.href).pathname === currentUrl) {
+    link3.classList.add('active-link');
+  }
+  if (new URL(link4.href).pathname === currentUrl) {
+    link4.classList.add('active-link');
+  }
+  if (new URL(link5.href).pathname === currentUrl) {
+    link5.classList.add('active-link');
+  }
+  if (new URL(link6.href).pathname === currentUrl) {
+    link6.classList.add('active-link');
+  }
+</script>

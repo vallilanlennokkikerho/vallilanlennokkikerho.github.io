@@ -6,7 +6,7 @@ lang: fi
 description: Löydä parhaat FPV-lennätyspaikat ja tapahtumat Suomessa.
 keywords: FPV, FPV Suomi, FPV lennätyspaikat, FPV tapahtumat, drone racing Suomi, FPV kilpailut Suomi
 ---
-> **Tutustu FPV-aiheisiin:** [Mitä on FPV?](/aloittelijan-opas/mitä-on-fpv/) | [FPV-lennokkien tyypit ja käyttötarkoitukset](/aloittelijan-opas/mitä-on-fpv/tyypit-käyttötarkoitukset/) | [FPV-laitteet ja tarvikkeet](/aloittelijan-opas/mitä-on-fpv/laitteet-tarvikkeet/) | [Säännöt ja turvallisuus](/aloittelijan-opas/mitä-on-fpv/Lainsäädäntö-turvallisuus/) | [Yhteisöt ja kultuuri](/aloittelijan-opas/mitä-on-fpv/yhteisöt-kulttuuri/) | [Lennätyspaikat ja tapahtumat](/aloittelijan-opas/mitä-on-fpv/lennätyspaikat-tapahtumat/)
+{% include fpv_topics_fi.html %}
 
 Suomessa FPV-harrastajille on tarjolla monipuolisia lennätyspaikkoja ja tapahtumia ympäri maata. Vaikka Suomen sääolosuhteet asettavat omat haasteensa, harrastustoiminta on aktiivista ympäri vuoden. Tässä hieman suomalaisista lennätyspaikoista, kilpailuista ja tapahtumista FPV-harrastajille.
 

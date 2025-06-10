@@ -6,7 +6,7 @@ lang: fi
 description: Opas FPV-laitteiden ja tarvikkeiden hankintaan ja käyttöön Suomessa.
 keywords: FPV, FPV Suomi, FPV laitteet, FPV tarvikkeet, FPV aloittaminen, drone laitteet, drone tarvikkeet, FPV kaupat Suomi
 ---
-> **Tutustu FPV-aiheisiin:** [Mitä on FPV?](/aloittelijan-opas/mitä-on-fpv/) | [FPV-lennokkien tyypit ja käyttötarkoitukset](/aloittelijan-opas/mitä-on-fpv/tyypit-käyttötarkoitukset/) | [FPV-laitteet ja tarvikkeet](/aloittelijan-opas/mitä-on-fpv/laitteet-tarvikkeet/) | [Säännöt ja turvallisuus](/aloittelijan-opas/mitä-on-fpv/Lainsäädäntö-turvallisuus/) | [Yhteisöt ja kultuuri](/aloittelijan-opas/mitä-on-fpv/yhteisöt-kulttuuri/) | [Lennätyspaikat ja tapahtumat](/aloittelijan-opas/mitä-on-fpv/lennätyspaikat-tapahtumat/)
+{% include fpv_topics_fi.html %}
 
 FPV-harrastuksen aloittaminen Suomessa on nykyään helpompaa kuin koskaan. Tarvittavia laitteita ja tarvikkeita löytyy kotimaisista ja pohjoismaisista verkkokaupoista, ja [harrastajayhteisöt](/aloittelijan-opas/mitä-on-fpv/yhteisöt-kulttuuri/) tarjoavat tukea uusille harrastajille. Tämä opas kattaa FPV-harrastuksen aloittamiseen tarvittavat laitteet ja niiden hankintapaikat Suomessa.
 

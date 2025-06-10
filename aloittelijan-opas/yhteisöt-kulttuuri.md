@@ -6,7 +6,7 @@ lang: fi
 description: Tutustu Suomen aktiiviseen FPV-yhteisöön, kerhoihin, yhdistyksiin ja verkkoyhteisöihin.
 keywords: FPV, FPV Suomi, FPV yhteisö, FPV kerhot, FPV yhdistykset, FPV Finland, drone yhteisö Suomi
 ---
-> **Tutustu FPV-aiheisiin:** [Mitä on FPV?](/aloittelijan-opas/mitä-on-fpv/) | [FPV-lennokkien tyypit ja käyttötarkoitukset](/aloittelijan-opas/mitä-on-fpv/tyypit-käyttötarkoitukset/) | [FPV-laitteet ja tarvikkeet](/aloittelijan-opas/mitä-on-fpv/laitteet-tarvikkeet/) | [Säännöt ja turvallisuus](/aloittelijan-opas/mitä-on-fpv/Lainsäädäntö-turvallisuus/) | [Yhteisöt ja kultuuri](/aloittelijan-opas/mitä-on-fpv/yhteisöt-kulttuuri/) | [Lennätyspaikat ja tapahtumat](/aloittelijan-opas/mitä-on-fpv/lennätyspaikat-tapahtumat/)
+{% include fpv_topics_fi.html %}
 
 FPV-harrastus Suomessa on kasvanut merkittävästi viime vuosina, ja sen ympärille on muodostunut aktiivinen ja monipuolinen yhteisö. Harrastajat jakavat tietoa, järjestävät [tapahtumia](/aloittelijan-opas/mitä-on-fpv/lennätyspaikat-tapahtumat/) ja tukevat toisiaan niin verkossa kuin kasvokkain. Tässä esittely suomalaisesta FPV-yhteisöstä, sen historiasta, nykytilanteesta ja tulevaisuudennäkymistä.
 
