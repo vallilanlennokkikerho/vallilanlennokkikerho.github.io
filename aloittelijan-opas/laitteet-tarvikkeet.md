@@ -24,7 +24,9 @@ Ennen dronen hankintaa kannattaa harjoitella [simulaattorilla](#simulaattorit-ha
 
 ## Verkkokaupat ja kivijalkaliikkeet Suomessa ja Pohjoismaissa
 
-FPV-tarvikkeita on saatavilla useista verkkokaupoista ja joistakin kivijalkaliikkeistä:
+FPV-tarvikkeita on saatavilla useista verkkokaupoista ja joistakin kivijalkaliikkeistä.
+
+**Huom**: Vaikka digitaaliset videolinkit ovat yleistyneet, analogiset kamerat ovat edelleen käyttökelpoisia, ja niiden resoluutio on tyypillisesti NTSC tai PAL. HDZero on suosittu digitaalinen videolinkki, joka toimii analogin tavoin.
 
 **Suomalaiset verkkokaupat**:
 
@@ -37,6 +39,7 @@ FPV-tarvikkeita on saatavilla useista verkkokaupoista ja joistakin kivijalkaliik
 
 - **NordFPV** (nordfpv.com): Ruotsalainen kauppa nopeilla toimituksilla Suomeen.
 - **Droneit.se**: Ruotsalainen FPV-erikoisliike laajalla valikoimalla.
+- **Drone-FPV-Racer.com**: Hyvä eurooppalainen verkkokauppa, nopeat toimitukset DHL:llä.
 
 **Kansainväliset verkkokaupat**:
 

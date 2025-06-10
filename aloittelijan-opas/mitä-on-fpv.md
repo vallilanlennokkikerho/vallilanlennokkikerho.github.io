@@ -20,7 +20,7 @@ FPV-lennätyksessä käytetään yleensä pientä kameraa, joka on sijoitettu dr
 
 **Kameran ominaisuudet:**
 
-- **Resoluutio:** Korkea resoluutio (esim. 720p tai 1080p) parantaa esteiden havaitsemista ja navigointia.
+- **Resoluutio:** Korkea resoluutio (esim. 720p tai 1080p) parantaa esteiden havaitsemista ja navigointia. Analogiset kamerat ovat edelleen käyttökelpoisia; niiden resoluutio on NTSC tai PAL.
 - **Linssi:** Laajakulmalinssi (esim. 120–150° FOV) tarjoaa laajan näkökentän.
 - **Valovoima:** Hyvä hämäräsuorituskyky (esim. f/2.0 tai parempi) mahdollistaa lennon hämärässä.
 - **Videolinkki:** Matala latenssi (alle 30 ms) ja luotettava [digitaalinen](/aloittelijan-opas/mitä-on-fpv/Lainsäädäntö-turvallisuus/#taajuudet-ja-lähetystehot-mitä-suomessa-saa-käyttää) (esim. DJI FPV) tai analoginen linkki ovat välttämättömiä sujuvalle lennätykselle.

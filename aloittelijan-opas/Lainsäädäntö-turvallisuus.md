@@ -102,7 +102,7 @@ Radiolähettimien ja videolinkkien käyttöä säädellään tarkasti:
 **Videolinkki (5.8 GHz)**:
 
 - Maksimilähetysteho 25 mW (5725–5875 MHz).
-- Fatshark-kanavat 1–7 ja Raceband-kanavat (R1–R8) ovat laillisia CE-merkinnällä.
+- Fatshark-kanavat 1–7 ja Raceband-kanavat (R3–R6) ovat laillisia CE-merkinnällä.
 
 **Ohjauslinkki**:
 
