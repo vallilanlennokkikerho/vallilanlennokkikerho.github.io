@@ -8,9 +8,13 @@ keywords: FPV, FPV Suomi, FPV lainsäädäntö, FPV turvallisuus, drone säänn�
 ---
 {% include fpv_topics_fi.html %}
 
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
+
 FPV-lennätys on tarkasti säänneltyä toimintaa, jota ohjaavat EU:n ja kansalliset määräykset. Sääntöjen tunteminen on välttämätöntä turvallisen ja laillisen harrastuksen varmistamiseksi. Tämä opas kattaa lainsäädännön ja turvallisuusohjeet FPV-lennätykseen.
 
 ## EU-dronesäännöt ja niiden soveltaminen Suomessa
+
 <a id="eu-dronesäännöt-ja-niiden-soveltaminen-suomessa"></a>
 
 <img src="/images/Pääviesti-1-1080x1350-FI-tarra.png" alt="FPV-lennokki" style="float: right; width: 250px; margin-left: 15px;" />
@@ -54,6 +58,7 @@ Rekisteröitymisvaatimukset perustuvat EU-asetukseen:
 A1/A3-teoriakoe antaa hyvän perustietämyksen säännöistä ja turvallisuudesta, joten se kannattaa suorittaa myös kevyiden dronien lennättäjille. FPV Finland ry ja lennokkikerhot tarjoavat tukea kokeisiin valmistautumiseen ja koulutustilaisuuksia.
 
 ## Lennätysrajoitukset ja -alueet
+
 <a id="lennätysrajoitukset-ja-alueet"></a>
 
 Lennätys on rajoitettua tietyillä alueilla:
@@ -75,7 +80,6 @@ Lennätys on rajoitettua tietyillä alueilla:
 - Luonnonsuojelualueilla voi olla rajoituksia, kuten lintujen pesimäaikana.
 
 Tarkista rajoitukset [Droneinfo.fi](https://www.droneinfo.fi)-sivustolta tai Aviamaps-sovelluksesta. Lennokkikerhojen [lennätyspaikat](/aloittelijan-opas/mitä-on-fpv/lennätyspaikat-tapahtumat/#viralliset-lennokkikentät-ja-fpv-radat-eri-puolilla-suomea) tarjoavat turvallisia ja sallittuja alueita harrastamiseen. Huomaa, että esimerkiksi Suomen Ilmailuliiton vakuutus kattaa harrastustoiminnan, kun lennättäjä on SIL:n jäsen ja noudattaa määräyksiä.
-
 
 ## Vakuutukset ja vastuut
 
@@ -114,6 +118,12 @@ Radiolähettimien ja videolinkkien käyttöä säädellään tarkasti:
 - [DJI FPV Goggles V2](/aloittelijan-opas/mitä-on-fpv/laitteet-tarvikkeet/#aloittelijan-perusvarusteet-drone-lasit-radio-ohjain) ja HDZero ovat laillisia EU-asetuksilla.
 
 Käytä CE-merkittyjä [lähettimiä](/aloittelijan-opas/mitä-on-fpv/laitteet-tarvikkeet/#aloittelijan-perusvarusteet-drone-lasit-radio-ohjain) EU-standardien mukaisesti.
+
+<div class="image-container">
+<a href="/images/FPV-taajuudet.png">
+    <img src="/images/FPV-taajuudet-pieni.png" alt="FPV-lennokki" />
+</a>
+</div>
 
 ## Turvallisuuskäytännöt ja avustajan käyttö
 
