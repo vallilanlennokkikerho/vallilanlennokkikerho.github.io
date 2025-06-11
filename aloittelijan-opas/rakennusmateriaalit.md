@@ -197,7 +197,7 @@ RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisi�
   * **Kapalevy:** Kuumaliima (yleisin), PU-liima (polyuretaani, esim. Gorilla Glue), kontaktiliimat. [CA-liima](/aloittelijan-opas/lennokkisanastoa/#s) (Syano)
   * **EPO/EPP/XPS:** Pikaliima (Foam Safe CA), UHU Por, Foam-Tac, Beacon 3-in-1, E6000, kuumaliima (matalampi lämpötila EPP:lle). [epoksiliimat](/aloittelijan-opas/lennokkisanastoa/#e)
   * **Balsa/Vaneri:** CA-liimat (ohut, medium, paksu), Alifaattinen hartsiliima (Titebond), epoksiliimat (5min, 30min), PU-liima.
-  * **3D-tulosteet:** CA-liima (usein aktivaattorilla), epoksi. PLA:n liimaus voi olla haastavaa.
+  * **3D-tulosteet:** CA-liima (usein aktivaattorilla), epoksi. PETG:n liimaus voi olla haastavaa.
 * **Vahvistaminen:** Älä unohda strategisia vahvikkeita! Hiilikuitutangot/-latat siivissä, vaneripalat moottorin ja laskutelineiden alla, tai jopa pakkausteippi Foam boardin pinnassa voivat merkittävästi parantaa lennokin kestävyyttä.
 
 ### Lopuksi
