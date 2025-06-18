@@ -14,7 +14,7 @@ keywords: Vallilan lennokkikerho, vallilan lennokkikerho, Valkka, valkka, Vallil
 Vallilan Lennokkikerho ry toimii järjestäjänä F2B-luokan SM-osakilpailuissa vuonna 2025:
 
 - **SM-osakilpailu 1**: Lauantai 14.6.2025, Nummela (varapäivä 15.6.2025) [Kilpailukukutsu](https://lennokit.net/showthread.php?t=75147)
-- **SM-osakilpailu 3**: Lauantai 16.8.2025, Nummela (varapäivä 17.8.2025)
+- **SM-osakilpailu 3**: Lauantai 16.8.2025, Nummela (varapäivä 17.8.2025) [Kilpailukukutsu](https://lennokit.net/showthread.php?t=75283)
 
 Kilpailujen seuranta on avoin kaikelle yleisölle. Tervetuloa seuraamaan tätä ainutlaatuista lajia! Tapahtumapaikalla on mahdollisuus tutustua F2B-koneisiin ja harrastukseen lähempää.
 [F2B-lajiesittely](/kilpailut/F2B-lajiesittely/)
