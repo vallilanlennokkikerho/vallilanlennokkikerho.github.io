@@ -8,6 +8,7 @@ keywords: lennokkikenttä helsinki, rc lennokki kenttä, lennokki harrastus aloi
 ---
 <script type="text/javascript" src="/js/lightbox.js"></script>
 <link rel="stylesheet" href="/css/lightbox.css">
+
 Lennokkiharrastuksen aloittamisessa yksi tärkeimmistä asioista on löytää sopiva ja turvallinen paikka lennättämiseen. Tässä oppaassa käymme läpi lennokkikenttien käytön perusteet, säännöt ja käytännöt, jotka jokaisen aloittelijan on hyvä tietää.
 
 ## Sisällysluettelo
@@ -20,7 +21,8 @@ Lennokkiharrastuksen aloittamisessa yksi tärkeimmistä asioista on löytää so
 6. [Sääolosuhteiden vaikutus](#sääolosuhteiden-vaikutus)
 7. [Turvallisuus kentällä](#turvallisuus-kentällä)
 8. [Lennätysluvat ja määräykset](#lennätysluvat-ja-määräykset)
-9. [Muiden lennokkikenttien löytäminen](#muiden-lennokkikenttien-löytäminen)
+9. [Helsingin seudun muita lennokkikenttiä](#helsingin-seudun-muita-lennokkikenttiä)
+10. [Muiden lennokkikenttien löytäminen](#muiden-lennokkikenttien-löytäminen)
 
 ## Miksi lennättää lennokkikentällä?
 
@@ -80,7 +82,7 @@ Jokaisella lennokkikentällä on omat sääntönsä, mutta tietyt perusperiaatte
 ### Yleiset säännöt
 
 1. **Turvallisuus ensin**: Älä koskaan vaaranna ihmisiä tai omaisuutta lennättämisellä.
-2. **Rekisteröityminen**: 1.2.2021 alkaen jokaisen, joka lennättää yli 250 g painavia lennokkeja tai kameralla varustettuja lennokkeja, pitää rekisteröityä Traficomille.
+2. **Rekisteröityminen**: Jokaisen, joka lennättää yli 250 g painavia lennokkeja tai kameralla varustettuja lennokkeja, pitää rekisteröityä Traficomille.
 3. **Tunnisteet**: Lennokissa tulee olla droneoperaattoritunnus.
 4. **Vakuutus**: Suosittelemme Suomen Ilmailuliiton (SIL) jäsenyyttä, joka sisältää vastuuvakuutuksen.
 
@@ -103,8 +105,8 @@ Jokaisella lennokkikentällä on omat sääntönsä, mutta tietyt perusperiaatte
 ### Peruslennätys
 
 <div class="image-container">
-<a href="/images/trainerkaapeli.jpg">
-    <img src="/images/trainerkaapeli-min.jpg" alt="Trainerkaapeli" style="float: right; width: 200px;" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+<a href="/images/trainerkaapeli.jpg" data-lightbox="lennattaminen" data-title="Trainerkaapeli">
+    <img src="/images/trainerkaapeli-min.jpg" alt="Trainerkaapeli" style="float: right; width: 200px; margin-left: 15px;" />
 </a>
 </div>
 
@@ -172,35 +174,48 @@ Turvallisuus on lennokkiharrastuksen tärkein periaate:
 
 ### Droneoperaattoriksi rekisteröityminen
 
-1.2.2021 alkaen jokaisen, joka lennättää yli 250 g painavia lennokkeja tai kameralla varustettuja lennokkeja, pitää rekisteröityä Traficomille:
+Jokaisen, joka lennättää yli 250 g painavia lennokkeja tai kameralla varustettuja lennokkeja, pitää rekisteröityä Traficomille:
 
-- Rekisteröinti maksaa verkossa 30 €/1 v tai 100 €/5 v.
+- Rekisteröinti maksaa verkossa 30 €/1 v tai 100 €/5 v (hinnat voivat muuttua).
 - Rekisteröinti tapahtuu Traficomin [Droneinfo-verkkopalvelussa](https://droneinfo.fi/fi/rekisteroityminen-ja-teoriakoe).
 
 **Huomio:** Vaikka Traficomin termistössä puhutaan usein 'droneista', rekisteröitymis- ja muut vaatimukset koskevat yleensä kaikkia yli 250g painavia tai kameralla varustettuja miehittämättömiä ilma-aluksia, myös perinteisiä RC-lennokkeja.
 
 ### Yhdistyksen puitteissa tapahtuva harrastetoiminta
 
-Vallilan Lennokkikerhon jäsenenä voit lennättää Talosaarentien kentällä noudattaen kenttäsääntöjä.
+Vallilan Lennokkikerhon jäsenenä voit lennättää Talosaarentien kentällä noudattaen kenttäsääntöjä. Kerhotoiminnassa noudatetaan usein kansallisia määräyksiä, jotka voivat poiketa avoimen luokan säännöistä.
 
-### Toiminta yksityishenkilönä
+### Toiminta yksityishenkilönä (Avoin luokka)
 
 Jos lennätät kerhon toiminnan ulkopuolella yksityishenkilönä, toimit avoimen luokan määräysten mukaisesti:
 
 - Harrastajan pitää suorittaa maksuton verkkotentti rekisteröitymisen yhteydessä.
-- Tiheästi asutulla alueella yli 500 g lennokkia lennättävän on suoritettava myös omatoiminen harjoittelu ja luokkahuonetutkinto.
+- Tiheästi asutulla alueella yli 500 g lennokkia lennättävän on suoritettava myös omatoiminen harjoittelu ja lisäteoriakoe.
 - Lennättäjän alaikäraja on 12 vuotta (alle 12-vuotiaat vain yli 16-vuotiaan verkkotentin suorittaneen valvonnassa).
 - Lennätys tapahtuu suorassa näköyhteydessä, ja suurin sallittu korkeus on 120 metriä.
-- **Huomio**: Lennokin lennätys ei kuulu jokamiehenoikeuksiin.
+- **Huomio**: Lennokin lennätys ei kuulu jokamiehenoikeuksiin toisen maalla ilman maanomistajan lupaa, ellei kyseessä ole yleinen alue, jossa sitä ei ole kielletty.
+
+## Helsingin seudun muita lennokkikenttiä
+
+Jos Vallilan Lennokkikerhon kenttä ei sijaitse sinulle sopivassa paikassa, pääkaupunkiseudulla ja sen kehyskunnissa toimii myös muita aktiivisia kerhoja ja kenttiä:
+
+- **[RC Nummela](https://rcnummela.yhdistysavain.fi/)** (Vihti)
+  - Monipuolinen kenttä Nummelan lentokentän (EFNU) alueella. Sopii RC-lennokeille (polttomoottori- ja sähkökäyttöiset), helikoptereille, droneille, turbiinijeteille sekä RC-autoille. Kerho ylläpitää toimintaa yhteistyössä lentokentän kanssa. Jäsenyys antaa pääsyn alueelle.
+- **[Espoon RC-ilmailukenttä](https://rc.ilmailukentta.fi/)** (Ämmässuo)
+  - Soukan Lennokkikerho ry:n ja RC-Kopterit ry:n ylläpitämä kenttä. Tilaa kiinteäsiipisille lennokeille, helikoptereille ja erillinen alue FPV-droneille/racingille. Kentällä on järjestetty SM-kilpailuja. Käyttö edellyttää lennätyskorttia ja sääntöjen noudattamista.
+- **[Keravan Lennokkikerho (KeLKo)](https://kelko.fi/)**
+  - Rentoa ja aktiivista lennokkiharrastamista jo yli 45 vuoden ajan. Kesäkaudella kerho kokoontuu Keinukallion kentällä, joka on helposti saavutettavissa jopa bussilla. Erityisen suosittuja ovat tiistai-iltojen lennätykset, jolloin kentällä on vilkasta ja aloittelijat saavat opastusta. Talvisin toiminta jatkuu sisälennätyksinä Kurkelan koululla sekä ulkolennätyksinä Tuusulanjärven jäällä. Toiminta kattaa kaiken droneista ja koptereista perinteisiin lennokkeihin.
+- **[Järvenpään Ilmailukerho (JIK)](https://jikry.yhdistysavain.fi/)**
+  - Perinteikäs kerho, joka tunnetaan erityisen aktiivisesta junioritoiminnasta ja aloittelijaystävällisyydestä. Kerholla on vilkkaat rakenteluillat omissa tiloissa (Myllytie 11), joissa opastetaan kädestä pitäen omien lennokkien rakentamisessa. Toiminta kattaa kaiken vapaastilentävistä liidokeista droneihin. Erinomainen paikka aloittaa harrastus kokeneiden konkareiden opastuksella.
 
 ## Muiden lennokkikenttien löytäminen
 
-Jos asut kauempana Talosaarentien kentästä, voit löytää muita lennokkikenttiä näin:
+Jos etsit kenttiä laajemmin Suomesta:
 
 1. **Suomen Ilmailuliitto**: SIL:n [verkkosivuilta](https://www.ilmailuliitto.fi/) löydät tietoa jäsenkerhoista ja niiden kentistä.
 2. **Paikalliset lennokkikerhot**: Etsi alueesi kerhoja internetistä tai kysy harrastajilta.
 3. **Lennokkifoorumit**: Suomalaiset foorumit (esim. [Lennunet](/aloittelijan-opas/lennokkisanastoa/#l)) ja Facebook-ryhmät ovat hyviä tietolähteitä.
-4. **Droneinfo-sovellus**: Traficomin sovellus näyttää, missä lennättäminen on sallittua.
+4. **Karttasovellukset**: Esimerkiksi [Aviamaps](https://aviamaps.com/) tai [Flyk](https://flyk.com/) näyttävät ilmailukartat ja rajoitusalueet, mikä auttaa turvallisen paikan etsinnässä.
 
 ### Vieraillessasi uudella kentällä
 
