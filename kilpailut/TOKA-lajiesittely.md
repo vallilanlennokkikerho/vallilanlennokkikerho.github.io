@@ -56,14 +56,20 @@ Tämä sivu keskittyy TOKA-luokkaan.
 
 ## Kilpaileminen TOKA-luokassa
 
-TOKA-lennokilla voit osallistua hauskoihin kilpailutapahtumiin!
+TOKA-lennokilla voit osallistua hauskoihin kilpailutapahtumiin, kuten perinteisiin Kotikenttäkilpailuihin!
 
-### Yleistä kilpailuista
+### Kilpailusäännöt ja suoritus
 
-- Kilpailuissa tavoitteena on lennättää lennokkia mahdollisimman pitkään (yleensä maksimiaika on 2 minuuttia).
-- Lennokki hinataan siimalla ilmaan, ja aika alkaa, kun lennokki irtoaa siimasta.
-- Sinun pitää itse hinata oma lennokkisi.
-- Jos lento jää alle 20 sekunnin tai lennokista irtoaa osa, saat yleensä yrittää uudelleen.
+- **Kilpailukierrokset:** Kilpailussa lennetään kolme kierrosta.
+- **Hinaus:** Lennokki hinataan siimalla ilmaan. Hinaussiiman pituus on 50 metriä.
+- **Lentoaika:** Maksimilentoaika on 2 minuuttia (120 sekuntia). Aika alkaa, kun lennokki irtoaa siimasta.
+- **Lisälento:** Jos onnistut lennättämään kaikilla kolmella kierroksella täyden ajan (ns. "tapit"), saat lennättää vielä neljännen lennon. Tämän lisälennon maksimiaika on 3 minuuttia (180 sekuntia).
+
+### Huomioitavaa kilpailupaikalla
+
+- **Ajanotto:** Et saa ottaa aikaa omalle lennollesi. Tarvitset kilpailuun mukaan kaverin tai muun avustajan toimimaan ajanottajana.
+- **Uusintayritys:** Jos lento jää alle 20 sekunnin tai lennokista irtoaa osa, saat yleensä yrittää uudelleen (tarkista kilpailukohtaiset ohjeet).
+- **Kotikenttäkilpailut:** Nämä ovat suosittuja kisoja, joita voi käydä tammi-huhtikuun aikana omalla kentällä. Tulokset ilmoitetaan yhteiseen sarjaan.
 
 ## Muista reilu peli
 
