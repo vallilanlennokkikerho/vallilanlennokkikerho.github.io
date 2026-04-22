@@ -47,14 +47,14 @@ Hallituksen tehtäviin kuuluu muun muassa:
 - Sääntöjen ja eettisten periaatteiden noudattaminen
 - Yhteistyö sidosryhmien kanssa
 
-### Kerhon hallitus 2025
+### Kerhon hallitus 2026
 
 **Puheenjohtaja:**
 Kenneth Forsman
 [Sähköposti](mailto:kentsu.forsman@gmail.com)
 
 **Jäsenet:**
-Jarkko Stråhle, Mikko Suokas, Pasi Ruokoaho sekä Raimo Kanervo
+Eino Saarela Rossi, Jari Vehmaa, Pasi Ruokoaho sekä Raimo Kanervo
 
 **Muut toimihenkilöt:**
 Rahastonhoitaja Rae Marja Lumes
