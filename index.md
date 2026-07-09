@@ -1,16 +1,17 @@
 ---
 layout: default
-keywords: Vallilan lennokkikerho, Valkka, Lennokkikerho, lennokki, lennätys, rc lennokki, lennokkiharrastus
-description: Vallilan Lennokkikerho on lennokkiharrastukseen keskittyvä yhteisö, joka on perustettu vuonna 1937. Tutustu kotisivuihimme ja löydä intohimosi lennokkien rakentamiseen ja lentämiseen yhdessä muiden harrastajien kanssa!
+title: Vallilan Lennokkikerho ry – Lennokkikerho ja -kenttä Helsingissä
+keywords: Vallilan lennokkikerho, Valkka, Lennokkikerho, lennokkikerho Helsinki, lennokkikenttä Helsinki, lennokki, lennätys, rc lennokki, lennokkiharrastus
+description: Vallilan Lennokkikerho (Valkka) on vuonna 1937 perustettu lennokkikerho Helsingissä. Ylläpidämme Talosaaren lennokkikenttää ja tarjoamme yhteisön RC-lennokkiharrastukseen kaikenikäisille.
 ---
 
-# Vallilan Lennokkikerho ry
+# Vallilan Lennokkikerho ry – lennokkikerho Helsingissä
 
 ![Vallilan Lennokkikerho ry](images/logo.png)
 
-Tervetuloa Vallilan Lennokkikerho ry:n eli Valkan kotisivuille!
+Tervetuloa Vallilan Lennokkikerho ry:n eli Valkan kotisivuille! Olemme vuonna 1937 perustettu lennokkikerho Helsingissä, ja ylläpidämme omaa lennokkikenttää Talosaaressa.
 
-Jos olet kiinnostunut rakentamaan tai lennättämään kiinteäsiipisiä radio-ohjattavia (RC) lennokkeja tai vain viettämään aikaa hyvässä seurassa, olet oikeassa paikassa!
+Jos olet kiinnostunut lennokki­harrastuksesta – kiinteäsiipisten radio-ohjattavien (RC) lennokkien rakentamisesta ja lennättämisestä – tai vain viettämään aikaa hyvässä seurassa, olet oikeassa paikassa!
 
 Radio-ohjattavien lennokkien harrastajille Valkka tarjoaa monipuolisen yhteisön, jossa lennätetään kaikkea kevyistä vaahtomuovikoneista suuriin balsakoneisiin ja siltä väliltä. Yksi harrastuksen palkitsevimmista hetkistä on nähdä itse rakentamansa kone ilmassa ensimmäistä kertaa. Kokeneet harrastajat jakavat mielellään osaamistaan ja auttavat uusia tulokkaita alkuun.
 

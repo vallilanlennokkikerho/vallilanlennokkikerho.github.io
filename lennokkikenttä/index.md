@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Talosaaren lennokkikenttä – Vallilan lennokkikerho
+title: Lennokkikenttä Helsingissä – Talosaari | Vallilan Lennokkikerho
 permalink: /lennokkikenttä/
 redirect_from:
   - /kenttä/
-description: Tutustu Vallilan lennokkikerhon Talosaaren lennokkikenttään Helsingissä. Lue kenttäsäännöt, lennätysohjeet ja pysäköintitiedot.
-keywords: Talosaaren lennokkikenttä, lennokkikenttä Helsinki, Vallilan lennokkikerho, radio-ohjattavat lennokit, lennokkiharrastus, kenttäsäännöt
+description: Vallilan Lennokkikerhon lennokkikenttä sijaitsee Talosaaressa, Helsingissä. Kenttäsäännöt, ajo-ohjeet ja lennätysoikeus radio-ohjattaville lennokeille.
+keywords: lennokkikenttä Helsinki, lennokkikenttä, Talosaaren lennokkikenttä, Vallilan lennokkikerho, radio-ohjattavat lennokit, lennokkiharrastus, kenttäsäännöt
 ---
 
 ## Hyvä lennätyspaikka on oleellinen osa harrastuksemme edellytyksistä

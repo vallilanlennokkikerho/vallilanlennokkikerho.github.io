@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Mitä on FPV? – First Person View -lentäminen
+title: FPV Drone Suomeksi – Mitä on FPV ja Miten Pääset Alkuun?
 permalink: /aloittelijan-opas/mitä-on-fpv/
 lang: fi
-description: Innostava opas FPV maailmaan. Opi, mitä FPV-lentäminen on, miten pääset alkuun, mitä harrastusmuotoja on (racing, freestyle, cinematic)
-keywords: FPV, First Person View, FPV drone, FPV lennokki, drone racing, freestyle drone, cinematic FPV, micro drone, Tiny Whoop, FPV lasit, FPV simulaattori, FPV aloittaminen, FPV Suomi
+description: FPV drone selitettynä suomeksi. Mitä FPV tarkoittaa, mitä tarvitset aloittamiseen ja mistä hankit lasit, ohjaimen ja droonin – käytännön opas aloittelijalle.
+keywords: FPV drone, FPV, First Person View, FPV lennokki, drone racing, freestyle drone, cinematic FPV, micro drone, Tiny Whoop, FPV lasit, FPV simulaattori, FPV aloittaminen, FPV Suomi
 ---
 
 {% include fpv_topics_fi.html %}
 
-Kuvittele, että kiidät puiden lomaan, teet huimia temppuja ilmassa tai tallennat upeita maisemia – FPV-lentäminen tekee tämän mahdolliseksi! FPV eli First Person View (suomeksi "ensimmäisen persoonan näkymä") on tapa ohjata dronea reaaliaikaisen videokuvan avulla. [FPV-lasien](/aloittelijan-opas/mitä-on-fpv/laitteet-tarvikkeet/#aloittelijan-perusvarusteet-drone-lasit-radio-ohjain) kautta näet dronen kameran välittämän kuvan, ja tuntuu kuin lentäisit itse. Tämä hauska ja luova harrastus sopii kaikille – voit aloittaa helposti ja kehittyä omassa tahdissasi!
+Mikä on FPV drone? Kuvittele, että kiidät puiden lomaan, teet huimia temppuja ilmassa tai tallennat upeita maisemia – FPV-lentäminen tekee tämän mahdolliseksi! FPV eli First Person View (suomeksi "ensimmäisen persoonan näkymä") on tapa ohjata dronea reaaliaikaisen videokuvan avulla. [FPV-lasien](/aloittelijan-opas/mitä-on-fpv/laitteet-tarvikkeet/#aloittelijan-perusvarusteet-drone-lasit-radio-ohjain) kautta näet dronen kameran välittämän kuvan, ja tuntuu kuin lentäisit itse. Tämä hauska ja luova harrastus sopii kaikille – voit aloittaa helposti ja kehittyä omassa tahdissasi!
 
 ## Ilmakuvauskamerat ja FPV
 

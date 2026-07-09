@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lennokkien rakentaminen – Aloittelijan opas
+title: Lennokkien Rakentaminen – Opas Aloittelijalle (Vallilan Lennokkikerho)
 permalink: /aloittelijan-opas/lennokkien-rakentaminen/
 lang: fi
-description: Opi lennokkien rakentamisen perusteet! Kattava opas aloittelijalle materiaalien valinnasta, työkaluista ja tekniikoista onnistuneeseen rakennusprojektiin.
-keywords: lennokkien rakentaminen, rc lennokki rakentaminen, lennokki rakennussarja, balsa lennokki, lennokki materiaalit
+description: Lennokkien rakentaminen vaihe vaiheelta – materiaalit, työkalut ja tekniikat onnistuneeseen rakennusprojektiin. Käytännön opas Vallilan Lennokkikerholta.
+keywords: lennokkien rakentaminen, lennokin rakentaminen, rc lennokki rakentaminen, lennokki rakennussarja, balsa lennokki, lennokki materiaalit
 ---
 <script type="text/javascript" src="/js/lightbox.js"></script>
 <link rel="stylesheet" href="/css/lightbox.css">
@@ -14,7 +14,7 @@ keywords: lennokkien rakentaminen, rc lennokki rakentaminen, lennokki rakennussa
     <img src="/images/rakennuspöytä.jpeg" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
 </a>
 </div>
-Lennokkien rakentaminen on palkitseva osa lennokkiharrastusta. Se tarjoaa mahdollisuuden oppia uusia taitoja, ymmärtää lennokin toimintaa syvällisemmin ja kokea ainutlaatuista ylpeyttä, kun itse rakennettu lennokki nousee ilmaan. Tämä opas johdattaa sinut lennokkien rakentamisen perusteisiin.
+Lennokkien rakentaminen on palkitseva osa lennokkiharrastusta. Se tarjoaa mahdollisuuden oppia uusia taitoja, ymmärtää lennokin toimintaa syvällisemmin ja kokea ainutlaatuista ylpeyttä, kun itse rakennettu lennokki nousee ilmaan. Tämä opas johdattaa sinut lennokkien rakentamisen perusteisiin – samoihin perusteisiin, joita Vallilan Lennokkikerhon jäsenet käyttävät Talosaaren lennokkikentällä Helsingissä.
 
 ## Sisällysluettelo
 
