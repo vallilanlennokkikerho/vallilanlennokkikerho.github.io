@@ -18,21 +18,16 @@ Lennokkiharrastuksen aloittamisessa yksi tärkeimmistä asioista on löytää so
 3. [Vallilan Lennokkikerhon kenttä](#vallilan-lennokkikerhon-kenttä)
 4. [Kenttäsäännöt ja etiketti](#kenttäsäännöt-ja-etiketti)
 5. [Lennättämisen perusteet](#lennättämisen-perusteet)
-6. [Sääolosuhteiden vaikutus](#sääolosuhteiden-vaikutus)
-7. [Turvallisuus kentällä](#turvallisuus-kentällä)
-8. [Lennätysluvat ja määräykset](#lennätysluvat-ja-määräykset)
-9. [Helsingin seudun muita lennokkikenttiä](#helsingin-seudun-muita-lennokkikenttiä)
-10. [Muiden lennokkikenttien löytäminen](#muiden-lennokkikenttien-löytäminen)
+6. [Mitä mukaan kentälle?](#mitä-mukaan-kentälle)
+7. [Sääolosuhteiden vaikutus](#sääolosuhteiden-vaikutus)
+8. [Turvallisuus kentällä](#turvallisuus-kentällä)
+9. [Lennätysluvat ja määräykset](#lennätysluvat-ja-määräykset)
+10. [Helsingin seudun muita lennokkikenttiä](#helsingin-seudun-muita-lennokkikenttiä)
+11. [Muiden lennokkikenttien löytäminen](#muiden-lennokkikenttien-löytäminen)
 
 ## Miksi lennättää lennokkikentällä?
 
-Lennokkikentällä lennättämisellä on monia etuja verrattuna satunnaisiin paikkoihin:
-
-- **Turvallisuus**: Lennokkikentät on suunniteltu turvalliseen lennättämiseen, etäällä asutuksesta ja liikenteestä.
-- **Laillisuus**: Lennokkikentillä lennättäminen on jäsenille luvallista, toisin kuin monissa muissa paikoissa.
-- **Yhteisö**: Kentällä tapaat muita harrastajia, joilta voit saada apua ja vinkkejä.
-- **Fasiliteetit**: Monilla kentillä on varikkopöytiä, tuoleja ja muita lennättämistä helpottavia rakenteita.
-- **Sopivat olosuhteet**: Lennokkikentät sijaitsevat usein paikoissa, joissa on hyvät tuuliolosuhteet ja riittävästi tilaa.
+Satunnaisella pellolla tai puistossa lennättäminen on aina kompromissi: tila voi loppua kesken, eikä paikka useinkaan sovellu lennättämiseen ilman muita ehtoja. Talosaarentien kenttä on riittävän avara laskutelineellisille koneille, siellä on varikkopöydät ja tuolit huoltoa varten, ja siellä on yleensä joku, jolta voi kysyä neuvoa, kun oma kone ei nouse ilmaan toivotulla tavalla.
 
 ## Lennokkikenttien tyypit
 
@@ -128,6 +123,19 @@ Muista tarkistaa [RC-lennokki ensilennon tarkistuslista](/aloittelijan-opas/lenn
    - Pidä siivet vaakatasossa.
    - Anna lennokin laskeutua omalla painollaan.
 
+## Mitä mukaan kentälle?
+
+Hyvä kenttäkäynti alkaa siitä, että mukana on muutakin kuin lennokki. Perusvarustus riippuu kalustosta, mutta aloittelijalle hyödyllinen lista on:
+
+- lennokki, lähetin ja ladatut akut
+- laturi tai varakut, jos aiot lentää useamman lennon
+- potkureita, teippiä, pieni ruuvimeisseli ja kuusiokoloavaimet
+- tarkistuslista ensilentoa tai uuden mallin trimmausta varten
+- vesipullo, aurinkosuoja ja sään mukaiset vaatteet
+- puhelin ja tarvittavat yhteystiedot
+
+Ensimmäisellä kerralla tärkeintä ei ole lentää mahdollisimman paljon, vaan saada kone ehjänä ilmaan ja takaisin maahan. Jos jokin tuntuu epävarmalta, kysy ennen kuin kytket akun tai käynnistät moottorin.
+
 ## Sääolosuhteiden vaikutus
 
 Sääolosuhteet vaikuttavat merkittävästi lennättämiseen:
@@ -155,9 +163,7 @@ Turvallisuus on lennokkiharrastuksen tärkein periaate:
 
 ### Henkilökohtainen turvallisuus
 
-1. **Pyörivät osat**: Varo potkureita ja roottoreita – ne voivat aiheuttaa vakavia vammoja.
-2. **Akut**: Käsittele LiPo-akkuja varovasti, sillä ne voivat syttyä palamaan väärinkäytettynä.
-3. **Aurinkosuoja ja nesteytys**: Suojaudu auringolta ja juo riittävästi vettä ulkona ollessasi.
+Potkurit ja roottorit aiheuttavat suurimman osan lennokkikentän tapaturmista – pidä kädet niistä loitolla myös silloin, kun kone vaikuttaa sammuneelta. LiPo-akkuja käsitellään varoen: ylilatautunut tai puhki mennyt akku voi syttyä palamaan.
 
 ### Lennokin turvallisuus
 
@@ -172,28 +178,9 @@ Turvallisuus on lennokkiharrastuksen tärkein periaate:
 
 ## Lennätysluvat ja määräykset
 
-### Droneoperaattoriksi rekisteröityminen
+Yli 250 g painavaa lennokkia tai kameralla varustettua miehittämätöntä ilma-alusta lennättävän tulee tarkistaa Traficomin rekisteröitymisvaatimukset. Traficomin termistössä puhutaan droneista, mutta vaatimukset voivat koskea myös perinteisiä kiinteäsiipisiä RC-lennokkeja. Rekisteröinti ja ajantasaiset maksut löytyvät Traficomin [rekisteröityminen ja teoriakoe -sivulta](https://www.traficom.fi/fi/miehittamaton-ilmailu/rekisteroityminen-ja-teoriakoe).
 
-Jokaisen, joka lennättää yli 250 g painavia lennokkeja tai kameralla varustettuja lennokkeja, pitää rekisteröityä Traficomille:
-
-- Rekisteröinti maksaa verkossa 30 €/1 v tai 100 €/5 v (hinnat voivat muuttua).
-- Rekisteröinti tapahtuu Traficomin [Droneinfo-verkkopalvelussa](https://droneinfo.fi/fi/rekisteroityminen-ja-teoriakoe).
-
-**Huomio:** Vaikka Traficomin termistössä puhutaan usein 'droneista', rekisteröitymis- ja muut vaatimukset koskevat yleensä kaikkia yli 250g painavia tai kameralla varustettuja miehittämättömiä ilma-aluksia, myös perinteisiä RC-lennokkeja.
-
-### Yhdistyksen puitteissa tapahtuva harrastetoiminta
-
-Vallilan Lennokkikerhon jäsenenä voit lennättää Talosaarentien kentällä noudattaen kenttäsääntöjä. Kerhotoiminnassa noudatetaan usein kansallisia määräyksiä, jotka voivat poiketa avoimen luokan säännöistä.
-
-### Toiminta yksityishenkilönä (Avoin luokka)
-
-Jos lennätät kerhon toiminnan ulkopuolella yksityishenkilönä, toimit avoimen luokan määräysten mukaisesti:
-
-- Harrastajan pitää suorittaa maksuton verkkotentti rekisteröitymisen yhteydessä.
-- Tiheästi asutulla alueella yli 500 g lennokkia lennättävän on suoritettava myös omatoiminen harjoittelu ja lisäteoriakoe.
-- Lennättäjän alaikäraja on 12 vuotta (alle 12-vuotiaat vain yli 16-vuotiaan verkkotentin suorittaneen valvonnassa).
-- Lennätys tapahtuu suorassa näköyhteydessä, ja suurin sallittu korkeus on 120 metriä.
-- **Huomio**: Lennokin lennätys ei kuulu jokamiehenoikeuksiin toisen maalla ilman maanomistajan lupaa, ellei kyseessä ole yleinen alue, jossa sitä ei ole kielletty.
+Kerhon jäsenenä lennätät kenttäsääntöjen mukaisesti; kentän ulkopuolella yksityishenkilönä toimit avoimen luokan säännöillä. Molempien tarkat vaatimukset – ikärajat, korkeusrajat, teoriakokeet – löytyvät [lennokkikenttä-sivultamme](/lennokkikenttä/).
 
 ## Helsingin seudun muita lennokkikenttiä
 
@@ -219,18 +206,13 @@ Jos etsit kenttiä laajemmin Suomesta:
 
 ### Vieraillessasi uudella kentällä
 
-1. Tutustu etukäteen kentän sääntöihin.
-2. Esittäydy paikallisille harrastajille.
-3. Kysy lupa lennättämiseen, jos kyseessä on kerhon ylläpitämä kenttä.
-4. Noudata paikallisia käytäntöjä ja ohjeita.
+Tutustu kentän sääntöihin etukäteen, esittäydy paikallisille ja kysy lupa, jos kyseessä on kerhon ylläpitämä alue.
 
 ## Yhteenveto
 
-Lennokkikentät tarjoavat turvallisen ja laillisen ympäristön lennokkiharrastukselle. Vallilan Lennokkikerhon Talosaarentien kenttä on erinomainen paikka jäsenille aloittaa harrastus. Muista aina noudattaa kenttäsääntöjä, rekisteröityä asianmukaisesti ja pitää turvallisuus etusijalla.
+Talosaarentien kenttä on jäsenille paras paikka aloittaa: hyvät puitteet, kokenutta apua paikan päällä ja selkeät säännöt. Muista rekisteröityminen, kenttäsäännöt ja se, että lennokki pysyy näköetäisyydellä.
 
-Lennokkikenttä on myös sosiaalinen ympäristö, jossa voit tavata muita harrastajia, oppia uutta ja jakaa kokemuksia. Älä epäröi kysyä neuvoa kokeneemmilta – lennokkiyhteisö on tunnettu avuliaisuudestaan.
-
-**Haluatko tutustua kenttäämme tai saada lisätietoja lennättämisestä?** Tule käymään [Talosaarentien kentällä](/lennokkikenttä/) tai ota [yhteyttä](/yhteystiedot/). Toivotamme sinut lämpimästi tervetulleeksi harrastuksen pariin!
+**Haluatko tutustua kenttäämme tai saada lisätietoja lennättämisestä?** Tule käymään [Talosaarentien kentällä](/lennokkikenttä/) tai ota [yhteyttä](/yhteystiedot/).
 
 <div class="button-container">
 <a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>

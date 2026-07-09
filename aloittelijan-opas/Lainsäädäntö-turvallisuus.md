@@ -17,7 +17,7 @@ FPV-lennätys on tarkasti säänneltyä toimintaa, jota ohjaavat EU:n ja kansall
 
 <a id="eu-dronesäännöt-ja-niiden-soveltaminen-suomessa"></a>
 
-<img src="/images/Pääviesti-1-1080x1350-FI-tarra.png" alt="FPV-lennokki" style="float: right; width: 250px; margin-left: 15px;" />
+<img src="/images/Pääviesti-1-1080x1350-FI-tarra.png" alt="Traficomin droneohjeistuksen kuva" style="float: right; width: 250px; margin-left: 15px;" />
 EU:n droneasetus (voimaan 31.12.2020) koskee myös Suomea ja jakaa lennätyksen kolmeen kategoriaan: avoin, erityinen ja sertifioitu. FPV-harrastus kuuluu pääasiassa avoimeen kategoriaan, joka jakautuu alakategorioihin:
 
 **A1-alakategoria**: Lennätys ihmisten lähellä
@@ -47,7 +47,7 @@ Rekisteröitymisvaatimukset perustuvat EU-asetukseen:
 **Dronetoimijan rekisteröityminen**:
 
 - Pakollinen yli 250 g droneille tai kamerallisille alle 250 g droneille (esim. useimmat [micro-whoopit](/aloittelijan-opas/mitä-on-fpv/tyypit-käyttötarkoitukset/#micro-whoop-ja-sisälennätys-suomen-olosuhteissa)).
-- Rekisteröidy Traficomin Droneinfo-palvelussa (maksu n. 50 €, voimassa 5 vuotta).
+- Rekisteröityminen tehdään Traficomin Droneinfo-palvelussa. Tarkista ajantasainen maksu ja voimassaoloaika viranomaisen palvelusta.
 
 **Teoriakokeet**:
 
@@ -121,7 +121,7 @@ Käytä CE-merkittyjä [lähettimiä](/aloittelijan-opas/mitä-on-fpv/laitteet-t
 
 <div class="image-container">
 <a href="/images/FPV-taajuudet.png">
-    <img src="/images/FPV-taajuudet-pieni.png" alt="FPV-lennokki" />
+    <img src="/images/FPV-taajuudet-pieni.png" alt="FPV-taajuustaulukko" />
 </a>
 </div>
 

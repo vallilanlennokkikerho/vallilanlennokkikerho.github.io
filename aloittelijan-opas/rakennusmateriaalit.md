@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Opas Lennokkien Rakennusmateriaaleihin
-description: Opas RC-lennokkien yleisimpiin rakennusmateriaaleihin, kuten solumuoveihin, balsapuuhun, 3D-tulosteisiin, komposiitteihin ja vaneriin.
+title: Lennokkien rakennusmateriaalit
+description: Opas lennokkien yleisimpiin rakennusmateriaaleihin, kuten solumuoveihin, balsapuuhun, 3D-tulosteisiin, komposiitteihin ja vaneriin.
 permalink: /aloittelijan-opas/rakennusmateriaalit/
 redirect_from:
   - /rakennusmateriaalit/
@@ -10,6 +10,19 @@ redirect_from:
 ### Johdanto
 
 RC-lennokkien rakentamisessa ja suunnittelussa materiaalivalinnat ovat keskeisiä. Materiaali vaikuttaa lennokin painoon, kestävyyteen, hintaan ja rakennusprosessiin. Tässä käydään läpi yleisimmät lennokeissa käytetyt materiaalit – erilaiset solumuovit, balsapuu, 3D-tulosteet, komposiitit ja vaneri – sekä niiden ominaisuudet, edut ja haasteet, erityisesti aloittelijan näkökulmasta.
+
+### Pikavalinta materiaalin mukaan
+
+Jos olet aloittamassa ensimmäistä projektia, materiaalin valinta kannattaa tehdä käyttötarkoituksen mukaan:
+
+* **Halpa ja nopea harjoitusprojekti:** kapalevy tai XPS.
+* **Kestävä harjoituslennokki:** EPP tai EPO, vahvistettuna hiilikuitutangolla tai teipillä.
+* **Perinteinen kevyt rakennus:** balsa ja ohut vaneri.
+* **Moottoripukit ja kuormitetut kiinnitykset:** koivuvaneri tai muu luja vaneri.
+* **Pienet räätälöidyt osat:** 3D-tulosteet, kuten servotelineet, ilmanottoaukot ja suojat.
+* **Kilpa- ja suorituskykymallit:** hiilikuitu, lasikuitu ja muut komposiitit.
+
+Aloittelijan kannattaa suosia materiaalia, jonka voi korjata kenttäolosuhteissa. Ensimmäisissä projekteissa korjattavuus on usein tärkeämpi ominaisuus kuin pienin mahdollinen paino tai viimeistelty ulkonäkö.
 
 ### 1. Solumuovit (EPO, EPP, EPS, XPS)
 

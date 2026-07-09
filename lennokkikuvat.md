@@ -1,34 +1,26 @@
 ---
 layout: gallery
-title: Lennokkikuvia – Kurkistus radio-ohjattavien lennokkien maailmaan
+title: Lennokkikuvia Vallilan Lennokkikerhosta
 permalink: /lennokkikuvat/
-description: Tervetuloa katsomaan kuvia radio-ohjattavista lennokeista! Näe erilaisia malleja ja tunnelmia lennokkikentältä sekä tutustu harrastukseen.
-keywords: lennokkikuvat, radio-ohjattavat lennokit, lennokkigalleria, lennokkikerho, RC-lennokit, lennokkiharrastus, lennokkikenttä
+description: Katso kuvia Vallilan Lennokkikerhon lennokeista, rakentelusta ja Talosaaren lennokkikentän tunnelmista.
+keywords: lennokkikuvat, lennokkigalleria, lennokkikerho, RC-lennokit, lennokkiharrastus, lennokkikenttä, Talosaari
 
 ---
 
-# Lennokkikuvia ja tietoa harrastuksesta
+# Lennokkikuvia ja tunnelmia kentältä
 
-Tervetuloa tutustumaan lennokkiharrastuksen kiehtovaan maailmaan! Alla näet kuvia erilaisista lennokeista ja harrastustoiminnastamme.
+Kuvagalleriassa näkyy kerhon arkea: erilaisia lennokkeja, rakentelua, kenttäpäiviä ja Talosaaren lennokkikentän tunnelmaa eri vuodenaikoina.
 
 {% include image-gallery.html folder="/images/lennokkikuvia" %}
 
-Oletko kiinnostunut aloittamaan harrastuksen? Tutustu [Aloittavan harrastajan oppaaseemme](/aloittelijan-opas/)
+Kuvista huomaa hyvin, miten monipuolinen harrastus on. Osa koneista on valmiina ostettuja ja kentällä säädettyjä, osa itse rakennettuja tai pitkälle muokattuja. Mukana on rauhallisia liidokkeja, sporttikoneita, taitolentokalustoa, vanhoja klassikoita ja arkisia kenttähetkiä.
 
-## 🛠️ Lennokin rakentaminen
+Jos olet aloittamassa harrastusta, kuvagalleriaa kannattaa katsoa myös käytännön silmin: millaisia koneita mahtuu autoon, millaisia laskutelineitä nurmikentällä käytetään, miten lennokit kuljetetaan ja miten paljon rakentelua harrastukseen voi kuulua.
 
-Lennokkien rakentaminen yhdistää useita mielenkiintoisia osa-alueita:
+Kiinnostaako harrastuksen aloittaminen? Tutustu [aloittelijan oppaaseen](/aloittelijan-opas/) tai [jäseneksi liittymisen ohjeisiin](/jäseneksi/).
 
-- **Aerodynamiikka** – Lennokin suunnittelun perusta
-- **Elektroniikka** – Radio-ohjaus ja sähköjärjestelmät
-- **Mekaniikka** – Ohjainpinnat ja rakenteet
-- **Suunnittelu** – Lennokin muotoilu ja mitoitus
-- **Materiaaliosaaminen**:
-  - Komposiittirakenteet
-  - Puutyöt
-  - Modernit materiaalit
+## Kiinnostuitko rakentamisesta?
 
-Harrastus kehittyy jatkuvasti tekniikan mukana, ja uusia taitoja on opittava. Kokeneet harrastajat voivat tarjota apua ja tukea lennokin rakentamisessa ja lennättämisessä, joten yhteistyö muiden kanssa kannattaa.  
-
+Lennokin rakentaminen yhdistää aerodynamiikkaa, elektroniikkaa ja käsityötä – lue lisää [Lennokkien rakentaminen -oppaastamme](/aloittelijan-opas/lennokkien-rakentaminen/).
 
 {% include esittely.html %}

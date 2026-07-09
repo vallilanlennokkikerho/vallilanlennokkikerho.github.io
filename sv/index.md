@@ -179,9 +179,9 @@ Viktigt: Följ alltid fält-specifika regler, säkerställ nödvändiga tillstå
 
 ## Regler & Bestämmelser i Finland
 
-Från och med 17 maj 2025 följer RC-flygning i Finland EASA-regler, övervakade av Traficom:
+RC-flygning i Finland följer EASA-regler, övervakade av Traficom:
 
-- **Registrering**: Registrera ditt flygplan om det väger över 250 g eller är utrustat med en kamera. Modeller från 250 g till 25 kg måste registreras hos Traficom, kostar 30 €/år eller 100 €/5 år på [droneinfo.fi](https://droneinfo.fi/sv), och följa reglerna för öppen kategori, såvida de inte flygs inom en modellflygklubb med ett Artikel 16-tillstånd. Modeller över 25 kg kräver specifika tillstånd.
+- **Registrering**: Kontrollera Traficoms aktuella registreringskrav om modellen väger över 250 g eller är utrustad med kamera. Aktuella avgifter och anvisningar finns på Traficoms sida om [registreringen och teoriprovet](https://traficom.fi/sv/obemannad-luftfart/registreringen-och-teoriprovet).
 - **Flyggränser**: Håll dig under 120 m höjd och inom visuell sikt.
 - **No-fly-zoner**: Undvik flygplatser, militära områden och trånga platser.
 - **Dokumentation**: Ha med bevis på registrering och försäkring.

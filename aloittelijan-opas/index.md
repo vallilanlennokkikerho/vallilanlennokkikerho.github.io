@@ -11,28 +11,37 @@ keywords: rc lennokki aloittelijalle, lennokkiharrastus, lennokkien rakentaminen
 
 <div class="image-container">
 <a href="/images/paja.jpeg">
-    <img src="/images/paja.jpeg" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+    <img src="/images/paja.jpeg" alt="Rakennuspaja" style="float: right; width: 200px; margin-left: 15px;" />
 </a>
 </div>
-Tervetuloa radio-ohjattavien (RC) lennokkien kiehtovaan maailmaan! Tämä harrastus yhdistää teknistä osaamista, aerodynamiikkaa ja lentämisen iloa, tarjoten loputtomasti opittavaa. Aloittaminen voi tuntua haastavalta, mutta oikeilla välineillä, tiedoilla ja tuella pääset nopeasti ilmaan. Tämä opas auttaa sinua valitsemaan ensimmäisen lennokkisi, valmistautumaan lentoon ja oppimaan perusteet.
+Tämä opas auttaa alkuun radio-ohjattavien (RC) lennokkien kanssa. Harrastus yhdistää teknistä osaamista, aerodynamiikkaa, rakentamista ja lennättämisen harjoittelua. Aloittaminen voi tuntua haastavalta, mutta oikeilla välineillä, tiedoilla ja tuella pääset turvallisesti alkuun Vallilan Lennokkikerhossa.
 
-RC-lennokkien lennättäminen kehittää kädentaitoja, avaruudellista hahmotuskykyä ja teknistä ymmärrystä. Harrastus kattaa monia osa-alueita, kuten lennokin rakentamisen, elektroniikan ja lentämisen fysiikan. Suomessa lennokkiharrastus on yhteisöllistä, ja kerhoihin liittymällä tapaat samanhenkisiä ihmisiä. Kokeneet harrastajat tarjoavat arvokkaita neuvoja, ja teknologian kehittyessä harrastus pysyy aina mielenkiintoisena.
-
-Teksti on suunnattu sinulle, joka olet kiinnostunut aloittamaan tämän mielenkiintoisen ja monipuolisen harrastuksen Vallilan Lennokkikerhossa.
+Opas painottuu radio-ohjattaviin lennokkeihin, mutta kerhossa harrastetaan myös vapaasti lentäviä lennokkeja, siimalennokkeja, helikoptereita ja droneja.
 
 ## Miksi aloittaa lennokkiharrastus?
 
-- **Tekniikka ja kädentaidot**: Lennokkien rakentaminen ja huoltaminen kehittää teknistä osaamista ja kädentaitoja.  
-- **Ilmailun perusteet**: Opit aerodynamiikan, sääolosuhteiden ja lentämisen perusperiaatteita.  
-- **Yhteisöllisyys**: Lennokkikentällä tapaat samanhenkisiä ihmisiä, jaat kokemuksia ja saat apua.  
-- **Ulkona liikkuminen**: Lennättäminen tapahtuu ulkona raittiissa ilmassa.
+Lennokkien rakentaminen ja huoltaminen kehittää kädentaitoja ja teknistä osaamista, ja lennättäminen opettaa aerodynamiikan ja sään vaikutuksen käytännössä. Kentällä tapaat samanhenkisiä ihmisiä, jotka auttavat mielellään alkuun.
+
+Harrastus voi olla rauhallista sunnuntailennätystä, tarkkaa rakentamista, kilpailuihin tähtäävää harjoittelua tai uuden tekniikan kokeilemista. Aloittajan ei tarvitse tietää heti, mikä suunta kiinnostaa eniten. Usein oma laji löytyy vasta, kun näkee kentällä erilaisia koneita ja juttelee niiden omistajien kanssa.
+
+## Ennen kuin ostat mitään
+
+Ensimmäinen virhe on usein ostaa liian hieno, nopea tai vaikeasti korjattava lennokki. Ennen hankintaa kannattaa miettiä ainakin näitä:
+
+- **Missä aiot lennättää?** Talosaaren kenttä sopii monelle lennokkityypille, mutta kaikki mallit eivät sovi kaikkiin paikkoihin.
+- **Haluatko lentää vai rakentaa?** RTF- ja PNF-paketit vievät nopeasti kentälle, rakennussarja opettaa enemmän mutta vie aikaa.
+- **Onko varaosia saatavilla?** Aloittelijalle kestävyys ja korjattavuus ovat usein tärkeämpiä kuin näyttävä ulkonäkö.
+- **Kuka voi auttaa ensilennolla?** Kokeneen harrastajan apu säästää helposti sekä lennokin että hermot.
+- **Onko budjetissa myös akut, laturi ja työkalut?** Pelkkä lennokki ei yleensä ole koko hankinta.
+
+Jos olet epävarma, tule ensin kentälle katsomaan. Kerholaisilta saa usein käytännönläheisempiä neuvoja kuin tuotekuvauksista.
 
 ## Miten pääsen alkuun?
 
 Seuraa näitä helppoja askeleita päästäksesi alkuun lennokkiharrastuksessa:
 
 1. **Ota yhteyttä kerhoon**  
-   Paras tapa aloittaa on ottaa meihin yhteyttä! Voit tulla käymään lennokkikentällä tai laittaa viestiä. Lennättäjiä on yleensä paikalla tyyninä iltoina ja viikonloppuisin. [Linkki Jäseneksi-sivulle](/jäseneksi/)
+   Paras tapa aloittaa on ottaa meihin yhteyttä! Voit tulla käymään lennokkikentällä tai laittaa viestiä. Lennättäjiä on yleensä paikalla tyyninä iltoina ja viikonloppuisin. [Katso liittymisohjeet ja jäsenmaksut](/jäseneksi/)
 
 2. **Ensimmäiset askeleet kentällä**  
    Kokeneemmat harrastajat antavat mielellään neuvoja ja vinkkejä paikan päällä. Voit seurata muiden lennätystä, kysyä kysymyksiä ja tutustua harrastukseen käytännössä ennen oman lennokin hankkimista.
@@ -50,7 +59,7 @@ Katso [RC-lennokki ensilennon tarkistuslista](/aloittelijan-opas/lennokin-ensile
 
 ## Mitä seuraavaksi harrastuksessa?
 
-Kun olet löytänyt itsellesi sopivan lennokkityypin ja saanut perusteet haltuun, lennokkiharrastus avaa oven moniin kiehtoviin suuntiin:
+Kun olet löytänyt itsellesi sopivan lennokkityypin ja saanut perusteet haltuun, harrastusta voi jatkaa moneen suuntaan:
 
 ### Kokeile uusia lennokkityyppejä  
 
@@ -65,7 +74,7 @@ Lennokkiharrastus tarjoaa myös kilpailullisia haasteita. Voit kokeilla esimerki
 - **F2B (siimaohjatut taitolennokit):** Perinteinen laji, jossa lennokkia ohjataan siimoilla ympyräradalla.  
 - **TOKA (vapaastilentävät liidokit):** Klassinen kilpailumuoto moottorittomille liidokeille.  
 
-Kilpailut ovat loistava tapa testata taitojasi ja tavata muita harrastajia.
+Kilpailuissa pääset testaamaan taitojasi, seuraamaan kokeneempien suorituksia ja tapaamaan muiden kerhojen harrastajia.
 
 ### Syvenny lennokkien suunnitteluun ja rakentamiseen  
 
@@ -83,7 +92,7 @@ Ennen kuin siirryt vaativampiin lennokkeihin, harkitse lennokkisimulaattorin kä
 
 <div class="image-container">
 <a href="/images/spinneri.jpeg">
-    <img src="/images/spinneri.jpeg" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+    <img src="/images/spinneri.jpeg" alt="Lennokin spinneri" style="float: right; width: 200px; margin-left: 15px;" />
 </a>
 </div>
 - **Liity lennokkikerhoon**: Saat tukea, opastusta ja pääset osaksi yhteisöä.  
@@ -103,8 +112,6 @@ Olemme luoneet sarjan sivuja tarkempaa tietoa varten:
 - [Lennokkikentät ja lennättäminen](/aloittelijan-opas/lennokkikentat-aloittelijalle/)
 - [Lennokkisanastoa – tutustu harrastuksen termeihin](/aloittelijan-opas/lennokkisanastoa/)
 
-Kysy rohkeasti lisää kerhon jäseniltä! Autamme mielellämme sinut alkuun tässä kiehtovassa harrastuksessa.
-
-Lennokit tarjoavat palkitsevan harrastuksen, joka yhdistää teknisen osaamisen ja ulkoilman ilot. Aloita simulaattorilla, valitse sopiva trainer, hanki opettajan apua ja liity kerhoon. Pian huomaat lentäväsi sujuvasti ja haaveilevasi uusista koneista. Suomessa lennokkikerhot ja yhteisöt ovat korvaamaton tuki matkallasi ilmailun maailmaan. **Hyviä lentoja ja turvallisia laskuja!**
+Kysy rohkeasti lisää kerhon jäseniltä. Autamme mielellämme sinut alkuun. **Hyviä lentoja ja turvallisia laskuja!**
 
 {% include carousel.html height="50" unit="%" duration="10" number="2" %}

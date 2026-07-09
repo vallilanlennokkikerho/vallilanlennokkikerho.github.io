@@ -11,6 +11,8 @@ keywords: rc lennokki aloittelijalle, rc liidokki, trainer lennokki, sport lenno
 
 Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilaisia lennokkityyppejä on lukuisia, aina rauhallisista liidokeista nopeisiin taitolennokkeihin ja tarkkoihin pienoismalleihin. Tällä sivulla esittelemme yleisimmät lennokkityypit auttaaksemme sinua löytämään juuri sinulle sopivan lennokin.
 
+Lennokkityyppi kannattaa valita sen mukaan, mitä haluat oppia. Jos tärkeintä on turvallinen ensimmäinen lento, traineri tai sähköliidokki on yleensä paras. Jos kiinnostus on rakentamisessa ja trimmauksessa, vapaastilentävät ja perinteiset rakennussarjat opettavat paljon. Jos pidät tekniikasta, säätämisestä ja elektroniikasta, helikopterit, dronet ja FPV-kalusto voivat olla kiinnostavia, mutta niissä turvallisuus- ja sääntökysymykset korostuvat.
+
 ## Sisällysluettelo
 
 1. [Harjoituslennokit (Trainerit)](#harjoituslennokit-trainerit)
@@ -24,6 +26,15 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 9. [Multikopterit (Dronet)](#multikopterit-dronet)
 10. [Sähkö- vs. polttomoottorilennokit](#sähkö-vs-polttomoottorilennokit)
 11. [Vinkkejä lennokkityypin valintaan](#vinkkejä-lennokkityypin-valintaan)
+
+## Nopea valinta kiinnostuksen mukaan
+
+- **Haluan oppia lentämään mahdollisimman turvallisesti:** traineri tai sähköliidokki.
+- **Haluan rauhallista lentoa ja pitkiä lentoja:** sähköliidokki, termiikkiliidokki tai moottoriliidokki.
+- **Haluan rakentaa ja ymmärtää aerodynamiikkaa:** vapaastilentävä lennokki, balsa-rakennussarja tai oma projekti.
+- **Haluan taitolentoa:** sport-lennokki ensin, myöhemmin F3A-, 3D- tai muu taitolentokone.
+- **Haluan perinteistä kilpailulajia:** siimaohjattu F2B tai vapaastilentävät luokat.
+- **Haluan tekniikkaa, säätämistä ja kameraa:** drone, FPV-lennokki tai helikopteri.
 
 ## Harjoituslennokit (Trainerit)
 
@@ -105,7 +116,7 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 - Phoenix Model Spitfire
 - E-flite Carbon-Z Cessna 150
 
-**Kenelle sopii:** Harrastajille, joilla on jo peruslennätysotaitoja ja jotka haluavat kehittyä. Hyvä "toinen lennokki" trainerin jälkeen.
+**Kenelle sopii:** Harrastajille, joilla on jo peruslennätystaitoja ja jotka haluavat kehittyä. Hyvä "toinen lennokki" trainerin jälkeen.
 
 **Hyödyt:** Monipuolisuus, hauska lentokokemus, mahdollisuus oppia uusia taitoja.
 
@@ -262,7 +273,7 @@ Lennokkiharrastus on monipuolinen laji, joka tarjoaa jokaiselle jotakin. Erilais
 
 **Haasteet:** Vähemmän "perinteinen" RC-kokemus, rajoitukset lennätysalueissa, lyhyempi lentoaika.
 
-**Huomio:** Vallilan Lennokkikerho keskittyy pääasiassa perinteisiin siivellisiin lennokkeihin, mutta monet harrastuksen perusperiaatteet (kuten ilmailumääräykset ja turvallisuus) pätevät myös droneihin.
+**Huomio:** Vallilan Lennokkikerhossa harrastetaan monipuolisesti lennokkeja, helikoptereita ja droneja. Kaikissa lajeissa korostuvat samat perusasiat: turvallisuus, sääntöjen tunteminen ja muiden kentän käyttäjien huomioiminen.
 
 <a id="sähkö-vs-polttomoottorilennokit"></a>
 
@@ -333,7 +344,7 @@ Lennokkityypin valinta riippuu monista tekijöistä. Tässä vinkkejä oikean le
 
 Lennokkiharrastus tarjoaa jokaiselle jotakin – rauhallista liitämistä, vauhdikasta temppulentämistä tai tarkkojen pienoismallien rakentamista. Aloita harrastus omien kiinnostustesi ja taitotasosi mukaan, ja muista, että taidot kehittyvät ajan myötä.
 
-Jos jokin lennokkityyppi herätti kiinnostuksesi, tutustu aloittelijan oppaamme osioihin ja harkitse jäseneksi liittymistä Vallilan Lennokkikerhoon. Autamme mielelläämme valitsemaan sopivan lennokin ja pääsemään alkuun tässä kiehtovassa harrastuksessa!
+Jos jokin lennokkityyppi herätti kiinnostuksesi, tutustu aloittelijan oppaamme osioihin ja harkitse jäseneksi liittymistä Vallilan Lennokkikerhoon. Autamme mielellämme valitsemaan sopivan lennokin ja pääsemään alkuun harrastuksessa.
 
 <div class="button-container">
 <a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>

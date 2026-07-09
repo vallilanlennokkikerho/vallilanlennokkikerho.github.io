@@ -12,15 +12,16 @@ Ensimmäisen radio-ohjattavan lennokin valinta on tärkeä askel lennokkiharrast
 ## Sisällysluettelo
 
 1. [Mikä lennokki sopii aloittelijalle?](#mikä-lennokki-sopii-aloittelijalle)
-2. [RTF, PNF, ARF vai rakennussarja?](#rtf-pnf-arf-vai-rakennussarja)
-3. [Sähkö- vai polttomoottori?](#sähkö-vai-polttomoottori)
-4. [Tarvittavat varusteet](#tarvittavat-varusteet)
-5. [Lennokin kokoaminen ja valmistelu](#lennokin-kokoaminen-ja-valmistelu)
-6. [Ensimmäiset lennot](#ensimmäiset-lennot)
-7. [Yleisimmät virheet ja niiden välttäminen](#yleisimmät-virheet-ja-niiden-välttäminen)
-8. [Mistä hankkia lennokki?](#mistä-hankkia-lennokki)
-9. [Ensimmäisen lennokin kokoaminen ja tarkistukset](#ensimmäisen-lennokin-kokoaminen-ja-tarkistukset)
-10. [Ensilennon valmistelu](#ensilennon-valmistelu)
+2. [Kysy nämä ennen ostamista](#kysy-nämä-ennen-ostamista)
+3. [Ensimmäisen lennokin kokoaminen ja tarkistukset](#ensimmäisen-lennokin-kokoaminen-ja-tarkistukset)
+4. [Ensilennon valmistelu](#ensilennon-valmistelu)
+5. [RTF, PNF, ARF vai rakennussarja?](#rtf-pnf-arf-vai-rakennussarja)
+6. [Sähkö- vai polttomoottori?](#sähkö-vai-polttomoottori)
+7. [Tarvittavat varusteet](#tarvittavat-varusteet)
+8. [Lennokin kokoaminen ja valmistelu](#lennokin-kokoaminen-ja-valmistelu)
+9. [Ensimmäiset lennot](#ensimmäiset-lennot)
+10. [Yleisimmät virheet ja niiden välttäminen](#yleisimmät-virheet-ja-niiden-välttäminen)
+11. [Mistä hankkia lennokki?](#mistä-hankkia-lennokki)
 
 ## Mikä lennokki sopii aloittelijalle?
 
@@ -37,6 +38,18 @@ Vakaassa lennokissa painopiste on siipien alapuolella. Siipien V-kulma (dihedral
 Lennätyspaikka vaikuttaa valintaan: aukeat pellot sopivat moottoriliidokeille, kun taas pienemmät alueet sopivat pyörällisille moottorikoneille.
 
 [**RTF-paketit (Ready-to-Fly)**](/aloittelijan-opas/lennokkisanastoa/#r) ovat suositeltavia, sillä ne sisältävät lennokin, radion, akun ja laturin. Suomessa suosittuja merkkejä ovat **Multiplex** ja **Graupner**, joita saa hyvin kotimaisista ja eurooppalaisista verkkokaupoista.
+
+## Kysy nämä ennen ostamista
+
+Hyvä ensimmäinen lennokki ei ole aina hienoimman näköinen, vaan sellainen, jolla pääset toistamaan perusasioita turvallisesti. Ennen ostamista kannattaa selvittää:
+
+- Saako malliin varaosia, etenkin potkureita, siipiä, runko-osia ja laskutelineitä?
+- Sopivatko mukana tuleva radio, akku ja laturi myös myöhempään käyttöön, vai ovatko ne vain kyseisen paketin mukana toimivia perusosia?
+- Onko lennokki riittävän suuri näkyäkseen hyvin ilmassa, mutta silti helppo kuljettaa kentälle?
+- Kestääkö materiaali aloittelijan kovia laskuja, ja voiko vauriot korjata liimalla tai teipillä?
+- Onko mallista kokemusta muilla harrastajilla, joilta voit kysyä säätöihin ja ensilentoon apua?
+
+Jos vastaus on moneen kohtaan epäselvä, älä kiirehdi ostosta. Ensimmäinen sopiva lennokki löytyy helpommin, kun näet muutaman vaihtoehdon kentällä ja kuulet, miten ne oikeasti lentävät.
 
 ## Ensimmäisen lennokin kokoaminen ja tarkistukset
 
@@ -220,11 +233,9 @@ Suomessa lennokkeja ja tarvikkeita myyvät useat liikkeet:
 
 ## Yhteenveto
 
-Ensimmäisen lennokin valinta on tärkeä askel harrastuksen aloittamisessa. Suosittelemme vakaata trainerityyppistä lennokkia, mieluiten PNF tai RTF-pakettina sähkömoottorilla. Harjoittele rauhallisissa olosuhteissa ja pyydä apua kokeneemmilta harrastajilta tarpeen tullen.
+Suosittelemme vakaata trainerityyppistä lennokkia, mieluiten PNF- tai RTF-pakettina sähkömoottorilla. Harjoittele rauhallisissa olosuhteissa ja pyydä apua kokeneemmilta, kun tarvitset.
 
-Muista, että jokainen lennättäjä on joskus ollut aloittelija. Virheet ovat osa oppimisprosessia, joten älä lannistu pienistä kolhuista. Lennokkiharrastus tarjoaa paljon iloa ja oppimiskokemuksia, kun pääset alkuun!
-
-**Haluatko lisätietoja tai apua lennokin valinnassa?** Tule käymään [Vallilan Lennokkikerhon kentällä](/lennokkikenttä/) tai ota [yhteyttä](/yhteystiedot/). Autamme mielellämme sinut alkuun tässä kiehtovassa harrastuksessa!
+**Haluatko lisätietoja tai apua lennokin valinnassa?** Tule käymään [Vallilan Lennokkikerhon kentällä](/lennokkikenttä/) tai ota [yhteyttä](/yhteystiedot/).
 
 <div class="button-container">
 <a href="/aloittelijan-opas/" class="button-link">Takaisin aloittelijan oppaaseen</a>

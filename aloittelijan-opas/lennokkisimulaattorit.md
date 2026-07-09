@@ -7,9 +7,9 @@ description: Tutustu RC-lennokkisimulaattoreihin ja opi lennättämään turvall
 keywords: rc lennokki, simulaattori, lennokkisimulaattori, harjoittelu, aloittelija, lennätyksen opettelu
 ---
 
-Ennen oikean lennokin ohjaamista on viisasta harjoitella RC-lentosimulaattorilla. Simulaattorit opettavat ohjaamaan konetta ulkopuolelta ja hahmottamaan sen asentoa, nopeutta ja suuntaa. Ne auttavat erityisesti tottumaan siihen, että kohti lentävä lennokki vaatii ohjauksen peilikuvana.
+Ennen oikean lennokin ohjaamista kannattaa harjoitella RC-lentosimulaattorilla. Simulaattori opettaa hahmottamaan lennokin asentoa, nopeutta ja suuntaa silloin, kun ohjaaja seisoo maassa ja kone liikkuu eri suuntiin. Tärkein taito on oppia ohjaamaan myös silloin, kun lennokki lentää kohti: silloin kallistus näyttää aloittelijasta helposti käänteiseltä.
 
-Simulaattori on erinomainen tapa opetella RC-lennokin ohjaamista turvallisesti ja edullisesti – ilman pelkoa siitä, että arvokas lennokkisi rysähtäisi maahan ensilennolla. Olitpa vasta-alkaja tai kokenut harrastaja, simulaattori tarjoaa hauskan ja opettavaisen ympäristön taitojesi kehittämiseen.
+Simulaattori ei korvaa kentällä saatavaa opastusta, mutta se vähentää ensimmäisten lentojen kuormaa. Kun perusohjaukset, käännökset ja laskukierros ovat tuttuja ruudulla, kentällä voi keskittyä enemmän ympäristöön, tuuleen ja turvalliseen lentämiseen.
 
 ## Sisällysluettelo
 
@@ -24,7 +24,7 @@ Simulaattori on erinomainen tapa opetella RC-lennokin ohjaamista turvallisesti j
 
 ## 1. Miksi käyttää simulaattoria?
 
-Simulaattori on kuin luotettava lentokouluttaja, joka kulkee mukanasi. Tässä muutamia syitä, miksi se on loistava valinta:  
+Simulaattorin hyöty on toistojen määrä. Oikealla lennokilla yksi virhe voi rikkoa potkurin, laskutelineen tai rungon. Simulaattorissa saman virheen voi tehdä kymmeniä kertoja ja oppia korjaamaan sen.
 
 - **Ei riskiä:** Harjoittele ilman huolta lennokin rikkoutumisesta.  
 - **Joustavuus:** Voit lennättää missä ja milloin vain – vaikka sadesäällä kotona!  
@@ -68,12 +68,25 @@ Simulaattorin pyörittäminen ei vaadi huipputietokonetta, mutta muutama perusas
 
 ## 5. Harjoitusohjelma ensilennoille ja jatkoon
 
+Tee harjoitukset mieluummin lyhyinä ja toistuvina jaksoina kuin yhtenä pitkänä sessiona. 10-20 minuuttia kerrallaan riittää, jos harjoittelet tietoisesti.
+
 1. **Suorat lennot:** Lennä itsestä poispäin ja takaisin.
 2. **Käännökset:** Loivat kaarrokset vasemmalle ja oikealle.
 3. **Kohti itseä lentäminen:** Harjoittele peilikuvakontrollia.
 4. **Korkeuden hallinta:** Pidä tasainen korkeus.
 5. **Laskeutuminen:** Pehmeä, hallittu lasku.
 6. **Hätätilanteet:** [Sakkaus](/aloittelijan-opas/lennokkisanastoa/#s), liiallinen kallistus – turvallista harjoitella simulaattorissa.
+
+### Ennen ensimmäistä oikeaa lentoa
+
+Ensilentoa varten sinun ei tarvitse osata temppuja. Riittää, että pystyt toistuvasti tekemään nämä:
+
+- nousu tai turvallinen käsiheiton jälkeinen oikaisu
+- laaja kahdeksikko molempiin suuntiin
+- lento poispäin, sivusuunnassa ja kohti itseä
+- kaasun rauhallinen käyttö
+- laskukierros vastatuuleen
+- keskeytetty lasku eli uusi kierros, jos lähestyminen menee huonoksi
 
 ## 6. Vinkkejä tehokkaaseen harjoitteluun
 

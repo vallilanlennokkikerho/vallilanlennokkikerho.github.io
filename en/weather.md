@@ -13,7 +13,7 @@ keywords: Weather information, flight activity, weather conditions, wind, temper
         <p>The wind conditions at the Talosaarentie airfield vary according to Finland’s general wind directions. Southwesterly and westerly winds are common in Finland, but the best winds for model flying at the airfield often come from the southeast and northwest. Southwesterly winds can be challenging, as they may cause turbulence due to the nearby forest edge.</p>
 
         <div id="wind-data" class="wind-data"></div>
-        <div id="loading" class="loading">Loading...</div>
+        <div id="loading" class="loading">Loading weather data...</div>
         <div id="error" class="error"></div>
     </div>
     

@@ -11,23 +11,24 @@ keywords: lennokkien rakentaminen, lennokin rakentaminen, rc lennokki rakentamin
 
 <div class="image-container">
 <a href="/images/rakennuspöytä.jpeg">
-    <img src="/images/rakennuspöytä.jpeg" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+    <img src="/images/rakennuspöytä.jpeg" alt="Lennokin siiven rakentamista rakennuspöydällä" style="float: right; width: 200px; margin-left: 15px;" />
 </a>
 </div>
-Lennokkien rakentaminen on palkitseva osa lennokkiharrastusta. Se tarjoaa mahdollisuuden oppia uusia taitoja, ymmärtää lennokin toimintaa syvällisemmin ja kokea ainutlaatuista ylpeyttä, kun itse rakennettu lennokki nousee ilmaan. Tämä opas johdattaa sinut lennokkien rakentamisen perusteisiin – samoihin perusteisiin, joita Vallilan Lennokkikerhon jäsenet käyttävät Talosaaren lennokkikentällä Helsingissä.
+Lennokkien rakentaminen opettaa asioita, joita valmista mallia lennättämällä ei aina huomaa: miksi paino kertyy helposti väärään paikkaan, miksi siiven suoruus ratkaisee paljon ja miksi pieni välys ohjauksessa näkyy ilmassa. Tämä opas johdattaa sinut lennokkien rakentamisen perusteisiin – samoihin perusasioihin, joita Vallilan Lennokkikerhon jäsenet käyttävät omissa projekteissaan.
 
 ## Sisällysluettelo
 
 1. [Miksi rakentaa itse?](#miksi-rakentaa-itse)
-2. [Aloittelijan rakennusprojektit](#aloittelijan-rakennusprojektit)
-3. [Tarvittavat työkalut ja materiaalit](#tarvittavat-työkalut-ja-materiaalit)
-4. [Rakennustekniikat](#rakennustekniikat)
-5. [Yleisimmät rakennusmateriaalit](#yleisimmät-rakennusmateriaalit)
-6. [Vaiheittainen rakennusprosessi](#vaiheittainen-rakennusprosessi)
-7. [Viimeistely ja pintakäsittely](#viimeistely-ja-pintakäsittely)
-8. [Elektroniikan asennus](#elektroniikan-asennus)
-9. [Yleisimmät virheet ja niiden välttäminen](#yleisimmät-virheet-ja-niiden-välttäminen)
-10. [Mistä hankkia rakennussarjoja ja materiaaleja?](#mistä-hankkia-rakennussarjoja-ja-materiaaleja)
+2. [Ennen kuin aloitat projektin](#ennen-kuin-aloitat-projektin)
+3. [Aloittelijan rakennusprojektit](#aloittelijan-rakennusprojektit)
+4. [Tarvittavat työkalut ja materiaalit](#tarvittavat-työkalut-ja-materiaalit)
+5. [Rakennustekniikat](#rakennustekniikat)
+6. [Yleisimmät rakennusmateriaalit](#yleisimmät-rakennusmateriaalit)
+7. [Vaiheittainen rakennusprosessi](#vaiheittainen-rakennusprosessi)
+8. [Viimeistely ja pintakäsittely](#viimeistely-ja-pintakäsittely)
+9. [Elektroniikan asennus](#elektroniikan-asennus)
+10. [Yleisimmät virheet ja niiden välttäminen](#yleisimmät-virheet-ja-niiden-välttäminen)
+11. [Mistä hankkia rakennussarjoja ja materiaaleja?](#mistä-hankkia-rakennussarjoja-ja-materiaaleja)
 
 ## Miksi rakentaa itse?
 
@@ -38,6 +39,19 @@ Itse tehdyn lennokin rakentamisella on monia etuja:
 - **Kustannustehokkuus**: Pitkällä tähtäimellä rakentaminen voi olla edullisempaa kuin valmiiden mallien ostaminen.
 - **Yksilöllisyys**: Voit muokata lennokkia omien mieltymystesi mukaan.
 - **Ylpeys saavutuksesta**: Itse rakennetun lennokin lentäminen tuo ainutlaatuista tyydytystä.
+
+## Ennen kuin aloitat projektin
+
+Hyvä rakennusprojekti alkaa ennen ensimmäistä liimausta. Lue ohjeet läpi kokonaan, tarkista että kaikki osat ovat mukana ja mieti, missä järjestyksessä liimaat rakenteet. Moni virhe syntyy siitä, että osa liimataan paikalleen ennen kuin viereinen osa, servojohto tai vahvike on sovitettu.
+
+Pidä aloitusprojekti riittävän yksinkertaisena:
+
+- ensimmäiseksi projektiksi sopii heittoliidokki, pieni kapalevymalli tai selkeä laserleikattu rakennussarja
+- vältä liian suurta tai nopeaa konetta, jos rakennustekniikat ovat vielä uusia
+- valitse malli, johon löytyy ohjeita, kuvia tai muiden rakentajien kokemuksia
+- varaa aikaa kuivumiselle, sovittamiselle ja virheiden korjaamiselle
+
+Rakentamisessa tärkein taito on rauhallinen sovittaminen. Kun osat sopivat kuivana yhteen ilman pakottamista, liimaus onnistuu yleensä hyvin.
 
 ## Aloittelijan rakennusprojektit
 
@@ -84,7 +98,7 @@ Laserleikatut sarjat, joissa osat ovat valmiiksi muotoon leikattuja, helpottavat
 
 <div class="image-container">
 <a href="/images/rakennusalusta.jpeg">
-    <img src="/images/rakennusalusta.jpeg" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+    <img src="/images/rakennusalusta.jpeg" alt="Lennokin rakennusalusta ja työkaluja" style="float: right; width: 200px; margin-left: 15px;" />
 </a>
 </div>
 
@@ -137,7 +151,7 @@ Tasainen, pehmeä alusta, johon voit kiinnittää osia nuppineuloilla. Esimerkik
 (Katso tarkemmin [Rakennusmateriaalit-sivulta](/aloittelijan-opas/rakennusmateriaalit/#6-komposiitit-lasikuitu-hiilikuitu-kevlar))
 
 - **Edut**: Erittäin vahva ja kevyt.
-- **Haitat**: Kallis, vaatii erityisiä työstötekniiikoita.
+- **Haitat**: Kallis, vaatii erityisiä työstötekniikoita.
 - **Käyttökohteet**: Vahvistukset, putkirungot, siiven salot.
 
 ## Vaiheittainen rakennusprosessi
@@ -160,7 +174,7 @@ Tyypillinen rakennusprosessi etenee näin:
 
 <div class="image-container">
  <a href="/images/siipi.jpeg">
-    <img src="/images/siipi.jpeg" alt="FPV-lennokki" style="float: right; width: 200px; margin-left: 15px;" />
+    <img src="/images/siipi.jpeg" alt="Lennokin siiven rakennetta" style="float: right; width: 200px; margin-left: 15px;" />
 </a>
 </div>
 - Rakenna siivet tasaisella alustalla.
