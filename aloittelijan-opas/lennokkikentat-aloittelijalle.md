@@ -184,16 +184,22 @@ Kerhon jäsenenä lennätät kenttäsääntöjen mukaisesti; kentän ulkopuolell
 
 ## Helsingin seudun muita lennokkikenttiä
 
-Jos Vallilan Lennokkikerhon kenttä ei sijaitse sinulle sopivassa paikassa, pääkaupunkiseudulla ja sen kehyskunnissa toimii myös muita aktiivisia kerhoja ja kenttiä:
+Jos Vallilan Lennokkikerhon kenttä ei sijaitse sinulle sopivassa paikassa, Helsingin seudulla ja lähialueilla toimii myös muita aktiivisia lennokkikerhoja ja -kenttiä:
 
 - **[RC Nummela](https://rcnummela.yhdistysavain.fi/)** (Vihti)
-  - Monipuolinen kenttä Nummelan lentokentän (EFNU) alueella. Sopii RC-lennokeille (polttomoottori- ja sähkökäyttöiset), helikoptereille, droneille, turbiinijeteille sekä RC-autoille. Kerho ylläpitää toimintaa yhteistyössä lentokentän kanssa. Jäsenyys antaa pääsyn alueelle.
+  - Nummelan lentokentän (EFNU) alueella toimiva RC-kerho ja kenttä. Toimintaan kuuluu muun muassa RC-lennokkeja, helikoptereita, droneja, turbiinijettejä ja RC-autoja. Kentän käyttö liittyy kerhon jäsenyyteen.
+
 - **[Espoon RC-ilmailukenttä](https://rc.ilmailukentta.fi/)** (Ämmässuo)
-  - Soukan Lennokkikerho ry:n ja RC-Kopterit ry:n ylläpitämä kenttä. Tilaa kiinteäsiipisille lennokeille, helikoptereille ja erillinen alue FPV-droneille/racingille. Kentällä on järjestetty SM-kilpailuja. Käyttö edellyttää lennätyskorttia ja sääntöjen noudattamista.
-- **[Keravan Lennokkikerho (KeLKo)](https://kelko.fi/)**
-  - Rentoa ja aktiivista lennokkiharrastamista jo yli 45 vuoden ajan. Kesäkaudella kerho kokoontuu Keinukallion kentällä, joka on helposti saavutettavissa jopa bussilla. Erityisen suosittuja ovat tiistai-iltojen lennätykset, jolloin kentällä on vilkasta ja aloittelijat saavat opastusta. Talvisin toiminta jatkuu sisälennätyksinä Kurkelan koululla sekä ulkolennätyksinä Tuusulanjärven jäällä. Toiminta kattaa kaiken droneista ja koptereista perinteisiin lennokkeihin.
-- **[Järvenpään Ilmailukerho (JIK)](https://jikry.yhdistysavain.fi/)**
-  - Perinteikäs kerho, joka tunnetaan erityisen aktiivisesta junioritoiminnasta ja aloittelijaystävällisyydestä. Kerholla on vilkkaat rakenteluillat omissa tiloissa (Myllytie 11), joissa opastetaan kädestä pitäen omien lennokkien rakentamisessa. Toiminta kattaa kaiken vapaastilentävistä liidokeista droneihin. Erinomainen paikka aloittaa harrastus kokeneiden konkareiden opastuksella.
+  - Soukan Lennokkikerho ry:n ja RC-Kopterit ry:n ylläpitämä kenttä. Alueella on tilaa kiinteäsiipisille lennokeille ja helikoptereille sekä erillinen alue FPV-droneille ja racing-toiminnalle. Kentällä on järjestetty myös kilpailutoimintaa. Käyttö edellyttää kentän omien käytäntöjen ja sääntöjen noudattamista.
+
+- **[Keravan Lennokkikerho (KeLKo)](https://kelko.fi/)** (Kerava)
+  - Kesäkaudella kerhon toiminta keskittyy Keinukallion kentälle. Toimintaan kuuluu muun muassa lennokkeja, helikoptereita ja droneja. Kerholla on lisäksi talvikaudella sisälennätystä sekä muuta harrastustoimintaa. Keinukallion kenttä on helposti saavutettavissa myös julkisilla liikennevälineillä.
+
+- **[Järvenpään Ilmailukerho (JIK)](https://jikry.yhdistysavain.fi/)** (Järvenpää)
+  - Monipuolista lennokkiharrastusta ja junioritoimintaa tarjoava kerho. Toimintaan kuuluu muun muassa vapaastilentäviä lennokkeja, liidokkeja ja droneja. Kerho järjestää myös rakentelutoimintaa ja tarjoaa opastusta harrastuksen aloittamiseen.
+
+- **[Porvoon Ilmailukerho – Kullon Lennokki- ja Dronekenttä](https://www.porvoonilmailukerho.org/)** (Kulloo, Porvoo)
+  - Uusi lennokki- ja dronekenttä Porvoon Kulloossa. Kenttä soveltuu RC-lennokeille, helikoptereille ja droneille, mukaan lukien FPV-lennätys. Kentän viralliset avajaiset pidettiin 8.8.2026. Käyttö edellyttää kerhon jäsenyyttä tai vierailijamaksua sekä vaadittavan turvallisuuskoulutuksen suorittamista. Porvoon Ilmailukerho tarjoaa monipuolista lennokki- ja drone-toimintaa sekä tukea harrastuksen aloittamiseen.
 
 ## Muiden lennokkikenttien löytäminen
 
