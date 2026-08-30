@@ -21,12 +21,30 @@ Jos haluat joskus itse kilpailla, aloita lajiesittelyistä ja juttele kerholaist
 - [F3K-lajiesittely](/kilpailut/F3K-lajiesittely/)
 - [TOKA-lajiesittely](/kilpailut/TOKA-lajiesittely/)
 
+## F2B-luokan SM-kilpailu 2026
+
+Kauden 2026 F2B-luokan Suomen mestaruuskilpailu järjestettiin kertaluonteisena tapahtumana lauantaina 29.8.2026. Suomen mestariksi lennätti Tuomas Juutinen, hopealle sijoittui Erkki Ylimäki ja pronssille Kai Karma.
+
+[Lue kilpailuraportti ja tulokset](/kilpailut/f2b-2026/)
+
 ## F2B-luokan SM-osakilpailut 2025
 
 Vallilan Lennokkikerho ry toimi järjestäjänä F2B-luokan SM-osakilpailuissa vuonna 2025:
 
 - **SM-osakilpailu 1**: Lauantai 14.6.2025, Nummela (varapäivä 15.6.2025) [Kilpailukutsu](https://lennokit.net/showthread.php?t=75147)
 - **SM-osakilpailu 3**: Lauantai 16.8.2025, Nummela (varapäivä 17.8.2025) [Kilpailukutsu](https://lennokit.net/showthread.php?t=75283)
+
+### SM-lopputulokset 2025
+
+Vuoden 2025 siimaohjattujen taitolennokkien F2B-luokan Suomen mestaruuden voitti Tuomas Juutinen.
+
+| Sijoitus | Kilpailija       | SM-pisteet / % |
+|:--------:|------------------|---------------:|
+| 1.       | Tuomas Juutinen  | 200,00         |
+| 2.       | Mikko Suokas     | 167,92         |
+| 3.       | Erkki Ylimäki    | 93,35          |
+
+Lähteet: [Suomen Ilmailuliiton toimintakertomus 2025](https://ilmailuliitto.fi/wp-content/uploads/2026/06/Toimintakertomus-2025-hyvaksytty-21.3.2026.pdf) ja [Lennokkien SM-lopputulokset 2025](https://ilmailuliitto.fi/wp-content/uploads/2025/12/Lennokit-2025.pdf).
 
 F2B on näyttävä ja perinteikäs siimaohjattujen taitolennokkien laji. Kilpailuissa yleisöllä on mahdollisuus nähdä koneita läheltä ja tutustua lajiin käytännössä.
 [F2B-lajiesittely](/kilpailut/F2B-lajiesittely/)
