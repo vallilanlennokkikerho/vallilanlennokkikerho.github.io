@@ -45,17 +45,19 @@ The board's responsibilities include:
 - Ensuring compliance with rules and ethical principles
 - Collaborating with stakeholders
 
-### Club Board 2025
+### Club Board 2026
 
 **Chairman:**  
 Kenneth Forsman  
 [Email](mailto:kentsu.forsman@gmail.com)
 
 **Members:**  
-Jarkko Stråhle, Mikko Suokas, Pasi Ruokoaho, and Raimo Kanervo
+Eino Saarela Rossi, Jari Vehmaa, Pasi Ruokoaho, and Raimo Kanervo
 
 **Other Officers:**  
 Treasurer Rae Marja Lumes
+
+Membership applications and general inquiries can be sent to **<vallilanlennokkikerho@gmail.com>**.
 
 <div class="image-container">
 <img src="/images/lennokkikuvia/fokker-dr-1.jpg" alt="Crack Fokker Dr.1" />

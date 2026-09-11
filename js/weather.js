@@ -10,7 +10,15 @@
     const API_VERSION = '2.0.0';
     const API_REQUEST = 'GetFeature';
     const API_STORED_QUERY_ID = 'fmi::observations::weather::multipointcoverage';
-    const API_FMISID = '151028'; // Helsinki Vuosaaren satama
+    // Ensisijainen asema: lähin Talosaarelle. Jos siitä tulee dataa, se on ainoa totuus.
+    // (Asema oli poistunut FMI:n havaintoverkosta; jos se palaa, data otetaan automaattisesti käyttöön.)
+    const API_PRIMARY_FMISID = { id: '151028', name: 'Helsinki Vuosaaren satama' };
+
+    // Varajärjestelmä: lähimmät toimivat asemat, joilla tuuli- ja suuntahavaintoja.
+    const API_FMISIDS = [
+        { id: '101004', name: 'Helsinki Kumpula' },
+        { id: '105392', name: 'Sipoo Itätoukki' }
+    ];
     const API_PARAMETERS = 'windspeedms,winddirection';
     const API_BASE_URL = 'https://opendata.fmi.fi/wfs';
 
@@ -177,18 +185,18 @@
         return null; // No valid/fresh cache found
     }
 
-    async function fetchApiData() {
+    async function fetchApiData(station) {
         const now = new Date();
         const endtime = now.toISOString().split('.')[0] + 'Z';
         const starttime = new Date(now.getTime() - 60 * 60 * 1000).toISOString().split('.')[0] + 'Z'; // Last hour
 
         const params = new URLSearchParams({
             service: API_SERVICE, version: API_VERSION, request: API_REQUEST,
-            storedquery_id: API_STORED_QUERY_ID, fmisid: API_FMISID,
+            storedquery_id: API_STORED_QUERY_ID, fmisid: station.id,
             starttime: starttime, endtime: endtime, parameters: API_PARAMETERS
         });
         const url = `${API_BASE_URL}?${params.toString()}`;
-        console.log(`Fetching FMI data from: ${url}`); // Log URL for debugging
+        console.log(`Fetching FMI data for ${station.name} from: ${url}`); // Log URL for debugging
 
         const response = await fetch(url);
         if (!response.ok) {
@@ -301,6 +309,31 @@
         return { windSpeed: avgSpeed, windDirection: avgDirection };
     }
 
+    function combineStationData(stationData) {
+        if (!stationData || stationData.length === 0) {
+            return null;
+        }
+        if (stationData.length === 1) {
+            return stationData[0];
+        }
+        // Keskiarvo: nopeudet aritmeettisesti, suunnat yksikkövektoreina
+        let speedSum = 0;
+        let dirXSum = 0;
+        let dirYSum = 0;
+        stationData.forEach(point => {
+            const speed = parseFloat(point.windSpeed);
+            const dirRad = parseFloat(point.windDirection) * Math.PI / 180;
+            speedSum += speed;
+            dirXSum += Math.cos(dirRad);
+            dirYSum += Math.sin(dirRad);
+        });
+        const avgSpeed = (speedSum / stationData.length).toFixed(1);
+        const avgDirRad = Math.atan2(dirYSum / stationData.length, dirXSum / stationData.length);
+        let avgDirection = ((avgDirRad * 180 / Math.PI) % 360 + 360) % 360; // Normalize 0-360
+        avgDirection = avgDirection.toFixed(0); // Round
+        return { windSpeed: avgSpeed, windDirection: avgDirection };
+    }
+
     function updateCache(data) {
         // Only update cache if data is valid
         if (!data || !data.hasOwnProperty('windSpeed') || !data.hasOwnProperty('windDirection')) {
@@ -342,23 +375,52 @@
         const fetchTimestamp = Date.now(); // Record time before fetch
 
         try {
-            const xmlString = await fetchApiData();
-            const dataPoints = parseWindDataXml(xmlString);
+            // Haetaan ensisijainen asema ja varajärjestelmän asemat rinnakkain
+            const allStations = [API_PRIMARY_FMISID, ...API_FMISIDS];
+            const settled = await Promise.allSettled(
+                allStations.map(station =>
+                    fetchApiData(station).then(xmlString => parseWindDataXml(xmlString))
+                )
+            );
 
-            // Handle case where API returns data, but no valid points could be parsed
-            if (dataPoints.length === 0) {
-                 console.warn("API fetch successful, but no valid data points found/parsed.");
-                 // Decide how to handle this - show error? Show stale?
-                 // For now, let's show an error indicating no current data.
-                 throw new Error("Tuoreita havaintoja ei saatavilla FMI:ltä tällä hetkellä.");
+            // 1. Ensisijainen asema: jos siitä tulee dataa, se on ainoa totuus
+            const primaryResult = settled[0];
+            if (primaryResult.status === 'fulfilled') {
+                const primaryAvg = calculateAverageWindData(primaryResult.value);
+                if (primaryAvg) {
+                    console.log(`Primary station ${API_PRIMARY_FMISID.name}:`, primaryAvg);
+                    fetchedData = primaryAvg;
+                } else {
+                    console.warn(`Primary station ${API_PRIMARY_FMISID.name} returned no valid data points.`);
+                }
+            } else {
+                console.warn(`Fetching failed for primary station ${API_PRIMARY_FMISID.name}:`, primaryResult.reason);
             }
 
-
-            fetchedData = calculateAverageWindData(dataPoints);
-
-            // Check if calculation failed
+            // 2. Varajärjestelmä: käytetään vain, jos ensisijaisesta ei saatu dataa
             if (!fetchedData) {
-                 throw new Error("Keskiarvon laskenta epäonnistui.");
+                console.log('Using fallback stations.');
+                const stationAverages = [];
+                settled.slice(1).forEach((result, index) => {
+                    if (result.status === 'fulfilled') {
+                        const avg = calculateAverageWindData(result.value);
+                        if (avg) {
+                            console.log(`Station ${API_FMISIDS[index].name}:`, avg);
+                            stationAverages.push(avg);
+                        } else {
+                            console.warn(`Station ${API_FMISIDS[index].name} returned no valid data points.`);
+                        }
+                    } else {
+                        console.warn(`Fetching failed for station ${API_FMISIDS[index].name}:`, result.reason);
+                    }
+                });
+
+                fetchedData = combineStationData(stationAverages);
+            }
+
+            // Check if we got any data
+            if (!fetchedData) {
+                 throw new Error("Tuoreita havaintoja ei saatavilla FMI:ltä tällä hetkellä.");
             }
 
 
@@ -407,7 +469,7 @@
     // Add event listener to run fetchWindData when the DOM is fully loaded
     document.addEventListener('DOMContentLoaded', fetchWindData);
 
-    // Optional: Refresh data periodically
-    // setInterval(fetchWindData, CACHE_DURATION_MS + 1000); // Add a small buffer
+    // Refresh data periodically
+    setInterval(fetchWindData, CACHE_DURATION_MS + 1000); // Add a small buffer
 
 })(); // End of IIFE

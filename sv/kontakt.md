@@ -45,17 +45,19 @@ Styrelsen ansvarar för:
 - Efterlevnad av klubbens regler och värderingar  
 - Samarbete med intressenter och partners  
 
-### Styrelsen 2025
+### Styrelsen 2026
 
 **Ordförande:**  
 Kenneth Forsman  
 [Email](mailto:kentsu.forsman@gmail.com)
 
 **Styrelsemedlemmar:**  
-Jarkko Stråhle, Mikko Suokas, Pasi Ruokoaho och Raimo Kanervo
+Eino Saarela Rossi, Jari Vehmaa, Pasi Ruokoaho och Raimo Kanervo
 
 **Övriga funktionärer:**  
 Kassör Rae Marja Lumes
+
+Medlemsansökningar och allmänna förfrågningar kan skickas till **<vallilanlennokkikerho@gmail.com>**.
 
 <div class="image-container">
 <img src="/images/lennokkikuvia/fokker-dr-1.jpg" alt="Crack Fokker Dr.1" />

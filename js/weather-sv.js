@@ -10,7 +10,15 @@
     const API_VERSION = '2.0.0';
     const API_REQUEST = 'GetFeature';
     const API_STORED_QUERY_ID = 'fmi::observations::weather::multipointcoverage';
-    const API_FMISID = '151028'; // Helsingfors Vuosaari hamn
+    // Primär station: närmast Talosaari. Om den returnerar data är den den enda sanningen.
+    // (Stationen hade tagits bort ur FMI:s observationsnät; om den kommer tillbaka används dess data automatiskt.)
+    const API_PRIMARY_FMISID = { id: '151028', name: 'Helsingfors Vuosaari hamn' };
+
+    // Reservsystem: närmast fungerande stationer med vind- och riktningsobservationer.
+    const API_FMISIDS = [
+        { id: '101004', name: 'Helsingfors Kumpula' },
+        { id: '105392', name: 'Sibbo Itätoukki' }
+    ];
     const API_PARAMETERS = 'windspeedms,winddirection';
     const API_BASE_URL = 'https://opendata.fmi.fi/wfs';
 
@@ -177,18 +185,18 @@
         return null; // Ingen giltig/färsk cache hittades
     }
 
-    async function fetchApiData() {
+    async function fetchApiData(station) {
         const now = new Date();
         const endtime = now.toISOString().split('.')[0] + 'Z';
         const starttime = new Date(now.getTime() - 60 * 60 * 1000).toISOString().split('.')[0] + 'Z'; // Sista timmen
 
         const params = new URLSearchParams({
             service: API_SERVICE, version: API_VERSION, request: API_REQUEST,
-            storedquery_id: API_STORED_QUERY_ID, fmisid: API_FMISID,
+            storedquery_id: API_STORED_QUERY_ID, fmisid: station.id,
             starttime: starttime, endtime: endtime, parameters: API_PARAMETERS
         });
         const url = `${API_BASE_URL}?${params.toString()}`;
-        console.log(`Hämtar FMI-data från: ${url}`); // Logga URL för felsökning
+        console.log(`Hämtar FMI-data för ${station.name} från: ${url}`); // Logga URL för felsökning
 
         const response = await fetch(url);
         if (!response.ok) {
@@ -295,6 +303,31 @@
         return { windSpeed: avgSpeed, windDirection: avgDirection };
     }
 
+    function combineStationData(stationData) {
+        if (!stationData || stationData.length === 0) {
+            return null;
+        }
+        if (stationData.length === 1) {
+            return stationData[0];
+        }
+        // Medelvärde: hastigheter aritmetiskt, riktningar som enhetsvektorer
+        let speedSum = 0;
+        let dirXSum = 0;
+        let dirYSum = 0;
+        stationData.forEach(point => {
+            const speed = parseFloat(point.windSpeed);
+            const dirRad = parseFloat(point.windDirection) * Math.PI / 180;
+            speedSum += speed;
+            dirXSum += Math.cos(dirRad);
+            dirYSum += Math.sin(dirRad);
+        });
+        const avgSpeed = (speedSum / stationData.length).toFixed(1);
+        const avgDirRad = Math.atan2(dirYSum / stationData.length, dirXSum / stationData.length);
+        let avgDirection = ((avgDirRad * 180 / Math.PI) % 360 + 360) % 360; // Normalisera 0-360
+        avgDirection = avgDirection.toFixed(0); // Avrunda
+        return { windSpeed: avgSpeed, windDirection: avgDirection };
+    }
+
     function updateCache(data) {
         // Uppdatera cache endast om data är giltig
         if (!data || !data.hasOwnProperty('windSpeed') || !data.hasOwnProperty('windDirection')) {
@@ -336,20 +369,52 @@
         const fetchTimestamp = Date.now(); // Spara tid före hämtning
 
         try {
-            const xmlString = await fetchApiData();
-            const dataPoints = parseWindDataXml(xmlString);
+            // Hämta primärstationen och reservstationerna parallellt
+            const allStations = [API_PRIMARY_FMISID, ...API_FMISIDS];
+            const settled = await Promise.allSettled(
+                allStations.map(station =>
+                    fetchApiData(station).then(xmlString => parseWindDataXml(xmlString))
+                )
+            );
 
-            // Hantera fall där API returnerar data, men inga giltiga punkter kunde parsas
-            if (dataPoints.length === 0) {
-                console.warn("API-hämtning lyckades, men inga giltiga datapunkter hittades/parsades.");
-                throw new Error("Inga färska observationer tillgängliga från FMI just nu.");
+            // 1. Primärstation: om den returnerar data är den den enda sanningen
+            const primaryResult = settled[0];
+            if (primaryResult.status === 'fulfilled') {
+                const primaryAvg = calculateAverageWindData(primaryResult.value);
+                if (primaryAvg) {
+                    console.log(`Primärstation ${API_PRIMARY_FMISID.name}:`, primaryAvg);
+                    fetchedData = primaryAvg;
+                } else {
+                    console.warn(`Primärstation ${API_PRIMARY_FMISID.name} returnerade inga giltiga datapunkter.`);
+                }
+            } else {
+                console.warn(`Hämtning misslyckades för primärstation ${API_PRIMARY_FMISID.name}:`, primaryResult.reason);
             }
 
-            fetchedData = calculateAverageWindData(dataPoints);
-
-            // Kontrollera om beräkning misslyckades
+            // 2. Reservsystem: används endast om ingen data erhölls från primärstationen
             if (!fetchedData) {
-                throw new Error("Medelvärdesberäkning misslyckades.");
+                console.log('Använder reservstationer.');
+                const stationAverages = [];
+                settled.slice(1).forEach((result, index) => {
+                    if (result.status === 'fulfilled') {
+                        const avg = calculateAverageWindData(result.value);
+                        if (avg) {
+                            console.log(`Station ${API_FMISIDS[index].name}:`, avg);
+                            stationAverages.push(avg);
+                        } else {
+                            console.warn(`Station ${API_FMISIDS[index].name} returnerade inga giltiga datapunkter.`);
+                        }
+                    } else {
+                        console.warn(`Hämtning misslyckades för station ${API_FMISIDS[index].name}:`, result.reason);
+                    }
+                });
+
+                fetchedData = combineStationData(stationAverages);
+            }
+
+            // Kontrollera om något data erhölls
+            if (!fetchedData) {
+                throw new Error("Inga färska observationer tillgängliga från FMI just nu.");
             }
 
             // 3. Visa färsk data & uppdatera cache
@@ -392,7 +457,7 @@
     // Lägg till händelselyssnare för att köra fetchWindData när DOM är helt laddad
     document.addEventListener('DOMContentLoaded', fetchWindData);
 
-    // Valfritt: Uppdatera data periodiskt
-    // setInterval(fetchWindData, CACHE_DURATION_MS + 1000); // Lägg till en liten buffert
+    // Uppdatera data periodiskt
+    setInterval(fetchWindData, CACHE_DURATION_MS + 1000); // Lägg till en liten buffert
 
 })();
