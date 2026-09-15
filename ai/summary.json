@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "updated": "2026-09-15",
+  "organization": {
+    "name": "Vallilan lennokkikerho ry",
+    "alternateName": "Vallilan lennokkikerho",
+    "url": "https://vallilanlennokkikerho.fi/",
+    "email": "vallilanlennokkikerho@gmail.com",
+    "type": "rekisteröitynyt yhdistys - radio-ohjattavien lennokkien kerho",
+    "chairman": "Kenneth Forsman",
+    "foundedActivity": "lennokki- ja RC-lentoharrastus Talosaaren kentällä Helsingissä"
+  },
+  "location": {
+    "name": "Talosaaren lennokkikenttä",
+    "address": "Talosaarentie 108, 00890 Helsinki, Suomi",
+    "geo": { "latitude": 60.243574, "longitude": 25.178451 },
+    "openingHours": "avoin ympäri vuorokauden ympäri vuoden"
+  },
+  "summary": "Vallilan lennokkikerho ry on helsinkiläinen radio-ohjattavien lennokkien kerho. Talosaaren lennokkikenttä (Talosaarentie 108, 00890 Helsinki) on avoin ympäri vuorokauden, ja sen ylläpito tapahtuu talkoovoimin. Jäseneksi liitytään sivun /jäseneksi/ kautta.",
+  "pages": {
+    "membership": "https://vallilanlennokkikerho.fi/jäseneksi/",
+    "field": "https://vallilanlennokkikerho.fi/lennokkikenttä/",
+    "contact": "https://vallilanlennokkikerho.fi/yhteystiedot/",
+    "beginnerGuide": "https://vallilanlennokkikerho.fi/aloittelijan-opas/",
+    "weather": "https://vallilanlennokkikerho.fi/sää/",
+    "rules": "https://vallilanlennokkikerho.fi/yhdistyksen-säännöt/"
+  }
+}

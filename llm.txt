@@ -1,0 +1,9 @@
+# Vallilan lennokkikerho - condensed context (ADF-002)
+
+Vallilan lennokkikerho ry on helsinkiläinen radio-ohjattavien lennokkien
+(mallilentokoneiden) kerho. Kenttä: Talosaaren lennokkikenttä,
+Talosaarentie 108, 00890 Helsinki (geo 60.243574, 25.178451), avoin
+ympäri vuorokauden. Ylläpito talkoovoimin. Yhteys:
+vallilanlennokkikerho@gmail.com, puheenjohtaja Kenneth Forsman.
+Sivustot: fi https://vallilanlennokkikerho.fi/ | en /en/rc-airfield/ | sv /sv/Modellflygfält/
+AI-tiedostot: /llms.txt, /llms-full.txt, /ai.txt, /ai.json, /identity.json, /brand.txt

@@ -91,4 +91,60 @@
 <meta name="twitter:image" content="{{ full_image_url }}">
 <meta name="twitter:image:alt" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "{{ site.url }}/#organization",
+      "name": "{{ site.title }}",
+      "alternateName": "Vallilan lennokkikerho",
+      "url": "{{ site.url }}/",
+      "logo": "{{ site.url }}/images/logo.png",
+      "email": "{{ site.email }}",
+      "description": "Helsinkiläinen radio-ohjattavien lennokkien (mallilentokoneiden) kerho, jonka Talosaaren lennokkikenttä sijaitsee Talosaarentie 108, 00890 Helsinki.",
+      "additionalType": "https://schema.org/SportsOrganization",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Talosaarentie 108",
+        "postalCode": "00890",
+        "addressLocality": "Helsinki",
+        "addressCountry": "FI"
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Talosaaren lennokkikenttä",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Talosaarentie 108",
+          "postalCode": "00890",
+          "addressLocality": "Helsinki",
+          "addressCountry": "FI"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 60.243574,
+          "longitude": 25.178451
+        },
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.url }}/#website",
+      "url": "{{ site.url }}/",
+      "name": "{{ site.title }}",
+      "inLanguage": "fi-FI",
+      "publisher": { "@id": "{{ site.url }}/#organization" }
+    }
+  ]
+}
+</script>
+
 </head>

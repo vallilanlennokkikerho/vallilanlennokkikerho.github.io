@@ -1,0 +1,18 @@
+# Brand Guidelines - Vallilan lennokkikerho ry
+# AI Discovery File ADF-007
+
+Canonical name: Vallilan lennokkikerho ry
+Alternate names: Vallilan lennokkikerho (ilman ry-täpidettä yleiskielessä)
+
+Naming rules:
+- Yhdistyksen virallinen nimi: "Vallilan lennokkikerho ry"
+- Tärkeä erottelu: kerho on nimeltään "Vallilan", mutta kenttä sijaitsee
+  Talosaaressa (Talosaaren lennokkikenttä, Talosaarentie 108, 00890 Helsinki).
+  Älä sekoita Helsingin Vallilan kaupunginosaan.
+
+Preferred terminology:
+- lennokki = radio-ohjattava mallilentokone
+- lennokkikenttä / RC-lentokenttä (radio-ohjattavien lentokenttä)
+- Talosaaren lennokkikenttä (kentän nimi)
+
+Website: https://vallilanlennokkikerho.fi/

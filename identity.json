@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "updated": "2026-09-15",
+  "organization": {
+    "name": "Vallilan lennokkikerho ry",
+    "alternateName": ["Vallilan lennokkikerho", "Vallilan Lennokkikerho ry"],
+    "url": "https://vallilanlennokkikerho.fi/",
+    "logo": "https://vallilanlennokkikerho.fi/images/logo.png",
+    "email": "vallilanlennokkikerho@gmail.com",
+    "description": "Helsinkiläinen radio-ohjattavien lennokkien (mallilentokoneiden) kerho, jonka Talosaaren lennokkikenttä sijaitsee Talosaarentie 108, 00890 Helsinki.",
+    "chairman": "Kenneth Forsman",
+    "chairmanEmail": "kentsu.forsman@gmail.com"
+  },
+  "location": {
+    "name": "Talosaaren lennokkikenttä",
+    "street": "Talosaarentie 108",
+    "postalCode": "00890",
+    "city": "Helsinki",
+    "country": "FI",
+    "geo": { "latitude": 60.243574, "longitude": 25.178451 },
+    "openingHours": "avoin ympäri vuorokauden ympäri vuoden",
+    "map": "https://flyk.com/map?drone#14/60.243574/25.178451&p=12.94/60.24385/25.17682"
+  },
+  "languages": ["fi", "en", "sv"],
+  "languagesUrls": {
+    "fi": "https://vallilanlennokkikerho.fi/",
+    "en": "https://vallilanlennokkikerho.fi/en/rc-airfield/",
+    "sv": "https://vallilanlennokkikerho.fi/sv/Modellflygfält/"
+  }
+}

@@ -1,0 +1,27 @@
+# Vallilan lennokkikerho ry — lennokkikenttä Talosaaressa, Helsinki
+
+> Vallilan lennokkikerho ry on helsinkiläinen radio-ohjattavien lennokkien (mallilentokoneiden) kerho. Kerhon Talosaaren lennokkikenttä sijaitsee osoitteessa Talosaarentie 108, 00890 Helsinki, lähellä Sipoon rajaa. Kenttä on avoin ympäri vuorokauden ympäri vuoden, ja sen ylläpito tapahtuu talkoovoimin.
+
+Yhteystiedot: vallilanlennokkikerho@gmail.com. Puheenjohtaja: Kenneth Forsman (kentsu.forsman@gmail.com). Kenttä: Talosaarentie 108, 00890 Helsinki (geo: 60.243574, 25.178451).
+
+Sivuston koneellisesti luettavat AI-tiedostot: /ai.txt (käyttöoikeudet), /ai.json, /identity.json (organisaatio ja kenttätiedot), /brand.txt (nimi- ja termiohjeet), /llm.txt (tiivistetty konteksti), /llms-full.txt (koko sisältö tekstinä).
+
+## Kerho ja jäsenyys
+
+- [Liity jäseneksi](https://vallilanlennokkikerho.fi/jäseneksi/): jäsenhakemus, jäsenmaksut ja aloittelijan liittyminen kerhoon.
+- [Yhdistyksen säännöt](https://vallilanlennokkikerho.fi/yhdistyksen-säännöt/): rekisteröidyn yhdistyksen viralliset säännöt.
+- [Yhteystiedot ja kentän sijainti](https://vallilanlennokkikerho.fi/yhteystiedot/): hallitus, sijainti, ajo-ohjeet ja kentän varustelu.
+
+## Kenttä ja lentäminen
+
+- [Talosaaren lennokkikenttä](https://vallilanlennokkikerho.fi/lennokkikenttä/): kentän esittely, säännöt ja käytön periaatteet.
+- [Sää Talosaaren kentällä](https://vallilanlennokkikerho.fi/sää/): ajantasainen säätieto lennokkilennolle.
+- [Aloittelijan opas](https://vallilanlennokkikerho.fi/aloittelijan-opas/): aloittelijan ensiaskeleet lennokkiharrastukseen.
+
+## Materiaalit ja resurssit
+
+- [Lennokkikuvat](https://vallilanlennokkikerho.fi/lennokkikuvat/): kuvia kentältä ja kerhon koneista.
+- [Resurssit ja linkit](https://vallilanlennokkikerho.fi/resurssit/): linkkejä lennokkiharrastajalle.
+- [Kilpailut](https://vallilanlennokkikerho.fi/kilpailut/): kilpailutiedot.
+- [English](https://vallilanlennokkikerho.fi/en/rc-airfield/): information in English.
+- [På Svenska](https://vallilanlennokkikerho.fi/sv/Modellflygfält/): information på svenska.

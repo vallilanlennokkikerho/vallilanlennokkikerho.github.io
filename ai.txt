@@ -1,0 +1,17 @@
+# AI Usage Policy for vallilanlennokkikerho.fi
+# AI Discovery File ADF-004 (human-readable)
+
+Policy: open
+Updated: 2026-09-15
+Contact: vallilanlennokkikerho@gmail.com
+
+User-agent: *
+Allow: /
+
+Verified AI crawlers (OpenAI, Anthropic, Google, Perplexity) may crawl and
+index this site. Content may be quoted with attribution to
+Vallilan lennokkikerho ry (https://vallilanlennokkikerho.fi/).
+
+Site: Vallilan lennokkikerho ry - radio-ohjattavien lennokkien kerho
+Field: Talosaaren lennokkikenttä, Talosaarentie 108, 00890 Helsinki, Finland
+Geo: 60.243574, 25.178451

@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "updated": "2026-09-15",
+  "policy": "open",
+  "site": "https://vallilanlennokkikerho.fi/",
+  "organization": {
+    "name": "Vallilan lennokkikerho ry",
+    "url": "https://vallilanlennokkikerho.fi/",
+    "type": "rekisteröitynyt yhdistys (radio-ohjattavien lennokkien kerho)"
+  },
+  "permissions": [
+    {
+      "agent": "*",
+      "allow": ["crawl", "index", "quote", "summarize"],
+      "attribution": {
+        "required": true,
+        "source": "Vallilan lennokkikerho ry - https://vallilanlennokkikerho.fi/"
+      }
+    }
+  ],
+  "rateLimitHint": "reasonable",
+  "contact": "vallilanlennokkikerho@gmail.com"
+}

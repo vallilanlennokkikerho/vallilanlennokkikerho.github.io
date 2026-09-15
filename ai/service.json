@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "updated": "2026-09-15",
+  "organization": "Vallilan lennokkikerho ry",
+  "site": "https://vallilanlennokkikerho.fi/",
+  "services": [
+    {
+      "name": "Talosaaren lennokkikentän käyttö",
+      "description": "Lennokkikenttä radio-ohjattavien mallilentokoneiden lentotoimintaan, avoin ympäri vuorokauden. Käyttö kenttäsääntöjen mukaisesti.",
+      "url": "https://vallilanlennokkikerho.fi/lennokkikenttä/"
+    },
+    {
+      "name": "Jäsenyys kerhoon",
+      "description": "Jäseneksi voivat liittyä lennokkiharrastuksen aloittelijat ja kokeneet lentäjät. Jäsenhakemus sivulla.",
+      "url": "https://vallilanlennokkikerho.fi/jäseneksi/"
+    },
+    {
+      "name": "Aloittelijan opas ja ensimmäinen kenttäkäynti",
+      "description": "Ohjeita lennokkiharrastuksen aloittamiseen ja kerhon tuki ensimmäisellä kenttäkäynnillä.",
+      "url": "https://vallilanlennokkikerho.fi/aloittelijan-opas/"
+    },
+    {
+      "name": "Kenttätalkoot ja ylläpito",
+      "description": "Kentän ylläpito tapahtuu talkooperiaatteella: vuosittaiset kenttätalkoot ja aktiivijäsenten nurmikonhoito.",
+      "url": "https://vallilanlennokkikerho.fi/yhteystiedot/"
+    }
+  ]
+}

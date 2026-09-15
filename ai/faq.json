@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "updated": "2026-09-15",
+  "site": "https://vallilanlennokkikerho.fi/",
+  "mainEntity": [
+    {
+      "question": "Missä Vallilan lennokkikerhon kenttä sijaitsee?",
+      "answer": "Talosaaren lennokkikenttä sijaitsee osoitteessa Talosaarentie 108, 00890 Helsinki, lähellä Sipoon rajaa (geo: 60.243574, 25.178451)."
+    },
+    {
+      "question": "Onko kenttä avoin ympäri vuorokauden?",
+      "answer": "Kyllä. Talosaaren lennokkikenttä on avoin ympäri vuorokauden ympäri vuoden, ja sen ylläpito tapahtuu talkoovoimin."
+    },
+    {
+      "question": "Miten liityn jäseneksi?",
+      "answer": "Jäsenhakemus ja ohjeet löytyvät osoitteesta https://vallilanlennokkikerho.fi/jäseneksi/ tai sähköpostitse vallilanlennokkikerho@gmail.com."
+    },
+    {
+      "question": "Kuka kerhoa johtaa?",
+      "answer": "Hallituksen puheenjohtaja on Kenneth Forsman (kentsu.forsman@gmail.com). Yleiset yhteydenotot: vallilanlennokkikerho@gmail.com."
+    },
+    {
+      "question": "Onko aloittelijalle ohjeita?",
+      "answer": "Kyllä. Aloittelijan opas löytyy osoitteesta https://vallilanlennokkikerho.fi/aloittelijan-opas/, ja kerho auttaa ensimmäisellä kenttäkäynnillä."
+    }
+  ]
+}
