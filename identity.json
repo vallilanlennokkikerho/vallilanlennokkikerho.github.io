@@ -9,7 +9,9 @@
     "email": "vallilanlennokkikerho@gmail.com",
     "description": "Helsinkiläinen radio-ohjattavien lennokkien (mallilentokoneiden) kerho, jonka Talosaaren lennokkikenttä sijaitsee Talosaarentie 108, 00890 Helsinki.",
     "chairman": "Kenneth Forsman",
-    "chairmanEmail": "kentsu.forsman@gmail.com"
+    "chairmanEmail": "kentsu.forsman@gmail.com",
+    "affiliation": "Suomen Ilmailuliitto ry (jäsenkerho)",
+    "sameAs": ["https://ilmailuliitto.fi/jasenkerho/vallilan-lennokkikerho/"]
   },
   "location": {
     "name": "Talosaaren lennokkikenttä",
