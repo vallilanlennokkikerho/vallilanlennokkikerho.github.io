@@ -30,7 +30,8 @@ Toiminta kentällä tapahtuu omalla vastuulla. Ihmisten turvallisuudesta on pide
 
 ### Rekisteröityminen
 
-Jokaisen, joka lennättää yli 250 g painavia lennokkeja tai kameralla varustettuja miehittämättömiä ilma-aluksia, tulee tarkistaa Traficomin rekisteröitymisvaatimukset. Rekisteröinti ja ajantasaiset maksut löytyvät Traficomin [rekisteröityminen ja teoriakoe -sivulta](https://www.traficom.fi/fi/miehittamaton-ilmailu/rekisteroityminen-ja-teoriakoe). Yhdistyksen puitteissa tapahtuva harrastetoiminta rajoittuu Talosaaren lennokkikentälle, jossa jäsenet toimivat voimassa olevien lennokkitoiminnan sääntöjen ja turvaohjeiden mukaisesti. [Talosaarentien lennokkikentän kenttäsäännöt](/lennokkikenttä/Talosaari_lennokkikentän_kenttäsäännöt/)
+Jokaisen, joka lennättää yli 250 g painavia lennokkeja tai kameralla varustettuja miehittämättömiä ilma-aluksia, tulee tarkistaa Traficomin rekisteröitymisvaatimukset. Rekisteröinti ja ajantasaiset maksut löytyvät Traficomin [rekisteröityminen ja teoriakoe -sivulta](https://www.traficom.fi/fi/miehittamaton-ilmailu/rekisteroityminen-ja-teoriakoe). 
+Yhdistyksen puitteissa tapahtuva harrastetoiminta rajoittuu Talosaaren lennokkikentälle. Kentällä noudatetaan voimassa olevia [Talosaarentien lennokkikentän kenttäsääntöjä](/lennokkikenttä/Talosaari_lennokkikentän_kenttäsäännöt/) (versio 1.3). Kerhon omassa toiminnassa kentällä ei ole ikärajaa eikä avoimen kategorian tutkintovaatimuksia (A1/A3, A2).
 
 ### Toiminta yksityishenkilönä
 

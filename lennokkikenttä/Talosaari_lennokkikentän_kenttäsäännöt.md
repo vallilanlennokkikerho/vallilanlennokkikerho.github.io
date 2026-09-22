@@ -9,104 +9,113 @@ keywords: Lennokkitoiminta, Säännöt, Turvaohjeet, Talosaarentien Lennokkikent
 ---
 
 
-## Talosaarentien lennokkikentälle v1.2
+## HELSINKI – TALOSAARENTIEN LENNOKKIKENTÄN SÄÄNNÖT
 
-### Sisällysluettelo
+Vallilan lennokkikerho ry &nbsp; | &nbsp; Versio 1.3 &nbsp; | &nbsp; Voimassa 22.9.2026 alkaen
 
-- [1. Lennätyspaikan käyttöoikeus](#1-lennätyspaikan-käyttöoikeus)
-- [2. Lennättämiseen käytettävä ilmatila](#2-lennättämiseen-käytettävä-ilmatila)
-- [3. Lennätysajat](#3-lennätysajat)
-- [4. Lennättäjän vastuu](#4-lennättäjän-vastuu)
-- [5. Toiminta kentällä](#5-toiminta-kentällä)
-- [6. Sääntörikkomus](#6-sääntörikkomus)
-- [7. Kentällä sallitut lennokit](#7-kentällä-sallitut-lennokit)
-- [8. Helikoptereiden ja multikoptereiden lennättäminen](#8-helikoptereiden-ja-multikoptereiden-lennättäminen)
-- [9. Toiminta poikkeustilanteissa](#9-toiminta-poikkeustilanteissa)
+### Soveltamisala
 
-### 1. Lennätyspaikan käyttöoikeus
+Kenttä on Traficomin ilmailumääräyksen OPS M1-29 liitteen 3 kohdan a) ”Lennokkien lennätyspaikat (Suomen Ilmailuliitto ry)” mukainen salliva UAS-ilmatilavyöhyke ”Helsinki – Talosaarentien lennokkikenttä UAS”, jonka toimija on Vallilan lennokkikerho ry.
 
-- **a)** Kaikki VLK:n jäsenmaksunsa maksaneet ja droneoperaattoreiksi tai lennättäjiksi Traficomin rekisteröimät jäsenet. Kamerattomien, alle 250 g painavien lennokkien lennättäjiltä ei vaadita rekisteröitymistä, mutta VLK suosittelee sitä.
-- **b)** Puolustusvoimien, poliisin ja pelastuspalvelun operaattorit virkatehtävien suorittamiseen tähtäävissä lennätysharjoituksissa, sovitusti VLK:n kanssa.
-- **c)** VLK:n kutsumat ulkopuoliset lennättäjävieraat edellyttäen, että he ovat joko itse operaattoreiksi rekisteröityneitä tai lennättävät VLK:n rekisteröidyn jäsenen vastuulla ja operaattorinumerolla esim. kilpailuissa, koulutuksissa, harjoituksissa tai muissa tapahtumissa.
-- **d)** Yhdistykseen kuulumattomat, erillisen viikoittaisen tai vuosittaisen kenttämaksun maksaneet ja Traficomille droneoperaattoriksi rekisteröityneet sekä nettitentin hyväksytysti suorittaneet harrastajat. Lisätietoa kenttämaksuista: [https://vallilanlennokkikerho.fi](https://vallilanlennokkikerho.fi)
-- **e)** Yhdistykseen liittymistä harkitsevat harrastajat voivat käydä joitain kertoja omatoimisesti tutustumassa kenttään ja lennättää siellä. He ovat velvoitettuja rekisteröitymään tai toimivat rekisteröityneen operaattorin alaisuudessa, ja ovat tietoisia näistä kenttäsäännöistä ja toimivat niiden mukaan. Jäsenyys on ennen pitkää kuitenkin suositeltavaa. Kaikilta muilta lennättäjiltä Talosaarentien lennokkikentän käyttö lennokkitoimintaan on turvallisuus- ja vastuusyistä **KIELLETTY**.
+Kentällä sovelletaan liitteen 3 kohdan a) mukaisia vapautuksia komission täytäntöönpanoasetuksen (EU) 2019/947 avoimen kategorian vaatimuksista. Vapautukset ovat voimassa ainoastaan Vallilan lennokkikerho ry:n omassa toiminnassa, Suomen Ilmailuliitto ry:n toimintamallien ja näiden kenttäsääntöjen mukaisesti sekä vyöhykkeen alueella lennätettäessä.
 
-### 2. Lennättämiseen käytettävä ilmatila
+Muiden toiminta vyöhykkeellä on sallittua noudattaen avoimen kategorian tavanomaisia ehtoja ja rajoituksia.
 
-Talosaarentien lennokkikenttä on EASA (EU) 2019/947 artikla 15:n 2. kohdan mukaisen sallivan UAS-ilmatilavyöhykkeen käyttöä varten määritelty lennätyskenttä, jonka vahvistaa Traficomin ilmailumääräys OPS M1-29 ja jota VLK hallinnoi näillä kenttäsäännöillä sekä niiden valvonnalla. Lennätystoiminnassa on huomioitava ilmailu- ja muiden viranomaismääräysten sekä lakien asettamat velvoitteet.
+### 1. Kentän käyttöoikeus
 
-Salliva UAS-ilmatilavyöhyke tarjoaa erikseen määriteltyjä vapauksia komission täytäntöönpanoasetuksen mukaisesta UAS-kategoriasta “avoin”, mutta vain kun toiminta on kenttäsääntöjen alaista ja lennätys tapahtuu lennokkikentältä käsin (kts. kenttäkartta). Määritellyn lennätysalueen ulkopuolella lennätettäessä salliva UAS-ilmatilavyöhyke ei ole voimassa ja lennätystoiminnassa on noudatettava UAS-kategorian ”avoin” sääntöjä.
+- Kenttää saavat käyttää Vallilan lennokkikerho ry:n (VLK) jäsenet. Lisäksi kenttää saavat käyttää:
+  - Puolustusvoimien, poliisin ja pelastustoimen toimijat virkatehtäviin liittyvissä lennätysharjoituksissa, kun käytöstä on sovittu VLK:n kanssa.
+  - VLK:n kutsumat vierailevat lennättäjät kilpailuissa, koulutuksissa, harjoituksissa ja muissa tapahtumissa.
+  - Yhdistykseen kuulumattomat harrastajat, jotka VLK on erikseen hyväksynyt ja jotka maksavat kenttämaksun (kenttämaksut: vallilanlennokkikerho.fi).
+  - Yhdistykseen liittymistä harkitsevat harrastajat, joille VLK on antanut luvan tutustua kenttään ja lennättää muutaman kerran.
+- Jokaisella lennättäjällä on oltava voimassa oleva kolmannen osapuolen vastuuvakuutus.
+- Jokainen lennättäjä on velvollinen perehtymään näihin sääntöihin ennen lennättämistä kentällä.
+- Sääntöjen rikkominen voi johtaa lennätyskieltoon tai kentän käyttöoikeuden menettämiseen. Seuraamuksista päättää Vallilan lennokkikerho ry.
+- Lennätystoiminnassa ei ole ikärajaa eikä avoimen kategorian tutkintovaatimuksia (A1/A3, A2).
 
-Suurin sallittu lennätyskorkeus on EFHK CTR SOUTH -alueen sisäpuolella on 700FT MSL (212 m) sekä ko. alueen ulkopuolella 1300FT MSL (396 m).
+### 2. Lennokit ja radiolaitteet
 
-### 3. Lennätysajat
+- Suurin sallittu lentoonlähtöpaino on 15 kg.
+- Lennokki merkitään droneoperaattoritunnuksella määräysten mukaisesti. Lisäksi on suositeltavaa merkitä lennokkiin oma nimi ja puhelinnumero.
+- Lennättäjä vastaa siitä, että kalusto on asianmukaisesti rakennettu, huollettu ja toimintakunnossa.
+- Vain EU:ssa hyväksyttyjä radiolaitteita saa käyttää Suomessa sallituilla taajuuksilla ja lähetystehoilla. Videolähetintä ei saa kytkeä päälle, jos FPV-laitteita on ilmassa.
 
-Polttomoottorilennokkien lennätys on sallittu joka päivä klo 08:00-22:00 välisenä aikana. Muilla kuin polttomoottorilennokeilla voidaan lennättää kaikkina vuorokauden aikoina. Polttomoottorilla varustettua lennokkia lennätettäessä on käytettävä tehokasta äänenvaimennusta, mikäli se on teknisesti mahdollista ja moottorin rakenteeseen suunniteltu. Kilpailujen ja muiden tapahtumien aikana kentän käyttö on muulta kuin tapahtumaan liittyvältä lennätystoiminnalta suljettu.
+### 3. Lennätysalue ja lentokorkeus
 
-### 4. Lennättäjän vastuu
+- Lennätys vain liitteen 1 kartan mukaisella alueella.
+- Varikko- ja pysäköintialueen (liite 2) päällä lennättäminen on kielletty.
+- Kartalla punaisella merkityt alueet ovat ehdottomia lennätyskieltoalueita.
+- Suurin sallittu lentokorkeus kartan keltaisella merkityllä alueella (EFHK UAS D, Helsinki-Vantaan lähialue) on 120 m maanpinnasta (AGL).
+- Muualla lennätysalueella suurin sallittu lentokorkeus on 390 m maanpinnasta (AGL).
+- Vyöhykkeen tarkat rajat, korkeus ja erityisehdot on esitetty OPS M1-29 -määräyksen liitteessä 3. EFHK UAS D -vyöhykkeen ehdot on esitetty määräyksen rajoittavia UAS-ilmatilavyöhykkeitä koskevassa liitteessä. Molempia noudatetaan.
 
-Kukin lennättää aina omalla vastuullaan. Lennättäjän on itse huolehdittava, että lennätys voi tapahtua turvallisesti siten, ettei miehitetty lentoliikenne eivätkä maanpinnalla olevat ihmiset tai omaisuus vaarannu.
+### 4. Lennätysajat
 
-**Lennokkien ON KAIKISSA TILANTEISSA VÄISTETTÄVÄ MIEHITETTYJÄ SEKÄ VIRKATEHTÄVISSÄ LENTÄVIÄ MIEHITTÄMÄTTÖMIÄ ILMA-ALUKSIA.**
+- Polttomoottorilennokkien lennätys on sallittu joka päivä klo 8–22. Muilla lennokeilla saa lennättää kaikkina vuorokauden aikoina.
+- Polttomoottorilennokissa on käytettävä tehokasta äänenvaimennusta, jos se on teknisesti mahdollista ja soveltuu moottorin rakenteeseen.
+- Kilpailujen ja muiden tapahtumien aikana kentällä saa lennättää vain tapahtumaan liittyen.
 
-Ilma-aluksia voi lentää lennokkikentän ilmatilassa milloin tahansa, koska salliva UAS-ilmatila ei millään tavalla rajoita muuta ilmailua. Kaikkien kentällä olevien on kuunneltava ja tähystettävä ilmatilaa mahdollisesti lähestyvien ilma-aluksien havaitsemiseksi, ja niitä havaitessaan tiedotettava niistä parhaillaan lennättäville tai starttaaville lennättäjille kuuluvalla äänellä.
+### 5. Lennätystoiminta
 
-VLK suosittelee kaikille jäsenille lennokkityypistä riippumatta rekisteröitymistä, nettitenttiä ja lennokkitoiminnan kattavaa kolmannen osapuolen vastuuvakuutusta. Esim. SIL:n jäsenyyteen sisältyy tällainen vakuutus. Kotivakuutus saattaa myös korvata, mikäli siinä on erikseen mainittu lennokkitoiminta.
+- Lennätys tapahtuu pääsääntöisesti suorassa näköyhteydessä (VLOS).
+- FPV-lennätyksessä on käytettävä tähystäjää, joka pitää lennokin suorassa näköyhteydessä.
+- Poikkeuksena FPV-lennätys ilman tähystäjää on sallittu alle 30 metrin korkeudessa ja enintään noin 200 metrin etäisyydellä kentän nurmialueesta.
+- Yölennätyksissä lennokissa on pidettävä päällä vihreää vilkkuvaa valoa.
+- Lennokit valmistellaan ja huolletaan varikolla. Nurmialueelle ei saa jättää välineitä, lennokkeja tai niiden osia.
+- Lentoalueella ovat vain lennättäjät ja heidän avustajansa.
+- Lennättäjien on koordinoitava toimintansa keskenään, esimerkiksi sopimalla lennätysvuoroista, lentoalueen käytöstä ja samanaikaisesti ilmassa olevien lennokkien määrästä. Toiminnassa on huomioitava muut lennättäjät ja kentällä olijat.
+- Vallilan lennokkikerho ry:n jäsenillä on etusija kentän käyttöön.
+- Nousut, laskut ja kiitotielle meno ilmoitetaan selvästi ääneen muille lennättäjille.
+- Lennokki väistää aina miehitettyä ilma-alusta riittävän etäälle ja tarvittaessa laskeutuu.
+- Vaarattomien esineiden pudotus (esim. pienoislaskuvarjo) ja pyrotekniikka ovat sallittuja turvallisesti lennätysalueella.
+- Lennättäminen päihteiden vaikutuksen alaisena on ehdottomasti kielletty.
+- Kentällä on kielletty (viranomaistoimintaa lukuun ottamatta):
+  - kaupallinen toiminta
+  - suihkuturbiinilennokit
+  - miehitettyjen ilma-alusten operointi kentän nurmialueella
+- Kukin lennättää omalla vastuullaan ja noudattaa voimassa olevaa lainsäädäntöä, viranomaismääräyksiä sekä Ilmailuliiton ja kerhon ohjeita.
 
-### 5. Toiminta kentällä
+### 6. Poikkeustilanteet
 
-- **a)** Mikäli mahdollista, ota aina mukaasi kaveri, joka voi tarkkailla mm. ilmatilaa, kun lennätät, ja varoittaa sinua ylilentävistä lentokoneista.
-- **b)** Pysäköi autosi aina karttaan merkitylle pysäköintialueelle. Mikäli tarvitset esim. akkujen lataamiseen jatkuvaa auton käynnissä pitämistä tai aggregaattoria, pysäköi autosi sen verran kauemmaksi, ettei toimintasi häiritse muita.
-- **c)** Valmistele lennokkisi lentokuntoon varikkopöydillä tai niiden välittömässä läheisyydessä. Nurmialueen keskelle ei saa viedä mitään starttivälineitä, maalilippuja, polttoainekannuja tai ruuvimeisseleitä yms.
-- **d)** Mikäli paikalla on muita lennokkiharrastajia, sovi heidän kanssaan käytettävistä taajuuksista, lennätysvuoroista ja/tai lentosektoreista sekä mahdollisista FPV-porteista. 35/40 MHz:n laitteilla lennättäessäsi käytä pinnataulua, jos jollain on sellainen mukanaan. VLK:n jäsenellä on etuoikeus lennättää yksin niin halutessaan, joten kerhoon kuulumattomien lennättäjien pitää huomioida tämä.
-- **e)** Ennen starttia varmista aina, että lennokkeja ei ole tulossa laskuun mistään suunnasta. Ilmoita selkeästi: “Nousu”.
-- **f)** Vältä Talosaarentien yllä lentämistä, ettei esim. moottorin sammumisen vuoksi aiheudu vaaratilanteita tiellä liikkujille.
-- **g)** Lennättäminen on ehdottomasti kielletty joen takaisen metsän yllä (kts. lentokieltoalueet) hevostilan läheisyydessä.
-- **h)** Älä lennätä varikkoalueella ihmisten ja autojen yläpuolella.
-- **i)** Mikäli paikalla on muita lennättäjiä, ilmoita laskusta kuuluvalla äänellä: “Lasku”.
-- **j)** Laskeutumisen jälkeen siirrä lennokki mahdollisimman pian varikkopöydille.
-- **k)** Tarkista, että lennokista ei ole jäänyt mitään esineitä nurmelle. Kerää myös katkenneet potkurinlavat yms. esineet pois.
-- **l)** Lennokeista saa pudottaa esineitä, kuten laskuvarjohyppääjiä tai esimerkiksi pommeja tai polttoainetankkeja jäljitteleviä esineitä ainoastaan nurmialueelle. Lennokeissa saa käyttää savuja mutta ei muita pyroteknisiä efektejä.
-- **m)** Ennen lähtöäsi kerää roskat ja vie ne mukanasi sekä varmista, ettei maastopalon vaaraa ole.
-- **n)** Lennättäminen päihteiden vaikutuksen alaisena on ehdottomasti kielletty.
+#### HÄTÄTILANTEESSA SOITA 112
 
-### 6. Sääntörikkomus
+- Sijainti: Talosaarentie 108, 00890 Helsinki. Koordinaatit: 60°14′36″N 25°10′42″E
+- Vaaratilanteet, onnettomuudet ja sääntörikkomukset ilmoitetaan sähköpostilla osoitteeseen vallilanlennokkikerho@gmail.com.
+- Jos tapahtumassa on loukkaantunut vakavasti henkilö tai osallisena on miehitetty ilma-alus, lennättäjän on tehtävä lentoturvallisuusilmoitus Traficomille ja ilmoitettava Onnettomuustutkintakeskukselle (+358 50 5 112 112).
 
-Sääntöjen rikkomisesta tai noudattamatta jättämisestä voidaan langettaa esim. lennätyskielto tai kentän käyttöoikeuden menetys.
+### 7. Siisteys ja kulku kentälle
 
-### 7. Kentällä sallitut lennokit
+- Roskaaminen on kielletty. Kenttäalueelle ei saa jättää mitään, ja varikko- ja pysäköintialue on pidettävä siistinä.
+- Lennättäjän on varmistettava, että vaurioituneen tai rikkoutuneen lennokin kaikki osat kerätään pois kenttäalueelta ja sen ympäristöstä.
+- Ajoneuvot pysäköidään liitteen 2 kartan mukaiselle pysäköintialueelle.
 
-Talosaarentien lennokkikentällä saa lennättää kaikentyyppisiä lennokkeja melurajoitukset ja lennätysajat huomioiden aina 25 kg:n lentopainoon saakka. Lennättäjä vastaa lennokin olevan turvallisesti rakennettu ja että turvalliseen lennättämiseen tähtäävä päivätarkastus ja lentojen väliset tarkastukset on tehty. Kaiken lennättämisen on tapahuttava näköyhteydellä. [FPV-lennätys](/aloittelijan-opas/mitä-on-fpv/) yli 30 m:n korkeuksilla vaatii kauko-ohjaajaa tukevaa tähystäjää. Näköyhteyden ulkopuolella tapahtuva lennätys (BVLOS) on kielletty. Yli 250 g:n painoisiin sekä kevyempiin kamerallisiin lennokkeihin on merkittävä droneoperaattorin rekisteritunnus, oma nimi sekä puhelinnumero.
+### 8. Lisätiedot
 
-**Yli 25 kg:n lennokit on KIELLETTY**  
-**Suihkuturbiinilennokit on KIELLETTY**  
-**Miehitetty ilmailu on KIELLETTY**  
-**Kaupallinen toiminta on KIELLETTY**
-
-### 8. Helikoptereiden ja multikoptereiden lennättäminen
-
-- **a)** Lennätyspaikan ja -alueen käyttö: Helikoptereiden ja multikoptereiden lennättäminen on sallittua samoilla alueilla ja ilmatilan korkeuksilla kuin kiinteäsiipisten lennokkien. Lennättäjän tulee erityisesti huomioida ympäröivä alue sekä muut lennättäjät, jotta lennätys on sujuvaa ja turvallista.
-- **b)** Lennättäminen muiden lentolaitteiden ja henkilöiden läheisyydessä: Helikoptereita ja multikoptereita lennätettäessä on tärkeää varmistaa, että laitteita lennätetään riittävän kaukana muista lentolaitteista ja ihmisistä, jotta kaikilla on mukavaa ja turvallista. Näiden laitteiden lennätys voi olla hyvin dynaamista, ja siksi niitä on hyvä lennättää etäällä tiiviistä lennätyspaikoista. Sovi aina muiden paikalla olijoiden kanssa käytettävästä ilmatilasta.
-- **c)** FPV-lennätys ja automaattiset lentotilat: FPV-lennätys (ensimmäisen persoonan näkymä) multikoptereilla ja helikoptereilla on sallittua, kun lennättäjällä on tähystäjä, joka pitää näköyhteyttä laitteeseen. FPV-lennätys ilman tähystäjää on sallittu vain alle 30 metrin korkeudessa.
-- **d)** Lähettäminen varikkopöydältä: Multikoptereiden lähettäminen lentoon varikkopöydältä on sallittua, kun se sopii muille paikalla oleville lennättäjille.
-
-### 9. Toiminta poikkeustilanteissa
-
-Onnettomuustilanteissa soita hätänumeroon 112 ja opasta pelastajat paikalle. Suosittelemme 112 Suomi-sovellusta puhelimeen. Osoite on Talosaarentien lennokkikenttä, Talosaarentie 108, 00890 HELSINKI. GPS-koordinaatit: 601437N 0251042E. Anna tarvittaessa ensiapua. Ensiapukurssin suorittamista suositellaan. Onnettomuuksista, vakavista vaaratilanteista ja poikkeamista ilmoitetaan Traficomille sekä SIL:n miehittämättömän ilmailun toimikunnalle (MIT).
-
-**Helsinki 14.03.2025 Vallilan Lennokkikerho r.y:n hallitus**
-
-**Sallittu lennätyssektori sekä -kieltoalueet:**
+- Lisätietoja kentän käytöstä ja säännöistä: vallilanlennokkikerho@gmail.com
+- [Ilmailumääräys OPS M1-29 liitteineen](https://www.finlex.fi/fi/viranomaiset/maarayskokoelmat/traficom-lentoliikenne/2026/5)
+- [Avoimen kategorian säännöt (Traficom)](https://traficom.fi/fi/miehittamaton-ilmailu/avoin-kategoria)
+- [Komission täytäntöönpanoasetus (EU) 2019/947](https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:32019R0947)
+- [Yleiset lennokkitoiminnan ohjeet](https://www.lennokkimaarays.fi)
 
 <div class="image-container">
-<img src="/images/kieltoalue.png" alt="lentokieltoalue"/>
-Lentokieltoalueet
-<img src="/images/parkki.jpg" alt="pysäköinti"/>
-<img src="/images/natura-alue.jpg" alt="natura alue suojavyöhykkeineen"/>
-Natura suoja-alue 100m
-<img src="/images/lennokkikuvia/lennokkikenttä-3.jpg" alt="dronekuvaa kentältä" />
+  <h3>LIITE 1: Lennätysalue, kieltoalueet ja lentokorkeudet</h3>
+  <img src="/images/kieltoalue.jpg" alt="lentokieltoalue Talosaari">
+  <ul>
+    <li>Punainen alue: ehdoton lennätyskieltoalue.</li>
+    <li>Keltainen/oranssi alue (EFHK UAS D): suurin lentokorkeus 120 m maanpinnasta (AGL).</li>
+    <li>Muu alue: suurin lentokorkeus 390 m maanpinnasta (AGL).</li>
+  </ul>
+
+  <h3>LIITE 2: Pysäköinti- ja varikkoalue</h3>
+  <img src="/images/parkki.jpg" alt="pysäköinti Talosaari lennokkikenttä">
+  <ul>
+    <li>Keltainen alue: pysäköinti.</li>
+    <li>Punaisella rajattu alue: varikko.</li>
+    <li>Pysäköinti- ja varikkoalueen päällä lennättäminen on kielletty.</li>
+  </ul>
+
+  <img src="/images/lennokkikuvia/lennokkikenttä-1.jpg" alt="ilmakuva lennokkikentältä">
 </div>
 
-[Talosaarentien_lennokkikentän_kenttäsäännöt_v1.2.pdf](/images/Talosaarentien_lennokkikentän_kenttäsäännöt_v1.2.pdf)
-
+[Talosaarentien_lennokkikenttä_UAS_v1.3.pdf](/images/Talosaarentien_lennokkikenttä_UAS_v1.3.pdf)
 {% include ohjeet.html %}
